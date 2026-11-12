@@ -1,6 +1,12 @@
 {
- "built": "2026-11-12T11:13",
+ "built": "2026-11-12T11:16",
  "weakMatches": [
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC One HD · tv24.co.uk",
+   "score": 84,
+   "auto": true
+  },
   {
    "ch": "US| KTLA LOS ANGELES HD",
    "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
@@ -894,12 +900,6 @@
    "src": "WSYX-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 4 PITTSBURGH PA (WTAE)",
-   "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1246,6 +1246,11 @@
    "src": "tv24.co.uk"
   },
   {
+   "ch": "UK| SKY SPORTS BOX OFFICE HD",
+   "hours": 6,
+   "src": "tv24.co.uk"
+  },
+  {
    "ch": "US| PBS HD",
    "hours": 7,
    "src": "tvinsider.com"
@@ -1267,39 +1272,45 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1400,
+   "+0000": 1409,
    "-0500": 30
   },
   "sky.com": {
    "+0000": 264
   },
   "tvinsider.com": {
-   "+0000": 46
+   "+0000": 72
   },
   "tv24.co.uk": {
-   "+0000": 46
+   "+0000": 54
+  },
+  "mytelly.co.uk": {
+   "+0000": 11
   },
   "freeview.co.uk": {
    "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 2
+   "+0000": 4
   },
   "player.ee.co.uk": {
    "+0000": 5
   },
   "dazn.com": {
    "+0000": 9
+  },
+  "directv.com": {
+   "+0000": 3
   }
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 10:45 Dashcam Justice",
    "Thu 11:15 Homes Under the Hammer",
    "Thu 11:15 Homes Under the Hammer",
    "Thu 12:15 Bargain Hunt",
    "Thu 13:00 BBC News at One including BBC London News",
-   "Thu 14:00 Money for Nothing"
+   "Thu 14:00 Money for Nothing",
+   "Thu 14:45 Escape to the Country"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
    "Thu 10:00 This Morning",
@@ -1374,12 +1385,12 @@
    "Thu 16:00 Rick Stein&apos;s Long Weekends"
   ]
  },
- "doubleEscaped": 1333,
+ "doubleEscaped": 1342,
  "counts": {
-  "weakMatches": 1090,
+  "weakMatches": 1100,
   "sharedIds": 41,
   "stale": 0,
-  "gaps": 4,
+  "gaps": 5,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
