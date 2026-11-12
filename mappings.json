@@ -5,6 +5,10 @@
    "src": "epgshare01.online|en|US2#3ABN.International.Network.us2",
    "auto": true
   },
+  "4Music.uk": {
+   "src": "tv24.co.uk|en|box-hits",
+   "auto": true
+  },
   "5Action.uk": {
    "src": "sky.com|en|GB#1036",
    "auto": true
@@ -87,6 +91,10 @@
   },
   "BabyTV.uk": {
    "src": "sky.com|en|GB#3645",
+   "auto": true
+  },
+  "BABYUS Baby TV US": {
+   "src": "directv.com|en|e68a9f77-7585-4b8a-a365-efffe5531d25",
    "auto": true
   },
   "BBC1.uk": {
@@ -273,6 +281,10 @@
    "src": "directv.com|en|95622e62-7b62-4eea-bf32-691abc764c77",
    "auto": true
   },
+  "CITV.uk": {
+   "src": "epgshare01.online|en|UK1#CITV.uk",
+   "auto": true
+  },
   "CleoTV.us": {
    "src": "epgshare01.online|en|US2#Cleo.TV.HD.us2",
    "auto": true
@@ -393,6 +405,10 @@
    "src": "sky.com|en|GB#1637",
    "auto": true
   },
+  "EarthX.uk": {
+   "src": "epgshare01.online|en|UK1#EarthxTV.HD.uk",
+   "auto": true
+  },
   "Eden.uk": {
    "src": "sky.com|en|GB#2302",
    "auto": true
@@ -419,6 +435,14 @@
   },
   "EuroNews.uk": {
    "src": "sky.com|en|GB#4604",
+   "auto": true
+  },
+  "Eurosport 2 HD.uk": {
+   "src": "tv24.co.uk|en|eurosport-2",
+   "auto": true
+  },
+  "Eurosport.1.HD.uk": {
+   "src": "tv24.co.uk|en|eurosport-1",
    "auto": true
   },
   "FaithTV.us": {
@@ -3633,6 +3657,10 @@
    "src": "tvinsider.com|en|military-history",
    "auto": true
   },
+  "MLB Strike Zone - MLBSZ1": {
+   "src": "directv.com|en|23d4fb04-2b56-4a9e-9066-47022a5e164f",
+   "auto": true
+  },
   "MLBNetwork.us": {
    "src": "epgshare01.online|en|US2#MLB.Network.HD.us2",
    "auto": true
@@ -3661,12 +3689,28 @@
    "src": "directv.com|en|4ec976b6-089d-45b5-ab45-89a88778f27e",
    "auto": true
   },
+  "MTVBase.uk": {
+   "src": "virgintvgo.virginmedia.com|en|258",
+   "auto": true
+  },
+  "MTVClassic.uk": {
+   "src": "virgintvgo.virginmedia.com|en|2090",
+   "auto": true
+  },
   "MTVClassic.us": {
    "src": "epgshare01.online|en|US2#MTV.Classic.us2",
    "auto": true
   },
+  "MTVHits.uk": {
+   "src": "tv24.co.uk|en|mtv-hits",
+   "auto": true
+  },
   "MTVLive.us": {
    "src": "epgshare01.online|en|US2#MTVLIVE.us2",
+   "auto": true
+  },
+  "MTVMusic.uk": {
+   "src": "tv24.co.uk|en|mtv-music",
    "auto": true
   },
   "MUTV.uk": {
@@ -3674,8 +3718,7 @@
    "auto": true
   },
   "name:##### NEWS SD / FHD #####": {
-   "src": "sky.com|en|GB#1196",
-   "auto": true
+   "src": null
   },
   "name:4K| SKY SPORTS F1 UHD": {
    "src": "sky.com|en|GB#7202",
@@ -3803,6 +3846,10 @@
   },
   "name:EN| PITCH PERFECT 4K": {
    "src": "sky.com|en|GB#4033",
+   "auto": true
+  },
+  "name:ES| LALIGATV HYPERMOTION": {
+   "src": "dazn.com|es|es#1o8qrrfzjsf0r1gh6jmd74rbi2",
    "auto": true
   },
   "name:FL| EUROSPORT 1 HD": {
@@ -4363,6 +4410,10 @@
   },
   "name:TV| CHEDDAR NEWS ᴿᴬᵂ": {
    "src": "directv.com|en|95622e62-7b62-4eea-bf32-691abc764c77",
+   "auto": true
+  },
+  "name:TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ": {
+   "src": "directv.com|en|2fa52b7a-1118-4922-9e38-662df44f5225",
    "auto": true
   },
   "name:TV| CHICAGO SPORTS NETWORK ᴿᴬᵂ": {
@@ -5243,6 +5294,10 @@
    "src": "directv.com|en|8e4f3326-9bf2-46df-a128-92df7f3e8919",
    "auto": true
   },
+  "name:TV| MASN2 ᴿᴬᵂ": {
+   "src": "directv.com|en|fd7bb93b-6935-4eb7-bf9f-e7b7546f60b7",
+   "auto": true
+  },
   "name:TV| MEATEATER ᴿᴬᵂ": {
    "src": "directv.com|en|77cf4af2-7b83-4838-a30a-c7be89f60fa2",
    "auto": true
@@ -5269,6 +5324,10 @@
   },
   "name:TV| MLB NETWORK ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#MLB.Network.HD.us2",
+   "auto": true
+  },
+  "name:TV| MLB STRIKE ZONE ᴿᴬᵂ": {
+   "src": "directv.com|en|23d4fb04-2b56-4a9e-9066-47022a5e164f",
    "auto": true
   },
   "name:TV| MODERN MARVELS ᴿᴬᵂ": {
@@ -6267,6 +6326,18 @@
    "src": "tv24.co.uk|en|bbc-red-button-3",
    "auto": true
   },
+  "name:UK-BBCI| BBC RED BUTTON 4": {
+   "src": "tv24.co.uk|en|bbc-red-button-4",
+   "auto": true
+  },
+  "name:UK-BBCI| BBC RED BUTTON 5": {
+   "src": "tv24.co.uk|en|bbc-red-button-5",
+   "auto": true
+  },
+  "name:UK-BBCI| BBC RED BUTTON 6": {
+   "src": "tv24.co.uk|en|bbc-red-button-6",
+   "auto": true
+  },
   "name:UK-BBCI| BBC SCOTLAND": {
    "src": "sky.com|en|GB#1138",
    "auto": true
@@ -6480,6 +6551,14 @@
    "src": "sky.com|en|GB#1169",
    "auto": true
   },
+  "name:UK| I24NEWS EN": {
+   "src": "tv24.co.uk|en|i24-news",
+   "auto": true
+  },
+  "name:UK| ITV 1 WEST COUNTRY WEST FHD": {
+   "src": "tv24.co.uk|en|itv1-westcountry",
+   "auto": true
+  },
   "name:UK| ITV 2 ᴴᴰ": {
    "src": "sky.com|en|GB#6532",
    "auto": true
@@ -6521,9 +6600,21 @@
    "offset": 1,
    "auto": true
   },
+  "name:UK| MTV 90S": {
+   "src": "tv24.co.uk|en|mtv-base",
+   "auto": true
+  },
+  "name:UK| MTV XMAS": {
+   "src": "mytelly.co.uk|en|63/mtv-xmas",
+   "auto": true
+  },
   "name:UK| NAT GEO +1": {
    "src": "sky.com|en|GB#4031",
    "offset": 1,
+   "auto": true
+  },
+  "name:UK| NBC NEWS NOW FHD": {
+   "src": "epgshare01.online|en|UK1#NBCNewsNowHD.uk",
    "auto": true
   },
   "name:UK| NHK WORLD FHD": {
@@ -6538,12 +6629,20 @@
    "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
    "auto": true
   },
+  "name:UK| PTV GLOBAL": {
+   "src": "epgshare01.online|en|UK1#PTV.Global.uk",
+   "auto": true
+  },
   "name:UK| RT UK HD": {
    "src": "tv24.co.uk|en|rt-hd",
    "auto": true
   },
   "name:UK| RTE 1 HEVC FHD": {
    "src": "sky.com|en|GB#2816",
+   "auto": true
+  },
+  "name:UK| RTE JR": {
+   "src": "mytelly.co.uk|en|1649/rte-jr",
    "auto": true
   },
   "name:UK| RTE NEWS NOW": {
@@ -6641,6 +6740,10 @@
   },
   "name:UK| TRUE CRIME XTRA": {
    "src": "epgshare01.online|en|UK1#True.Crime.Xtra.uk",
+   "auto": true
+  },
+  "name:UK| VIAPLAY XTRA HD": {
+   "src": "tv24.co.uk|en|free-sports",
    "auto": true
   },
   "name:UK| VIRGIN 1 HEVC FHD": {
@@ -7295,6 +7398,10 @@
    "src": "epgshare01.online|en|US2#NBC.Sports.California.SAT.us2",
    "auto": true
   },
+  "NBCSportsChicago.us": {
+   "src": "tvinsider.com|en|nbc-sports-chicago",
+   "auto": true
+  },
   "NBCWEAU.us": {
    "src": "epgshare01.online|en|US_LOCALS1#WQOW-DT.us_locals1",
    "auto": true
@@ -7499,6 +7606,12 @@
    "src": "epgshare01.online|en|UK1#Sky.Drama.HD.uk",
    "auto": true
   },
+  "Sky.Sports.Ultra.HD.1.uk": {
+   "src": "epgshare01.online|en|UK1#Sky.Sports.Ultra.HD.1.uk"
+  },
+  "Sky.Sports.Ultra.HD.2.uk": {
+   "src": "epgshare01.online|en|UK1#Sky.Sports.Ultra.HD.2.uk"
+  },
   "SkyAction.uk": {
    "src": "epgshare01.online|en|UK1#Sky.Action.uk",
    "auto": true
@@ -7577,6 +7690,14 @@
   },
   "SkyPremiere.uk": {
    "src": "sky.com|en|GB#4021",
+   "auto": true
+  },
+  "SkyReplay.uk": {
+   "src": "epgshare01.online|en|UK1#Sky.Replay.uk",
+   "auto": true
+  },
+  "SkyShowcase.uk": {
+   "src": "mytelly.co.uk|en|222/sky-showcase",
    "auto": true
   },
   "SkySportsAction.uk": {
@@ -7671,8 +7792,16 @@
    "src": "sky.com|en|GB#5252",
    "auto": true
   },
+  "TalkTV.uk": {
+   "src": "freeview.co.uk|en|64257#16406",
+   "auto": true
+  },
   "Tastemade.us": {
    "src": "epgshare01.online|en|US2#Tastemade.us2",
+   "auto": true
+  },
+  "TCM.uk": {
+   "src": "tv24.co.uk|en|turner-classic-movies",
    "auto": true
   },
   "TennisChannel.us": {
@@ -7887,12 +8016,24 @@
    "src": "tv24.co.uk|en|discovery-turbo-1",
    "auto": true
   },
+  "uk.Disney Chnl": {
+   "src": "tv24.co.uk|en|disney-channel-2",
+   "auto": true
+  },
   "uk.E4+1": {
    "src": "sky.com|en|GB#3300",
    "auto": true
   },
   "uk.Euronews": {
    "src": "sky.com|en|GB#4604",
+   "auto": true
+  },
+  "uk.Eurosport 1": {
+   "src": "tv24.co.uk|en|eurosport-1",
+   "auto": true
+  },
+  "uk.Eurosport 2 HD": {
+   "src": "tv24.co.uk|en|eurosport-2",
    "auto": true
   },
   "uk.GOLD HD": {
@@ -7908,8 +8049,16 @@
    "offset": 1,
    "auto": true
   },
+  "uk.ITV Granada": {
+   "src": "tv24.co.uk|en|itv-granada-hd",
+   "auto": true
+  },
   "uk.MTV HD": {
    "src": "sky.com|en|GB#2516",
+   "auto": true
+  },
+  "uk.MTV Live HD": {
+   "src": "tv24.co.uk|en|mtvive-hd-1-l",
    "auto": true
   },
   "uk.QVC Beauty": {
@@ -7935,6 +8084,9 @@
   "uk.Sky News": {
    "src": "sky.com|en|GB#4054",
    "auto": true
+  },
+  "uk.Sky Sports Main Event": {
+   "src": "sky.com|en|GB#1701"
   },
   "uk.Sky Sports Premier League": {
    "src": "sky.com|en|GB#1010",
