@@ -1,7 +1,7 @@
 {
- "built": "2026-11-12T09:03",
+ "built": "2026-11-12T10:27",
  "channels": 2086,
- "programmes": 186031,
+ "programmes": 184427,
  "noListings": 1,
  "withLogo": 1697,
  "bySite": {
@@ -119,27 +119,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 181
+    "programmes": 182
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 144
+    "programmes": 145
    },
    "UK1": {
     "channels": 38,
     "withListings": 38,
-    "programmes": 2425
+    "programmes": 2394
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18584
+    "programmes": 18334
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 83187
+    "programmes": 82181
    },
    "US_SPORTS1": {
     "channels": 22,
