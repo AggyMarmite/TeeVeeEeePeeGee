@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T15:27",
+ "built": "2026-11-12T16:29",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1259,7 +1259,7 @@
  "overlaps": [
   {
    "ch": "UK-NOWTV| SKY SPORTS NEWS HQ FHD",
-   "overlaps": 5,
+   "overlaps": 4,
    "src": "sky.com"
   }
  ],
@@ -1311,28 +1311,28 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 14:45 Escape to the Country",
    "Thu 15:45 The Bidding Room",
    "Thu 16:30 Bridge of Lies",
    "Thu 17:15 Pointless",
    "Thu 18:00 BBC News",
-   "Thu 18:30 BBC London News"
+   "Thu 18:30 BBC London News",
+   "Thu 19:00 The One Show"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 15:00 New: Lingo",
    "Thu 16:00 New: Deal or No Deal",
    "Thu 17:00 The Chase",
    "Thu 18:00 ITV News Tyne Tees",
    "Thu 18:30 ITV Evening News",
-   "Thu 19:00 England v Croatia: UEFA Nations League"
+   "Thu 19:00 England v Croatia: UEFA Nations League",
+   "Thu 22:00 ITV News at Ten"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 13:00 Live PGA Tour Featured Groups",
    "Thu 16:00 Live LPGA Tour Golf",
    "Thu 19:00 Live PGA Tour Golf",
    "Thu 19:30 Live WTA Finals: Kostyuk v Gauff",
    "Thu 22:00 Live WTA Finals: Pegula v Noskova",
-   "Fri 00:00 Live: NFL Commanders @ Giants"
+   "Fri 00:00 Live: NFL Commanders @ Giants",
+   "Fri 05:15 Sky Sports News"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
    "Thu 14:30 Sao Paulo F1 Grand Prix",
@@ -1343,12 +1343,12 @@
    "Thu 20:00 Mexico City F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 15:00 Today With Jenna & Sheinelle",
    "Thu 16:00 Live: News 4 NY at 11AM",
    "Thu 16:30 New York Live",
    "Thu 17:00 NBC News Daily",
    "Thu 18:00 Dateline",
-   "Thu 19:00 NBC News Daily"
+   "Thu 19:00 NBC News Daily",
+   "Thu 20:00 Live: News Zone"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
    "Thu 15:00 Live: First Take",
@@ -1359,12 +1359,12 @@
    "Thu 22:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 15:00 Live: The Situation Room",
    "Thu 16:00 Live: The Situation Room",
    "Thu 17:00 Live: Inside Politics With Dana Bash",
    "Thu 18:00 Live: CNN News Central",
    "Thu 19:00 Live: CNN News Central",
-   "Thu 20:00 Live: CNN News Central"
+   "Thu 20:00 Live: CNN News Central",
+   "Thu 21:00 Live: The Arena With Kasie Hunt"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
    "Thu 15:00 KTLA 5 Morning News at 7",
@@ -1375,20 +1375,20 @@
    "Thu 21:00 KTLA 5 News at 1"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 15:10 Countdown",
    "Thu 16:00 A Place in the Sun",
    "Thu 17:00 Help! We Bought a Village",
    "Thu 18:00 Four in a Bed",
    "Thu 18:30 Come Dine with Me",
-   "Thu 19:00 New: A Place in the Sun"
+   "Thu 19:00 New: A Place in the Sun",
+   "Thu 20:00 Channel 4 News"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 15:00 How Britain Worked",
    "Thu 16:00 Rick Stein&apos;s Long Weekends",
    "Thu 17:00 Rick Stein&apos;s Long Weekends",
    "Thu 18:00 Hairy Bikers&apos; Best of British",
    "Thu 19:00 Mortimer & Whitehouse: Gone Fishing",
-   "Thu 19:40 Would I Lie To You?"
+   "Thu 19:40 Would I Lie To You?",
+   "Thu 20:20 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1342,
