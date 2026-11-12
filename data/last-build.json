@@ -1,12 +1,12 @@
 {
- "built": "2026-11-12T08:36",
- "channels": 2080,
- "programmes": 187010,
+ "built": "2026-11-12T08:41",
+ "channels": 2082,
+ "programmes": 187012,
  "noListings": 0,
- "withLogo": 1692,
+ "withLogo": 1694,
  "bySite": {
   "epgshare01.online": [
-   1422,
+   1424,
    0
   ],
   "sky.com": [
@@ -127,14 +127,14 @@
     "programmes": 143
    },
    "UK1": {
-    "channels": 36,
-    "withListings": 36,
-    "programmes": 2404
+    "channels": 38,
+    "withListings": 38,
+    "programmes": 2436
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18732
+    "programmes": 18726
    },
    "US_LOCALS1": {
     "channels": 861,

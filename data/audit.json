@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T08:36",
+ "built": "2026-11-12T08:41",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1168,6 +1168,13 @@
    ]
   },
   {
+   "tvgId": "uk.Sky Sports Main Event",
+   "names": [
+    "4K| SKY SPORTS MAIN EVENTS UHD",
+    "4K| SKY SPORTS UHD [EVENT]"
+   ]
+  },
+  {
    "tvgId": "UK| ITV 1",
    "names": [
     "UK| ITV 1 +1",
@@ -1262,7 +1269,7 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1392,
+   "+0000": 1394,
    "-0500": 30
   },
   "sky.com": {
@@ -1377,8 +1384,8 @@
  },
  "doubleEscaped": 1317,
  "counts": {
-  "weakMatches": 1071,
-  "sharedIds": 39,
+  "weakMatches": 1074,
+  "sharedIds": 40,
   "stale": 0,
   "gaps": 6,
   "overlaps": 0,
