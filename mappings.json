@@ -6005,8 +6005,16 @@
    "src": "tvinsider.com|en|adult-swim",
    "auto": true
   },
+  "name:US| ALTITUDE SPORTS 2 HD": {
+   "src": "epgshare01.online|en|US2#Altitude.Sports.2.HD.us2",
+   "auto": true
+  },
   "name:US| BYU TV": {
    "src": "epgshare01.online|en|US2#BYU-TV.us2",
+   "auto": true
+  },
+  "name:US| CARTOON NETWORK EAST HD": {
+   "src": "epgshare01.online|en|US2#Cartoon.Network.HD.us2",
    "auto": true
   },
   "name:US| CBS 5 (WABI) BANGOR": {
@@ -6089,6 +6097,10 @@
    "src": "epgshare01.online|en|US2#Marquee.Sports.Network.HD.us2",
    "auto": true
   },
+  "name:US| MAV TV": {
+   "src": "tvinsider.com|en|mavtv",
+   "auto": true
+  },
   "name:US| MAV TV HD": {
    "src": "tvinsider.com|en|mavtv",
    "auto": true
@@ -6117,8 +6129,16 @@
    "src": "epgshare01.online|en|US_LOCALS1#KXAN-DT.us_locals1",
    "auto": true
   },
+  "name:US| NBC SPORTS BOSTON": {
+   "src": "epgshare01.online|en|US2#NBC.Sports.Boston.HD.us2",
+   "auto": true
+  },
   "name:US| NBC SPORTS UHD/4K": {
    "src": "epgshare01.online|en|US2#NBC.Sports.4K.us2",
+   "auto": true
+  },
+  "name:US| NECN HD": {
+   "src": "tvinsider.com|en|necn",
    "auto": true
   },
   "name:US| NEWS 12 NEW JERSEY": {
@@ -6127,6 +6147,10 @@
   },
   "name:US| NEWS 12 WESTCHESTER": {
    "src": "epgshare01.online|en|US2#News.12.Westchester.us2",
+   "auto": true
+  },
+  "name:US| NEXT LEVEL SPORTS HD": {
+   "src": "epgshare01.online|en|US2#Next.Level.Sports.HD.us2",
    "auto": true
   },
   "name:US| PBS (KQED) SAN FRANCISCO": {
@@ -6755,10 +6779,6 @@
   },
   "SECNetwork.us": {
    "src": "epgshare01.online|en|US2#SEC.Network.HD.us2",
-   "auto": true
-  },
-  "Showtime.us": {
-   "src": "tvinsider.com|en|showtime",
    "auto": true
   },
   "Sky.Drama.HD.uk": {
