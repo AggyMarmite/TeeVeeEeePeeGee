@@ -1,5 +1,5 @@
 name: Build guide
-# Rebuilds nightly, whenever matches/channels change, or on demand (Actions → Run workflow)
+# Rebuilds nightly (about 3:20am UK), whenever matches or channels change, or on demand (Actions → Run workflow)
 #
 # Security layout:
 #   channels — the only job that sees your playlist secret; runs no third-party code
