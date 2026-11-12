@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T19:24",
+ "built": "2026-11-12T22:12",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1291,84 +1291,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 19:00 The One Show",
-   "Thu 19:30 EastEnders",
-   "Thu 20:00 MasterChef: The Professionals",
-   "Thu 21:00 Shetland",
    "Thu 22:00 BBC News and Weather",
-   "Thu 22:30 BBC London News"
+   "Thu 22:30 BBC London News",
+   "Thu 22:40 Question Time",
+   "Thu 23:40 Newscast",
+   "Thu 23:40 Newscast",
+   "Fri 00:10 Wisdom of the Crowd"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 19:00 England v Croatia: UEFA Nations League",
    "Thu 22:00 ITV News at Ten",
    "Thu 22:35 ITV News Tyne Tees",
    "Thu 22:45 Laura&apos;s Story: The Stranger in My Bed",
    "Thu 23:45 Millionaire Hot Seat",
-   "Fri 00:15 Shop on TV"
+   "Fri 00:15 Shop on TV",
+   "Fri 03:00 Lingo"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 19:00 Live PGA Tour Golf",
-   "Thu 19:30 Live WTA Finals: Kostyuk v Gauff",
    "Thu 22:00 Live WTA Finals: Pegula v Noskova",
    "Fri 00:00 Live: NFL Commanders @ Giants",
    "Fri 05:15 Sky Sports News",
-   "Fri 06:00 Sky Sports News"
+   "Fri 06:00 Sky Sports News",
+   "Fri 07:00 Live DP World Tour Golf",
+   "Fri 13:00 Live PGA Tour Featured Groups"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 19:00 US F1 GP Highlights",
-   "Thu 20:00 Mexico City F1 GP Highlights",
    "Thu 21:00 Sao Paulo F1 Grand Prix",
    "Thu 23:30 Ted&apos;s Notebook: Sao Paulo",
    "Fri 00:00 Sao Paulo F1 GP Highlights",
-   "Fri 01:00 The Best of Australia 2026"
+   "Fri 01:00 The Best of Australia 2026",
+   "Fri 01:25 The Best of China 2026",
+   "Fri 02:00 The Best of Japan 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 19:00 NBC News Daily",
-   "Thu 20:00 Live: News Zone",
-   "Thu 21:00 Live: News 4 NY at 4",
-   "Thu 21:30 Live: News 4 NY at 4:30",
    "Thu 22:00 Live: News 4 NY at 5",
-   "Thu 22:30 Live: News 4 NY at 5:30"
+   "Thu 22:30 Live: News 4 NY at 5:30",
+   "Thu 23:00 Live: News 4 NY at 6",
+   "Thu 23:30 NBC Nightly News With Tom Llamas",
+   "Fri 00:00 News 4 NY at 7",
+   "Fri 00:30 New York Live Tonight"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 19:00 Live: Big Day With Peter Schrager",
-   "Thu 20:00 Live: NBA Today",
-   "Thu 21:00 NFL Live",
    "Thu 22:00 Live: SportsCenter",
    "Thu 22:30 Live: Pardon the Interruption",
-   "Thu 23:00 Live: SportsCenter"
+   "Thu 23:00 Live: SportsCenter",
+   "Fri 00:00 SportsCenter Special",
+   "Fri 00:30 Live: College Football Countdown",
+   "Fri 01:00 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 19:00 Live: CNN News Central",
-   "Thu 20:00 Live: CNN News Central",
-   "Thu 21:00 Live: The Arena With Kasie Hunt",
    "Thu 22:00 Live: The Lead With Jake Tapper",
    "Thu 23:00 Live: The Lead With Jake Tapper",
-   "Fri 00:00 Live: Erin Burnett OutFront"
+   "Fri 00:00 Live: Erin Burnett OutFront",
+   "Fri 01:00 Live: Anderson Cooper 360",
+   "Fri 02:00 Live: The Source With Kaitlan Collins",
+   "Fri 03:00 Live: CNN NewsNight With Abby Phillip"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 19:00 KTLA 5 Morning News at 11",
-   "Thu 20:00 KTLA 5 News at Noon",
-   "Thu 21:00 KTLA 5 News at 1",
    "Thu 22:00 Off the Clock",
    "Thu 23:00 KTLA 5 News at 3",
-   "Fri 00:00 KTLA 5 News at 4"
+   "Fri 00:00 KTLA 5 News at 4",
+   "Fri 01:00 KTLA 5 News at 5",
+   "Fri 02:00 KTLA 5 News at 6",
+   "Fri 02:30 KTLA 5 News at 6:30"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 19:00 New: A Place in the Sun",
-   "Thu 20:00 Channel 4 News",
-   "Thu 21:00 New: Aldi: The Next Big Seller",
    "Thu 22:00 New: Hunting Alice Bell",
    "Thu 23:00 New: AI: Probably Nothing to...",
-   "Fri 01:30 Pierre"
+   "Fri 01:30 Pierre",
+   "Fri 02:20 Pierre",
+   "Fri 03:15 The Rhythm Section",
+   "Fri 05:05 Unreported World"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 19:00 Mortimer & Whitehouse: Gone Fishing",
-   "Thu 19:40 Would I Lie To You?",
-   "Thu 20:20 Would I Lie To You?",
-   "Thu 21:00 QI XL",
    "Thu 22:00 Have I Got a Bit More News for You",
-   "Thu 23:00 Would I Lie To You?"
+   "Thu 23:00 Would I Lie To You?",
+   "Thu 23:40 Would I Lie To You?",
+   "Fri 00:20 Taskmaster",
+   "Fri 01:20 Mock the Week",
+   "Fri 02:00 The Good Place"
   ]
  },
  "doubleEscaped": 1346,
