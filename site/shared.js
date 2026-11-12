@@ -259,7 +259,7 @@ export function suggest(group, sources, opts = {}) {
 export const AUTO_THRESHOLD = 80
 
 // Groups that never have a real guide (24/7 loops, PPV events, VOD)
-const HEADER = /^\s*[#=*~\-_]{3,}/
+const HEADER = /^\s*([#=*~\-_]{3,}|[-#=*~_★•]+\s[^|]*\s[-#=*~_★•]+(\s|\||$))/ // "#####", "- NO EVENT STREAMING -"
 export function skipMatcher(patterns = []) {
   const res = patterns.map(p => new RegExp(p, 'i'))
   return g =>

@@ -112,6 +112,13 @@ async function load() {
     S.sugCache.clear()
     render()
   } catch (e) {
+    if (S.token && /\b(401|403)\b/.test(e.message)) {
+      // token wrong, expired, deleted or missing access — forget it and show the connect card
+      store.set(LS.token, '')
+      S.token = ''
+      toast("GitHub didn't accept that token — it may be mistyped, expired, or not have access to this repo. Please connect again.", 9000)
+      return load()
+    }
     $('#main').innerHTML = `<div class="card"><h2>Couldn't load</h2><p>${esc(e.message)}</p><button id="retryBtn">Retry</button></div>`
   }
 }
