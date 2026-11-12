@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T11:35",
+ "built": "2026-11-12T13:41",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1256,7 +1256,13 @@
    "src": "tvinsider.com"
   }
  ],
- "overlaps": [],
+ "overlaps": [
+  {
+   "ch": "UK-NOWTV| SKY SPORTS NEWS HQ FHD",
+   "overlaps": 6,
+   "src": "sky.com"
+  }
+ ],
  "badTimes": [
   {
    "ch": "TV| TASTEMADE HOME ᴿᴬᵂ",
@@ -1305,84 +1311,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 11:15 Homes Under the Hammer",
-   "Thu 11:15 Homes Under the Hammer",
-   "Thu 12:15 Bargain Hunt",
    "Thu 13:00 BBC News at One including BBC London News",
    "Thu 14:00 Money for Nothing",
-   "Thu 14:45 Escape to the Country"
+   "Thu 14:45 Escape to the Country",
+   "Thu 15:45 The Bidding Room",
+   "Thu 16:30 Bridge of Lies",
+   "Thu 17:15 Pointless"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 10:00 This Morning",
-   "Thu 12:30 Loose Women",
    "Thu 13:30 ITV Lunchtime News",
    "Thu 13:55 ITV News Tyne Tees",
    "Thu 14:00 New: Dickinson&apos;s Real Deal",
-   "Thu 15:00 New: Lingo"
+   "Thu 15:00 New: Lingo",
+   "Thu 16:00 New: Deal or No Deal",
+   "Thu 17:00 The Chase"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 07:00 Live DP World Tour Golf",
    "Thu 13:00 Live PGA Tour Featured Groups",
    "Thu 16:00 Live LPGA Tour Golf",
    "Thu 19:00 Live PGA Tour Golf",
    "Thu 19:30 Live WTA Finals: Kostyuk v Gauff",
-   "Thu 22:00 Live WTA Finals: Pegula v Noskova"
+   "Thu 22:00 Live WTA Finals: Pegula v Noskova",
+   "Fri 00:00 Live: NFL Commanders @ Giants"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 10:00 Sao Paulo F1 Grand Prix",
-   "Thu 12:30 Ted&apos;s Notebook: Sao Paulo",
    "Thu 13:00 Sao Paulo F1 GP Highlights",
    "Thu 14:00 Ted&apos;s Quali Notebook",
    "Thu 14:30 Sao Paulo F1 Grand Prix",
-   "Thu 17:00 Ted&apos;s Notebook: Sao Paulo"
+   "Thu 17:00 Ted&apos;s Notebook: Sao Paulo",
+   "Thu 17:30 Sao Paulo F1 GP Highlights",
+   "Thu 18:30 Ted&apos;s Notebook: Sao Paulo"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 11:00 Today in New York @ 6AM",
    "Thu 12:00 Today",
    "Thu 14:00 Today 3rd Hour",
    "Thu 15:00 Today With Jenna & Sheinelle",
    "Thu 16:00 Live: News 4 NY at 11AM",
-   "Thu 16:30 New York Live"
+   "Thu 16:30 New York Live",
+   "Thu 17:00 NBC News Daily"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 11:00 SportsCenter",
-   "Thu 12:00 Live: SportsCenter",
    "Thu 13:00 Live: Get Up",
    "Thu 15:00 Live: First Take",
    "Thu 17:00 Live: The Pat McAfee Show",
-   "Thu 19:00 Live: Big Day With Peter Schrager"
+   "Thu 19:00 Live: Big Day With Peter Schrager",
+   "Thu 20:00 Live: NBA Today",
+   "Thu 21:00 NFL Live"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 11:00 Live: CNN This Morning",
-   "Thu 12:00 Live: CNN News Central",
    "Thu 13:00 Live: CNN News Central",
    "Thu 14:00 Live: CNN News Central",
    "Thu 15:00 Live: The Situation Room",
-   "Thu 16:00 Live: The Situation Room"
+   "Thu 16:00 Live: The Situation Room",
+   "Thu 17:00 Live: Inside Politics With Dana Bash",
+   "Thu 18:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 11:30 Judy Justice",
-   "Thu 12:00 KTLA 5 Morning News at 4",
-   "Thu 12:30 KTLA 5 Morning News at 4:30",
    "Thu 13:00 KTLA 5 Morning News at 5",
    "Thu 14:00 KTLA 5 Morning News at 6",
-   "Thu 15:00 KTLA 5 Morning News at 7"
+   "Thu 15:00 KTLA 5 Morning News at 7",
+   "Thu 17:00 KTLA 5 Morning News at 9",
+   "Thu 18:00 KTLA 5 Morning News at 10",
+   "Thu 19:00 KTLA 5 Morning News at 11"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 11:10 Frasier",
-   "Thu 11:40 Frasier",
-   "Thu 12:10 American Pickers",
-   "Thu 13:05 Channel 4 News Summary",
    "Thu 13:10 Renovation Nation",
-   "Thu 14:10 Escape to Florida"
+   "Thu 14:10 Escape to Florida",
+   "Thu 15:10 Countdown",
+   "Thu 16:00 A Place in the Sun",
+   "Thu 17:00 Help! We Bought a Village",
+   "Thu 18:00 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 11:00 Rick Stein&apos;s Long Weekends",
-   "Thu 12:00 Hairy Bikers&apos; Best of British",
    "Thu 13:00 Great Canal Journeys",
    "Thu 14:00 Top Gear",
    "Thu 15:00 How Britain Worked",
-   "Thu 16:00 Rick Stein&apos;s Long Weekends"
+   "Thu 16:00 Rick Stein&apos;s Long Weekends",
+   "Thu 17:00 Rick Stein&apos;s Long Weekends",
+   "Thu 18:00 Hairy Bikers&apos; Best of British"
   ]
  },
  "doubleEscaped": 1342,
@@ -1391,7 +1397,7 @@
   "sharedIds": 41,
   "stale": 0,
   "gaps": 5,
-  "overlaps": 0,
+  "overlaps": 1,
   "badTimes": 2,
   "offsets": 0
  }
