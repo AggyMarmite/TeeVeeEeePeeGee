@@ -1,34 +1,38 @@
 {
- "built": "2026-11-12T11:07",
- "channels": 2086,
- "programmes": 182605,
- "noListings": 1,
- "withLogo": 1697,
- "xmlMB": 144.8,
- "gzMB": 15.5,
+ "built": "2026-11-12T11:13",
+ "channels": 1914,
+ "programmes": 149444,
+ "noListings": 86,
+ "withLogo": 1725,
+ "xmlMB": 73.9,
+ "gzMB": 9.7,
  "bySite": {
   "epgshare01.online": [
-   1425,
+   1430,
    0
   ],
   "sky.com": [
-   266,
+   264,
    0
   ],
   "tvinsider.com": [
-   29,
-   0
+   46,
+   2
   ],
   "directv.com": [
-   268,
-   0
+   0,
+   61
   ],
   "tv24.co.uk": [
-   58,
+   46,
    1
   ],
   "mytelly.co.uk": [
-   4,
+   0,
+   22
+  ],
+  "freeview.co.uk": [
+   26,
    0
   ],
   "virgintvgo.virginmedia.com": [
@@ -37,10 +41,6 @@
   ],
   "player.ee.co.uk": [
    5,
-   0
-  ],
-  "freeview.co.uk": [
-   19,
    0
   ],
   "dazn.com": [
@@ -129,14 +129,14 @@
     "programmes": 147
    },
    "UK1": {
-    "channels": 38,
-    "withListings": 38,
-    "programmes": 2374
+    "channels": 30,
+    "withListings": 30,
+    "programmes": 1915
    },
    "US2": {
-    "channels": 224,
-    "withListings": 224,
-    "programmes": 18096
+    "channels": 225,
+    "withListings": 225,
+    "programmes": 18180
    },
    "US_LOCALS1": {
     "channels": 861,

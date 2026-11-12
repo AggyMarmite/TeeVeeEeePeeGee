@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T11:07",
+ "built": "2026-11-12T11:13",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -11,6 +11,12 @@
    "ch": "4K| SPORTSNET 360 UHD",
    "src": "Sportsnet 360 HD · epgshare01.online CA2 CA",
    "score": 94,
+   "auto": true
+  },
+  {
+   "ch": "US| COMEDY CENTRAL WEST HD",
+   "src": "Comedy Central HD · epgshare01.online US2 US",
+   "score": 87,
    "auto": true
   },
   {
@@ -28,7 +34,7 @@
   {
    "ch": "D+| HGTV",
    "src": "TLC · player.ee.co.uk",
-   "score": 93,
+   "score": 94,
    "auto": true
   },
   {
@@ -894,12 +900,6 @@
    "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 10 ALBANY NY (WTEN)",
-   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1231,16 +1231,6 @@
  "stale": [],
  "gaps": [
   {
-   "ch": "4K| TNT ULTIMATE 4K+ [LIVE-EVENT]",
-   "hours": 12,
-   "src": "mytelly.co.uk"
-  },
-  {
-   "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
-   "hours": 43,
-   "src": "directv.com"
-  },
-  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1253,11 +1243,6 @@
   {
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
-   "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| SKY SPORTS BOX OFFICE HD",
-   "hours": 6,
    "src": "tv24.co.uk"
   },
   {
@@ -1282,32 +1267,26 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1395,
+   "+0000": 1400,
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 266
-  },
-  "directv.com": {
-   "+0000": 268
+   "+0000": 264
   },
   "tvinsider.com": {
-   "+0000": 29
+   "+0000": 46
   },
   "tv24.co.uk": {
-   "+0000": 58
+   "+0000": 46
   },
-  "mytelly.co.uk": {
-   "+0000": 4
+  "freeview.co.uk": {
+   "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
    "+0000": 2
   },
   "player.ee.co.uk": {
    "+0000": 5
-  },
-  "freeview.co.uk": {
-   "+0000": 19
   },
   "dazn.com": {
    "+0000": 9
@@ -1379,12 +1358,12 @@
    "Thu 14:00 KTLA 5 Morning News at 6"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 10:40 Frasier",
    "Thu 11:10 Frasier",
    "Thu 11:40 Frasier",
    "Thu 12:10 American Pickers",
    "Thu 13:05 Channel 4 News Summary",
-   "Thu 13:10 Renovation Nation"
+   "Thu 13:10 Renovation Nation",
+   "Thu 14:10 Escape to Florida"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
    "Thu 11:00 Rick Stein&apos;s Long Weekends",
@@ -1395,12 +1374,12 @@
    "Thu 16:00 Rick Stein&apos;s Long Weekends"
   ]
  },
- "doubleEscaped": 1317,
+ "doubleEscaped": 1333,
  "counts": {
-  "weakMatches": 1078,
+  "weakMatches": 1090,
   "sharedIds": 41,
   "stale": 0,
-  "gaps": 7,
+  "gaps": 4,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
