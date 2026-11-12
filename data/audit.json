@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T08:41",
+ "built": "2026-11-12T08:45",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1190,6 +1190,14 @@
    ]
   },
   {
+   "tvgId": "ViaplaySports1.uk",
+   "names": [
+    "UK| PREMIER SPORT 1 FHD",
+    "UK| VIAPLAY 1 HEVC FHD",
+    "UK| VIAPLAY 1 HEVC HD"
+   ]
+  },
+  {
    "tvgId": "ViaplaySports2.uk",
    "names": [
     "UK| PREMIER SPORT 2 HD",
@@ -1269,7 +1277,7 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1394,
+   "+0000": 1395,
    "-0500": 30
   },
   "sky.com": {
@@ -1291,7 +1299,7 @@
    "+0000": 2
   },
   "player.ee.co.uk": {
-   "+0000": 4
+   "+0000": 5
   },
   "freeview.co.uk": {
    "+0000": 19
@@ -1366,12 +1374,12 @@
    "Thu 11:05 Police 24/7"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 08:25 The King of Queens",
    "Thu 08:45 Everybody Loves Raymond",
    "Thu 09:10 Everybody Loves Raymond",
    "Thu 09:40 Everybody Loves Raymond",
    "Thu 10:10 Frasier",
-   "Thu 10:40 Frasier"
+   "Thu 10:40 Frasier",
+   "Thu 11:10 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
    "Thu 08:00 Border Force America&apos;s Gatekeepers",
@@ -1384,8 +1392,8 @@
  },
  "doubleEscaped": 1317,
  "counts": {
-  "weakMatches": 1074,
-  "sharedIds": 40,
+  "weakMatches": 1077,
+  "sharedIds": 41,
   "stale": 0,
   "gaps": 6,
   "overlaps": 0,

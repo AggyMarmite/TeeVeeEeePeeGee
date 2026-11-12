@@ -1,12 +1,12 @@
 {
- "built": "2026-11-12T08:41",
- "channels": 2082,
- "programmes": 187012,
- "noListings": 0,
- "withLogo": 1694,
+ "built": "2026-11-12T08:45",
+ "channels": 2085,
+ "programmes": 187076,
+ "noListings": 1,
+ "withLogo": 1696,
  "bySite": {
   "epgshare01.online": [
-   1424,
+   1425,
    0
   ],
   "sky.com": [
@@ -23,7 +23,7 @@
   ],
   "tv24.co.uk": [
    58,
-   0
+   1
   ],
   "mytelly.co.uk": [
    3,
@@ -34,7 +34,7 @@
    0
   ],
   "player.ee.co.uk": [
-   4,
+   5,
    0
   ],
   "freeview.co.uk": [
@@ -134,7 +134,7 @@
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18726
+    "programmes": 18724
    },
    "US_LOCALS1": {
     "channels": 861,
