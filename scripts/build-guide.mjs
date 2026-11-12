@@ -105,6 +105,9 @@ function shift(stamp, hours) {
 const chanXml = []
 const progXml = []
 const status = {}
+const logos = {}
+const srcLogos = new Map()
+if (fs.existsSync('work/sources-full.json')) for (const c of JSON.parse(fs.readFileSync('work/sources-full.json', 'utf8'))) if (c.logo) srcLogos.set(c.key, c.logo)
 const bySite = {}
 let total = 0
 for (const [key, m] of Object.entries(mappings).sort()) {
@@ -113,7 +116,8 @@ for (const [key, m] of Object.entries(mappings).sort()) {
   const g = groups.get(key)
   const names = g ? g.names : [id]
   const gid = grabmap[m.src]
-  const logo = (g && g.logo) || icons.get(gid) || ''
+  const logo = (g && g.logo) || icons.get(gid) || srcLogos.get(m.src) || ''
+  if (logo) logos[key] = logo
   chanXml.push(
     `  <channel id="${esc(id)}">\n` +
       names.map(n => `    <display-name>${esc(n)}</display-name>\n`).join('') +
@@ -149,7 +153,7 @@ const xml =
 fs.mkdirSync('out', { recursive: true })
 fs.writeFileSync('out/guide.xml', xml)
 fs.writeFileSync('out/guide.xml.gz', zlib.gzipSync(xml, { level: 9 }))
-fs.writeFileSync('out/status.json', JSON.stringify({ built: new Date().toISOString(), counts: status }))
+fs.writeFileSync('out/status.json', JSON.stringify({ built: new Date().toISOString(), counts: status, logos }))
 const empty = Object.values(status).filter(n => n === 0).length
-fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
+fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, withLogo: Object.keys(logos).length, bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
 console.log(`Guide: ${mapped} channels, ${total} programmes${empty ? `, ${empty} with no listings` : ''}`)

@@ -148,6 +148,7 @@ function filtered() {
     if (S.filter === 'matched' && !m?.src) return false
     if (S.filter === 'auto' && !m?.auto) return false
     if (S.filter === 'ignored' && !(m && !m.src)) return false
+    if (S.filter === 'nologo' && !(m?.src && !S.status.logos?.[g.key] && !isDirtyKey(g.key))) return false
     if (S.filter === 'nolist' && !(m && cnt === 0 && !isDirtyKey(g.key))) return false
     if (S.filter.startsWith('grp:') && !g.groups.includes(S.filter.slice(4))) return false
     if (!raw) return true
@@ -162,12 +163,14 @@ function renderChips() {
   const auto = S.groups.filter(g => S.mappings[g.key]?.auto).length
   const ignored = S.groups.filter(g => S.mappings[g.key] && !S.mappings[g.key].src).length
   const nolist = S.groups.filter(g => S.mappings[g.key]?.src && S.status.counts?.[g.key] === 0).length
+  const nologo = S.status.logos ? S.groups.filter(g => S.mappings[g.key]?.src && !S.status.logos[g.key]).length : 0
   const chips = [
     ['unmatched', `Unmatched ${unmatched}`],
     ['matched', `Matched ${matched}`],
     ...(auto ? [['auto', `Auto ${auto}`]] : []),
     ...(nolist ? [['nolist', `⚠ No listings ${nolist}`]] : []),
     ...(ignored ? [['ignored', `No guide ${ignored}`]] : []),
+    ...(nologo ? [['nologo', `No logo ${nologo}`]] : []),
     ['all', `All ${total}`]
   ]
   const groupNames = [...new Set(S.groups.flatMap(g => g.groups))].sort()
@@ -201,7 +204,9 @@ function rowHtml(g) {
   }
   const variants = g.names.length > 1 ? ` · +${g.names.length - 1} variant${g.names.length > 2 ? 's' : ''}` : ''
   const id = g.tvgId ? `tvg-id ${g.tvgId}` : 'no tvg-id (matched by name)'
-  const logo = g.logo ? ` style="background-image:url('${esc(g.logo)}')"` : ''
+  // the logo your guide actually gives this channel
+  const url = (m?.src && S.status.logos?.[g.key]) || ''
+  const logo = url ? ` style="background-image:url('${esc(url)}')"` : ''
   return `<div class="row ${isDirtyKey(g.key) ? 'dirty' : ''}" data-k="${esc(g.key)}">
     <div class="logo"${logo}></div>
     <div class="body"><div class="name">${esc(g.names[0])}</div><div class="meta">${esc(id)}${variants}</div>${match}</div>
