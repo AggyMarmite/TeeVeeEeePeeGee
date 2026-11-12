@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T10:27",
+ "built": "2026-11-12T11:07",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1315,12 +1315,12 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 09:30 Morning Live",
    "Thu 10:45 Dashcam Justice",
    "Thu 11:15 Homes Under the Hammer",
    "Thu 11:15 Homes Under the Hammer",
    "Thu 12:15 Bargain Hunt",
-   "Thu 13:00 BBC News at One including BBC London News"
+   "Thu 13:00 BBC News at One including BBC London News",
+   "Thu 14:00 Money for Nothing"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
    "Thu 10:00 This Morning",
@@ -1347,52 +1347,52 @@
    "Thu 17:00 Ted&apos;s Notebook: Sao Paulo"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 10:00 Today in New York",
    "Thu 11:00 Today in New York @ 6AM",
    "Thu 12:00 Today",
    "Thu 14:00 Today 3rd Hour",
    "Thu 15:00 Today With Jenna & Sheinelle",
-   "Thu 16:00 Live: News 4 NY at 11AM"
+   "Thu 16:00 Live: News 4 NY at 11AM",
+   "Thu 16:30 New York Live"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 09:00 NBA Basketball",
    "Thu 11:00 SportsCenter",
    "Thu 12:00 Live: SportsCenter",
    "Thu 13:00 Live: Get Up",
    "Thu 15:00 Live: First Take",
-   "Thu 17:00 Live: The Pat McAfee Show"
+   "Thu 17:00 Live: The Pat McAfee Show",
+   "Thu 19:00 Live: Big Day With Peter Schrager"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 10:00 Live: CNN Headline Express",
    "Thu 11:00 Live: CNN This Morning",
    "Thu 12:00 Live: CNN News Central",
    "Thu 13:00 Live: CNN News Central",
    "Thu 14:00 Live: CNN News Central",
-   "Thu 15:00 Live: The Situation Room"
+   "Thu 15:00 Live: The Situation Room",
+   "Thu 16:00 Live: The Situation Room"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 10:05 Scrabble",
-   "Thu 10:35 Trivial Pursuit",
    "Thu 11:05 Police 24/7",
    "Thu 11:30 Judy Justice",
    "Thu 12:00 KTLA 5 Morning News at 4",
-   "Thu 12:30 KTLA 5 Morning News at 4:30"
+   "Thu 12:30 KTLA 5 Morning News at 4:30",
+   "Thu 13:00 KTLA 5 Morning News at 5",
+   "Thu 14:00 KTLA 5 Morning News at 6"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 10:10 Frasier",
    "Thu 10:40 Frasier",
    "Thu 11:10 Frasier",
    "Thu 11:40 Frasier",
    "Thu 12:10 American Pickers",
-   "Thu 13:05 Channel 4 News Summary"
+   "Thu 13:05 Channel 4 News Summary",
+   "Thu 13:10 Renovation Nation"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 10:00 Rick Stein&apos;s Long Weekends",
    "Thu 11:00 Rick Stein&apos;s Long Weekends",
    "Thu 12:00 Hairy Bikers&apos; Best of British",
    "Thu 13:00 Great Canal Journeys",
    "Thu 14:00 Top Gear",
-   "Thu 15:00 How Britain Worked"
+   "Thu 15:00 How Britain Worked",
+   "Thu 16:00 Rick Stein&apos;s Long Weekends"
   ]
  },
  "doubleEscaped": 1317,
