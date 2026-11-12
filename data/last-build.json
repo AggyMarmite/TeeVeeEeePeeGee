@@ -1,7 +1,7 @@
 {
- "built": "2026-11-12T08:12",
+ "built": "2026-11-12T08:31",
  "channels": 2080,
- "programmes": 187430,
+ "programmes": 186995,
  "noListings": 0,
  "withLogo": 1692,
  "bySite": {
@@ -129,17 +129,17 @@
    "UK1": {
     "channels": 36,
     "withListings": 36,
-    "programmes": 2414
+    "programmes": 2404
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18803
+    "programmes": 18734
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84147
+    "programmes": 83893
    },
    "US_SPORTS1": {
     "channels": 22,

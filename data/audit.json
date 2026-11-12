@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T08:12",
+ "built": "2026-11-12T08:31",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1327,12 +1327,12 @@
    "Thu 14:00 Ted&apos;s Quali Notebook"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 07:39 Top Story With Tom Llamas",
    "Thu 08:30 New York Live Tonight",
    "Thu 09:00 Early Today",
    "Thu 09:30 Today in New York",
    "Thu 10:00 Today in New York",
-   "Thu 11:00 Today in New York @ 6AM"
+   "Thu 11:00 Today in New York @ 6AM",
+   "Thu 12:00 Today"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
    "Thu 08:00 SportsCenter",
@@ -1359,12 +1359,12 @@
    "Thu 10:35 Trivial Pursuit"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 08:00 The King of Queens",
    "Thu 08:25 The King of Queens",
    "Thu 08:45 Everybody Loves Raymond",
    "Thu 09:10 Everybody Loves Raymond",
    "Thu 09:40 Everybody Loves Raymond",
-   "Thu 10:10 Frasier"
+   "Thu 10:10 Frasier",
+   "Thu 10:40 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
    "Thu 08:00 Border Force America&apos;s Gatekeepers",
