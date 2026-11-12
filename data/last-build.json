@@ -1,9 +1,9 @@
 {
- "built": "2026-11-12T08:56",
- "channels": 2085,
- "programmes": 187063,
+ "built": "2026-11-12T09:03",
+ "channels": 2086,
+ "programmes": 186031,
  "noListings": 1,
- "withLogo": 1696,
+ "withLogo": 1697,
  "bySite": {
   "epgshare01.online": [
    1425,
@@ -26,7 +26,7 @@
    1
   ],
   "mytelly.co.uk": [
-   3,
+   4,
    0
   ],
   "virgintvgo.virginmedia.com": [
@@ -119,27 +119,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 179
+    "programmes": 181
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 142
+    "programmes": 144
    },
    "UK1": {
     "channels": 38,
     "withListings": 38,
-    "programmes": 2433
+    "programmes": 2425
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18714
+    "programmes": 18584
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 83893
+    "programmes": 83187
    },
    "US_SPORTS1": {
     "channels": 22,

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T08:56",
+ "built": "2026-11-12T09:03",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1231,6 +1231,11 @@
  "stale": [],
  "gaps": [
   {
+   "ch": "4K| TNT ULTIMATE 4K+ [LIVE-EVENT]",
+   "hours": 12,
+   "src": "mytelly.co.uk"
+  },
+  {
    "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
    "hours": 43,
    "src": "directv.com"
@@ -1293,7 +1298,7 @@
    "+0000": 58
   },
   "mytelly.co.uk": {
-   "+0000": 3
+   "+0000": 4
   },
   "virgintvgo.virginmedia.com": {
    "+0000": 2
@@ -1334,36 +1339,36 @@
    "Thu 22:00 Live WTA Finals: Pegula v Noskova"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 08:00 British F1 GP Highlights",
    "Thu 09:00 Belgian F1 GP Highlights",
    "Thu 10:00 Sao Paulo F1 Grand Prix",
    "Thu 12:30 Ted&apos;s Notebook: Sao Paulo",
    "Thu 13:00 Sao Paulo F1 GP Highlights",
-   "Thu 14:00 Ted&apos;s Quali Notebook"
+   "Thu 14:00 Ted&apos;s Quali Notebook",
+   "Thu 14:30 Sao Paulo F1 Grand Prix"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 08:30 New York Live Tonight",
    "Thu 09:00 Early Today",
    "Thu 09:30 Today in New York",
    "Thu 10:00 Today in New York",
    "Thu 11:00 Today in New York @ 6AM",
-   "Thu 12:00 Today"
+   "Thu 12:00 Today",
+   "Thu 14:00 Today 3rd Hour"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 08:00 SportsCenter",
    "Thu 09:00 NBA Basketball",
    "Thu 11:00 SportsCenter",
    "Thu 12:00 Live: SportsCenter",
    "Thu 13:00 Live: Get Up",
-   "Thu 15:00 Live: First Take"
+   "Thu 15:00 Live: First Take",
+   "Thu 17:00 Live: The Pat McAfee Show"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 08:00 CNN NewsNight With Abby Phillip",
    "Thu 09:00 Anderson Cooper 360",
    "Thu 10:00 Live: CNN Headline Express",
    "Thu 11:00 Live: CNN This Morning",
    "Thu 12:00 Live: CNN News Central",
-   "Thu 13:00 Live: CNN News Central"
+   "Thu 13:00 Live: CNN News Central",
+   "Thu 14:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
    "Thu 08:35 The Big Bang Theory",
@@ -1382,20 +1387,20 @@
    "Thu 11:10 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 08:00 Border Force America&apos;s Gatekeepers",
    "Thu 09:00 Border Force America&apos;s Gatekeepers",
    "Thu 10:00 Rick Stein&apos;s Long Weekends",
    "Thu 11:00 Rick Stein&apos;s Long Weekends",
    "Thu 12:00 Hairy Bikers&apos; Best of British",
-   "Thu 13:00 Great Canal Journeys"
+   "Thu 13:00 Great Canal Journeys",
+   "Thu 14:00 Top Gear"
   ]
  },
  "doubleEscaped": 1317,
  "counts": {
-  "weakMatches": 1077,
+  "weakMatches": 1078,
   "sharedIds": 41,
   "stale": 0,
-  "gaps": 6,
+  "gaps": 7,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
