@@ -187,30 +187,11 @@ const xml =
   progXml.join('\n') + (progXml.length ? '\n' : '') +
   `</tv>\n`
 
-// Lite version for apps that struggle with big guides: 2 days, short descriptions, no pictures
-const liteEnd = Date.now() + 48 * 3600e3
-const liteProg = []
-for (const p of progXml) {
-  const st = stampMs((p.match(/\sstart="([^"]*)"/) || [])[1] || '')
-  if (st > liteEnd) continue
-  liteProg.push(
-    p.replace(/<icon\b[^>]*\/>/g, '')
-      .replace(/<episode-num system="onscreen">[\s\S]*?<\/episode-num>/g, '')
-      .replace(/(<desc\b[^>]*>)([\s\S]*?)<\/desc>/, (_, o, t) => o + (t.length > 160 ? t.slice(0, 157).replace(/&[a-z#0-9]*$/i, '').replace(/\s+\S*$/, '') + '…' : t) + '</desc>')
-  )
-}
-const liteXml =
-  `<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="tv-guide">\n` +
-  chanXml.join('\n') + (chanXml.length ? '\n' : '') +
-  liteProg.join('\n') + (liteProg.length ? '\n' : '') +
-  `</tv>\n`
-
 fs.mkdirSync('out', { recursive: true })
-fs.writeFileSync('out/guide-lite.xml', liteXml)
-fs.writeFileSync('out/guide-lite.xml.gz', zlib.gzipSync(liteXml, { level: 9 }))
+
 fs.writeFileSync('out/guide.xml', xml)
 fs.writeFileSync('out/guide.xml.gz', zlib.gzipSync(xml, { level: 9 }))
 fs.writeFileSync('out/status.json', JSON.stringify({ built: new Date().toISOString(), counts: status, logos }))
 const empty = Object.values(status).filter(n => n === 0).length
-fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, withLogo: Object.keys(logos).length, xmlMB: +(Buffer.byteLength(xml) / 1048576).toFixed(1), gzMB: +(fs.statSync('out/guide.xml.gz').size / 1048576).toFixed(1), liteMB: +(Buffer.byteLength(liteXml) / 1048576).toFixed(1), liteGzMB: +(fs.statSync('out/guide-lite.xml.gz').size / 1048576).toFixed(1), bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
+fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, withLogo: Object.keys(logos).length, xmlMB: +(Buffer.byteLength(xml) / 1048576).toFixed(1), gzMB: +(fs.statSync('out/guide.xml.gz').size / 1048576).toFixed(1), bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
 console.log(`Guide: ${mapped} channels, ${total} programmes${empty ? `, ${empty} with no listings` : ''}`)
