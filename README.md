@@ -11,7 +11,7 @@ A self-updating XMLTV guide. Match each of your channels to a guide source once,
 
 1. Your channel list (names and tvg-ids only, never stream links) is kept in `data/channels.json`. It's refreshed nightly from the `M3U_URL` secret, or you can upload an .m3u from the matcher.
 2. Every build automatically matches new channels when it's confident (marked "auto"). Your own picks and "No guide" choices are never changed. In the matcher you can review, fix or add the rest. Its **Auto-match** button pairs channels with guide sources (Sky, epgshare01, Freeview, TV24, MyTelly, EE, Virgin, DAZN, DirecTV, TV Insider — UK, Ireland, US incl. local stations, Canada) by cleaning up names: it ignores HD/FHD/HEVC/4K tags and "UK:" prefixes, and handles +1 channels. Review the matches, fix any by tapping them, then **Save**.
-3. Saving updates `mappings.json`. GitHub Actions then fetches the listings with the open-source [iptv-org/epg](https://github.com/iptv-org/epg) grabber and publishes the guide under **your** tvg-ids. It also rebuilds every night.
+3. Saving updates `mappings.json`. GitHub Actions then fetches the listings with the open-source [iptv-org/epg](https://github.com/iptv-org/epg) grabber and publishes the guide under **your** tvg-ids. It also rebuilds every 3 hours.
 
 Channels that share a tvg-id are matched together. Channels without a tvg-id are matched by name.
 
