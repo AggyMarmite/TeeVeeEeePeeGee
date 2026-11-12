@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T08:00",
+ "built": "2026-11-12T08:08",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1351,12 +1351,12 @@
    "Thu 13:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 07:35 Friends",
    "Thu 08:05 Friends",
    "Thu 08:35 The Big Bang Theory",
    "Thu 09:05 The Big Bang Theory",
    "Thu 09:35 Two and a Half Men",
-   "Thu 10:05 Scrabble"
+   "Thu 10:05 Scrabble",
+   "Thu 10:35 Trivial Pursuit"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
    "Thu 08:00 The King of Queens",
@@ -1375,7 +1375,7 @@
    "Thu 13:00 Great Canal Journeys"
   ]
  },
- "doubleEscaped": 0,
+ "doubleEscaped": 1317,
  "counts": {
   "weakMatches": 1071,
   "sharedIds": 39,

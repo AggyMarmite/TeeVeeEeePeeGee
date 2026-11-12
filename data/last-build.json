@@ -1,8 +1,9 @@
 {
- "built": "2026-11-12T08:00",
+ "built": "2026-11-12T08:08",
  "channels": 2080,
- "programmes": 187754,
+ "programmes": 187455,
  "noListings": 0,
+ "withLogo": 1417,
  "bySite": {
   "epgshare01.online": [
    1422,
@@ -128,17 +129,17 @@
    "UK1": {
     "channels": 36,
     "withListings": 36,
-    "programmes": 2417
+    "programmes": 2416
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18815
+    "programmes": 18803
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84395
+    "programmes": 84147
    },
    "US_SPORTS1": {
     "channels": 22,
