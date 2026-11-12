@@ -102,6 +102,39 @@ function shift(stamp, hours) {
   return `${d.getUTCFullYear()}${p(d.getUTCMonth() + 1)}${p(d.getUTCDate())}${p(d.getUTCHours())}${p(d.getUTCMinutes())}${p(d.getUTCSeconds())}${m[7] ? ' ' + m[7] : ''}`
 }
 
+// ---- Keep the guide light enough for every app ----
+// Only the parts apps actually show; drop programmes that have already finished.
+const KEEP = ['title', 'sub-title', 'desc', 'category', 'episode-num', 'icon', 'new', 'premiere', 'live', 'previously-shown']
+const cutoff = Date.now() - 2 * 3600e3
+const stampMs = st => {
+  const m = st.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})\s*([+-])(\d{2})(\d{2})?/)
+  if (!m) return NaN
+  const utc = Date.UTC(+m[1], m[2] - 1, +m[3], +m[4], +m[5], +m[6])
+  const off = (+m[8] * 60 + +(m[9] || 0)) * 60e3
+  return m[7] === '+' ? utc - off : utc + off
+}
+function slim(p) {
+  const open = p.match(/^<programme\b[^>]*>/)
+  if (!open) return null
+  const stop = stampMs((open[0].match(/\sstop="([^"]*)"/) || [])[1] || '')
+  if (stop < cutoff) return null
+  const body = p.slice(open[0].length, p.lastIndexOf('</programme>'))
+  const out = []
+  const seen = {}
+  for (const m of body.matchAll(/<([a-z-]+)\b[^>]*?(\/>|>[\s\S]*?<\/\1>)/g)) {
+    const tag = m[1]
+    if (!KEEP.includes(tag)) continue
+    seen[tag] = (seen[tag] || 0) + 1
+    if ((tag === 'category' && seen[tag] > 2) || (tag !== 'category' && tag !== 'episode-num' && seen[tag] > 1)) continue
+    let el = m[0]
+    if (tag === 'desc') {
+      el = el.replace(/>([\s\S]*?)<\/desc>$/, (_, t) => '>' + (t.length > 400 ? t.slice(0, 397).replace(/&[a-z#0-9]*$/i, '').replace(/\s+\S*$/, '') + '…' : t) + '</desc>')
+    }
+    out.push(el)
+  }
+  return open[0] + out.join('') + '</programme>'
+}
+
 const chanXml = []
 const progXml = []
 const status = {}
@@ -126,16 +159,20 @@ for (const [key, m] of Object.entries(mappings).sort()) {
   )
   const list = (gid && programmes.get(gid)) || []
   const offset = Number(m.offset) || 0
-  for (const p of list) {
+  let kept = 0
+  for (const raw of list) {
+    const p = slim(raw)
+    if (!p) continue
+    kept++
     let out = p.replace(/\schannel="[^"]*"/, ` channel="${esc(id)}"`)
     if (offset) out = out.replace(/\s(start|stop)="([^"]*)"/g, (_, a, v) => ` ${a}="${shift(v, offset)}"`)
     progXml.push('  ' + out.trim())
   }
-  status[key] = list.length
+  status[key] = kept
   const site = m.src.split('|')[0]
   bySite[site] = bySite[site] || [0, 0]
-  bySite[site][list.length ? 0 : 1]++
-  total += list.length
+  bySite[site][kept ? 0 : 1]++
+  total += kept
 }
 
 const mapped = Object.keys(status).length

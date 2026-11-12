@@ -243,6 +243,10 @@ export function suggest(group, sources, opts = {}) {
     const cc = names[0].cc || groupCc
     if (src.r) best -= cc && src.r.toLowerCase() === cc ? -2 : 6
     else if (cc && cc !== 'uk' && cc !== 'ie') best -= 6
+    // UK channel: prefer UK-labelled feeds over Irish ones (different ads/schedules), and vice versa
+    const xcc = (src.x || '').match(/\.(uk|ie)(@|$)/)?.[1]
+    if (xcc && (cc === 'uk' || cc === 'ie')) best += xcc === cc ? 1 : -4
+    else if (xcc === 'ie' && !cc) best -= 2
     // Regional feeds: prefer your region, then generic, then other regions
     if (src._feed) {
       if (pref && src._feed.includes(pref)) best += 2
