@@ -130,6 +130,10 @@ jobs:
       - name: Assemble site
         run: |
           cp site/* out/
+          # cache-busting so phones always load the latest page code
+          V=${GITHUB_SHA::8}
+          sed -i "s|src=\"app.js\"|src=\"app.js?v=$V\"|" out/index.html
+          sed -i "s|from './shared.js'|from './shared.js?v=$V'|" out/app.js
           cp config.json mappings.json data/channels.json out/
           touch out/.nojekyll
 
