@@ -329,6 +329,51 @@ function afterChange() {
 }
 
 // ---------- actions ----------
+// Full refresh: re-runs automatic matching for everything (your own picks are kept),
+// fetches fresh listings and republishes the same guide link.
+let refreshing = false
+async function refreshGuide() {
+  if (!S.token) return toast('Connect GitHub first (see the card at the top)')
+  if (refreshing) return
+  if (dirty()) await save()
+  const btn = $('#refreshBtn')
+  refreshing = true
+  btn.disabled = true
+  try {
+    const cur = await getFile('data/refresh.json')
+    const requested = new Date().toISOString()
+    await putFile('data/refresh.json', JSON.stringify({ requested }) + '\n', cur.sha, 'Refresh guide')
+    const started = Date.now()
+    toast('Refreshing — usually takes 5–10 minutes. You can leave this page.', 6000)
+    const tick = setInterval(() => { btn.textContent = `Refreshing… ${Math.floor((Date.now() - started) / 60000)}m` }, 15000)
+    btn.textContent = 'Refreshing…'
+    for (let i = 0; i < 60; i++) {
+      await new Promise(r => setTimeout(r, 30000))
+      const st = await getStatic('status.json').catch(() => null)
+      if (st && st.built && st.built > requested) {
+        clearInterval(tick)
+        toast('Guide updated ✓', 5000)
+        await load()
+        break
+      }
+      if (i === 59) { clearInterval(tick); toast(`Still running — <a href="https://github.com/${S.repo}/actions" target="_blank" rel="noopener">check progress</a>`, 8000) }
+    }
+  } catch (e) {
+    toast('Refresh failed: ' + esc(e.message), 6000)
+  } finally {
+    refreshing = false
+    btn.disabled = false
+    btn.textContent = '↻ Refresh guide'
+  }
+}
+
+function resetAll() {
+  if (!confirm('Remove all your own matches and "no guide" choices, and let everything be matched automatically again?')) return
+  S.mappings = {}
+  afterChange()
+  toast('Done — tap Save, then the guide rebuilds with fresh automatic matches', 6000)
+}
+
 function autoMatch() {
   let n = 0
   for (const g of S.groups) {
@@ -393,6 +438,8 @@ function menu() {
   $('#sheetHead').innerHTML = `<div class="name">Options</div>`
   $('#sheetBody').innerHTML = `
     <div class="opt" id="mUpload"><div class="body"><div class="name">Upload playlist file</div><div class="meta">Replace the channel list from an .m3u file</div></div></div>
+    <div class="opt" id="mAuto"><div class="body"><div class="name">Preview auto-matches</div><div class="meta">Match unmatched channels here before saving</div></div></div>
+    <div class="opt" id="mReset"><div class="body"><div class="name">Reset all to automatic</div><div class="meta">Clear your own picks so everything is auto-matched again</div></div></div>
     <div class="opt" id="mReload"><div class="body"><div class="name">Reload</div><div class="meta">Fetch the latest list and matches</div></div></div>
     <div class="opt" id="mRepo"><div class="body"><div class="name">Repository</div><div class="meta">${esc(S.repo || 'not set')}</div></div></div>
     ${S.status.built ? `<div class="meta" style="padding:8px 4px">Guide last built ${esc(new Date(S.status.built).toLocaleString())}</div>` : ''}
@@ -402,6 +449,8 @@ function menu() {
   $('#sheetBg').classList.add('open')
   $('#mUpload').onclick = () => { closeSheet(); if (!S.token) return toast('Connect GitHub first'); $('#fileIn').click() }
   $('#mReload').onclick = () => { closeSheet(); load() }
+  $('#mAuto').onclick = () => { closeSheet(); autoMatch() }
+  $('#mReset').onclick = () => { closeSheet(); resetAll() }
   $('#mRepo').onclick = () => {
     const r = prompt('GitHub repository (owner/repo)', S.repo)
     if (r) { S.repo = r.trim(); store.set(LS.repo, S.repo); closeSheet(); load() }
@@ -449,7 +498,7 @@ $('#sheetBody').addEventListener('click', e => {
   closeSheet()
 })
 $('#sheetBg').onclick = closeSheet
-$('#autoBtn').onclick = autoMatch
+$('#refreshBtn').onclick = refreshGuide
 $('#saveBtn').onclick = save
 $('#menuBtn').onclick = menu
 $('#fileIn').addEventListener('change', e => { const f = e.target.files[0]; e.target.value = ''; if (f) uploadPlaylist(f) })

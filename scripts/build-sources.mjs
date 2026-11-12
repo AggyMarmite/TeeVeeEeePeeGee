@@ -19,6 +19,18 @@ const attr = (tag, name) => {
   return m ? decode(m[1]) : ''
 }
 
+// Channel logos from the iptv-org database (downloaded by the grabber's api:load)
+const logoDb = new Map()
+const logoFile = path.join(epgDir, 'temp', 'data', 'logos.json')
+if (fs.existsSync(logoFile)) {
+  for (const l of JSON.parse(fs.readFileSync(logoFile, 'utf8'))) {
+    if (!l.url || !l.channel) continue
+    const k = l.feed ? `${l.channel}@${l.feed}` : l.channel
+    if (!logoDb.has(k)) logoDb.set(k, l.url)
+    if (!logoDb.has(l.channel)) logoDb.set(l.channel, l.url)
+  }
+}
+
 const full = []
 const seen = new Set()
 for (const site of config.sites) {
@@ -67,6 +79,10 @@ for (const site of config.sites) {
       full.push(ch)
     }
   }
+}
+
+for (const c of full) {
+  if (!c.logo && c.xmltv_id) c.logo = logoDb.get(c.xmltv_id) || logoDb.get(c.xmltv_id.split('@')[0]) || ''
 }
 
 fs.mkdirSync('work', { recursive: true })

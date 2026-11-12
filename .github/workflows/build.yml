@@ -14,6 +14,7 @@ on:
     paths:
       - mappings.json
       - data/channels.json
+      - data/refresh.json
       - config.json
       - scripts/**
       - site/**
