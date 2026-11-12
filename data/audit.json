@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T11:16",
+ "built": "2026-11-12T11:35",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1361,12 +1361,12 @@
    "Thu 16:00 Live: The Situation Room"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 11:05 Police 24/7",
    "Thu 11:30 Judy Justice",
    "Thu 12:00 KTLA 5 Morning News at 4",
    "Thu 12:30 KTLA 5 Morning News at 4:30",
    "Thu 13:00 KTLA 5 Morning News at 5",
-   "Thu 14:00 KTLA 5 Morning News at 6"
+   "Thu 14:00 KTLA 5 Morning News at 6",
+   "Thu 15:00 KTLA 5 Morning News at 7"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
    "Thu 11:10 Frasier",
