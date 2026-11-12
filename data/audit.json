@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T13:41",
+ "built": "2026-11-12T15:27",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1259,7 +1259,7 @@
  "overlaps": [
   {
    "ch": "UK-NOWTV| SKY SPORTS NEWS HQ FHD",
-   "overlaps": 6,
+   "overlaps": 5,
    "src": "sky.com"
   }
  ],
@@ -1300,7 +1300,7 @@
    "+0000": 4
   },
   "player.ee.co.uk": {
-   "+0000": 5
+   "+0000": 6
   },
   "dazn.com": {
    "+0000": 9
@@ -1311,20 +1311,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 13:00 BBC News at One including BBC London News",
-   "Thu 14:00 Money for Nothing",
    "Thu 14:45 Escape to the Country",
    "Thu 15:45 The Bidding Room",
    "Thu 16:30 Bridge of Lies",
-   "Thu 17:15 Pointless"
+   "Thu 17:15 Pointless",
+   "Thu 18:00 BBC News",
+   "Thu 18:30 BBC London News"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 13:30 ITV Lunchtime News",
-   "Thu 13:55 ITV News Tyne Tees",
-   "Thu 14:00 New: Dickinson&apos;s Real Deal",
    "Thu 15:00 New: Lingo",
    "Thu 16:00 New: Deal or No Deal",
-   "Thu 17:00 The Chase"
+   "Thu 17:00 The Chase",
+   "Thu 18:00 ITV News Tyne Tees",
+   "Thu 18:30 ITV Evening News",
+   "Thu 19:00 England v Croatia: UEFA Nations League"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
    "Thu 13:00 Live PGA Tour Featured Groups",
@@ -1335,60 +1335,60 @@
    "Fri 00:00 Live: NFL Commanders @ Giants"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 13:00 Sao Paulo F1 GP Highlights",
-   "Thu 14:00 Ted&apos;s Quali Notebook",
    "Thu 14:30 Sao Paulo F1 Grand Prix",
    "Thu 17:00 Ted&apos;s Notebook: Sao Paulo",
    "Thu 17:30 Sao Paulo F1 GP Highlights",
-   "Thu 18:30 Ted&apos;s Notebook: Sao Paulo"
+   "Thu 18:30 Ted&apos;s Notebook: Sao Paulo",
+   "Thu 19:00 US F1 GP Highlights",
+   "Thu 20:00 Mexico City F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 12:00 Today",
-   "Thu 14:00 Today 3rd Hour",
    "Thu 15:00 Today With Jenna & Sheinelle",
    "Thu 16:00 Live: News 4 NY at 11AM",
    "Thu 16:30 New York Live",
-   "Thu 17:00 NBC News Daily"
+   "Thu 17:00 NBC News Daily",
+   "Thu 18:00 Dateline",
+   "Thu 19:00 NBC News Daily"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 13:00 Live: Get Up",
    "Thu 15:00 Live: First Take",
    "Thu 17:00 Live: The Pat McAfee Show",
    "Thu 19:00 Live: Big Day With Peter Schrager",
    "Thu 20:00 Live: NBA Today",
-   "Thu 21:00 NFL Live"
+   "Thu 21:00 NFL Live",
+   "Thu 22:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 13:00 Live: CNN News Central",
-   "Thu 14:00 Live: CNN News Central",
    "Thu 15:00 Live: The Situation Room",
    "Thu 16:00 Live: The Situation Room",
    "Thu 17:00 Live: Inside Politics With Dana Bash",
-   "Thu 18:00 Live: CNN News Central"
+   "Thu 18:00 Live: CNN News Central",
+   "Thu 19:00 Live: CNN News Central",
+   "Thu 20:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 13:00 KTLA 5 Morning News at 5",
-   "Thu 14:00 KTLA 5 Morning News at 6",
    "Thu 15:00 KTLA 5 Morning News at 7",
    "Thu 17:00 KTLA 5 Morning News at 9",
    "Thu 18:00 KTLA 5 Morning News at 10",
-   "Thu 19:00 KTLA 5 Morning News at 11"
+   "Thu 19:00 KTLA 5 Morning News at 11",
+   "Thu 20:00 KTLA 5 News at Noon",
+   "Thu 21:00 KTLA 5 News at 1"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 13:10 Renovation Nation",
-   "Thu 14:10 Escape to Florida",
    "Thu 15:10 Countdown",
    "Thu 16:00 A Place in the Sun",
    "Thu 17:00 Help! We Bought a Village",
-   "Thu 18:00 Four in a Bed"
+   "Thu 18:00 Four in a Bed",
+   "Thu 18:30 Come Dine with Me",
+   "Thu 19:00 New: A Place in the Sun"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 13:00 Great Canal Journeys",
-   "Thu 14:00 Top Gear",
    "Thu 15:00 How Britain Worked",
    "Thu 16:00 Rick Stein&apos;s Long Weekends",
    "Thu 17:00 Rick Stein&apos;s Long Weekends",
-   "Thu 18:00 Hairy Bikers&apos; Best of British"
+   "Thu 18:00 Hairy Bikers&apos; Best of British",
+   "Thu 19:00 Mortimer & Whitehouse: Gone Fishing",
+   "Thu 19:40 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1342,
