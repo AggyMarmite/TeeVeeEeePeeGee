@@ -155,5 +155,5 @@ fs.writeFileSync('out/guide.xml', xml)
 fs.writeFileSync('out/guide.xml.gz', zlib.gzipSync(xml, { level: 9 }))
 fs.writeFileSync('out/status.json', JSON.stringify({ built: new Date().toISOString(), counts: status, logos }))
 const empty = Object.values(status).filter(n => n === 0).length
-fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, withLogo: Object.keys(logos).length, bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
+fs.writeFileSync('data/last-build.json', JSON.stringify({ built: new Date().toISOString().slice(0, 16), channels: mapped, programmes: total, noListings: empty, withLogo: Object.keys(logos).length, xmlMB: +(Buffer.byteLength(xml) / 1048576).toFixed(1), gzMB: +(fs.statSync('out/guide.xml.gz').size / 1048576).toFixed(1), bySite, epgshare: fs.existsSync('work/epgshare-log.json') ? JSON.parse(read('work/epgshare-log.json')) : null }, null, 1) + '\n')
 console.log(`Guide: ${mapped} channels, ${total} programmes${empty ? `, ${empty} with no listings` : ''}`)
