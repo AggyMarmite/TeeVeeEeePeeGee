@@ -3661,7 +3661,7 @@
    "auto": true
   },
   "name:4K| TNT ULTIMATE 4K+ [LIVE-EVENT]": {
-   "src": "mytelly.co.uk|en|1954/tnt-sports-ultimate"
+   "src": "player.ee.co.uk|en|http://bds.tv/services/BT_768397"
   },
   "name:BG| EUROSPORT2 HD": {
    "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
@@ -7163,7 +7163,7 @@
    "auto": true
   },
   "uk.Eurosport 2": {
-   "src": "tv24.co.uk|en|eurosport-2-hd"
+   "src": "tv24.co.uk|en|eurosport-2"
   },
   "uk.GOLD HD": {
    "src": "sky.com|en|GB#6513",
