@@ -1,0 +1,150 @@
+{
+ "built": "2026-11-12T04:15",
+ "channels": 2080,
+ "programmes": 193436,
+ "noListings": 0,
+ "bySite": {
+  "epgshare01.online": [
+   1422,
+   0
+  ],
+  "sky.com": [
+   266,
+   0
+  ],
+  "tvinsider.com": [
+   29,
+   0
+  ],
+  "directv.com": [
+   268,
+   0
+  ],
+  "tv24.co.uk": [
+   58,
+   0
+  ],
+  "mytelly.co.uk": [
+   3,
+   0
+  ],
+  "virgintvgo.virginmedia.com": [
+   2,
+   0
+  ],
+  "player.ee.co.uk": [
+   4,
+   0
+  ],
+  "freeview.co.uk": [
+   19,
+   0
+  ],
+  "dazn.com": [
+   9,
+   0
+  ]
+ },
+ "epgshare": {
+  "catalogue": {
+   "CA2": {
+    "channels": 696,
+    "sample": [
+     "NFL14SC = NFL14SC.ca2",
+     "Stingray Popular Classical = Stingray.Popular.Classical.ca2",
+     "CTV Wild = CTV.Wild.ca2",
+     "Stingray Dance Clubbin’ = Stingray.Dance.Clubbin’.ca2",
+     "MSNBC Canada, Caribbean and International HD = MSNBC.Canada,.Caribbean.and.International.HD.ca2",
+     "Prise 2 HD = Prise.2.HD.ca2"
+    ]
+   },
+   "IE1": {
+    "channels": 175,
+    "sample": [
+     "Virgin Media One HD = Virgin.Media.One.HD.ie",
+     "E4 Extra = E4.Extra.ie",
+     "Oireachtas TV = Oireachtas.TV.ie",
+     "Sky Family = Sky.Family.ie",
+     "Sky Sports Football = Sky.Sports.Football.ie",
+     "Nick Toons = Nick.Toons.ie"
+    ]
+   },
+   "UK1": {
+    "channels": 487,
+    "sample": [
+     "TLC HD = TLC.HD.uk",
+     "Thats Melody = Thats.Melody.uk",
+     "mta-muslim tv = mta-muslim.tv.uk",
+     "FRANCE 24 HD = FRANCE.24.HD.uk",
+     "HUM EUROPE = HUM.EUROPE.uk",
+     "EasterEpicsHD = EasterEpicsHD.uk"
+    ]
+   },
+   "US2": {
+    "channels": 792,
+    "sample": [
+     "PI KBS World = PI.KBS.World.us2",
+     "Bandamax = Bandamax.us2",
+     "Cleo TV HD = Cleo.TV.HD.us2",
+     "AFN sports2 = AFN.sports2.us2",
+     "BET HD = BET.HD.us2",
+     "Newsy = Newsy.us2"
+    ]
+   },
+   "US_LOCALS1": {
+    "channels": 4471,
+    "sample": [
+     "WHLA-DT = WHLA-DT.us_locals1",
+     "K50KG-D = K50KG-D.us_locals1",
+     "WJAN-CD = WJAN-CD.us_locals1",
+     "WDTT-LD = WDTT-LD.us_locals1",
+     "K20ID-D = K20ID-D.us_locals1",
+     "WZRB-DT = WZRB-DT.us_locals1"
+    ]
+   },
+   "US_SPORTS1": {
+    "channels": 299,
+    "sample": [
+     "MILB - Inland Empire 66ers = MILB-InlandEmpire66ers.us",
+     "MILB - Hillsboro Hops = MILB-HillsboroHops.us",
+     "MILB - Nashville Sounds = MILB-NashvilleSounds.us",
+     "MLB - Minnesota Twins = MLB-MinnesotaTwins.us",
+     "NBA - Orlando Magic = NBA-OrlandoMagic.us",
+     "NHL - Chicago Blackhawks = NHL-ChicagoBlackhawks.us"
+    ]
+   }
+  },
+  "listings": {
+   "CA2": {
+    "channels": 3,
+    "withListings": 3,
+    "programmes": 196
+   },
+   "IE1": {
+    "channels": 2,
+    "withListings": 2,
+    "programmes": 138
+   },
+   "UK1": {
+    "channels": 36,
+    "withListings": 36,
+    "programmes": 2547
+   },
+   "US2": {
+    "channels": 224,
+    "withListings": 224,
+    "programmes": 19420
+   },
+   "US_LOCALS1": {
+    "channels": 861,
+    "withListings": 861,
+    "programmes": 88185
+   },
+   "US_SPORTS1": {
+    "channels": 22,
+    "withListings": 22,
+    "programmes": 308
+   }
+  }
+ }
+}

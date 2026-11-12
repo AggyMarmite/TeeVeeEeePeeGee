@@ -1,0 +1,1388 @@
+{
+ "built": "2026-11-12T04:15",
+ "weakMatches": [
+  {
+   "ch": "US| KTLA LOS ANGELES HD",
+   "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "4K| SPORTSNET 360 UHD",
+   "src": "Sportsnet 360 HD · epgshare01.online CA2 CA",
+   "score": 94,
+   "auto": true
+  },
+  {
+   "ch": "US| DISCOVERY CHANNEL EAST",
+   "src": "Discovery Channel HD · epgshare01.online US2 US",
+   "score": 87,
+   "auto": true
+  },
+  {
+   "ch": "4K| ESPN UHD",
+   "src": "ESPN HD · epgshare01.online US2 US",
+   "score": 94,
+   "auto": true
+  },
+  {
+   "ch": "D+| HGTV",
+   "src": "TLC · player.ee.co.uk",
+   "score": 93,
+   "auto": true
+  },
+  {
+   "ch": "US| CBS 14 (KGWC) CASPER",
+   "src": "KCAL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| PBS (KERA) DALLAS",
+   "src": "KERA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| NBC 4 (KFOR) OKLAHOMA CITY",
+   "src": "KFOR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| NBC 8 PORTLAND OR (KGW)",
+   "src": "KGW-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| PBS 10 (KLVX) LAS VEGAS",
+   "src": "KLVX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| FOX 9 MINNEAPOLIS MN (KMSP)",
+   "src": "KMSP-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| NBC 5 MEDFORD OR (KOBI)",
+   "src": "KOBI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| PBS PORTLAND (KOPB) OR",
+   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 (KRDO)",
+   "src": "KRDO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| CW 11 TACOMA WA (KSTW)",
+   "src": "KSTW-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| FOX 2 ST LOUIS MO (KTVI)",
+   "src": "KTVI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| CBS 2 SALT LAKE CITY UT (KUTV)",
+   "src": "KUTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| TELEMUNDO (KBLR) NORTH LAS VEGAS",
+   "src": "KBLR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 86,
+   "auto": true
+  },
+  {
+   "ch": "US| NBC 4 TUCSON AZ (KVOA)",
+   "src": "KVOA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 ROCHESTER MN (KAAL)",
+   "src": "KAAL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 LOS ANGELES CA (KABC)",
+   "src": "KABC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 WICHITA KS (KAKE)",
+   "src": "KAKE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 LAFAYETTE LA (KATC)",
+   "src": "KATC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 PORTLAND OR (KATU)",
+   "src": "KATU-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 LITTLE ROCK AR (KATV)",
+   "src": "KATV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 25 VICTORIA TX (KAVU)",
+   "src": "KAVU-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 BEAUMONT TX (KBMT)",
+   "src": "KBMT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 17 MINOT ND (KBMY)",
+   "src": "KBMY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 SIOUX CITY IA (KCAU)",
+   "src": "KCAU-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 CEDAR RAPIDS IA (KCRG)",
+   "src": "KCRG-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 30 ST LOUIS MO (KDNL)",
+   "src": "KDNL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 MEDFORD OR (KDRV)",
+   "src": "KDRV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 23 BAKERSFIELD CA (KERO)",
+   "src": "KERO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 PALM SPRINGS CA (KESQ)",
+   "src": "KESQ-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 OMAHA NE (KETV)",
+   "src": "KETV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 SANTA BARBARA CA (KEYT)",
+   "src": "KEYT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 EUGENE OR (KEZI)",
+   "src": "KEZI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 GREAT FALLS MT (KFBB)",
+   "src": "KFBB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 SAN FRANCISCO CA (KGO)",
+   "src": "KGO-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 SAN DIEGO CA (KGTV)",
+   "src": "KGTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 TUCSON AZ (KGUN)",
+   "src": "KGUN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 40/29 FORT SMITH AR (KHBS)",
+   "src": "KHBS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 CORPUS CHRISTI TX (KIII)",
+   "src": "KIII-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 HONOLULU HI (KITV)",
+   "src": "KITV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 BOISE ID (KIVI)",
+   "src": "KIVI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 GRAND JUNCTION CO (KJCT)",
+   "src": "KJCT-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 31 ALEXANDRIA LA (KLAX)",
+   "src": "KLAX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 LINCOLN NE (KLKN)",
+   "src": "KLKN-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 TYLER TX (KLTV)",
+   "src": "KLTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 KANSAS CITY MO (KMBC)",
+   "src": "KMBC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 DENVER CO (KMGH)",
+   "src": "KMGH-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 MIDLAND TX (KMID)",
+   "src": "KMID-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 17 COLUMBIA MO (KMIZ)",
+   "src": "KMIZ-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 15 PHOENIX AZ (KNXV)",
+   "src": "KNXV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 ALBUQUERQUE NM (KOAT)",
+   "src": "KOAT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 OKLAHOMA CITY OK (KOCO)",
+   "src": "KOCO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 JOPLIN MO (KODE)",
+   "src": "KODE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 RENO NV (KOLO)",
+   "src": "KOLO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 SEATTLE WA (KOMO)",
+   "src": "KOMO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 RAPID CITY SD (KOTA)",
+   "src": "KOTA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 WESLACO TX (KRGV)",
+   "src": "KRGV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 SAN ANTONIO TX (KSAT)",
+   "src": "KSAT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 SIOUX FALLS SD (KSFY)",
+   "src": "KSFY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 33 SPRINGFIELD MO (KSPR)",
+   "src": "KSPR-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 MINNEAPOLIS MN (KSTP)",
+   "src": "KSTP-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 BILLINGS MT (KSVI)",
+   "src": "KSVI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 LAWTON OK (KSWO)",
+   "src": "KSWO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 SHREVEPORT LA (KTBS)",
+   "src": "KTBS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 49 TOPEKA KS (KTKA)",
+   "src": "KTKA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 23 MISSOULA MT (KTMF)",
+   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LAS VEGAS NV (KTNV)",
+   "src": "KTNV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 HOUSTON TX (KTRK)",
+   "src": "KTRK-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 TULSA OK (KTUL)",
+   "src": "KTUL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 SALT LAKE CITY UT (KTVX)",
+   "src": "KTVX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 ABILENE TX (KTXS)",
+   "src": "KTXS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 42 KENNEWICK WA (KVEW)",
+   "src": "KVEW-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 EL PASO TX (KVIA)",
+   "src": "KVIA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 AMARILLO TX (KVII)",
+   "src": "KVII-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 24 AUSTIN TX (KVUE)",
+   "src": "KVUE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 18 BUTTE MT (KWYB)",
+   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 SPOKANE WA (KXLY)",
+   "src": "KXLY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 SACRAMENTO CA (KXTV)",
+   "src": "KXTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 25 WACO TX (KXXV)",
+   "src": "KXXV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 ANCHORAGE AK (KYUR)",
+   "src": "KYUR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 31 HUNTSVILLE AL (WAAY)",
+   "src": "WAAY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 NEW YORK NY (WABC)",
+   "src": "WABC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 16 JACKSON MS (WAPT)",
+   "src": "WAPT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 23 JOHNSTOWN PA (WATM)",
+   "src": "WATM-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 24 MEMPHIS TN (WATN)",
+   "src": "WATN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 GREEN BAY WI (WBAY)",
+   "src": "WBAY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 (KRCR) CHICO/REDDING",
+   "src": "WBBJ-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 BOWLING GREEN KY (WBKO)",
+   "src": "WBKO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 57 SOUTH BEND IN (WBND)",
+   "src": "WBND-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 BATON ROUGE LA (WBRZ)",
+   "src": "WBRZ-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 CHARLESTON WV (WCHS)",
+   "src": "WCHS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 CHARLESTON (WCIV-DT)",
+   "src": "WCIV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 20 GAINESVILLE FL (WCJB)",
+   "src": "WCJB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 CINCINNATI OH (WCPO)",
+   "src": "WCPO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 NEW BERN NC (WCTI)",
+   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 BOSTON MA (WCVB)",
+   "src": "WCVB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 FARGO ND (WDAY)",
+   "src": "WDAY-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 18 DOTHAN AL (WDHN)",
+   "src": "WDHN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 DULUTH MN (WDIO)",
+   "src": "WDIO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 25 EVANSVILLE IN (WEHT)",
+   "src": "WEHT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 CLEVELAND OH (WEWS)",
+   "src": "WEWS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 DALLAS TX (WFAA)",
+   "src": "WFAA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 28 TAMPA FL (WFTS)",
+   "src": "WFTS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 ORLANDO FL (WFTV)",
+   "src": "WFTV-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 ROCHESTER NY (WHAM)",
+   "src": "WHAM-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 11 LOUISVILLE KY (WHAS)",
+   "src": "WHAS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
+   "src": "WHSV-LD · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 27 HARRISBURG PA (WHTM)",
+   "src": "WHTM-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 20 SPRINGFIELD IL (WICS)",
+   "src": "WICS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 MILWAUKEE WI (WISN)",
+   "src": "WISN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 34 BINGHAMTON NY (WIVT)",
+   "src": "WIVT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 AUGUSTA GA (WJBF)",
+   "src": "WJBF-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 22 SAVANNAH GA (WJCL)",
+   "src": "WJCL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 24 ERIE PA (WJET)",
+   "src": "WJET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 WASHINGTON DC (WJLA)",
+   "src": "WJLA-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 12 FLINT MI (WJRT)",
+   "src": "WJRT-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 25 JACKSONVILLE FL (WJXX)",
+   "src": "WJXX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 BUFFALO NY (WKBW)",
+   "src": "WKBW-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 22 DAYTON OH (WKEF)",
+   "src": "WKEF-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 NASHVILLE TN (WKRN)",
+   "src": "WKRN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 53 LANSING MI (WLAJ)",
+   "src": "WLAJ-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 PROVIDENCE RI (WLNE)",
+   "src": "WLNE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 ASHEVILLE NC (WLOS)",
+   "src": "WLOS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 BILOXI MS (WLOX)",
+   "src": "WLOX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 7 CHICAGO IL (WLS)",
+   "src": "WLS-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 BALTIMORE MD (WMAR)",
+   "src": "WMAR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 PANAMA CITY FL (WMBB)",
+   "src": "WMBB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 PORTLAND ME (WMTW)",
+   "src": "WMTW-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 MANCHESTER NH (WMUR)",
+   "src": "WMUR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 32 MONTGOMERY AL (WNCF)",
+   "src": "WNCF-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 5 WEST DES MOINES IA (WOI)",
+   "src": "WOI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 25 COLUMBIA SC (WOLO)",
+   "src": "WOLO-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 BATTLE CREEK MI (WOTV)",
+   "src": "WOTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 15 FLORENCE SC (WPDE)",
+   "src": "WPDE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 (WPLG) MIAMI",
+   "src": "WPLG-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 PHILADELPHIA PA (WPVI)",
+   "src": "WPVI-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 RICHMOND VA (WRIC)",
+   "src": "WRIC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 INDIANAPOLIS IN (WRTV)",
+   "src": "WRTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 ATLANTA GA (WSB)",
+   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
+   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 3 HARRISBURG IL (WSIL)",
+   "src": "WSIL-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 CHARLOTTE NC (WSOC)",
+   "src": "WSOC-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 9 SYRACUSE NY (WSYR)",
+   "src": "WSYR-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 6 COLUMBUS OH (WSYX)",
+   "src": "WSYX-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 4 PITTSBURGH PA (WTAE)",
+   "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 ALBANY NY (WTEN)",
+   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  }
+ ],
+ "sharedIds": [
+  {
+   "tvgId": "AnimalPlanet.uk",
+   "names": [
+    "D+| ANIMAL PLANET FHD",
+    "UK| ANIMAL PLANET FHD",
+    "UK| ANIMAL PLNT +1"
+   ]
+  },
+  {
+   "tvgId": "CBBC.uk",
+   "names": [
+    "UK| BBC 3 / CBBC HD",
+    "UK| CBBC FHD"
+   ]
+  },
+  {
+   "tvgId": "DiscoveryChannel.uk",
+   "names": [
+    "UK| DISCOVERY +1",
+    "UK| DISCOVERY FHD",
+    "UK| DISCOVERY HD",
+    "UK| DISCOVERY SD"
+   ]
+  },
+  {
+   "tvgId": "DiscoveryDMAX.uk",
+   "names": [
+    "D+| DMAX",
+    "UK| DMAX",
+    "UK| DMAX +1"
+   ]
+  },
+  {
+   "tvgId": "Drama.uk",
+   "names": [
+    "UK| DRAMA",
+    "UK| DRAMA +1"
+   ]
+  },
+  {
+   "tvgId": "Eden.uk",
+   "names": [
+    "UK| EDEN",
+    "UK| EDEN +1",
+    "UK| EDEN FHD"
+   ]
+  },
+  {
+   "tvgId": "FoodNetwork.uk",
+   "names": [
+    "D+| FOOD NETWORK",
+    "UK| FOOD NETWORK",
+    "UK| FOOD NETWORK +1"
+   ]
+  },
+  {
+   "tvgId": "GOLD.uk",
+   "names": [
+    "UK| GOLD +1",
+    "UK| GOLD FHD",
+    "UK| GOLD HEVC FHD",
+    "UK| GOLD HEVC HD"
+   ]
+  },
+  {
+   "tvgId": "GreatAction.uk",
+   "names": [
+    "UK| GREAT! ACTION",
+    "UK| GREAT! ACTION +1"
+   ]
+  },
+  {
+   "tvgId": "History2.uk",
+   "names": [
+    "UK| HISTORY 2 FHD",
+    "UK| SKY HISTORY 2 HEVC FHD",
+    "UK| SKY HISTORY 2 HEVC HD"
+   ]
+  },
+  {
+   "tvgId": "HistoryChannel.uk",
+   "names": [
+    "UK| HISTORY FHD",
+    "UK| SKY HISTORY HD",
+    "UK| SKY HISTORY HEVC FHD",
+    "UK| SKY HISTORY HEVC HD",
+    "UK-NOWTV| SKY HISTORY FHD"
+   ]
+  },
+  {
+   "tvgId": "InvestigationDiscovery.uk",
+   "names": [
+    "D+| ID",
+    "UK| ID +1",
+    "UK| INVESTIGATION DISCOVERY"
+   ]
+  },
+  {
+   "tvgId": "ITV2.uk",
+   "names": [
+    "UK| ITV 2",
+    "UK| ITV 2 HD",
+    "UK| ITV 2 HEVC",
+    "UK| ITV 2+1",
+    "UK| ITV 2 HEVC FHD"
+   ]
+  },
+  {
+   "tvgId": "ITV3.uk",
+   "names": [
+    "UK| ITV 3",
+    "UK| ITV 3 HD",
+    "UK| ITV 3 HEVC",
+    "UK| ITV 3+1",
+    "UK| ITV 3 HEVC FHD"
+   ]
+  },
+  {
+   "tvgId": "ITV4.uk",
+   "names": [
+    "UK| ITV 4",
+    "UK| ITV 4 HD",
+    "UK| ITV 4 HEVC",
+    "UK| ITV 4+1"
+   ]
+  },
+  {
+   "tvgId": "KCAL.us",
+   "names": [
+    "US| CBS 14 (KGWC) CASPER",
+    "US| CBS 9 LOS ANGELES CA (KCAL)"
+   ]
+  },
+  {
+   "tvgId": "loc.ABC (WATN) Memphis, TN",
+   "names": [
+    "US| ABC 24 MEMPHIS TN (WATN)",
+    "PRIME| ABC MEMPHIS NEWS (WATN) ᴿᴬᵂ"
+   ]
+  },
+  {
+   "tvgId": "loc.ABC (WBBJ) Jackson, TN",
+   "names": [
+    "US| ABC 7 (KRCR) CHICO/REDDING",
+    "US| ABC 7 JACKSON TN (WBBJ)"
+   ]
+  },
+  {
+   "tvgId": "loc.ABC (WPLG) Miami, FL",
+   "names": [
+    "US| ABC 10 (WPLG) MIAMI",
+    "US| ABC 18 MIAMI FL (WSVN-D2)"
+   ]
+  },
+  {
+   "tvgId": "loc.CBS (WLFI) Lafayette, IN",
+   "names": [
+    "US| CBS 18 (WECP-LD) PANAMA CITY",
+    "US| CBS 18 LAFAYETTE IN (WLFI)"
+   ]
+  },
+  {
+   "tvgId": "loc.CW (WCWN) Albany, NY",
+   "names": [
+    "US| CW 15 ALBANY NY (WCWN)",
+    "US| CW 15 FLORENCE (WHDF)"
+   ]
+  },
+  {
+   "tvgId": "loc.FOX (WHBQ) Memphis, TN",
+   "names": [
+    "US| FOX 13 MEMPHIS TN (WHBQ)",
+    "PRIME| FOX MEMPHIS NEWS (WHBQ) ᴿᴬᵂ"
+   ]
+  },
+  {
+   "tvgId": "loc.FOX (WPBI-LD) Lafayette, IN",
+   "names": [
+    "US| FOX 16 LAFAYETTE IN (WPBI)",
+    "US| NBC 16 LAFAYETTE LA (WPBI)"
+   ]
+  },
+  {
+   "tvgId": "loc.FOX (WTVC-DT2) Chattanooga, TN",
+   "names": [
+    "US| FOX 9 (WTVC-DT) CHATTANOOGA",
+    "US| FOX 9 CHATTANOOGA TN (WTVC)"
+   ]
+  },
+  {
+   "tvgId": "loc.NBC (KCWY) Casper, WY",
+   "names": [
+    "US| NBC 13 CASPER WY (KCWY)",
+    "US| NBC 13 CHEYENNE WY (KCHY)"
+   ]
+  },
+  {
+   "tvgId": "loc.NBC (WJAR) Cranston, RI",
+   "names": [
+    "US| NBC 10 (WJAR) RHODE ISLAND",
+    "US| NBC 10 PROVIDENCE RI (WJAR)"
+   ]
+  },
+  {
+   "tvgId": "NatGeo.uk",
+   "names": [
+    "UK| NAT GEO FHD",
+    "UK| NAT GEO HD",
+    "UK| NAT GEO SD",
+    "UK| NATIONAL GEO HEVC FHD",
+    "UK| NATIONAL GEO HEVC HD"
+   ]
+  },
+  {
+   "tvgId": "Quest.uk",
+   "names": [
+    "D+| QUEST HD",
+    "UK| QUEST +1",
+    "UK| QUEST FHD"
+   ]
+  },
+  {
+   "tvgId": "QuestRed.uk",
+   "names": [
+    "D+| QUEST RED HD",
+    "UK| QUEST RED +1",
+    "UK| QUEST RED"
+   ]
+  },
+  {
+   "tvgId": "SkyAction.uk",
+   "names": [
+    "UK| SKY CINEMA ACTION",
+    "UK| SKY CINEMA ACTION FHD",
+    "UK| SKY CINEMA ACTION HD",
+    "UK| SKY CINEMA ACTION HEVC FHD",
+    "UK-NOWTV| SKY ACTION FHD"
+   ]
+  },
+  {
+   "tvgId": "SkySportsArena.uk",
+   "names": [
+    "UK| SKY SPORTS +",
+    "UK| SKY SPORTS + FHD",
+    "UK| SKY SPORTS ARENA HEVC HD"
+   ]
+  },
+  {
+   "tvgId": "SkySportsF1.uk",
+   "names": [
+    "4K| SKY SPORTS DARTS UHD",
+    "F1| SKY SPORTS F1",
+    "F1| SKY SPORTS F1 FHD",
+    "F1| SKY SPORTS F1 HD",
+    "F1-TV"
+   ]
+  },
+  {
+   "tvgId": "Thats.TV.uk",
+   "names": [
+    "UK| LEGEND XTRA",
+    "UK| THATS TV"
+   ]
+  },
+  {
+   "tvgId": "UK| ITV 1",
+   "names": [
+    "UK| ITV 1 +1",
+    "UK| ITV YORKSHIRE EAST",
+    "UK| ITV YORKSHIRE WEST"
+   ]
+  },
+  {
+   "tvgId": "US-PBS (KCTS) Seattle, WA",
+   "names": [
+    "US| PBS HD",
+    "US| PBS NY | NEW YORK (WNET)"
+   ]
+  },
+  {
+   "tvgId": "ViaplaySports2.uk",
+   "names": [
+    "UK| PREMIER SPORT 2 HD",
+    "UK| PREMIER SPORTS 2 FHD",
+    "UK| VIAPLAY 2 HEVC FHD",
+    "UK| VIAPLAY 2 HEVC HD"
+   ]
+  },
+  {
+   "tvgId": "WNOL.us",
+   "names": [
+    "US| CW  (WLMT) 30 MEMPHIS",
+    "US| CW (WNOL) 38 NEW ORLEANS"
+   ]
+  },
+  {
+   "tvgId": "WTIC.us",
+   "names": [
+    "US| FOX 61 HARTFORD CT (WTIC)",
+    "US| FOX HARTFORD (WTIC)"
+   ]
+  },
+  {
+   "tvgId": "Yesterday.uk",
+   "names": [
+    "UK| BBC BRIT",
+    "UK| YESTERDAY"
+   ]
+  }
+ ],
+ "stale": [],
+ "gaps": [
+  {
+   "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
+   "hours": 43,
+   "src": "directv.com"
+  },
+  {
+   "ch": "UK-BBCI| BBC RED BUTTON 1",
+   "hours": 6,
+   "src": "tv24.co.uk"
+  },
+  {
+   "ch": "UK-BBCI| BBC RED BUTTON 2",
+   "hours": 8,
+   "src": "tv24.co.uk"
+  },
+  {
+   "ch": "UK-BBCI| BBC RED BUTTON 3",
+   "hours": 8,
+   "src": "tv24.co.uk"
+  },
+  {
+   "ch": "UK| SKY SPORTS BOX OFFICE HD",
+   "hours": 6,
+   "src": "tv24.co.uk"
+  },
+  {
+   "ch": "US| PBS HD",
+   "hours": 7,
+   "src": "tvinsider.com"
+  }
+ ],
+ "overlaps": [],
+ "badTimes": [
+  {
+   "ch": "TV| TASTEMADE HOME ᴿᴬᵂ",
+   "bad": 1,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "TV| TASTEMADE TRAVEL ᴿᴬᵂ",
+   "bad": 1,
+   "src": "epgshare01.online"
+  }
+ ],
+ "offsets": [],
+ "zones": {
+  "epgshare01.online": {
+   "+0000": 1392,
+   "-0500": 30
+  },
+  "sky.com": {
+   "+0000": 266
+  },
+  "directv.com": {
+   "+0000": 268
+  },
+  "tvinsider.com": {
+   "+0000": 29
+  },
+  "tv24.co.uk": {
+   "+0000": 58
+  },
+  "mytelly.co.uk": {
+   "+0000": 3
+  },
+  "virgintvgo.virginmedia.com": {
+   "+0000": 2
+  },
+  "player.ee.co.uk": {
+   "+0000": 4
+  },
+  "freeview.co.uk": {
+   "+0000": 19
+  },
+  "dazn.com": {
+   "+0000": 9
+  }
+ },
+ "samples": {
+  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
+   "Thu 00:35 BBC News",
+   "Thu 06:00 Breakfast",
+   "Thu 09:30 Morning Live",
+   "Thu 10:45 Dashcam Justice",
+   "Thu 11:15 Homes Under the Hammer",
+   "Thu 11:15 Homes Under the Hammer"
+  ],
+  "UK| ITV 1 <- ITV1 HD · sky.com": [
+   "Thu 03:50 Unwind with ITV",
+   "Thu 05:05 Deal or No Deal",
+   "Thu 06:00 Good Morning Britain",
+   "Thu 09:30 Lorraine",
+   "Thu 10:00 This Morning",
+   "Thu 12:30 Loose Women"
+  ],
+  "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
+   "Thu 04:00 Sky Sports News",
+   "Thu 05:00 Sky Sports News",
+   "Thu 06:00 Sky Sports News",
+   "Thu 07:00 Live DP World Tour Golf",
+   "Thu 13:00 Live PGA Tour Featured Groups",
+   "Thu 16:00 Live LPGA Tour Golf"
+  ],
+  "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
+   "Thu 04:00 The Best of Australia 2026",
+   "Thu 04:25 The Best of China 2026",
+   "Thu 05:00 The Best of Japan 2026",
+   "Thu 05:15 The Best of Miami 2026",
+   "Thu 06:00 Barcelona F1 GP Highlights",
+   "Thu 07:00 Austrian F1 GP Highlights"
+  ],
+  "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
+   "Thu 04:00 Live: News 4 NY at 11",
+   "Thu 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Thu 05:35 Late Night With Seth Meyers",
+   "Thu 06:34 News 4 NY at 11",
+   "Thu 07:09 NBC Nightly News With Tom Llamas",
+   "Thu 07:39 Top Story With Tom Llamas"
+  ],
+  "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
+   "Thu 02:35 Live: NBA Basketball",
+   "Thu 05:05 Live: Inside the NBA",
+   "Thu 06:05 Live: SportsCenter",
+   "Thu 07:00 Live: SportsCenter",
+   "Thu 08:00 SportsCenter",
+   "Thu 09:00 NBA Basketball"
+  ],
+  "US| CNN FHD <- CNN HD · epgshare01.online": [
+   "Thu 04:00 Laura Coates Live",
+   "Thu 05:00 Live: The Story Is With Elex Michaelson",
+   "Thu 06:00 Live: The Story Is With Elex Michaelson",
+   "Thu 07:00 Anderson Cooper 360",
+   "Thu 08:00 CNN NewsNight With Abby Phillip",
+   "Thu 09:00 Anderson Cooper 360"
+  ],
+  "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
+   "Thu 04:00 Police 24/7",
+   "Thu 05:00 The Great American Road Rally: Celebrity Edition",
+   "Thu 06:00 KTLA 5 News at 10",
+   "Thu 06:45 KTLA 5 Sports Final",
+   "Thu 07:00 KTLA 5 News at 11",
+   "Thu 07:35 Friends"
+  ],
+  "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
+   "Thu 03:55 Tempting Fortune: The Final",
+   "Thu 04:50 Grand Designs",
+   "Thu 05:45 Kirstie and Phil&apos;s Love It or...",
+   "Thu 06:40 Cheers",
+   "Thu 07:05 Cheers",
+   "Thu 07:35 The King of Queens"
+  ],
+  "UK| DAVE <- U&Dave HD · sky.com": [
+   "Thu 04:00 Teleshopping",
+   "Thu 06:00 Teleshopping",
+   "Thu 07:10 Top Gear",
+   "Thu 08:00 Border Force America&apos;s Gatekeepers",
+   "Thu 09:00 Border Force America&apos;s Gatekeepers",
+   "Thu 10:00 Rick Stein&apos;s Long Weekends"
+  ]
+ },
+ "doubleEscaped": 0,
+ "counts": {
+  "weakMatches": 1071,
+  "sharedIds": 39,
+  "stale": 0,
+  "gaps": 6,
+  "overlaps": 0,
+  "badTimes": 2,
+  "offsets": 0
+ }
+}

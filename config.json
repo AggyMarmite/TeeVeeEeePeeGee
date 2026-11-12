@@ -1,0 +1,82 @@
+{
+  "sites": [
+    "sky.com",
+    "epgshare01.online",
+    "freeview.co.uk",
+    "tv24.co.uk",
+    "mytelly.co.uk",
+    "player.ee.co.uk",
+    "virgintvgo.virginmedia.com",
+    "dazn.com",
+    "directv.com",
+    "tvinsider.com"
+  ],
+  "skyRegions": [
+    "GB",
+    "DE",
+    "IT"
+  ],
+  "region": "London",
+  "days": 3,
+  "maxConnections": 8,
+  "siteRegions": {
+    "directv.com": "US",
+    "tvinsider.com": "US"
+  },
+  "skipGroups": [
+    "24/7",
+    "PPV",
+    "ESPN\\+",
+    "ESPN PLUS",
+    "FLO",
+    "PRIME",
+    "PEACOCK",
+    "EVENT",
+    "REPLAY",
+    "MOVIES",
+    "SERIES",
+    "CINEMA",
+    "VOD",
+    "ADULT",
+    "XXX",
+    "PACKAGE",
+    "LEAGUE",
+    "PLAY",
+    "TENNIS CHANNEL PLUS",
+    "SKY STORE",
+    "FORMULA 1",
+    "NETFLIX",
+    "TUBI",
+    "SPORT\\+ VIP"
+  ],
+  "epgshareTags": [
+    "UK",
+    "IE",
+    "US",
+    "CA"
+  ],
+  "auditSamples": [
+    "^UK\\| BBC ONE LONDON",
+    "^UK\\| ITV 1$",
+    "^UK\\| SKY SPORTS MAIN EVENT",
+    "^UK\\| SKY SPORTS F1 HD",
+    "WNBC",
+    "^US\\| ESPN HD",
+    "^US\\| CNN",
+    "KTLA",
+    "^UK\\| CHANNEL 4 \\+1",
+    "^UK\\| DAVE"
+  ],
+  "logoHosts": [
+    "iili.io",
+    "picons.cmshulk.com",
+    "i.imgur.com",
+    "imgur.com",
+    "raw.githubusercontent.com",
+    "upload.wikimedia.org",
+    "lyngsat.com",
+    "www.lyngsat.com",
+    "logo.clearbit.com",
+    "tvprofil.net"
+  ]
+}
