@@ -1,7 +1,7 @@
 {
- "built": "2026-11-12T04:15",
+ "built": "2026-11-12T08:00",
  "channels": 2080,
- "programmes": 193436,
+ "programmes": 187754,
  "noListings": 0,
  "bySite": {
   "epgshare01.online": [
@@ -50,12 +50,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "NFL14SC = NFL14SC.ca2",
-     "Stingray Popular Classical = Stingray.Popular.Classical.ca2",
-     "CTV Wild = CTV.Wild.ca2",
-     "Stingray Dance Clubbin’ = Stingray.Dance.Clubbin’.ca2",
-     "MSNBC Canada, Caribbean and International HD = MSNBC.Canada,.Caribbean.and.International.HD.ca2",
-     "Prise 2 HD = Prise.2.HD.ca2"
+     "Red Hot Premium = Red.Hot.Premium.ca2",
+     "Global Calgary = Global.Calgary.ca2",
+     "Fox News Channel = Fox.News.Channel.ca2",
+     "Classical 96FM Toronto (CFMZ-FM) = Classical.96FM.Toronto.(CFMZ-FM).ca2",
+     "Stingray The Light = Stingray.The.Light.ca2",
+     "CFRS = CFRS.ca2"
     ]
    },
    "IE1": {
@@ -118,27 +118,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 196
+    "programmes": 179
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 138
+    "programmes": 143
    },
    "UK1": {
     "channels": 36,
     "withListings": 36,
-    "programmes": 2547
+    "programmes": 2417
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 19420
+    "programmes": 18815
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 88185
+    "programmes": 84395
    },
    "US_SPORTS1": {
     "channels": 22,

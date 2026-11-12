@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T04:15",
+ "built": "2026-11-12T08:00",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1295,84 +1295,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 00:35 BBC News",
    "Thu 06:00 Breakfast",
    "Thu 09:30 Morning Live",
    "Thu 10:45 Dashcam Justice",
    "Thu 11:15 Homes Under the Hammer",
-   "Thu 11:15 Homes Under the Hammer"
+   "Thu 11:15 Homes Under the Hammer",
+   "Thu 12:15 Bargain Hunt"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 03:50 Unwind with ITV",
-   "Thu 05:05 Deal or No Deal",
    "Thu 06:00 Good Morning Britain",
    "Thu 09:30 Lorraine",
    "Thu 10:00 This Morning",
-   "Thu 12:30 Loose Women"
+   "Thu 12:30 Loose Women",
+   "Thu 13:30 ITV Lunchtime News",
+   "Thu 13:55 ITV News Tyne Tees"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 04:00 Sky Sports News",
-   "Thu 05:00 Sky Sports News",
-   "Thu 06:00 Sky Sports News",
    "Thu 07:00 Live DP World Tour Golf",
    "Thu 13:00 Live PGA Tour Featured Groups",
-   "Thu 16:00 Live LPGA Tour Golf"
+   "Thu 16:00 Live LPGA Tour Golf",
+   "Thu 19:00 Live PGA Tour Golf",
+   "Thu 19:30 Live WTA Finals: Kostyuk v Gauff",
+   "Thu 22:00 Live WTA Finals: Pegula v Noskova"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 04:00 The Best of Australia 2026",
-   "Thu 04:25 The Best of China 2026",
-   "Thu 05:00 The Best of Japan 2026",
-   "Thu 05:15 The Best of Miami 2026",
-   "Thu 06:00 Barcelona F1 GP Highlights",
-   "Thu 07:00 Austrian F1 GP Highlights"
+   "Thu 08:00 British F1 GP Highlights",
+   "Thu 09:00 Belgian F1 GP Highlights",
+   "Thu 10:00 Sao Paulo F1 Grand Prix",
+   "Thu 12:30 Ted&apos;s Notebook: Sao Paulo",
+   "Thu 13:00 Sao Paulo F1 GP Highlights",
+   "Thu 14:00 Ted&apos;s Quali Notebook"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 04:00 Live: News 4 NY at 11",
-   "Thu 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Thu 05:35 Late Night With Seth Meyers",
-   "Thu 06:34 News 4 NY at 11",
-   "Thu 07:09 NBC Nightly News With Tom Llamas",
-   "Thu 07:39 Top Story With Tom Llamas"
+   "Thu 07:39 Top Story With Tom Llamas",
+   "Thu 08:30 New York Live Tonight",
+   "Thu 09:00 Early Today",
+   "Thu 09:30 Today in New York",
+   "Thu 10:00 Today in New York",
+   "Thu 11:00 Today in New York @ 6AM"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 02:35 Live: NBA Basketball",
-   "Thu 05:05 Live: Inside the NBA",
-   "Thu 06:05 Live: SportsCenter",
-   "Thu 07:00 Live: SportsCenter",
    "Thu 08:00 SportsCenter",
-   "Thu 09:00 NBA Basketball"
+   "Thu 09:00 NBA Basketball",
+   "Thu 11:00 SportsCenter",
+   "Thu 12:00 Live: SportsCenter",
+   "Thu 13:00 Live: Get Up",
+   "Thu 15:00 Live: First Take"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 04:00 Laura Coates Live",
-   "Thu 05:00 Live: The Story Is With Elex Michaelson",
-   "Thu 06:00 Live: The Story Is With Elex Michaelson",
-   "Thu 07:00 Anderson Cooper 360",
    "Thu 08:00 CNN NewsNight With Abby Phillip",
-   "Thu 09:00 Anderson Cooper 360"
+   "Thu 09:00 Anderson Cooper 360",
+   "Thu 10:00 Live: CNN Headline Express",
+   "Thu 11:00 Live: CNN This Morning",
+   "Thu 12:00 Live: CNN News Central",
+   "Thu 13:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 04:00 Police 24/7",
-   "Thu 05:00 The Great American Road Rally: Celebrity Edition",
-   "Thu 06:00 KTLA 5 News at 10",
-   "Thu 06:45 KTLA 5 Sports Final",
-   "Thu 07:00 KTLA 5 News at 11",
-   "Thu 07:35 Friends"
+   "Thu 07:35 Friends",
+   "Thu 08:05 Friends",
+   "Thu 08:35 The Big Bang Theory",
+   "Thu 09:05 The Big Bang Theory",
+   "Thu 09:35 Two and a Half Men",
+   "Thu 10:05 Scrabble"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 03:55 Tempting Fortune: The Final",
-   "Thu 04:50 Grand Designs",
-   "Thu 05:45 Kirstie and Phil&apos;s Love It or...",
-   "Thu 06:40 Cheers",
-   "Thu 07:05 Cheers",
-   "Thu 07:35 The King of Queens"
+   "Thu 08:00 The King of Queens",
+   "Thu 08:25 The King of Queens",
+   "Thu 08:45 Everybody Loves Raymond",
+   "Thu 09:10 Everybody Loves Raymond",
+   "Thu 09:40 Everybody Loves Raymond",
+   "Thu 10:10 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 04:00 Teleshopping",
-   "Thu 06:00 Teleshopping",
-   "Thu 07:10 Top Gear",
    "Thu 08:00 Border Force America&apos;s Gatekeepers",
    "Thu 09:00 Border Force America&apos;s Gatekeepers",
-   "Thu 10:00 Rick Stein&apos;s Long Weekends"
+   "Thu 10:00 Rick Stein&apos;s Long Weekends",
+   "Thu 11:00 Rick Stein&apos;s Long Weekends",
+   "Thu 12:00 Hairy Bikers&apos; Best of British",
+   "Thu 13:00 Great Canal Journeys"
   ]
  },
  "doubleEscaped": 0,
