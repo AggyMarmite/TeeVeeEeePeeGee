@@ -1,7 +1,7 @@
 {
- "built": "2026-11-12T08:45",
+ "built": "2026-11-12T08:56",
  "channels": 2085,
- "programmes": 187076,
+ "programmes": 187063,
  "noListings": 1,
  "withLogo": 1696,
  "bySite": {
@@ -124,17 +124,17 @@
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 143
+    "programmes": 142
    },
    "UK1": {
     "channels": 38,
     "withListings": 38,
-    "programmes": 2436
+    "programmes": 2433
    },
    "US2": {
     "channels": 224,
     "withListings": 224,
-    "programmes": 18724
+    "programmes": 18714
    },
    "US_LOCALS1": {
     "channels": 861,
