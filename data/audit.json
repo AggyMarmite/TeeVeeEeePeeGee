@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T19:24",
+ "built": "2026-11-13T22:09",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1296,12 +1296,12 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Fri 19:00 Children in Need 2026",
    "Fri 22:00 BBC News and Weather",
    "Fri 22:30 BBC London News",
    "Fri 22:40 The Graham Norton Show",
    "Fri 23:30 The Hunger Games: The Ballad of Songbirds & Snakes",
-   "Fri 23:30 The Hunger Games: The Ballad of Songbirds & Snakes"
+   "Fri 23:30 The Hunger Games: The Ballad of Songbirds & Snakes",
+   "Sat 01:55 Weather for the Week Ahead"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
    "Fri 19:15 France v South Africa: Nations Championship",
@@ -1312,68 +1312,68 @@
    "Sat 03:00 Lingo"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Fri 19:00 Live PGA Tour Golf",
-   "Fri 19:30 Live Tennis: Andreeva v Muchova",
    "Fri 22:00 Live Tennis: Sabalenka v Svitolina",
    "Sat 00:00 Live WTA Finals: Day 6 Doubles",
    "Sat 03:00 Sky Sports News",
-   "Sat 04:00 Sky Sports News"
+   "Sat 04:00 Sky Sports News",
+   "Sat 05:00 Sky Sports News",
+   "Sat 06:00 Sky Sports News"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Fri 19:00 Singapore F1 GP Highlights",
-   "Fri 20:00 US F1 GP Highlights",
-   "Fri 21:00 Mexico City F1 GP Highlights",
    "Fri 22:00 Sao Paulo F1 Grand Prix",
    "Sat 00:30 Ted&apos;s Notebook: Sao Paulo",
-   "Sat 01:00 The Best of Canada 2026"
+   "Sat 01:00 The Best of Canada 2026",
+   "Sat 01:30 The Best of Monaco 2026",
+   "Sat 02:00 The Best of Barcelona 2026",
+   "Sat 02:30 The Best of Austria 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 19:00 NBC News Daily",
-   "Fri 20:00 Live: News Zone",
-   "Fri 21:00 Live: News 4 NY at 4",
-   "Fri 21:30 Live: News 4 NY at 4:30",
    "Fri 22:00 Live: News 4 NY at 5",
-   "Fri 22:30 Live: News 4 NY at 5:30"
+   "Fri 22:30 Live: News 4 NY at 5:30",
+   "Fri 23:00 Live: News 4 NY at 6",
+   "Fri 23:30 NBC Nightly News With Tom Llamas",
+   "Sat 00:00 News 4 NY at 7",
+   "Sat 00:15 Good Seats"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 19:00 Live: Bussin&apos; & Pate On Campus",
-   "Fri 20:00 Live: NBA Today",
-   "Fri 21:00 NFL Live",
    "Fri 22:00 Live: SportsCenter",
    "Fri 22:30 Live: Pardon the Interruption",
-   "Fri 23:00 Live: SportsCenter"
+   "Fri 23:00 Live: SportsCenter",
+   "Sat 00:00 Live: College Football",
+   "Sat 03:00 Live: College Football Scoreboard",
+   "Sat 03:15 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 19:00 Live: CNN News Central",
-   "Fri 20:00 Live: CNN News Central",
-   "Fri 21:00 Live: The Arena With Kasie Hunt",
    "Fri 22:00 Live: The Lead With Jake Tapper",
    "Fri 23:00 Live: The Lead With Jake Tapper",
-   "Sat 00:00 Live: Erin Burnett OutFront"
+   "Sat 00:00 Live: Erin Burnett OutFront",
+   "Sat 01:00 Live: Anderson Cooper 360",
+   "Sat 02:00 Live: The Source With Kaitlan Collins",
+   "Sat 03:00 Live: CNN NewsNight With Abby Phillip"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 19:00 KTLA 5 Morning News at 11",
-   "Fri 20:00 KTLA 5 News at Noon",
-   "Fri 21:00 KTLA 5 News at 1",
    "Fri 22:00 Off the Clock",
    "Fri 23:00 KTLA 5 News at 3",
-   "Sat 00:00 KTLA 5 News at 4"
+   "Sat 00:00 KTLA 5 News at 4",
+   "Sat 01:00 Live: College Basketball",
+   "Sat 03:00 KTLA 5 News at 7",
+   "Sat 03:30 Live: NBA Basketball"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 19:00 New: A Place in the Sun",
-   "Fri 20:00 Channel 4 News",
-   "Fri 20:30 New: Unreported World",
-   "Fri 21:00 George Clarke&apos;s Building Home",
    "Fri 22:00 New: Gogglebox",
-   "Fri 23:00 Live: The Last Leg"
+   "Fri 23:00 Live: The Last Leg",
+   "Sat 00:05 Jon Richardson: Old Man Tour",
+   "Sat 01:10 This Is England",
+   "Sat 02:55 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Sat 03:45 The Great British Bake Off:..."
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 19:00 Mortimer & Whitehouse: Gone Fishing",
-   "Fri 19:40 Would I Lie To You?",
-   "Fri 20:20 Would I Lie To You?",
-   "Fri 21:00 Guy Martin: Proper Jobs",
    "Fri 22:00 Have I Got a Bit More News for You",
-   "Fri 23:00 Would I Lie To You?"
+   "Fri 23:00 Would I Lie To You?",
+   "Fri 23:40 Would I Lie To You?",
+   "Sat 00:20 Taskmaster",
+   "Sat 01:20 Mock the Week",
+   "Sat 02:00 The Good Place"
   ]
  },
  "doubleEscaped": 1344,
