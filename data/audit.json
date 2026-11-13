@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T13:38",
+ "built": "2026-11-13T16:16",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1222,6 +1222,16 @@
    "src": "tvinsider.com"
   },
   {
+   "ch": "IT| SKY SPORT F1",
+   "hours": 13,
+   "src": "sky.com"
+  },
+  {
+   "ch": "IT| SKY SPORT LEGEND",
+   "hours": 5,
+   "src": "sky.com"
+  },
+  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1296,84 +1306,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Fri 13:00 BBC News at One including BBC London News",
-   "Fri 14:00 The Northumbria Mysteries",
-   "Fri 14:45 Escape to the Country",
    "Fri 15:45 The Bidding Room",
    "Fri 16:30 Celebrity Bridge of Lies",
-   "Fri 17:15 Pointless"
+   "Fri 17:15 Pointless",
+   "Fri 18:00 BBC News",
+   "Fri 18:30 BBC London News",
+   "Fri 19:00 Children in Need 2026"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 13:30 ITV Racing: Live from Cheltenham",
    "Fri 16:00 New: Deal or No Deal",
    "Fri 17:00 The Chase",
    "Fri 18:00 ITV News Tyne Tees",
    "Fri 18:30 ITV Evening News",
-   "Fri 19:15 France v South Africa: Nations Championship"
+   "Fri 19:15 France v South Africa: Nations Championship",
+   "Fri 22:35 ITV News at Ten"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Fri 13:00 Live PGA Tour Featured Groups",
    "Fri 16:00 Live LPGA Tour Golf",
    "Fri 19:00 Live PGA Tour Golf",
    "Fri 19:30 Live Tennis: Andreeva v Muchova",
    "Fri 22:00 Live Tennis: Sabalenka v Svitolina",
-   "Sat 00:00 Live WTA Finals: Day 6 Doubles"
+   "Sat 00:00 Live WTA Finals: Day 6 Doubles",
+   "Sat 03:00 Sky Sports News"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Fri 13:30 Ted&apos;s Notebook: Sao Paulo",
-   "Fri 14:00 Sao Paulo F1 GP Highlights",
-   "Fri 15:00 Ted&apos;s Quali Notebook",
    "Fri 15:30 Sao Paulo F1 Grand Prix",
    "Fri 18:00 Bahrain F1 GP Highlights",
-   "Fri 19:00 Singapore F1 GP Highlights"
+   "Fri 19:00 Singapore F1 GP Highlights",
+   "Fri 20:00 US F1 GP Highlights",
+   "Fri 21:00 Mexico City F1 GP Highlights",
+   "Fri 22:00 Sao Paulo F1 Grand Prix"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 12:00 Today",
-   "Fri 14:00 Today 3rd Hour",
-   "Fri 15:00 Today With Jenna & Sheinelle",
    "Fri 16:00 Live: News 4 NY at 11AM",
    "Fri 16:30 New York Live",
-   "Fri 17:00 NBC News Daily"
+   "Fri 17:00 NBC News Daily",
+   "Fri 18:00 Dateline",
+   "Fri 19:00 NBC News Daily",
+   "Fri 20:00 Live: News Zone"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 13:00 Live: Get Up",
    "Fri 15:00 Live: First Take",
    "Fri 17:00 Live: The Pat McAfee Show",
    "Fri 19:00 Live: Bussin&apos; & Pate On Campus",
    "Fri 20:00 Live: NBA Today",
-   "Fri 21:00 NFL Live"
+   "Fri 21:00 NFL Live",
+   "Fri 22:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 13:00 Live: CNN News Central",
-   "Fri 14:00 Live: CNN News Central",
-   "Fri 15:00 Live: The Situation Room",
    "Fri 16:00 Live: The Situation Room",
    "Fri 17:00 Live: Inside Politics With Dana Bash",
-   "Fri 18:00 Live: CNN News Central"
+   "Fri 18:00 Live: CNN News Central",
+   "Fri 19:00 Live: CNN News Central",
+   "Fri 20:00 Live: CNN News Central",
+   "Fri 21:00 Live: The Arena With Kasie Hunt"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 13:00 KTLA 5 Morning News at 5",
-   "Fri 14:00 KTLA 5 Morning News at 6",
    "Fri 15:00 KTLA 5 Morning News at 7",
    "Fri 17:00 KTLA 5 Morning News at 9",
    "Fri 18:00 KTLA 5 Morning News at 10",
-   "Fri 19:00 KTLA 5 Morning News at 11"
+   "Fri 19:00 KTLA 5 Morning News at 11",
+   "Fri 20:00 KTLA 5 News at Noon",
+   "Fri 21:00 KTLA 5 News at 1"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 13:10 Renovation Nation",
-   "Fri 14:10 Escape to Florida",
-   "Fri 15:10 Countdown",
    "Fri 16:00 A Place in the Sun",
    "Fri 17:00 Help! We Bought a Village",
-   "Fri 18:00 Four in a Bed"
+   "Fri 18:00 Four in a Bed",
+   "Fri 18:30 Come Dine with Me",
+   "Fri 19:00 New: A Place in the Sun",
+   "Fri 20:00 Channel 4 News"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 13:00 Great Canal Journeys",
-   "Fri 14:00 Top Gear",
-   "Fri 15:00 How Britain Worked",
    "Fri 16:00 Rick Stein&apos;s Spanish Christmas",
    "Fri 17:00 Rick Stein: From Venice to Istanbul",
-   "Fri 18:00 Hairy Bikers&apos; Best of British"
+   "Fri 18:00 Hairy Bikers&apos; Best of British",
+   "Fri 19:00 Mortimer & Whitehouse: Gone Fishing",
+   "Fri 19:40 Would I Lie To You?",
+   "Fri 20:20 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1344,
@@ -1381,7 +1391,7 @@
   "weakMatches": 1099,
   "sharedIds": 39,
   "stale": 0,
-  "gaps": 6,
+  "gaps": 8,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
