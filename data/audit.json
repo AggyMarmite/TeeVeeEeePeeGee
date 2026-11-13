@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T01:37",
+ "built": "2026-11-13T04:24",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1304,12 +1304,12 @@
    "Fri 11:15 Homes Under the Hammer"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 00:15 Shop on TV",
-   "Fri 03:00 Lingo",
    "Fri 03:50 Unwind with ITV",
    "Fri 05:05 Deal or No Deal",
    "Fri 06:00 Good Morning Britain",
-   "Fri 09:30 Lorraine"
+   "Fri 09:30 Lorraine",
+   "Fri 10:00 This Morning",
+   "Fri 12:30 Loose Women"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
    "Fri 00:00 Live: NFL Commanders @ Giants",
@@ -1320,60 +1320,60 @@
    "Fri 16:00 Live LPGA Tour Golf"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Fri 01:25 The Best of China 2026",
-   "Fri 02:00 The Best of Japan 2026",
-   "Fri 02:15 The Best of Miami 2026",
-   "Fri 03:00 The Best of Canada 2026",
-   "Fri 03:30 The Best of Monaco 2026",
-   "Fri 04:00 The Best of Barcelona 2026"
+   "Fri 04:00 The Best of Barcelona 2026",
+   "Fri 04:30 The Best of Austria 2026",
+   "Fri 05:00 The Best of Britain 2026",
+   "Fri 05:35 The Best of Hungary 2026",
+   "Fri 06:00 British F1 GP Highlights",
+   "Fri 07:00 Belgian F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 01:00 The Traitors",
-   "Fri 02:00 Law & Order: Special Victims Unit",
-   "Fri 03:00 Law & Order",
    "Fri 04:00 Live: News 4 NY at 11",
    "Fri 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Fri 05:35 Late Night With Seth Meyers"
+   "Fri 05:35 Late Night With Seth Meyers",
+   "Fri 06:34 News 4 NY at 11",
+   "Fri 07:09 NBC Nightly News With Tom Llamas",
+   "Fri 07:39 Top Story With Tom Llamas"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 01:00 Live: College Football",
    "Fri 04:00 Live: SportsCenter",
    "Fri 05:00 Live: SportsCenter With Scott Van Pelt",
    "Fri 06:00 Live: SportsCenter With Scott Van Pelt",
    "Fri 07:00 SportsCenter With Scott Van Pelt",
-   "Fri 08:00 SportsCenter With Scott Van Pelt"
+   "Fri 08:00 SportsCenter With Scott Van Pelt",
+   "Fri 09:00 College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 01:00 Live: Anderson Cooper 360",
-   "Fri 02:00 Live: The Source With Kaitlan Collins",
-   "Fri 03:00 Live: CNN NewsNight With Abby Phillip",
    "Fri 04:00 Laura Coates Live",
    "Fri 05:00 Live: The Story Is With Elex Michaelson",
-   "Fri 06:00 Live: The Story Is With Elex Michaelson"
+   "Fri 06:00 Live: The Story Is With Elex Michaelson",
+   "Fri 07:00 Anderson Cooper 360",
+   "Fri 08:00 CNN NewsNight With Abby Phillip",
+   "Fri 09:00 Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 01:00 KTLA 5 News at 5",
-   "Fri 02:00 KTLA 5 News at 6",
-   "Fri 02:30 KTLA 5 News at 6:30",
-   "Fri 03:00 KTLA 5 News at 7",
-   "Fri 03:30 L.A. Unscripted",
-   "Fri 04:00 Scrabble"
+   "Fri 04:00 Scrabble",
+   "Fri 05:00 Trivial Pursuit",
+   "Fri 06:00 KTLA 5 News at 10",
+   "Fri 06:45 KTLA 5 Sports Final",
+   "Fri 07:00 KTLA 5 News at 11",
+   "Fri 07:35 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 01:30 Pierre",
-   "Fri 02:20 Pierre",
    "Fri 03:15 The Rhythm Section",
    "Fri 05:05 Unreported World",
    "Fri 05:30 Sunday Brunch",
-   "Fri 05:45 Kirstie and Phil&apos;s Love It or..."
+   "Fri 05:45 Kirstie and Phil&apos;s Love It or...",
+   "Fri 06:40 Cheers",
+   "Fri 07:05 Cheers"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 01:20 Mock the Week",
-   "Fri 02:00 The Good Place",
-   "Fri 02:35 Dave Gorman: Modern Life Is Goodish",
-   "Fri 03:25 Richard Osman&apos;s House of Games",
    "Fri 04:00 Teleshopping",
-   "Fri 06:00 Teleshopping"
+   "Fri 06:00 Teleshopping",
+   "Fri 07:10 Top Gear",
+   "Fri 08:00 Border Force America&apos;s Gatekeepers",
+   "Fri 09:00 Border Force America&apos;s Gatekeepers",
+   "Fri 10:00 Rick Stein&apos;s Spanish Christmas"
   ]
  },
  "doubleEscaped": 1344,
