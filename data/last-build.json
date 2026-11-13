@@ -1,11 +1,11 @@
 {
- "built": "2026-11-13T04:24",
+ "built": "2026-11-13T07:46",
  "channels": 1894,
- "programmes": 162159,
+ "programmes": 157927,
  "noListings": 1,
  "withLogo": 1728,
- "xmlMB": 79.9,
- "gzMB": 11.6,
+ "xmlMB": 77.6,
+ "gzMB": 11.2,
  "bySite": {
   "epgshare01.online": [
    1443,
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "Red Hot Premium = Red.Hot.Premium.ca2",
-     "Global Calgary = Global.Calgary.ca2",
-     "Fox News Channel = Fox.News.Channel.ca2",
-     "Classical 96FM Toronto (CFMZ-FM) = Classical.96FM.Toronto.(CFMZ-FM).ca2",
-     "Stingray The Light = Stingray.The.Light.ca2",
-     "CFRS = CFRS.ca2"
+     "Sportsnet One Oilers HD = Sportsnet.One.Oilers.HD.ca2",
+     "Univision Canada = Univision.Canada.ca2",
+     "NFL2SC = NFL2SC.ca2",
+     "Fairchild (Vancouver) VCHILD = Fairchild.(Vancouver).VCHILD.ca2",
+     "CHOT-DT = CHOT-DT.ca2",
+     "Crave1 HD = Crave1.HD.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 182
+    "programmes": 169
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 139
+    "programmes": 132
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 2017
+    "programmes": 1921
    },
    "US2": {
     "channels": 230,
     "withListings": 230,
-    "programmes": 19573
+    "programmes": 19097
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84303
+    "programmes": 81369
    },
    "US_SPORTS1": {
     "channels": 22,
