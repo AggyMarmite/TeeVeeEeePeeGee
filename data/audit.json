@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T07:46",
+ "built": "2026-11-13T10:25",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1296,20 +1296,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Fri 06:00 Breakfast",
    "Fri 09:30 Morning Live",
    "Fri 10:45 Dashcam Justice",
    "Fri 11:15 Homes Under the Hammer",
    "Fri 11:15 Homes Under the Hammer",
-   "Fri 12:15 Bargain Hunt: Children in Need 2026"
+   "Fri 12:15 Bargain Hunt: Children in Need 2026",
+   "Fri 13:00 BBC News at One including BBC London News"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 06:00 Good Morning Britain",
-   "Fri 09:30 Lorraine",
    "Fri 10:00 This Morning",
    "Fri 12:30 Loose Women",
    "Fri 13:00 ITV Lunchtime News",
-   "Fri 13:20 ITV News Tyne Tees"
+   "Fri 13:20 ITV News Tyne Tees",
+   "Fri 13:30 ITV Racing: Live from Cheltenham",
+   "Fri 16:00 New: Deal or No Deal"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
    "Fri 07:00 Live DP World Tour Golf",
@@ -1320,60 +1320,60 @@
    "Fri 22:00 Live Tennis: Sabalenka v Svitolina"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Fri 07:00 Belgian F1 GP Highlights",
-   "Fri 08:00 Hungarian F1 GP Highlights",
-   "Fri 09:00 Dutch F1 GP Highlights",
    "Fri 10:00 Sao Paulo F1 GP Highlights",
    "Fri 11:00 Sao Paulo F1 Grand Prix",
-   "Fri 13:30 Ted&apos;s Notebook: Sao Paulo"
+   "Fri 13:30 Ted&apos;s Notebook: Sao Paulo",
+   "Fri 14:00 Sao Paulo F1 GP Highlights",
+   "Fri 15:00 Ted&apos;s Quali Notebook",
+   "Fri 15:30 Sao Paulo F1 Grand Prix"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 07:39 Top Story With Tom Llamas",
-   "Fri 08:30 New York Live Tonight",
-   "Fri 09:00 Early Today",
-   "Fri 09:30 Today in New York",
    "Fri 10:00 Today in New York",
-   "Fri 11:00 Today in New York @ 6AM"
+   "Fri 11:00 Today in New York @ 6AM",
+   "Fri 12:00 Today",
+   "Fri 14:00 Today 3rd Hour",
+   "Fri 15:00 Today With Jenna & Sheinelle",
+   "Fri 16:00 Live: News 4 NY at 11AM"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 07:00 SportsCenter With Scott Van Pelt",
-   "Fri 08:00 SportsCenter With Scott Van Pelt",
    "Fri 09:00 College Football",
    "Fri 11:00 SportsCenter With Scott Van Pelt",
    "Fri 12:00 Live: SportsCenter",
-   "Fri 13:00 Live: Get Up"
+   "Fri 13:00 Live: Get Up",
+   "Fri 15:00 Live: First Take",
+   "Fri 17:00 Live: The Pat McAfee Show"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 07:00 Anderson Cooper 360",
-   "Fri 08:00 CNN NewsNight With Abby Phillip",
-   "Fri 09:00 Anderson Cooper 360",
    "Fri 10:00 Live: CNN Headline Express",
    "Fri 11:00 Live: CNN This Morning",
-   "Fri 12:00 Live: CNN News Central"
+   "Fri 12:00 Live: CNN News Central",
+   "Fri 13:00 Live: CNN News Central",
+   "Fri 14:00 Live: CNN News Central",
+   "Fri 15:00 Live: The Situation Room"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 07:35 Friends",
-   "Fri 08:05 Friends",
-   "Fri 08:35 The Big Bang Theory",
-   "Fri 09:05 The Big Bang Theory",
-   "Fri 09:35 Two and a Half Men",
-   "Fri 10:05 Scrabble"
+   "Fri 10:05 Scrabble",
+   "Fri 10:35 Trivial Pursuit",
+   "Fri 11:05 Police 24/7",
+   "Fri 11:30 Judy Justice",
+   "Fri 12:00 KTLA 5 Morning News at 4",
+   "Fri 12:30 KTLA 5 Morning News at 4:30"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 07:35 The King of Queens",
-   "Fri 08:00 The King of Queens",
-   "Fri 08:25 The King of Queens",
-   "Fri 08:45 Everybody Loves Raymond",
-   "Fri 09:10 Everybody Loves Raymond",
-   "Fri 09:40 Everybody Loves Raymond"
+   "Fri 10:10 Frasier",
+   "Fri 10:40 Frasier",
+   "Fri 11:10 Frasier",
+   "Fri 11:40 Frasier",
+   "Fri 12:10 American Pickers",
+   "Fri 13:05 Channel 4 News Summary"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 07:10 Top Gear",
-   "Fri 08:00 Border Force America&apos;s Gatekeepers",
-   "Fri 09:00 Border Force America&apos;s Gatekeepers",
    "Fri 10:00 Rick Stein&apos;s Spanish Christmas",
    "Fri 11:00 Rick Stein: From Venice to Istanbul",
-   "Fri 12:00 Hairy Bikers&apos; Best of British"
+   "Fri 12:00 Hairy Bikers&apos; Best of British",
+   "Fri 13:00 Great Canal Journeys",
+   "Fri 14:00 Top Gear",
+   "Fri 15:00 How Britain Worked"
   ]
  },
  "doubleEscaped": 1344,
