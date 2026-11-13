@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T22:12",
+ "built": "2026-11-13T01:37",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -87,7 +87,7 @@
   },
   {
    "ch": "US| PBS PORTLAND (KOPB) OR",
-   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KOPB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -141,7 +141,7 @@
   },
   {
    "ch": "US| ABC 10 WICHITA KS (KAKE)",
-   "src": "KAKE-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KAKE-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -243,7 +243,7 @@
   },
   {
    "ch": "US| ABC 7 SAN FRANCISCO CA (KGO)",
-   "src": "KGO-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KGO-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -429,7 +429,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -603,7 +603,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
+   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -675,7 +675,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-CD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -867,7 +867,7 @@
   },
   {
    "ch": "US| ABC 2 ATLANTA GA (WSB)",
-   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -885,7 +885,7 @@
   },
   {
    "ch": "US| ABC 9 CHARLOTTE NC (WSOC)",
-   "src": "WSOC-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WSOC-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -1217,6 +1217,11 @@
  "stale": [],
  "gaps": [
   {
+   "ch": "US| CBS HD",
+   "hours": 7,
+   "src": "tvinsider.com"
+  },
+  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1238,7 +1243,7 @@
   },
   {
    "ch": "US| PBS HD",
-   "hours": 7,
+   "hours": 8,
    "src": "tvinsider.com"
   }
  ],
@@ -1258,8 +1263,8 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1409,
-   "-0500": 30
+   "+0000": 1410,
+   "-0500": 29
   },
   "sky.com": {
    "+0000": 264
@@ -1291,92 +1296,92 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Thu 22:00 BBC News and Weather",
-   "Thu 22:30 BBC London News",
-   "Thu 22:40 Question Time",
-   "Thu 23:40 Newscast",
-   "Thu 23:40 Newscast",
-   "Fri 00:10 Wisdom of the Crowd"
+   "Fri 01:00 BBC News",
+   "Fri 06:00 Breakfast",
+   "Fri 09:30 Morning Live",
+   "Fri 10:45 Dashcam Justice",
+   "Fri 11:15 Homes Under the Hammer",
+   "Fri 11:15 Homes Under the Hammer"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 22:00 ITV News at Ten",
-   "Thu 22:35 ITV News Tyne Tees",
-   "Thu 22:45 Laura&apos;s Story: The Stranger in My Bed",
-   "Thu 23:45 Millionaire Hot Seat",
    "Fri 00:15 Shop on TV",
-   "Fri 03:00 Lingo"
+   "Fri 03:00 Lingo",
+   "Fri 03:50 Unwind with ITV",
+   "Fri 05:05 Deal or No Deal",
+   "Fri 06:00 Good Morning Britain",
+   "Fri 09:30 Lorraine"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 22:00 Live WTA Finals: Pegula v Noskova",
    "Fri 00:00 Live: NFL Commanders @ Giants",
    "Fri 05:15 Sky Sports News",
    "Fri 06:00 Sky Sports News",
    "Fri 07:00 Live DP World Tour Golf",
-   "Fri 13:00 Live PGA Tour Featured Groups"
+   "Fri 13:00 Live PGA Tour Featured Groups",
+   "Fri 16:00 Live LPGA Tour Golf"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Thu 21:00 Sao Paulo F1 Grand Prix",
-   "Thu 23:30 Ted&apos;s Notebook: Sao Paulo",
-   "Fri 00:00 Sao Paulo F1 GP Highlights",
-   "Fri 01:00 The Best of Australia 2026",
    "Fri 01:25 The Best of China 2026",
-   "Fri 02:00 The Best of Japan 2026"
+   "Fri 02:00 The Best of Japan 2026",
+   "Fri 02:15 The Best of Miami 2026",
+   "Fri 03:00 The Best of Canada 2026",
+   "Fri 03:30 The Best of Monaco 2026",
+   "Fri 04:00 The Best of Barcelona 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 22:00 Live: News 4 NY at 5",
-   "Thu 22:30 Live: News 4 NY at 5:30",
-   "Thu 23:00 Live: News 4 NY at 6",
-   "Thu 23:30 NBC Nightly News With Tom Llamas",
-   "Fri 00:00 News 4 NY at 7",
-   "Fri 00:30 New York Live Tonight"
+   "Fri 01:00 The Traitors",
+   "Fri 02:00 Law & Order: Special Victims Unit",
+   "Fri 03:00 Law & Order",
+   "Fri 04:00 Live: News 4 NY at 11",
+   "Fri 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Fri 05:35 Late Night With Seth Meyers"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 22:00 Live: SportsCenter",
-   "Thu 22:30 Live: Pardon the Interruption",
-   "Thu 23:00 Live: SportsCenter",
-   "Fri 00:00 SportsCenter Special",
-   "Fri 00:30 Live: College Football Countdown",
-   "Fri 01:00 Live: College Football"
+   "Fri 01:00 Live: College Football",
+   "Fri 04:00 Live: SportsCenter",
+   "Fri 05:00 Live: SportsCenter With Scott Van Pelt",
+   "Fri 06:00 Live: SportsCenter With Scott Van Pelt",
+   "Fri 07:00 SportsCenter With Scott Van Pelt",
+   "Fri 08:00 SportsCenter With Scott Van Pelt"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 22:00 Live: The Lead With Jake Tapper",
-   "Thu 23:00 Live: The Lead With Jake Tapper",
-   "Fri 00:00 Live: Erin Burnett OutFront",
    "Fri 01:00 Live: Anderson Cooper 360",
    "Fri 02:00 Live: The Source With Kaitlan Collins",
-   "Fri 03:00 Live: CNN NewsNight With Abby Phillip"
+   "Fri 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Fri 04:00 Laura Coates Live",
+   "Fri 05:00 Live: The Story Is With Elex Michaelson",
+   "Fri 06:00 Live: The Story Is With Elex Michaelson"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 22:00 Off the Clock",
-   "Thu 23:00 KTLA 5 News at 3",
-   "Fri 00:00 KTLA 5 News at 4",
    "Fri 01:00 KTLA 5 News at 5",
    "Fri 02:00 KTLA 5 News at 6",
-   "Fri 02:30 KTLA 5 News at 6:30"
+   "Fri 02:30 KTLA 5 News at 6:30",
+   "Fri 03:00 KTLA 5 News at 7",
+   "Fri 03:30 L.A. Unscripted",
+   "Fri 04:00 Scrabble"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 22:00 New: Hunting Alice Bell",
-   "Thu 23:00 New: AI: Probably Nothing to...",
    "Fri 01:30 Pierre",
    "Fri 02:20 Pierre",
    "Fri 03:15 The Rhythm Section",
-   "Fri 05:05 Unreported World"
+   "Fri 05:05 Unreported World",
+   "Fri 05:30 Sunday Brunch",
+   "Fri 05:45 Kirstie and Phil&apos;s Love It or..."
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 22:00 Have I Got a Bit More News for You",
-   "Thu 23:00 Would I Lie To You?",
-   "Thu 23:40 Would I Lie To You?",
-   "Fri 00:20 Taskmaster",
    "Fri 01:20 Mock the Week",
-   "Fri 02:00 The Good Place"
+   "Fri 02:00 The Good Place",
+   "Fri 02:35 Dave Gorman: Modern Life Is Goodish",
+   "Fri 03:25 Richard Osman&apos;s House of Games",
+   "Fri 04:00 Teleshopping",
+   "Fri 06:00 Teleshopping"
   ]
  },
- "doubleEscaped": 1346,
+ "doubleEscaped": 1344,
  "counts": {
   "weakMatches": 1099,
   "sharedIds": 39,
   "stale": 0,
-  "gaps": 5,
+  "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

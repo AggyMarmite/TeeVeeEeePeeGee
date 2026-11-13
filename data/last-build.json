@@ -1,11 +1,11 @@
 {
- "built": "2026-11-12T22:12",
+ "built": "2026-11-13T01:37",
  "channels": 1894,
- "programmes": 128876,
+ "programmes": 164760,
  "noListings": 1,
- "withLogo": 1730,
- "xmlMB": 63.6,
- "gzMB": 8.8,
+ "withLogo": 1728,
+ "xmlMB": 81.1,
+ "gzMB": 11.7,
  "bySite": {
   "epgshare01.online": [
    1443,
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "TLC HD = TLC.HD.uk",
-     "Thats Melody = Thats.Melody.uk",
-     "mta-muslim tv = mta-muslim.tv.uk",
-     "FRANCE 24 HD = FRANCE.24.HD.uk",
-     "HUM EUROPE = HUM.EUROPE.uk",
-     "EasterEpicsHD = EasterEpicsHD.uk"
+     "Virgin Media Four HD = Virgin.Media.Four.HD.uk",
+     "Boomerang+1 = Boomerang+1.uk",
+     "SONY MAX HD = SONY.MAX.HD.uk",
+     "Capital = Capital.uk",
+     "BBC Two HD = BBC.Two.HD.uk",
+     "The Box = The.Box.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "PI KBS World = PI.KBS.World.us2",
-     "Bandamax = Bandamax.us2",
-     "Cleo TV HD = Cleo.TV.HD.us2",
-     "AFN sports2 = AFN.sports2.us2",
-     "BET HD = BET.HD.us2",
-     "Newsy = Newsy.us2"
+     "iCable Finance Info News Channel = iCable.Finance.Info.News.Channel.us2",
+     "A and E HD East = A.and.E.HD.East.us2",
+     "TVE = TVE.us2",
+     "GOL TV = GOL.TV.us2",
+     "NHK World TV = NHK.World.TV.us2",
+     "ABC National Feed = ABC.National.Feed.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WHLA-DT = WHLA-DT.us_locals1",
-     "K50KG-D = K50KG-D.us_locals1",
-     "WJAN-CD = WJAN-CD.us_locals1",
-     "WDTT-LD = WDTT-LD.us_locals1",
-     "K20ID-D = K20ID-D.us_locals1",
-     "WZRB-DT = WZRB-DT.us_locals1"
+     "WEIN-LD = WEIN-LD.us_locals1",
+     "WIWN-DT = WIWN-DT.us_locals1",
+     "K31AE-D = K31AE-D.us_locals1",
+     "WJAC-DT = WJAC-DT.us_locals1",
+     "K18NJ-D = K18NJ-D.us_locals1",
+     "WQEO-LD = WQEO-LD.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 182
+    "programmes": 184
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 153
+    "programmes": 146
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 1574
+    "programmes": 2084
    },
    "US2": {
     "channels": 230,
     "withListings": 230,
-    "programmes": 15580
+    "programmes": 19658
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 68516
+    "programmes": 85699
    },
    "US_SPORTS1": {
     "channels": 22,

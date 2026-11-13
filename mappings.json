@@ -2,7 +2,7 @@
  "version": 1,
  "map": {
   "3ABN.us": {
-   "src": "epgshare01.online|en|US2#3ABN.International.Network.us2",
+   "src": "epgshare01.online|en|US2#3ABN.Proclaim.Network.us2",
    "auto": true
   },
   "5Action.uk": {
@@ -662,7 +662,7 @@
    "auto": true
   },
   "KOPB.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOPB-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOPB-DT.us_locals1",
    "auto": true
   },
   "KRDO.us": {
@@ -710,7 +710,7 @@
    "auto": true
   },
   "loc.ABC (KAKE) Wichita, KS": {
-   "src": "epgshare01.online|en|US_LOCALS1#KAKE-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KAKE-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KATC) Lafayette, LA": {
@@ -778,7 +778,7 @@
    "auto": true
   },
   "loc.ABC (KGO) San Francisco, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KGO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KGO-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (KGTV) San Diego, CA": {
@@ -902,7 +902,7 @@
    "auto": true
   },
   "loc.ABC (KTMF) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (KTNV) Las Vegas, NV": {
@@ -1018,7 +1018,7 @@
    "auto": true
   },
   "loc.ABC (WCTI) New Bern, NC": {
-   "src": "epgshare01.online|en|US_LOCALS1#FOX.(WCTI-TV2).New.Bern,.NC.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCTI-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WCVB) Boston, MA": {
@@ -1066,7 +1066,7 @@
    "auto": true
   },
   "loc.ABC (WHSV) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-CD.us_locals1",
    "auto": true
   },
   "loc.ABC (WHTM) Harrisburg, PA": {
@@ -1194,7 +1194,7 @@
    "auto": true
   },
   "loc.ABC (WSB) Atlanta, GA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (WSET) Lynchburg, VA": {
@@ -1206,7 +1206,7 @@
    "auto": true
   },
   "loc.ABC (WSOC) Charlotte, NC": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSOC-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSOC-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (WSYR) Syracuse, NY": {
@@ -1474,7 +1474,7 @@
    "auto": true
   },
   "loc.CBS (KOLD) Tucson, AZ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOLD-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOLD-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (KOLN) Lincoln, NE": {
@@ -1654,7 +1654,7 @@
    "auto": true
   },
   "loc.CBS (WCBS) New York, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (WCCO) Minneapolis, MN": {
@@ -1958,7 +1958,7 @@
    "auto": true
   },
   "loc.CBS (WWTV) Cadillac, MI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WWTV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WWTV-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (WYOU) Scranton, PA": {
@@ -2050,7 +2050,7 @@
    "auto": true
   },
   "loc.CW (WNLO) Buffalo, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNLO-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNLO-CD.us_locals1",
    "auto": true
   },
   "loc.CW (WNNE-DT2) Plattsburg, NY": {
@@ -2130,7 +2130,7 @@
    "auto": true
   },
   "loc.FOX (KCPQ) Tacoma, WA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KCYU) Tri-Cities, WA": {
@@ -2186,7 +2186,7 @@
    "auto": true
   },
   "loc.FOX (KFXL) Lincoln, NE": {
-   "src": "epgshare01.online|en|US_LOCALS1#KFXL-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KFXL-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KFXO) Bend, OR": {
@@ -2306,7 +2306,7 @@
    "auto": true
   },
   "loc.FOX (KRXI) Reno, NV": {
-   "src": "epgshare01.online|en|US_LOCALS1#KRXI-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KRXI-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KSAS-TV) Wichita, KS": {
@@ -2334,7 +2334,7 @@
    "auto": true
   },
   "loc.FOX (KTMF-DT2) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KTMJ) Topeka, KS": {
@@ -2358,7 +2358,7 @@
    "auto": true
   },
   "loc.FOX (KVCT) Victoria, TX": {
-   "src": "epgshare01.online|en|US_LOCALS1#KVCT-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KVCT-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KVHP) Lake Charles, LA": {
@@ -2530,7 +2530,7 @@
    "auto": true
   },
   "loc.FOX (WHSV-DT2) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-CD.us_locals1",
    "auto": true
   },
   "loc.FOX (WICZ) Binghamton, NY": {
@@ -2690,7 +2690,7 @@
    "auto": true
   },
   "loc.FOX (WTXF) Philadelphia, PA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WTXF-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WTXF-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (WUHF) Rochester, NY": {
@@ -2730,7 +2730,7 @@
    "auto": true
   },
   "loc.FOX (WXMI) Grand Rapids, MI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WXMI-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WXMI-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WXTX) Columbus, GA": {
@@ -3218,7 +3218,7 @@
    "auto": true
   },
   "loc.NBC (WCYB) Bristol, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCYB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCYB-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (WDAM) Laurel, MS": {
@@ -3246,7 +3246,7 @@
    "auto": true
   },
   "loc.NBC (WESH) Winter Park, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WESH-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WESH-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WEYI) Flint, MI": {
@@ -3502,7 +3502,7 @@
    "auto": true
   },
   "loc.NBC (WVIR) Charlottesville, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WVIR-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WVIR-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WVIT) W. Hartford, CT": {
@@ -4004,11 +4004,11 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
    "auto": true
   },
   "name:TV| A3 NEW YORK 04 WNBC NBC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4088,7 +4088,7 @@
    "auto": true
   },
   "name:TV| ATLANTA, GA WSB ABC 2 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
    "auto": true
   },
   "name:TV| ATLANTA, GA WUPA CBS 69 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5082,7 +5082,7 @@
    "auto": true
   },
   "name:TV| SAN FRANCISCO, CA KGO ABC 7 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KGO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KGO-DT.us_locals1",
    "auto": true
   },
   "name:TV| SAN FRANCISCO, CA KNTV NBC 11 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5110,11 +5110,11 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KBTC PBS 28 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KBTC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KBTC-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCPQ FOX 13 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCTS PBS 9 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5402,7 +5402,7 @@
    "auto": true
   },
   "name:TV| VICE ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Vice.HD.us2",
+   "src": "epgshare01.online|en|US2#Vice.us2",
    "auto": true
   },
   "name:TV| WE TV ᴿᴬᵂ": {
@@ -5626,11 +5626,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE FHD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE HD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYANIMATION FHD": {
@@ -5861,7 +5861,7 @@
    "auto": true
   },
   "name:UK| SKY PREMIERE +1": {
-   "src": "epgshare01.online|en|UK1#SkyPremiereHD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Premiere.uk",
    "offset": 1,
    "auto": true
   },
@@ -5962,7 +5962,7 @@
    "auto": true
   },
   "name:US| 69 NEWS (WFMZ) PHILADELPHIA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-LD.us_locals1",
    "auto": true
   },
   "name:US| ABC  2 (KQTV ) ST JOSEPH": {
@@ -7453,7 +7453,7 @@
    "auto": true
   },
   "ViceOnTV.us": {
-   "src": "epgshare01.online|en|US2#Vice.HD.us2",
+   "src": "epgshare01.online|en|US2#Vice.us2",
    "auto": true
   },
   "VirginMediaOne.ie": {
@@ -7497,7 +7497,7 @@
    "auto": true
   },
   "WGAL.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#WGAL-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WGAL-LD.us_locals1",
    "auto": true
   },
   "WGBH.us": {
@@ -7517,7 +7517,7 @@
    "auto": true
   },
   "WJAC.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#WJAC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WJAC-DT.us_locals1",
    "auto": true
   },
   "WKOW.us": {
