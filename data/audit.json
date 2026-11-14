@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T16:02",
+ "built": "2026-11-14T19:15",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -87,7 +87,7 @@
   },
   {
    "ch": "US| PBS PORTLAND (KOPB) OR",
-   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KOPB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -141,7 +141,7 @@
   },
   {
    "ch": "US| ABC 10 WICHITA KS (KAKE)",
-   "src": "KAKE-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KAKE-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -297,7 +297,7 @@
   },
   {
    "ch": "US| ABC 8 LINCOLN NE (KLKN)",
-   "src": "KLKN-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KLKN-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -429,7 +429,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -801,7 +801,7 @@
   },
   {
    "ch": "US| ABC 8 PORTLAND ME (WMTW)",
-   "src": "WMTW-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WMTW-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -1217,7 +1217,7 @@
  "stale": [
   {
    "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 11,
+   "hoursAhead": 8,
    "src": "directv.com"
   }
  ],
@@ -1302,89 +1302,89 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 15:40 Nativity!",
-   "Sat 17:20 BBC News",
-   "Sat 17:30 BBC London News",
-   "Sat 17:35 Weather",
-   "Sat 17:40 The Famous Finish Line",
-   "Sat 18:25 Strictly Come Dancing"
+   "Sat 18:25 Strictly Come Dancing",
+   "Sat 20:00 Michael McIntyre&apos;s The Wheel",
+   "Sat 21:00 Honey",
+   "Sat 21:50 Honey",
+   "Sat 22:40 BBC News",
+   "Sat 22:55 Weather"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 13:40 Wales v New Zealand: Nations Championship",
-   "Sat 16:30 England v Japan: Nations Championship",
-   "Sat 19:00 ITV Evening News",
    "Sat 19:15 ITV News Tyne Tees",
    "Sat 19:30 Ireland v Fiji: Nations Championship",
-   "Sat 22:35 ITV News"
+   "Sat 22:35 ITV News",
+   "Sat 22:45 Terminator Salvation",
+   "Sun 00:55 English Football League Highlights",
+   "Sun 01:55 Shop on TV"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 13:00 Live Grand Slam Of Darts",
    "Sat 17:00 Live EFL: Fleetwood v Tranmere",
    "Sat 19:30 Live Grand Slam Of Darts",
    "Sat 23:00 Live WTA Finals: Semi-Final",
    "Sun 00:00 Live WTA Finals: Doubles SF",
-   "Sun 03:00 Sky Sports News"
+   "Sun 03:00 Sky Sports News",
+   "Sun 04:00 Sky Sports News"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sat 16:00 Mexico City F1 GP Highlights",
-   "Sat 17:00 Sao Paulo F1 GP Highlights",
-   "Sat 18:00 British GB3 Highlights",
    "Sat 19:00 Sao Paulo F1 Grand Prix",
    "Sat 21:30 Ted&apos;s Notebook: Sao Paulo",
-   "Sat 22:00 Las Vegas F1 GP Highlights 2023"
+   "Sat 22:00 Las Vegas F1 GP Highlights 2023",
+   "Sat 23:00 Las Vegas F1 GP Highlights 2024",
+   "Sun 00:00 Las Vegas F1 GP Highlights 2025",
+   "Sun 01:00 The Best of Australia 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 16:00 The Great American Journey",
-   "Sat 16:30 Wild Child",
-   "Sat 17:00 Paid Programming",
-   "Sat 17:30 Paid Programming",
    "Sat 18:00 Live: Women&apos;s College Basketball",
-   "Sat 20:00 Live: College Countdown"
+   "Sat 20:00 Live: College Countdown",
+   "Sat 20:30 Live: College Football",
+   "Sun 00:00 Live: Big Ten Countdown",
+   "Sun 00:30 Live: College Football",
+   "Sun 04:00 Live: News 4 NY at 11"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 14:00 Live: College GameDay",
    "Sat 17:00 Live: College Football",
    "Sat 20:00 Live: College Football",
    "Sat 23:00 Live: College Football Scoreboard",
    "Sat 23:15 Live: College Football",
-   "Sun 02:15 Live: College Football Scoreboard"
+   "Sun 02:15 Live: College Football Scoreboard",
+   "Sun 02:30 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 16:00 Live: The Ted Turner Memorial",
-   "Sat 17:00 The Arena: Saturday",
-   "Sat 18:00 CNN Newsroom With Fredricka Whitfield",
    "Sat 19:00 CNN Newsroom With Fredricka Whitfield",
    "Sat 20:00 CNN Newsroom With Fredricka Whitfield",
-   "Sat 21:00 The Arena: Saturday"
+   "Sat 21:00 The Arena: Saturday",
+   "Sat 22:00 CNN Newsroom",
+   "Sat 23:00 CNN Newsroom",
+   "Sun 00:00 CNN Newsroom"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 15:00 KTLA 5 Morning News at 7",
-   "Sat 17:00 Live: CW College Football Countdown",
    "Sat 17:30 Live: College Football",
    "Sat 21:00 Live: College Football",
    "Sun 00:30 Live: College Football",
-   "Sun 04:00 Live: College Football"
+   "Sun 04:00 Live: College Football",
+   "Sun 07:30 KTLA 5 News at 11",
+   "Sun 08:05 The Silver and Black Show"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 15:40 Four in a Bed",
-   "Sat 16:10 Four in a Bed",
-   "Sat 16:45 Four in a Bed",
-   "Sat 17:15 Four in a Bed",
-   "Sat 17:45 Four in a Bed",
-   "Sat 18:20 The Great British Bake Off"
+   "Sat 18:20 The Great British Bake Off",
+   "Sat 19:30 Channel 4 News",
+   "Sat 20:00 Ottoman Empire by Train with...",
+   "Sat 21:00 New: Griff Across the Alps",
+   "Sat 22:00 New: The F Ward",
+   "Sat 23:00 New: The F Ward"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 15:55 Would I Lie To You?",
-   "Sat 16:30 Would I Lie To You?",
-   "Sat 17:10 Would I Lie To You?",
-   "Sat 17:50 Would I Lie To You?",
-   "Sat 18:30 Jack Dee&apos;s Help Me Tiny Big Brain",
-   "Sat 19:10 Red Dwarf"
+   "Sat 19:10 Red Dwarf",
+   "Sat 19:45 Red Dwarf",
+   "Sat 20:25 Red Dwarf",
+   "Sat 21:00 Not Going Out",
+   "Sat 21:40 Not Going Out",
+   "Sat 22:20 Would I Lie To You?"
   ]
  },
- "doubleEscaped": 1345,
+ "doubleEscaped": 1346,
  "counts": {
-  "weakMatches": 1102,
+  "weakMatches": 1100,
   "sharedIds": 39,
   "stale": 1,
   "gaps": 6,

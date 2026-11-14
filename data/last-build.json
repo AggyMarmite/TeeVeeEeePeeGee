@@ -1,15 +1,15 @@
 {
- "built": "2026-11-14T16:02",
- "channels": 1899,
- "programmes": 138021,
- "noListings": 4,
- "withLogo": 1723,
- "xmlMB": 68.3,
- "gzMB": 10.1,
+ "built": "2026-11-14T19:15",
+ "channels": 1896,
+ "programmes": 148314,
+ "noListings": 1,
+ "withLogo": 1720,
+ "xmlMB": 73.1,
+ "gzMB": 10.3,
  "bySite": {
   "epgshare01.online": [
    1443,
-   3
+   0
   ],
   "sky.com": [
    264,
@@ -97,12 +97,12 @@
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "KTUL-LD = KTUL-LD.us_locals1",
-     "KHVO-DT = KHVO-DT.us_locals1",
-     "KDCU-DT = KDCU-DT.us_locals1",
-     "WFEF-LD = WFEF-LD.us_locals1",
-     "WICU-DT = WICU-DT.us_locals1",
-     "W29EE-D = W29EE-D.us_locals1"
+     "K19LV-D = K19LV-D.us_locals1",
+     "KFMS-LD = KFMS-LD.us_locals1",
+     "K51GG-D = K51GG-D.us_locals1",
+     "W46DF-D = W46DF-D.us_locals1",
+     "KMOL-LD = KMOL-LD.us_locals1",
+     "KVEO-DT = KVEO-DT.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -126,22 +126,22 @@
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 150
+    "programmes": 149
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 1711
+    "programmes": 1620
    },
    "US2": {
-    "channels": 231,
-    "withListings": 231,
-    "programmes": 17089
+    "channels": 230,
+    "withListings": 230,
+    "programmes": 16214
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 71267
+    "programmes": 82191
    },
    "US_SPORTS1": {
     "channels": 22,
