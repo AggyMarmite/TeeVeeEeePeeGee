@@ -1,51 +1,51 @@
 {
- "built": "2026-11-13T22:09",
- "channels": 1894,
- "programmes": 124309,
- "noListings": 1,
- "withLogo": 1728,
- "xmlMB": 61.3,
- "gzMB": 8.9,
+ "built": "2026-11-14T01:32",
+ "channels": 1929,
+ "programmes": 160464,
+ "noListings": 83,
+ "withLogo": 1742,
+ "xmlMB": 79.6,
+ "gzMB": 11.7,
  "bySite": {
   "epgshare01.online": [
-   1443,
-   0
+   1445,
+   12
+  ],
+  "tv24.co.uk": [
+   40,
+   33
   ],
   "sky.com": [
-   264,
-   0
+   257,
+   5
   ],
   "tvinsider.com": [
    73,
    0
   ],
-  "tv24.co.uk": [
-   54,
-   1
+  "directv.com": [
+   4,
+   4
   ],
   "mytelly.co.uk": [
-   11,
-   0
+   0,
+   25
   ],
   "freeview.co.uk": [
-   26,
-   0
+   24,
+   1
   ],
   "virgintvgo.virginmedia.com": [
-   4,
-   0
+   1,
+   2
   ],
   "player.ee.co.uk": [
-   6,
-   0
-  ],
-  "directv.com": [
-   3,
+   2,
    0
   ],
   "dazn.com": [
-   9,
-   0
+   0,
+   1
   ]
  },
  "epgshare": {
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Virgin Media Four HD = Virgin.Media.Four.HD.uk",
-     "Boomerang+1 = Boomerang+1.uk",
-     "SONY MAX HD = SONY.MAX.HD.uk",
-     "Capital = Capital.uk",
-     "BBC Two HD = BBC.Two.HD.uk",
-     "The Box = The.Box.uk"
+     "Discovery+1 = Discovery+1.uk",
+     "Hits Radio = Hits.Radio.uk",
+     "WION HD = WION.HD.uk",
+     "Cartoon Net HD = Cartoon.Net.HD.uk",
+     "NTV = NTV.uk",
+     "Thats TV = Thats.TV.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "iCable Finance Info News Channel = iCable.Finance.Info.News.Channel.us2",
-     "A and E HD East = A.and.E.HD.East.us2",
-     "TVE = TVE.us2",
-     "GOL TV = GOL.TV.us2",
-     "NHK World TV = NHK.World.TV.us2",
-     "ABC National Feed = ABC.National.Feed.us2"
+     "Nick Jr HD = Nick.Jr.HD.us2",
+     "Cinemax HD (Pacific) = Cinemax.HD.(Pacific).us2",
+     "ESPN8 The Ocho = ESPN8.The.Ocho.us2",
+     "Little Saigon Radio Channel = Little.Saigon.Radio.Channel.us2",
+     "MSG Sportsnet Zone 3 (MSG WNY) = MSG.Sportsnet.Zone.3.(MSG.WNY).us2",
+     "Spectrum SportsNet LA Dodgers HD = Spectrum.SportsNet.LA.Dodgers.HD.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WEIN-LD = WEIN-LD.us_locals1",
-     "WIWN-DT = WIWN-DT.us_locals1",
-     "K31AE-D = K31AE-D.us_locals1",
-     "WJAC-DT = WJAC-DT.us_locals1",
-     "K18NJ-D = K18NJ-D.us_locals1",
-     "WQEO-LD = WQEO-LD.us_locals1"
+     "KTUL-LD = KTUL-LD.us_locals1",
+     "KHVO-DT = KHVO-DT.us_locals1",
+     "KDCU-DT = KDCU-DT.us_locals1",
+     "WFEF-LD = WFEF-LD.us_locals1",
+     "WICU-DT = WICU-DT.us_locals1",
+     "W29EE-D = W29EE-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 185
+    "programmes": 190
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 149
+    "programmes": 145
    },
    "UK1": {
-    "channels": 30,
-    "withListings": 30,
-    "programmes": 1517
+    "channels": 41,
+    "withListings": 29,
+    "programmes": 2044
    },
    "US2": {
-    "channels": 230,
-    "withListings": 230,
-    "programmes": 15381
+    "channels": 231,
+    "withListings": 231,
+    "programmes": 19749
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 64901
+    "programmes": 84624
    },
    "US_SPORTS1": {
     "channels": 22,
