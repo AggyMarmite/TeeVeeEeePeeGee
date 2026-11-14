@@ -118,7 +118,7 @@
    "auto": true
   },
   "BBCOneNorthernIreland.uk": {
-   "src": "mytelly.co.uk|en|1/bbc-one-northern-ireland",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "BBCOneNorthWest.uk": {
@@ -413,14 +413,6 @@
    "src": "sky.com|en|GB#4604",
    "auto": true
   },
-  "Eurosport 2 HD.uk": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
-   "auto": true
-  },
-  "Eurosport.1.HD.uk": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
-   "auto": true
-  },
   "FaithTV.us": {
    "src": "sky.com|en|GB#4404",
    "auto": true
@@ -542,7 +534,7 @@
    "auto": true
   },
   "HGTV.uk": {
-   "src": "virgintvgo.virginmedia.com|en|244",
+   "src": "player.ee.co.uk|en|dvb://233a..6d60",
    "auto": true
   },
   "HGTV.us": {
@@ -3574,7 +3566,7 @@
    "auto": true
   },
   "LondonLive.uk": {
-   "src": "virgintvgo.virginmedia.com|en|1767",
+   "src": "freeview.co.uk|en|64257#32842",
    "auto": true
   },
   "LoveNature.ca": {
@@ -3653,16 +3645,8 @@
    "src": "epgshare01.online|en|US2#MTV.Classic.us2",
    "auto": true
   },
-  "MTVHits.uk": {
-   "src": "virgintvgo.virginmedia.com|en|259",
-   "auto": true
-  },
   "MTVLive.us": {
    "src": "epgshare01.online|en|US2#MTVLIVE.us2",
-   "auto": true
-  },
-  "MTVMusic.uk": {
-   "src": "virgintvgo.virginmedia.com|en|1733",
    "auto": true
   },
   "MUTV.uk": {
@@ -3680,7 +3664,7 @@
    "src": "player.ee.co.uk|en|http://bds.tv/services/BT_768397"
   },
   "name:BG| EUROSPORT2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:BG| FIGHT NETWORK HD": {
@@ -3692,7 +3676,7 @@
    "auto": true
   },
   "name:CL| GOLF CHANNEL": {
-   "src": "epgshare01.online|en|CA2#Golf.Channel.HD.ca2",
+   "src": "epgshare01.online|en|CA2#Golf.Channel.ca2",
    "auto": true
   },
   "name:DE| EUROSPORT 1 HD": {
@@ -3804,11 +3788,11 @@
    "auto": true
   },
   "name:FL| EUROSPORT 1 HD": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:FL| EUROSPORT 2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:FR| EUROSPORT 1 FHD": {
@@ -3816,19 +3800,19 @@
    "auto": true
   },
   "name:FR| EUROSPORT 2 FHD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:FR| GOLF CHANNEL HD": {
-   "src": "epgshare01.online|en|CA2#Golf.Channel.HD.ca2",
+   "src": "epgshare01.online|en|CA2#Golf.Channel.ca2",
    "auto": true
   },
   "name:GR| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:GR| EUROSPORT 2": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:IR| VIRGIN MEDIA FOUR": {
@@ -3884,11 +3868,11 @@
    "auto": true
   },
   "name:LV| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:LV| EUROSPORT 2": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:MLS Austin FC": {
@@ -3984,7 +3968,7 @@
    "auto": true
   },
   "name:NL| EUROSPORT 2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:PL| EURONEWS HD": {
@@ -3996,23 +3980,23 @@
    "auto": true
   },
   "name:PL| EUROSPORT 2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:RO| EUROSPORT 1 HD": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:RO| EUROSPORT 2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:SR| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:SR| EUROSPORT 2": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
+   "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
   "name:TV| A&E ᴿᴬᵂ": {
@@ -5478,7 +5462,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE LONDON": {
-   "src": "mytelly.co.uk|en|2366/bbc-one-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..1044",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NI": {
@@ -5803,7 +5787,7 @@
    "auto": true
   },
   "name:UK| ITV 1 WEST COUNTRY WEST FHD": {
-   "src": "mytelly.co.uk|en|48/itv1-west-country",
+   "src": "mytelly.co.uk|en|2044/itv1-west-country-hd",
    "auto": true
   },
   "name:UK| ITV 2 ᴴᴰ": {
@@ -5835,7 +5819,7 @@
    "auto": true
   },
   "name:UK| ITV1 LONDON FHD": {
-   "src": "mytelly.co.uk|en|1560/itv1-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..2045",
    "auto": true
   },
   "name:UK| MORE 4 +1": {
@@ -6884,7 +6868,7 @@
    "auto": true
   },
   "SkyMax.uk": {
-   "src": "tv24.co.uk|en|sky-max-sd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "SkyNature.uk": {
@@ -6897,14 +6881,6 @@
   },
   "SkyPremiere.uk": {
    "src": "sky.com|en|GB#4021",
-   "auto": true
-  },
-  "SkyReplay.uk": {
-   "src": "tv24.co.uk|en|sky-2",
-   "auto": true
-  },
-  "SkyShowcase.uk": {
-   "src": "virgintvgo.virginmedia.com|en|1548",
    "auto": true
   },
   "SkySportsAction.uk": {
@@ -7163,7 +7139,7 @@
    "auto": true
   },
   "uk.BBC1 London": {
-   "src": "mytelly.co.uk|en|2366/bbc-one-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..1044",
    "auto": true
   },
   "uk.BBC1 West": {
@@ -7218,23 +7194,15 @@
    "src": "sky.com|en|GB#4604",
    "auto": true
   },
-  "uk.Eurosport 1": {
-   "src": "mytelly.co.uk|en|275/eurosport-1",
-   "auto": true
-  },
   "uk.Eurosport 2": {
    "src": "tv24.co.uk|en|eurosport-2"
-  },
-  "uk.Eurosport 2 HD": {
-   "src": "mytelly.co.uk|en|1745/eurosport-2-hd",
-   "auto": true
   },
   "uk.GOLD HD": {
    "src": "sky.com|en|GB#6513",
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "mytelly.co.uk|en|1900/itvbe",
+   "src": "tv24.co.uk|en|itvbe-hd",
    "auto": true
   },
   "uk.ITV Central": {
@@ -7244,10 +7212,6 @@
   },
   "uk.MTV HD": {
    "src": "sky.com|en|GB#3831",
-   "auto": true
-  },
-  "uk.MTV Live HD": {
-   "src": "virgintvgo.virginmedia.com|en|1404",
    "auto": true
   },
   "uk.QVC Beauty": {

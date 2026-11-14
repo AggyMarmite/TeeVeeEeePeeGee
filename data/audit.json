@@ -1,6 +1,12 @@
 {
- "built": "2026-11-14T04:19",
+ "built": "2026-11-14T07:32",
  "weakMatches": [
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC One HD · tv24.co.uk",
+   "score": 84,
+   "auto": true
+  },
   {
    "ch": "US| KTLA LOS ANGELES HD",
    "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
@@ -28,6 +34,12 @@
   {
    "ch": "4K| ESPN UHD",
    "src": "ESPN HD · epgshare01.online US2 US",
+   "score": 94,
+   "auto": true
+  },
+  {
+   "ch": "D+| HGTV",
+   "src": "TLC · player.ee.co.uk",
    "score": 94,
    "auto": true
   },
@@ -888,18 +900,6 @@
    "src": "WSYX-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 4 PITTSBURGH PA (WTAE)",
-   "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
-  },
-  {
-   "ch": "US| ABC 10 ALBANY NY (WTEN)",
-   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1154,13 +1154,6 @@
    ]
   },
   {
-   "tvgId": "uk.Eurosport 2 HD",
-   "names": [
-    "UK| EUROSPORT 2 FHD",
-    "UK| EUROSPORTS 2 HEVC HD"
-   ]
-  },
-  {
    "tvgId": "uk.Sky Sports Main Event",
    "names": [
     "4K| SKY SPORTS MAIN EVENTS UHD",
@@ -1224,17 +1217,17 @@
  "stale": [
   {
    "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 6,
+   "hoursAhead": 3,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 6,
+   "hoursAhead": 3,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 6,
+   "hoursAhead": 3,
    "src": "epgshare01.online"
   }
  ],
@@ -1290,106 +1283,119 @@
    "-0500": 33
   },
   "sky.com": {
-   "+0000": 259
+   "+0000": 264
   },
   "tvinsider.com": {
    "+0000": 71
   },
   "tv24.co.uk": {
-   "+0000": 64
+   "+0000": 65
   },
   "freeview.co.uk": {
-   "+0000": 25
+   "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 2
+   "+0000": 3
   },
   "player.ee.co.uk": {
-   "+0000": 2
+   "+0000": 6
+  },
+  "dazn.com": {
+   "+0000": 9
   },
   "directv.com": {
    "+0000": 4
+  },
+  "mytelly.co.uk": {
+   "+0000": 1
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [],
+  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
+   "Sat 06:00 Breakfast",
+   "Sat 09:15 Saturday Kitchen Live",
+   "Sat 10:45 The Lord Mayor&apos;s Show",
+   "Sat 10:45 The Lord Mayor&apos;s Show",
+   "Sat 12:05 Bargain Hunt",
+   "Sat 13:00 BBC News"
+  ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 03:50 Unwind with ITV",
-   "Sat 05:05 Deal or No Deal",
-   "Sat 06:00 James Martin&apos;s French Adventure",
-   "Sat 06:30 James Martin&apos;s American Adventure",
    "Sat 07:30 Love Your Weekend with Alan Titchmarsh",
-   "Sat 09:25 ITV News"
+   "Sat 09:25 ITV News",
+   "Sat 09:30 New: James Martin&apos;s Saturday Morning",
+   "Sat 11:00 Italy v Argentina: Nations Championship",
+   "Sat 13:40 Wales v New Zealand: Nations Championship",
+   "Sat 16:30 England v Japan: Nations Championship"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 04:00 Sky Sports News",
-   "Sat 05:00 Sky Sports News",
-   "Sat 06:00 Sky Sports News",
    "Sat 07:00 Live DP World Tour Golf",
    "Sat 13:00 Live Grand Slam Of Darts",
-   "Sat 17:00 Live EFL: Fleetwood v Tranmere"
+   "Sat 17:00 Live EFL: Fleetwood v Tranmere",
+   "Sat 19:30 Live Grand Slam Of Darts",
+   "Sat 23:00 Live WTA Finals: Semi-Final",
+   "Sun 00:00 Live WTA Finals: Doubles SF"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sat 04:00 The Best of Australia 2026",
-   "Sat 04:25 The Best of China 2026",
-   "Sat 05:00 The Best of Japan 2026",
-   "Sat 05:15 The Best of Miami 2026",
-   "Sat 06:00 Italian F1 GP Highlights",
-   "Sat 07:00 Spanish F1 GP Highlights"
+   "Sat 07:00 Spanish F1 GP Highlights",
+   "Sat 08:00 Azerbaijan F1 GP Highlights",
+   "Sat 09:00 Bahrain F1 GP Highlights",
+   "Sat 10:00 British GB3 Highlights",
+   "Sat 11:00 Spanish F1 GP Highlights",
+   "Sat 12:00 Azerbaijan F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 04:00 Live: News 4 NY at 11",
-   "Sat 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Sat 05:35 Late Night With Seth Meyers",
-   "Sat 06:34 News 4 NY at 11",
    "Sat 07:09 NBC Nightly News With Tom Llamas",
-   "Sat 07:39 Top Story With Tom Llamas"
+   "Sat 07:39 Top Story With Tom Llamas",
+   "Sat 08:30 New York Live Tonight",
+   "Sat 09:00 1st Look",
+   "Sat 09:30 Under Eye Bags? SOLUTION!",
+   "Sat 10:00 Open House Outrageous"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 03:15 Live: College Football",
-   "Sat 06:15 Live: SportsCenter",
    "Sat 07:15 Live: SportsCenter",
    "Sat 08:15 SportsCenter",
    "Sat 09:00 College Football",
-   "Sat 11:00 SportsCenter"
+   "Sat 11:00 SportsCenter",
+   "Sat 12:00 Live: SportsCenter",
+   "Sat 14:00 Live: College GameDay"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 04:00 Laura Coates Live",
-   "Sat 05:00 Live: The Story Is With Elex Michaelson",
-   "Sat 06:00 Live: The Story Is With Elex Michaelson",
    "Sat 07:00 Anderson Cooper 360",
    "Sat 08:00 CNN NewsNight With Abby Phillip",
-   "Sat 09:00 Anderson Cooper 360"
+   "Sat 09:00 Anderson Cooper 360",
+   "Sat 10:00 CNN Newsroom Live",
+   "Sat 11:00 CNN This Morning Weekend",
+   "Sat 12:00 CNN This Morning Weekend"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 03:30 Live: NBA Basketball",
-   "Sat 06:00 KTLA 5 News at 10",
-   "Sat 06:45 KTLA 5 Sports Final",
    "Sat 07:00 KTLA 5 News at 11",
    "Sat 07:35 Friends",
-   "Sat 08:05 Friends"
+   "Sat 08:05 Friends",
+   "Sat 08:35 The Big Bang Theory",
+   "Sat 09:05 The Big Bang Theory",
+   "Sat 09:35 Two and a Half Men"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 03:45 The Great British Bake Off:...",
-   "Sat 04:25 Come Dine with Me",
-   "Sat 04:50 Come Dine with Me",
-   "Sat 05:15 Come Dine with Me",
-   "Sat 05:45 Come Dine with Me",
-   "Sat 06:10 Come Dine with Me"
+   "Sat 07:20 Cheers",
+   "Sat 07:45 Cheers",
+   "Sat 08:15 Cheers",
+   "Sat 08:40 Cheers",
+   "Sat 09:10 Everybody Loves Raymond",
+   "Sat 09:40 Everybody Loves Raymond"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 04:00 Teleshopping",
-   "Sat 06:00 Teleshopping",
    "Sat 07:00 Lazy Boy Garage",
    "Sat 07:35 Top Gear",
    "Sat 08:30 Rick Stein&apos;s Spanish Christmas",
-   "Sat 09:30 Rick Stein: From Venice to Istanbul"
+   "Sat 09:30 Rick Stein: From Venice to Istanbul",
+   "Sat 10:30 Top Gear",
+   "Sat 12:10 Top Gear: Winter Olympics Special"
   ]
  },
  "doubleEscaped": 1345,
  "counts": {
-  "weakMatches": 1089,
-  "sharedIds": 40,
+  "weakMatches": 1102,
+  "sharedIds": 39,
   "stale": 3,
   "gaps": 6,
   "overlaps": 0,
