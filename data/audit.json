@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T01:32",
+ "built": "2026-11-14T04:19",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1161,13 +1161,6 @@
    ]
   },
   {
-   "tvgId": "uk.ITV Granada",
-   "names": [
-    "UK| ITV +1 GRANADA",
-    "UK| ITV GRANADA"
-   ]
-  },
-  {
    "tvgId": "uk.Sky Sports Main Event",
    "names": [
     "4K| SKY SPORTS MAIN EVENTS UHD",
@@ -1231,17 +1224,17 @@
  "stale": [
   {
    "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 9,
+   "hoursAhead": 6,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 9,
+   "hoursAhead": 6,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 9,
+   "hoursAhead": 6,
    "src": "epgshare01.online"
   }
  ],
@@ -1293,110 +1286,110 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1408,
+   "+0000": 1409,
    "-0500": 33
   },
   "sky.com": {
-   "+0000": 257
+   "+0000": 259
   },
   "tvinsider.com": {
    "+0000": 71
   },
   "tv24.co.uk": {
-   "+0000": 40
+   "+0000": 64
   },
   "freeview.co.uk": {
-   "+0000": 24
+   "+0000": 25
+  },
+  "virgintvgo.virginmedia.com": {
+   "+0000": 2
   },
   "player.ee.co.uk": {
    "+0000": 2
   },
   "directv.com": {
    "+0000": 4
-  },
-  "virgintvgo.virginmedia.com": {
-   "+0000": 1
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
+  "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 01:15 Shop on TV",
-   "Sat 03:00 Lingo",
    "Sat 03:50 Unwind with ITV",
    "Sat 05:05 Deal or No Deal",
    "Sat 06:00 James Martin&apos;s French Adventure",
-   "Sat 06:30 James Martin&apos;s American Adventure"
+   "Sat 06:30 James Martin&apos;s American Adventure",
+   "Sat 07:30 Love Your Weekend with Alan Titchmarsh",
+   "Sat 09:25 ITV News"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 00:00 Live WTA Finals: Day 6 Doubles",
-   "Sat 03:00 Sky Sports News",
    "Sat 04:00 Sky Sports News",
    "Sat 05:00 Sky Sports News",
    "Sat 06:00 Sky Sports News",
-   "Sat 07:00 Live DP World Tour Golf"
+   "Sat 07:00 Live DP World Tour Golf",
+   "Sat 13:00 Live Grand Slam Of Darts",
+   "Sat 17:00 Live EFL: Fleetwood v Tranmere"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sat 01:30 The Best of Monaco 2026",
-   "Sat 02:00 The Best of Barcelona 2026",
-   "Sat 02:30 The Best of Austria 2026",
-   "Sat 03:00 The Best of Britain 2026",
-   "Sat 03:35 The Best of Hungary 2026",
-   "Sat 04:00 The Best of Australia 2026"
+   "Sat 04:00 The Best of Australia 2026",
+   "Sat 04:25 The Best of China 2026",
+   "Sat 05:00 The Best of Japan 2026",
+   "Sat 05:15 The Best of Miami 2026",
+   "Sat 06:00 Italian F1 GP Highlights",
+   "Sat 07:00 Spanish F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 01:30 Newlyweds",
-   "Sat 02:01 Dateline NBC",
    "Sat 04:00 Live: News 4 NY at 11",
    "Sat 04:34 The Tonight Show Starring Jimmy Fallon",
    "Sat 05:35 Late Night With Seth Meyers",
-   "Sat 06:34 News 4 NY at 11"
+   "Sat 06:34 News 4 NY at 11",
+   "Sat 07:09 NBC Nightly News With Tom Llamas",
+   "Sat 07:39 Top Story With Tom Llamas"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 00:00 Live: College Football",
-   "Sat 03:00 Live: College Football Scoreboard",
    "Sat 03:15 Live: College Football",
    "Sat 06:15 Live: SportsCenter",
    "Sat 07:15 Live: SportsCenter",
-   "Sat 08:15 SportsCenter"
+   "Sat 08:15 SportsCenter",
+   "Sat 09:00 College Football",
+   "Sat 11:00 SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 01:00 Live: Anderson Cooper 360",
-   "Sat 02:00 Live: The Source With Kaitlan Collins",
-   "Sat 03:00 Live: CNN NewsNight With Abby Phillip",
    "Sat 04:00 Laura Coates Live",
    "Sat 05:00 Live: The Story Is With Elex Michaelson",
-   "Sat 06:00 Live: The Story Is With Elex Michaelson"
+   "Sat 06:00 Live: The Story Is With Elex Michaelson",
+   "Sat 07:00 Anderson Cooper 360",
+   "Sat 08:00 CNN NewsNight With Abby Phillip",
+   "Sat 09:00 Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 01:00 Live: College Basketball",
-   "Sat 03:00 KTLA 5 News at 7",
    "Sat 03:30 Live: NBA Basketball",
    "Sat 06:00 KTLA 5 News at 10",
    "Sat 06:45 KTLA 5 Sports Final",
-   "Sat 07:00 KTLA 5 News at 11"
+   "Sat 07:00 KTLA 5 News at 11",
+   "Sat 07:35 Friends",
+   "Sat 08:05 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 01:10 This Is England",
-   "Sat 02:55 Ramsay&apos;s 24 Hours to Hell and Back",
    "Sat 03:45 The Great British Bake Off:...",
    "Sat 04:25 Come Dine with Me",
    "Sat 04:50 Come Dine with Me",
-   "Sat 05:15 Come Dine with Me"
+   "Sat 05:15 Come Dine with Me",
+   "Sat 05:45 Come Dine with Me",
+   "Sat 06:10 Come Dine with Me"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 01:20 Mock the Week",
-   "Sat 02:00 The Good Place",
-   "Sat 02:35 QI XL",
-   "Sat 03:25 Richard Osman&apos;s House of Games",
    "Sat 04:00 Teleshopping",
-   "Sat 06:00 Teleshopping"
+   "Sat 06:00 Teleshopping",
+   "Sat 07:00 Lazy Boy Garage",
+   "Sat 07:35 Top Gear",
+   "Sat 08:30 Rick Stein&apos;s Spanish Christmas",
+   "Sat 09:30 Rick Stein: From Venice to Istanbul"
   ]
  },
  "doubleEscaped": 1345,
  "counts": {
-  "weakMatches": 1091,
-  "sharedIds": 41,
+  "weakMatches": 1089,
+  "sharedIds": 40,
   "stale": 3,
   "gaps": 6,
   "overlaps": 0,
