@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T07:32",
+ "built": "2026-11-14T10:11",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1216,18 +1216,23 @@
  ],
  "stale": [
   {
+   "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
+   "hoursAhead": 17,
+   "src": "directv.com"
+  },
+  {
    "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 3,
+   "hoursAhead": 0,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 3,
+   "hoursAhead": 0,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 3,
+   "hoursAhead": 0,
    "src": "epgshare01.online"
   }
  ],
@@ -1295,7 +1300,7 @@
    "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 3
+   "+0000": 4
   },
   "player.ee.co.uk": {
    "+0000": 6
@@ -1312,20 +1317,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 06:00 Breakfast",
    "Sat 09:15 Saturday Kitchen Live",
    "Sat 10:45 The Lord Mayor&apos;s Show",
    "Sat 10:45 The Lord Mayor&apos;s Show",
    "Sat 12:05 Bargain Hunt",
-   "Sat 13:00 BBC News"
+   "Sat 13:00 BBC News",
+   "Sat 13:10 Weather"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 07:30 Love Your Weekend with Alan Titchmarsh",
-   "Sat 09:25 ITV News",
    "Sat 09:30 New: James Martin&apos;s Saturday Morning",
    "Sat 11:00 Italy v Argentina: Nations Championship",
    "Sat 13:40 Wales v New Zealand: Nations Championship",
-   "Sat 16:30 England v Japan: Nations Championship"
+   "Sat 16:30 England v Japan: Nations Championship",
+   "Sat 19:00 ITV Evening News",
+   "Sat 19:15 ITV News Tyne Tees"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
    "Sat 07:00 Live DP World Tour Golf",
@@ -1336,67 +1341,67 @@
    "Sun 00:00 Live WTA Finals: Doubles SF"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sat 07:00 Spanish F1 GP Highlights",
-   "Sat 08:00 Azerbaijan F1 GP Highlights",
-   "Sat 09:00 Bahrain F1 GP Highlights",
    "Sat 10:00 British GB3 Highlights",
    "Sat 11:00 Spanish F1 GP Highlights",
-   "Sat 12:00 Azerbaijan F1 GP Highlights"
+   "Sat 12:00 Azerbaijan F1 GP Highlights",
+   "Sat 13:00 Bahrain F1 GP Highlights",
+   "Sat 14:00 Singapore F1 GP Highlights",
+   "Sat 15:00 US F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 07:09 NBC Nightly News With Tom Llamas",
-   "Sat 07:39 Top Story With Tom Llamas",
-   "Sat 08:30 New York Live Tonight",
-   "Sat 09:00 1st Look",
-   "Sat 09:30 Under Eye Bags? SOLUTION!",
-   "Sat 10:00 Open House Outrageous"
+   "Sat 10:00 Open House Outrageous",
+   "Sat 10:30 Open House NYC",
+   "Sat 11:00 Saturday Today in New York",
+   "Sat 12:00 Today",
+   "Sat 13:30 Saturday Today Extra",
+   "Sat 14:00 Saturday Today in New York"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 07:15 Live: SportsCenter",
-   "Sat 08:15 SportsCenter",
    "Sat 09:00 College Football",
    "Sat 11:00 SportsCenter",
    "Sat 12:00 Live: SportsCenter",
-   "Sat 14:00 Live: College GameDay"
+   "Sat 14:00 Live: College GameDay",
+   "Sat 17:00 Live: College Football",
+   "Sat 20:00 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 07:00 Anderson Cooper 360",
-   "Sat 08:00 CNN NewsNight With Abby Phillip",
-   "Sat 09:00 Anderson Cooper 360",
    "Sat 10:00 CNN Newsroom Live",
    "Sat 11:00 CNN This Morning Weekend",
-   "Sat 12:00 CNN This Morning Weekend"
+   "Sat 12:00 CNN This Morning Weekend",
+   "Sat 13:00 First of All With Victor Blackwell",
+   "Sat 14:00 Live: Smerconish",
+   "Sat 15:00 CNN Table for Five"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 07:00 KTLA 5 News at 11",
-   "Sat 07:35 Friends",
-   "Sat 08:05 Friends",
-   "Sat 08:35 The Big Bang Theory",
-   "Sat 09:05 The Big Bang Theory",
-   "Sat 09:35 Two and a Half Men"
+   "Sat 10:05 Scrabble",
+   "Sat 10:35 Trivial Pursuit",
+   "Sat 11:01 Cindy Crawford talks about the latest breakthroughs in skincare",
+   "Sat 11:31 Paid Programming",
+   "Sat 12:00 American Trends & Lifestyle",
+   "Sat 12:30 Popstar! Today"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 07:20 Cheers",
-   "Sat 07:45 Cheers",
-   "Sat 08:15 Cheers",
-   "Sat 08:40 Cheers",
-   "Sat 09:10 Everybody Loves Raymond",
-   "Sat 09:40 Everybody Loves Raymond"
+   "Sat 10:10 Everybody Loves Raymond",
+   "Sat 10:40 Frasier",
+   "Sat 11:05 Frasier",
+   "Sat 11:35 Frasier",
+   "Sat 12:05 The Simpsons",
+   "Sat 12:35 The Simpsons"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 07:00 Lazy Boy Garage",
-   "Sat 07:35 Top Gear",
-   "Sat 08:30 Rick Stein&apos;s Spanish Christmas",
    "Sat 09:30 Rick Stein: From Venice to Istanbul",
    "Sat 10:30 Top Gear",
-   "Sat 12:10 Top Gear: Winter Olympics Special"
+   "Sat 12:10 Top Gear: Winter Olympics Special",
+   "Sat 13:15 Would I Lie To You?",
+   "Sat 13:55 Would I Lie To You?",
+   "Sat 14:35 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1345,
  "counts": {
   "weakMatches": 1102,
   "sharedIds": 39,
-  "stale": 3,
+  "stale": 4,
   "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,

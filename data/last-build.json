@@ -1,11 +1,11 @@
 {
- "built": "2026-11-14T07:32",
+ "built": "2026-11-14T10:11",
  "channels": 1899,
- "programmes": 160573,
- "noListings": 2,
- "withLogo": 1722,
- "xmlMB": 79.3,
- "gzMB": 11.7,
+ "programmes": 153601,
+ "noListings": 1,
+ "withLogo": 1723,
+ "xmlMB": 75.9,
+ "gzMB": 11.2,
  "bySite": {
   "epgshare01.online": [
    1446,
@@ -21,14 +21,14 @@
   ],
   "tv24.co.uk": [
    65,
-   2
+   1
   ],
   "freeview.co.uk": [
    26,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   3,
+   4,
    0
   ],
   "player.ee.co.uk": [
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 182
+    "programmes": 192
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 136
+    "programmes": 132
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 1953
+    "programmes": 1896
    },
    "US2": {
     "channels": 231,
     "withListings": 231,
-    "programmes": 19255
+    "programmes": 18637
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 81036
+    "programmes": 79031
    },
    "US_SPORTS1": {
     "channels": 22,
