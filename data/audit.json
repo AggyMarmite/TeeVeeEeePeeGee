@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14T10:11",
+ "built": "2026-11-14T13:21",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1217,23 +1217,8 @@
  "stale": [
   {
    "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 17,
+   "hoursAhead": 14,
    "src": "directv.com"
-  },
-  {
-   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 0,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 0,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 0,
-   "src": "epgshare01.online"
   }
  ],
  "gaps": [
@@ -1285,7 +1270,7 @@
  "zones": {
   "epgshare01.online": {
    "+0000": 1409,
-   "-0500": 33
+   "-0500": 30
   },
   "sky.com": {
    "+0000": 264
@@ -1317,91 +1302,91 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 09:15 Saturday Kitchen Live",
-   "Sat 10:45 The Lord Mayor&apos;s Show",
-   "Sat 10:45 The Lord Mayor&apos;s Show",
-   "Sat 12:05 Bargain Hunt",
-   "Sat 13:00 BBC News",
-   "Sat 13:10 Weather"
+   "Sat 13:15 MOTD Live: Women&apos;s Super League",
+   "Sat 15:40 Nativity!",
+   "Sat 17:20 BBC News",
+   "Sat 17:30 BBC London News",
+   "Sat 17:35 Weather",
+   "Sat 17:40 The Famous Finish Line"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 09:30 New: James Martin&apos;s Saturday Morning",
    "Sat 11:00 Italy v Argentina: Nations Championship",
    "Sat 13:40 Wales v New Zealand: Nations Championship",
    "Sat 16:30 England v Japan: Nations Championship",
    "Sat 19:00 ITV Evening News",
-   "Sat 19:15 ITV News Tyne Tees"
+   "Sat 19:15 ITV News Tyne Tees",
+   "Sat 19:30 Ireland v Fiji: Nations Championship"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 07:00 Live DP World Tour Golf",
    "Sat 13:00 Live Grand Slam Of Darts",
    "Sat 17:00 Live EFL: Fleetwood v Tranmere",
    "Sat 19:30 Live Grand Slam Of Darts",
    "Sat 23:00 Live WTA Finals: Semi-Final",
-   "Sun 00:00 Live WTA Finals: Doubles SF"
+   "Sun 00:00 Live WTA Finals: Doubles SF",
+   "Sun 03:00 Sky Sports News"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sat 10:00 British GB3 Highlights",
-   "Sat 11:00 Spanish F1 GP Highlights",
-   "Sat 12:00 Azerbaijan F1 GP Highlights",
    "Sat 13:00 Bahrain F1 GP Highlights",
    "Sat 14:00 Singapore F1 GP Highlights",
-   "Sat 15:00 US F1 GP Highlights"
+   "Sat 15:00 US F1 GP Highlights",
+   "Sat 16:00 Mexico City F1 GP Highlights",
+   "Sat 17:00 Sao Paulo F1 GP Highlights",
+   "Sat 18:00 British GB3 Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 10:00 Open House Outrageous",
-   "Sat 10:30 Open House NYC",
-   "Sat 11:00 Saturday Today in New York",
    "Sat 12:00 Today",
    "Sat 13:30 Saturday Today Extra",
-   "Sat 14:00 Saturday Today in New York"
+   "Sat 14:00 Saturday Today in New York",
+   "Sat 15:00 Mutual of Omaha&apos;s Wild Kingdom Protecting the Wild",
+   "Sat 15:30 Earth Odyssey With Dylan Dreyer",
+   "Sat 16:00 The Great American Journey"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 09:00 College Football",
-   "Sat 11:00 SportsCenter",
    "Sat 12:00 Live: SportsCenter",
    "Sat 14:00 Live: College GameDay",
    "Sat 17:00 Live: College Football",
-   "Sat 20:00 Live: College Football"
+   "Sat 20:00 Live: College Football",
+   "Sat 23:00 Live: College Football Scoreboard",
+   "Sat 23:15 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 10:00 CNN Newsroom Live",
-   "Sat 11:00 CNN This Morning Weekend",
-   "Sat 12:00 CNN This Morning Weekend",
    "Sat 13:00 First of All With Victor Blackwell",
    "Sat 14:00 Live: Smerconish",
-   "Sat 15:00 CNN Table for Five"
+   "Sat 15:00 CNN Table for Five",
+   "Sat 16:00 Live: The Ted Turner Memorial",
+   "Sat 17:00 The Arena: Saturday",
+   "Sat 18:00 CNN Newsroom With Fredricka Whitfield"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 10:05 Scrabble",
-   "Sat 10:35 Trivial Pursuit",
-   "Sat 11:01 Cindy Crawford talks about the latest breakthroughs in skincare",
-   "Sat 11:31 Paid Programming",
-   "Sat 12:00 American Trends & Lifestyle",
-   "Sat 12:30 Popstar! Today"
+   "Sat 13:00 Laura McKenzie&apos;s Traveler",
+   "Sat 13:30 California Cooking With Jessica Holmes",
+   "Sat 14:00 KTLA 5 Morning News at 6",
+   "Sat 15:00 KTLA 5 Morning News at 7",
+   "Sat 17:00 Live: CW College Football Countdown",
+   "Sat 17:30 Live: College Football"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 10:10 Everybody Loves Raymond",
-   "Sat 10:40 Frasier",
-   "Sat 11:05 Frasier",
-   "Sat 11:35 Frasier",
-   "Sat 12:05 The Simpsons",
-   "Sat 12:35 The Simpsons"
+   "Sat 13:10 The Simpsons",
+   "Sat 13:40 Evolution",
+   "Sat 15:40 Four in a Bed",
+   "Sat 16:10 Four in a Bed",
+   "Sat 16:45 Four in a Bed",
+   "Sat 17:15 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 09:30 Rick Stein: From Venice to Istanbul",
-   "Sat 10:30 Top Gear",
-   "Sat 12:10 Top Gear: Winter Olympics Special",
    "Sat 13:15 Would I Lie To You?",
    "Sat 13:55 Would I Lie To You?",
-   "Sat 14:35 Would I Lie To You?"
+   "Sat 14:35 Would I Lie To You?",
+   "Sat 15:15 Would I Lie To You?",
+   "Sat 15:55 Would I Lie To You?",
+   "Sat 16:30 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1345,
  "counts": {
   "weakMatches": 1102,
   "sharedIds": 39,
-  "stale": 4,
+  "stale": 1,
   "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,
