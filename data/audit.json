@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T13:24",
+ "built": "2026-11-15T20:28",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1139,11 +1139,11 @@
   {
    "tvgId": "SkySportsF1.uk",
    "names": [
-    "4K| SKY SPORTS DARTS UHD",
     "F1| SKY SPORTS F1",
     "F1| SKY SPORTS F1 FHD",
     "F1| SKY SPORTS F1 HD",
-    "F1-TV"
+    "F1-TV",
+    "UK| SKY SPORTS F1 HD"
    ]
   },
   {
@@ -1151,13 +1151,6 @@
    "names": [
     "UK| LEGEND XTRA",
     "UK| THATS TV"
-   ]
-  },
-  {
-   "tvgId": "uk.Sky Sports Main Event",
-   "names": [
-    "4K| SKY SPORTS MAIN EVENTS UHD",
-    "4K| SKY SPORTS UHD [EVENT]"
    ]
   },
   {
@@ -1217,11 +1210,6 @@
  "stale": [],
  "gaps": [
   {
-   "ch": "TV| TORQUE BY HISTORY ᴿᴬᵂ",
-   "hours": 23,
-   "src": "directv.com"
-  },
-  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1263,11 +1251,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1384,
+   "+0000": 1383,
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 264
+   "+0000": 265
   },
   "directv.com": {
    "+0000": 268
@@ -1282,7 +1270,7 @@
    "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 4
+   "+0000": 5
   },
   "player.ee.co.uk": {
    "+0000": 6
@@ -1293,92 +1281,92 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 13:15 Songs of Praise: International Men&apos;s Day",
-   "Sun 13:50 Children in Need: Pudsey&apos;s All Stars",
-   "Sun 14:50 Blue Planet III",
-   "Sun 15:50 Homes Under the Hammer",
-   "Sun 16:50 BBC News",
-   "Sun 17:05 BBC London News"
+   "Sun 20:00 Blue Planet III",
+   "Sun 21:00 This City Is Ours",
+   "Sun 22:00 BBC News and Weather",
+   "Sun 22:25 BBC London News",
+   "Sun 22:30 Another Simple Favour",
+   "Sun 22:30 Another Simple Favour"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 13:20 Ainsley&apos;s Taste of the Bahamas",
-   "Sun 13:50 ITV News",
-   "Sun 14:00 Scotland v Australia: Nations Championship",
-   "Sun 17:35 ITV Evening News",
-   "Sun 17:45 ITV News Tyne Tees",
-   "Sun 18:00 New: I&apos;m A Celebrity... How To Survive The Jungle"
+   "Sun 19:00 Spain v England: UEFA Nations League",
+   "Sun 22:05 ITV News",
+   "Sun 22:15 Inside the Asylum Camp",
+   "Sun 23:20 New: The Debrief with Dan and ROG",
+   "Mon 00:25 Shop on TV",
+   "Mon 03:00 Motorsport UK"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 13:00 Live Grand Slam Of Darts",
-   "Sun 16:15 Live WSL: Arsenal v London City",
    "Sun 19:00 Live Grand Slam Of Darts",
    "Sun 23:30 Live NFL 49ers @ Cowboys",
    "Mon 00:30 Live Football Night In America",
-   "Mon 01:10 Live: NFL Steelers @ Bengals"
+   "Mon 01:10 Live: NFL Steelers @ Bengals",
+   "Mon 04:45 Sky Sports News",
+   "Mon 05:00 Sky Sports News"
   ],
-  "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sun 12:30 US F1 Grand Prix",
-   "Sun 14:45 Mexico City F1 Grand Prix",
-   "Sun 17:35 Sao Paulo F1 Grand Prix",
+  "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
    "Sun 20:00 Bahrain F1 GP Highlights",
    "Sun 21:00 Singapore F1 GP Highlights",
-   "Sun 22:00 US F1 GP Highlights"
+   "Sun 22:00 US F1 GP Highlights",
+   "Sun 23:00 Mexico City F1 GP Highlights",
+   "Mon 00:00 Sao Paulo F1 GP Highlights",
+   "Mon 01:00 The Best of Canada 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 13:00 Sunday Today With Willie Geist",
-   "Sun 14:00 Open House NYC",
-   "Sun 14:30 Sunday Today in New York",
-   "Sun 15:30 Meet the Press",
-   "Sun 16:30 Joel Osteen",
-   "Sun 17:00 Live: ISU Grand Prix of Figure Skating"
+   "Sun 19:00 Live: ISU Grand Prix of Figure Skating",
+   "Sun 23:00 News4 NY at 6 Weekend",
+   "Sun 23:30 NBC Nightly News With Tom Llamas",
+   "Mon 00:00 Live: Football Night in America",
+   "Mon 01:15 Live: NFL Football",
+   "Mon 04:30 News 4 NY at 11:30"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 13:00 Live: SportsCenter",
-   "Sun 14:00 Live: SportsCenter",
-   "Sun 15:00 Live: Sunday NFL Countdown",
-   "Sun 18:00 Live: College Basketball",
    "Sun 20:00 Live: College Basketball",
-   "Sun 22:00 College Basketball Live Scoreboard"
+   "Sun 22:00 College Basketball Live Scoreboard",
+   "Sun 22:30 Live: Women&apos;s College Basketball",
+   "Mon 00:30 Live: 2027 WNBA Draft Lottery",
+   "Mon 01:00 Live: Women&apos;s College Volleyball",
+   "Mon 03:00 College Football Final"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 13:00 Inside Politics With Manu Raju",
-   "Sun 14:00 State of the Union With Jake Tapper and Dana Bash",
-   "Sun 15:00 Fareed Zakaria GPS",
-   "Sun 16:00 Inside Politics With Manu Raju",
-   "Sun 17:00 State of the Union With Jake Tapper and Dana Bash",
-   "Sun 18:00 Fareed Zakaria GPS"
+   "Sun 20:00 CNN Newsroom With Fredricka Whitfield",
+   "Sun 21:00 CNN Newsroom With Fredricka Whitfield",
+   "Sun 22:00 CNN Newsroom",
+   "Sun 23:00 CNN Newsroom",
+   "Mon 00:00 CNN Newsroom",
+   "Mon 01:00 Iran and the Bomb: A Fareed Zakaria Special"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 13:00 Cosmetic Surgery Awake",
-   "Sun 13:30 Inside California Politics",
-   "Sun 14:00 KTLA 5 Morning News at 6",
-   "Sun 15:00 KTLA 5 Morning News at 7",
-   "Sun 17:00 KTLA 5 Morning News at 9",
-   "Sun 18:00 KTLA 5 Morning News at 10"
+   "Sun 20:00 Jack Hibbs -- Real Life",
+   "Sun 20:30 Jack Hanna&apos;s Into the Wild",
+   "Sun 21:00 Live: College Basketball",
+   "Sun 23:00 The Big Bang Theory",
+   "Sun 23:30 Jack Hanna&apos;s Into the Wild",
+   "Mon 00:00 Jack Hanna&apos;s Into the Wild"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 11:00 Live: Sunday Brunch",
-   "Sun 14:00 The Simpsons",
-   "Sun 14:30 The Simpsons",
-   "Sun 15:00 The Simpsons",
-   "Sun 15:30 The Dog House",
-   "Sun 16:30 George Clarke&apos;s Amazing Spaces"
+   "Sun 20:00 Kevin McCloud&apos;s Listed Britain",
+   "Sun 21:00 New: Kevin McCloud&apos;s Classic...",
+   "Sun 22:00 New: Stacey Dooley&apos;s Australia...",
+   "Sun 23:00 Gogglebox",
+   "Mon 00:00 Gogglebox",
+   "Mon 01:05 First Dates"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 12:40 Our Guy in China",
-   "Sun 13:40 World&apos;s Most Dangerous Roads",
-   "Sun 14:40 Would I Lie To You?",
-   "Sun 15:20 Would I Lie To You?",
-   "Sun 16:00 Would I Lie To You?",
-   "Sun 16:40 Would I Lie To You?"
+   "Sun 20:00 Will & Ralf Should Know Better",
+   "Sun 21:00 Have I Got a Bit More News for You",
+   "Sun 22:00 Jack Dee&apos;s Help Me Tiny Big Brain",
+   "Sun 22:40 Mock the Week",
+   "Sun 23:20 Mock the Week",
+   "Mon 00:00 Live at the Apollo"
   ]
  },
  "doubleEscaped": 1321,
  "counts": {
-  "weakMatches": 1075,
-  "sharedIds": 39,
+  "weakMatches": 1074,
+  "sharedIds": 38,
   "stale": 0,
-  "gaps": 6,
+  "gaps": 5,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

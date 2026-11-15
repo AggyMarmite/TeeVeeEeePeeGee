@@ -3676,6 +3676,18 @@
   "name:##### NEWS SD / FHD #####": {
    "src": null
   },
+  "name:4K| BLOOMBERG UHD": {
+   "src": "sky.com|en|GB#1074",
+   "auto": true
+  },
+  "name:4K| QVC UHD": {
+   "src": "sky.com|en|GB#1076",
+   "auto": true
+  },
+  "name:4K| SKY SPORTS DARTS UHD": {
+   "src": "virgintvgo.virginmedia.com|en|1771",
+   "auto": true
+  },
   "name:4K| SKY SPORTS F1 UHD": {
    "src": "sky.com|en|GB#7202",
    "auto": true
@@ -6504,6 +6516,10 @@
   },
   "name:UK| ITV MERIDIAN SOUTH FHD": {
    "src": "tv24.co.uk|en|itv-meridian-south-east-hd",
+   "auto": true
+  },
+  "name:UK| ITV QUIZ HD": {
+   "src": "sky.com|en|GB#3026",
    "auto": true
   },
   "name:UK| ITV1 BORDER SCOTLAND FHD": {
