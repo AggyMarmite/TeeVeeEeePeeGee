@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T10:11",
+ "built": "2026-11-15T13:24",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1217,6 +1217,11 @@
  "stale": [],
  "gaps": [
   {
+   "ch": "TV| TORQUE BY HISTORY ᴿᴬᵂ",
+   "hours": 23,
+   "src": "directv.com"
+  },
+  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1288,84 +1293,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 10:00 Politics London",
-   "Sun 10:30 Sunday Morning Live",
-   "Sun 11:30 Money for Nothing",
-   "Sun 12:00 Bargain Hunt",
-   "Sun 12:45 Points of View",
-   "Sun 13:00 BBC News"
+   "Sun 13:15 Songs of Praise: International Men&apos;s Day",
+   "Sun 13:50 Children in Need: Pudsey&apos;s All Stars",
+   "Sun 14:50 Blue Planet III",
+   "Sun 15:50 Homes Under the Hammer",
+   "Sun 16:50 BBC News",
+   "Sun 17:05 BBC London News"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 09:30 New: Love Your Weekend with Alan Titchmarsh",
-   "Sun 11:20 New: Fletchers&apos; Family Farm",
-   "Sun 12:20 New: Talking Royals",
-   "Sun 12:50 Cooking with the Stars",
    "Sun 13:20 Ainsley&apos;s Taste of the Bahamas",
-   "Sun 13:50 ITV News"
+   "Sun 13:50 ITV News",
+   "Sun 14:00 Scotland v Australia: Nations Championship",
+   "Sun 17:35 ITV Evening News",
+   "Sun 17:45 ITV News Tyne Tees",
+   "Sun 18:00 New: I&apos;m A Celebrity... How To Survive The Jungle"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 06:30 Live DP World Tour Golf",
-   "Sun 12:30 Sports Sunday",
    "Sun 13:00 Live Grand Slam Of Darts",
    "Sun 16:15 Live WSL: Arsenal v London City",
    "Sun 19:00 Live Grand Slam Of Darts",
-   "Sun 23:30 Live NFL 49ers @ Cowboys"
+   "Sun 23:30 Live NFL 49ers @ Cowboys",
+   "Mon 00:30 Live Football Night In America",
+   "Mon 01:10 Live: NFL Steelers @ Bengals"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sun 10:00 Singapore F1 Grand Prix",
    "Sun 12:30 US F1 Grand Prix",
    "Sun 14:45 Mexico City F1 Grand Prix",
    "Sun 17:35 Sao Paulo F1 Grand Prix",
    "Sun 20:00 Bahrain F1 GP Highlights",
-   "Sun 21:00 Singapore F1 GP Highlights"
+   "Sun 21:00 Singapore F1 GP Highlights",
+   "Sun 22:00 US F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 10:00 Open House Outrageous",
-   "Sun 10:30 Sunday Today in New York",
-   "Sun 11:00 Sunday Today in New York",
-   "Sun 12:00 Sunday Today in New York",
    "Sun 13:00 Sunday Today With Willie Geist",
-   "Sun 14:00 Open House NYC"
+   "Sun 14:00 Open House NYC",
+   "Sun 14:30 Sunday Today in New York",
+   "Sun 15:30 Meet the Press",
+   "Sun 16:30 Joel Osteen",
+   "Sun 17:00 Live: ISU Grand Prix of Figure Skating"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 09:30 College Football",
-   "Sun 11:30 NFL Matchup",
-   "Sun 12:00 Live: SportsCenter",
    "Sun 13:00 Live: SportsCenter",
    "Sun 14:00 Live: SportsCenter",
-   "Sun 15:00 Live: Sunday NFL Countdown"
+   "Sun 15:00 Live: Sunday NFL Countdown",
+   "Sun 18:00 Live: College Basketball",
+   "Sun 20:00 Live: College Basketball",
+   "Sun 22:00 College Basketball Live Scoreboard"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 10:00 CNN Newsroom Live",
-   "Sun 11:00 CNN This Morning Weekend",
-   "Sun 12:00 CNN This Morning Weekend",
    "Sun 13:00 Inside Politics With Manu Raju",
    "Sun 14:00 State of the Union With Jake Tapper and Dana Bash",
-   "Sun 15:00 Fareed Zakaria GPS"
+   "Sun 15:00 Fareed Zakaria GPS",
+   "Sun 16:00 Inside Politics With Manu Raju",
+   "Sun 17:00 State of the Union With Jake Tapper and Dana Bash",
+   "Sun 18:00 Fareed Zakaria GPS"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 10:02 Bathroom Makeover",
-   "Sun 10:32 Paid Programming",
-   "Sun 11:00 Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
-   "Sun 12:00 Natural Blood Pressure Management",
    "Sun 13:00 Cosmetic Surgery Awake",
-   "Sun 13:30 Inside California Politics"
+   "Sun 13:30 Inside California Politics",
+   "Sun 14:00 KTLA 5 Morning News at 6",
+   "Sun 15:00 KTLA 5 Morning News at 7",
+   "Sun 17:00 KTLA 5 Morning News at 9",
+   "Sun 18:00 KTLA 5 Morning News at 10"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 10:00 Frasier",
-   "Sun 10:30 Frasier",
    "Sun 11:00 Live: Sunday Brunch",
    "Sun 14:00 The Simpsons",
    "Sun 14:30 The Simpsons",
-   "Sun 15:00 The Simpsons"
+   "Sun 15:00 The Simpsons",
+   "Sun 15:30 The Dog House",
+   "Sun 16:30 George Clarke&apos;s Amazing Spaces"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 09:40 Yukon Gold",
-   "Sun 10:40 Red Bull Soapbox Race",
-   "Sun 11:40 Red Bull Soapbox Race",
    "Sun 12:40 Our Guy in China",
    "Sun 13:40 World&apos;s Most Dangerous Roads",
-   "Sun 14:40 Would I Lie To You?"
+   "Sun 14:40 Would I Lie To You?",
+   "Sun 15:20 Would I Lie To You?",
+   "Sun 16:00 Would I Lie To You?",
+   "Sun 16:40 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1321,
@@ -1373,7 +1378,7 @@
   "weakMatches": 1075,
   "sharedIds": 39,
   "stale": 0,
-  "gaps": 5,
+  "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
