@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T07:35",
+ "built": "2026-11-15T10:11",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1288,20 +1288,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 06:00 BBC News",
-   "Sun 09:00 Sunday with Laura Kuenssberg",
    "Sun 10:00 Politics London",
    "Sun 10:30 Sunday Morning Live",
    "Sun 11:30 Money for Nothing",
-   "Sun 12:00 Bargain Hunt"
+   "Sun 12:00 Bargain Hunt",
+   "Sun 12:45 Points of View",
+   "Sun 13:00 BBC News"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 07:00 James Martin&apos;s Great British Adventure",
-   "Sun 08:00 James Martin&apos;s Saturday Morning",
-   "Sun 09:25 ITV News",
    "Sun 09:30 New: Love Your Weekend with Alan Titchmarsh",
    "Sun 11:20 New: Fletchers&apos; Family Farm",
-   "Sun 12:20 New: Talking Royals"
+   "Sun 12:20 New: Talking Royals",
+   "Sun 12:50 Cooking with the Stars",
+   "Sun 13:20 Ainsley&apos;s Taste of the Bahamas",
+   "Sun 13:50 ITV News"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
    "Sun 06:30 Live DP World Tour Golf",
@@ -1312,60 +1312,60 @@
    "Sun 23:30 Live NFL 49ers @ Cowboys"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sun 07:00 US F1 GP Highlights",
-   "Sun 08:00 Mexico CityF1 GP Highlights",
-   "Sun 09:00 Sao Paulo F1 GP Highlights",
    "Sun 10:00 Singapore F1 Grand Prix",
    "Sun 12:30 US F1 Grand Prix",
-   "Sun 14:45 Mexico City F1 Grand Prix"
+   "Sun 14:45 Mexico City F1 Grand Prix",
+   "Sun 17:35 Sao Paulo F1 Grand Prix",
+   "Sun 20:00 Bahrain F1 GP Highlights",
+   "Sun 21:00 Singapore F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 07:32 Open House NYC",
-   "Sun 08:02 Open House NYC",
-   "Sun 08:30 Open House Outrageous",
-   "Sun 09:00 Open House NYC",
-   "Sun 09:30 Hope for Pain Sufferers",
-   "Sun 10:00 Open House Outrageous"
+   "Sun 10:00 Open House Outrageous",
+   "Sun 10:30 Sunday Today in New York",
+   "Sun 11:00 Sunday Today in New York",
+   "Sun 12:00 Sunday Today in New York",
+   "Sun 13:00 Sunday Today With Willie Geist",
+   "Sun 14:00 Open House NYC"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 07:00 Live: SportsCenter",
-   "Sun 08:00 College Football Final",
-   "Sun 09:00 NFL Matchup",
    "Sun 09:30 College Football",
    "Sun 11:30 NFL Matchup",
-   "Sun 12:00 Live: SportsCenter"
+   "Sun 12:00 Live: SportsCenter",
+   "Sun 13:00 Live: SportsCenter",
+   "Sun 14:00 Live: SportsCenter",
+   "Sun 15:00 Live: Sunday NFL Countdown"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 07:00 CNN Newsroom",
-   "Sun 08:00 CNN Newsroom",
-   "Sun 09:00 CNN Newsroom Live",
    "Sun 10:00 CNN Newsroom Live",
    "Sun 11:00 CNN This Morning Weekend",
-   "Sun 12:00 CNN This Morning Weekend"
+   "Sun 12:00 CNN This Morning Weekend",
+   "Sun 13:00 Inside Politics With Manu Raju",
+   "Sun 14:00 State of the Union With Jake Tapper and Dana Bash",
+   "Sun 15:00 Fareed Zakaria GPS"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 07:30 KTLA 5 News at 11",
-   "Sun 08:05 The Silver and Black Show",
-   "Sun 08:35 The Big Bang Theory",
-   "Sun 09:05 The Big Bang Theory",
-   "Sun 09:35 Police 24/7",
-   "Sun 10:02 Bathroom Makeover"
+   "Sun 10:02 Bathroom Makeover",
+   "Sun 10:32 Paid Programming",
+   "Sun 11:00 Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.",
+   "Sun 12:00 Natural Blood Pressure Management",
+   "Sun 13:00 Cosmetic Surgery Awake",
+   "Sun 13:30 Inside California Politics"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 07:15 Cheers",
-   "Sun 07:40 Cheers",
-   "Sun 08:10 Cheers",
-   "Sun 08:35 Everybody Loves Raymond",
-   "Sun 09:00 Everybody Loves Raymond",
-   "Sun 09:30 Frasier"
+   "Sun 10:00 Frasier",
+   "Sun 10:30 Frasier",
+   "Sun 11:00 Live: Sunday Brunch",
+   "Sun 14:00 The Simpsons",
+   "Sun 14:30 The Simpsons",
+   "Sun 15:00 The Simpsons"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 07:10 Storage Hunters UK",
-   "Sun 07:45 Yukon Gold",
-   "Sun 08:40 Yukon Gold",
    "Sun 09:40 Yukon Gold",
    "Sun 10:40 Red Bull Soapbox Race",
-   "Sun 11:40 Red Bull Soapbox Race"
+   "Sun 11:40 Red Bull Soapbox Race",
+   "Sun 12:40 Our Guy in China",
+   "Sun 13:40 World&apos;s Most Dangerous Roads",
+   "Sun 14:40 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1321,
