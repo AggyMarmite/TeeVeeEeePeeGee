@@ -1,6 +1,12 @@
 {
- "built": "2026-11-15T04:22",
+ "built": "2026-11-15T07:35",
  "weakMatches": [
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC One HD · tv24.co.uk",
+   "score": 84,
+   "auto": true
+  },
   {
    "ch": "US| KTLA LOS ANGELES HD",
    "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
@@ -894,12 +900,6 @@
    "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 10 ALBANY NY (WTEN)",
-   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1232,6 +1232,11 @@
    "src": "tv24.co.uk"
   },
   {
+   "ch": "UK| SKY SPORTS BOX OFFICE HD",
+   "hours": 6,
+   "src": "tv24.co.uk"
+  },
+  {
    "ch": "US| PBS HD",
    "hours": 7,
    "src": "tvinsider.com"
@@ -1260,19 +1265,19 @@
    "+0000": 264
   },
   "directv.com": {
-   "+0000": 267
+   "+0000": 268
   },
   "tvinsider.com": {
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 46
+   "+0000": 65
   },
   "freeview.co.uk": {
    "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 2
+   "+0000": 4
   },
   "player.ee.co.uk": {
    "+0000": 6
@@ -1283,84 +1288,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 00:55 BBC News",
    "Sun 06:00 BBC News",
    "Sun 09:00 Sunday with Laura Kuenssberg",
    "Sun 10:00 Politics London",
    "Sun 10:30 Sunday Morning Live",
-   "Sun 11:30 Money for Nothing"
+   "Sun 11:30 Money for Nothing",
+   "Sun 12:00 Bargain Hunt"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 03:50 Unwind with ITV",
-   "Sun 05:05 Ainsley&apos;s Taste of the Bahamas",
-   "Sun 05:30 Ainsley&apos;s Taste of the Bahamas",
-   "Sun 06:00 Fletchers&apos; Family Farm",
    "Sun 07:00 James Martin&apos;s Great British Adventure",
-   "Sun 08:00 James Martin&apos;s Saturday Morning"
+   "Sun 08:00 James Martin&apos;s Saturday Morning",
+   "Sun 09:25 ITV News",
+   "Sun 09:30 New: Love Your Weekend with Alan Titchmarsh",
+   "Sun 11:20 New: Fletchers&apos; Family Farm",
+   "Sun 12:20 New: Talking Royals"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 04:00 Sky Sports News",
-   "Sun 05:00 Sky Sports News",
-   "Sun 06:00 Sky Sports News",
    "Sun 06:30 Live DP World Tour Golf",
    "Sun 12:30 Sports Sunday",
-   "Sun 13:00 Live Grand Slam Of Darts"
+   "Sun 13:00 Live Grand Slam Of Darts",
+   "Sun 16:15 Live WSL: Arsenal v London City",
+   "Sun 19:00 Live Grand Slam Of Darts",
+   "Sun 23:30 Live NFL 49ers @ Cowboys"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sun 04:00 The Best of Barcelona 2026",
-   "Sun 04:30 The Best of Austria 2026",
-   "Sun 05:00 The Best of Britain 2026",
-   "Sun 05:35 The Best of Hungary 2026",
-   "Sun 06:00 Singapore F1 GP Highlights",
-   "Sun 07:00 US F1 GP Highlights"
+   "Sun 07:00 US F1 GP Highlights",
+   "Sun 08:00 Mexico CityF1 GP Highlights",
+   "Sun 09:00 Sao Paulo F1 GP Highlights",
+   "Sun 10:00 Singapore F1 Grand Prix",
+   "Sun 12:30 US F1 Grand Prix",
+   "Sun 14:45 Mexico City F1 Grand Prix"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 04:00 Live: News 4 NY at 11",
-   "Sun 04:29 Saturday Night Live",
-   "Sun 06:03 Open House Outrageous",
-   "Sun 06:32 George to the Rescue",
-   "Sun 07:02 Open House Outrageous",
-   "Sun 07:31 Open House NYC"
+   "Sun 07:32 Open House NYC",
+   "Sun 08:02 Open House NYC",
+   "Sun 08:30 Open House Outrageous",
+   "Sun 09:00 Open House NYC",
+   "Sun 09:30 Hope for Pain Sufferers",
+   "Sun 10:00 Open House Outrageous"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 02:30 Live: College Football",
-   "Sun 05:30 Live: SportsCenter",
    "Sun 07:00 Live: SportsCenter",
    "Sun 08:00 College Football Final",
    "Sun 09:00 NFL Matchup",
-   "Sun 09:30 College Football"
+   "Sun 09:30 College Football",
+   "Sun 11:30 NFL Matchup",
+   "Sun 12:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 04:00 Real Time With Bill Maher",
-   "Sun 05:00 Have I Got News for You",
-   "Sun 06:00 Have I Got News for You",
    "Sun 07:00 CNN Newsroom",
    "Sun 08:00 CNN Newsroom",
-   "Sun 09:00 CNN Newsroom Live"
+   "Sun 09:00 CNN Newsroom Live",
+   "Sun 10:00 CNN Newsroom Live",
+   "Sun 11:00 CNN This Morning Weekend",
+   "Sun 12:00 CNN This Morning Weekend"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 04:00 Live: College Football",
    "Sun 07:30 KTLA 5 News at 11",
    "Sun 08:05 The Silver and Black Show",
    "Sun 08:35 The Big Bang Theory",
    "Sun 09:05 The Big Bang Theory",
-   "Sun 09:35 Police 24/7"
+   "Sun 09:35 Police 24/7",
+   "Sun 10:02 Bathroom Makeover"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 04:10 The Simpsons",
-   "Sun 04:35 The Simpsons",
-   "Sun 05:00 The Simpsons",
-   "Sun 05:25 The Simpsons",
-   "Sun 05:55 The Simpsons",
-   "Sun 06:20 Couples Come Dine with Me"
+   "Sun 07:15 Cheers",
+   "Sun 07:40 Cheers",
+   "Sun 08:10 Cheers",
+   "Sun 08:35 Everybody Loves Raymond",
+   "Sun 09:00 Everybody Loves Raymond",
+   "Sun 09:30 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 04:00 Teleshopping",
-   "Sun 06:00 Teleshopping",
    "Sun 07:10 Storage Hunters UK",
    "Sun 07:45 Yukon Gold",
    "Sun 08:40 Yukon Gold",
-   "Sun 09:40 Yukon Gold"
+   "Sun 09:40 Yukon Gold",
+   "Sun 10:40 Red Bull Soapbox Race",
+   "Sun 11:40 Red Bull Soapbox Race"
   ]
  },
  "doubleEscaped": 1321,
@@ -1368,7 +1373,7 @@
   "weakMatches": 1075,
   "sharedIds": 39,
   "stale": 0,
-  "gaps": 4,
+  "gaps": 5,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

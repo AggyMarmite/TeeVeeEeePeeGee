@@ -1,11 +1,11 @@
 {
- "built": "2026-11-15T04:22",
- "channels": 2092,
- "programmes": 183904,
- "noListings": 24,
- "withLogo": 1714,
- "xmlMB": 90.4,
- "gzMB": 12.3,
+ "built": "2026-11-15T07:35",
+ "channels": 2091,
+ "programmes": 183041,
+ "noListings": 1,
+ "withLogo": 1694,
+ "xmlMB": 89.8,
+ "gzMB": 12.1,
  "bySite": {
   "epgshare01.online": [
    1418,
@@ -20,23 +20,19 @@
    0
   ],
   "directv.com": [
-   267,
-   1
+   268,
+   0
   ],
   "tv24.co.uk": [
-   46,
+   65,
    1
-  ],
-  "mytelly.co.uk": [
-   0,
-   22
   ],
   "freeview.co.uk": [
    26,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   2,
+   4,
    0
   ],
   "player.ee.co.uk": [
@@ -53,12 +49,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "CTV DRAMA CHANNEL HD = CTV.DRAMA.CHANNEL.HD.ca2",
-     "MuchMusic Network = MuchMusic.Network.ca2",
-     "DirecTV - NHL Center Ice - NHLCI10 = DirecTV.-.NHL.Center.Ice.-.NHLCI10.ca2",
-     "RDS2 = RDS2.ca2",
-     "STARZ 1 West HD = STARZ.1.West.HD.ca2",
-     "TSN 2 HD = TSN.2.HD.ca2"
+     "Investigation Discovery = Investigation.Discovery.ca2",
+     "OMNI East HD = OMNI.East.HD.ca2",
+     "Stingray The Light = Stingray.The.Light.ca2",
+     "NFL Sunday Ticket NFL3 (HDTV) = NFL.Sunday.Ticket.NFL3.(HDTV).ca2",
+     "History = History.ca2",
+     "Max = Max.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +117,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 208
+    "programmes": 200
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 139
+    "programmes": 132
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 2077
+    "programmes": 1992
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19469
+    "programmes": 19081
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84963
+    "programmes": 84451
    },
    "US_SPORTS1": {
     "channels": 22,
