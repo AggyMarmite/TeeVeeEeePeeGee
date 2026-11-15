@@ -1,14 +1,14 @@
 {
- "built": "2026-11-14T21:59",
- "channels": 1896,
- "programmes": 147885,
- "noListings": 1,
- "withLogo": 1720,
- "xmlMB": 73.1,
- "gzMB": 10.2,
+ "built": "2026-11-15T01:38",
+ "channels": 2092,
+ "programmes": 185953,
+ "noListings": 2,
+ "withLogo": 1715,
+ "xmlMB": 90.8,
+ "gzMB": 12.4,
  "bySite": {
   "epgshare01.online": [
-   1443,
+   1418,
    0
   ],
   "sky.com": [
@@ -16,11 +16,19 @@
    0
   ],
   "tvinsider.com": [
-   73,
+   30,
+   0
+  ],
+  "directv.com": [
+   268,
    0
   ],
   "tv24.co.uk": [
-   65,
+   45,
+   1
+  ],
+  "mytelly.co.uk": [
+   22,
    1
   ],
   "freeview.co.uk": [
@@ -28,23 +36,15 @@
    0
   ],
   "virgintvgo.virginmedia.com": [
-   4,
+   2,
    0
   ],
   "player.ee.co.uk": [
    6,
    0
   ],
-  "directv.com": [
-   4,
-   0
-  ],
   "dazn.com": [
    9,
-   0
-  ],
-  "mytelly.co.uk": [
-   1,
    0
   ]
  },
@@ -75,23 +75,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Discovery+1 = Discovery+1.uk",
-     "Hits Radio = Hits.Radio.uk",
-     "WION HD = WION.HD.uk",
-     "Cartoon Net HD = Cartoon.Net.HD.uk",
-     "NTV = NTV.uk",
-     "Thats TV = Thats.TV.uk"
+     "GOD Channel = GOD.Channel.uk",
+     "BBC R4 FM = BBC.R4.FM.uk",
+     "Panjab Radio = Panjab.Radio.uk",
+     "Heart Dance = Heart.Dance.uk",
+     "ARY Digital = ARY.Digital.uk",
+     "EWTN Catholic = EWTN.Catholic.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Nick Jr HD = Nick.Jr.HD.us2",
-     "Cinemax HD (Pacific) = Cinemax.HD.(Pacific).us2",
-     "ESPN8 The Ocho = ESPN8.The.Ocho.us2",
-     "Little Saigon Radio Channel = Little.Saigon.Radio.Channel.us2",
-     "MSG Sportsnet Zone 3 (MSG WNY) = MSG.Sportsnet.Zone.3.(MSG.WNY).us2",
-     "Spectrum SportsNet LA Dodgers HD = Spectrum.SportsNet.LA.Dodgers.HD.us2"
+     "Tr3s: MTV, Musica y Mas = Tr3s:.MTV,.Musica.y.Mas.us2",
+     "NBA League Pass 7 HD = NBA.League.Pass.7.HD.us2",
+     "NBA League Pass 4 HD = NBA.League.Pass.4.HD.us2",
+     "Starz HD = Starz.HD.us2",
+     "HBO Movies = HBO.Movies.us2",
+     "Showtime Familyzone HD = Showtime.Familyzone.HD.us2"
     ]
    },
    "US_LOCALS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 202
+    "programmes": 206
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 152
+    "programmes": 148
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 1562
+    "programmes": 2130
    },
    "US2": {
-    "channels": 230,
-    "withListings": 230,
-    "programmes": 15570
+    "channels": 225,
+    "withListings": 225,
+    "programmes": 19478
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 82087
+    "programmes": 84257
    },
    "US_SPORTS1": {
     "channels": 22,

@@ -18,7 +18,7 @@
    "auto": true
   },
   "AandE.us": {
-   "src": "tvinsider.com|en|ae",
+   "src": "directv.com|en|6e1ae46f-40ab-44ee-b20e-d4508363a65e",
    "auto": true
   },
   "ACCNetwork.us": {
@@ -82,7 +82,7 @@
    "auto": true
   },
   "BabyFirstTV.us": {
-   "src": "tvinsider.com|en|babyfirst",
+   "src": "directv.com|en|dc38a660-5e22-4813-8495-72b44dabedb2",
    "auto": true
   },
   "BabyTV.uk": {
@@ -118,11 +118,11 @@
    "auto": true
   },
   "BBCOneNorthernIreland.uk": {
-   "src": "tv24.co.uk|en|bbc-one-hd",
+   "src": "mytelly.co.uk|en|1770/bbc-one-northern-ireland-hd",
    "auto": true
   },
   "BBCOneNorthWest.uk": {
-   "src": "tv24.co.uk|en|bbc-one-north-west-hd",
+   "src": "mytelly.co.uk|en|14/bbc-one-north-west",
    "auto": true
   },
   "BBCOneScotland.uk": {
@@ -130,7 +130,7 @@
    "auto": true
   },
   "BBCOneSouthEast.uk": {
-   "src": "tv24.co.uk|en|bbc-one-south-east-hd",
+   "src": "mytelly.co.uk|en|16/bbc-one-south-east",
    "auto": true
   },
   "BBCOneWales.uk": {
@@ -218,7 +218,7 @@
    "auto": true
   },
   "BuzzrTV.us": {
-   "src": "tvinsider.com|en|buzzr",
+   "src": "directv.com|en|848b354b-681b-482b-a86b-bd4368b7c84e",
    "auto": true
   },
   "ca.KTLA Los Angeles, CA": {
@@ -234,7 +234,7 @@
    "auto": true
   },
   "CartoonNetwork.uk": {
-   "src": "tv24.co.uk|en|cartoon-network",
+   "src": "mytelly.co.uk|en|102/cartoon-network",
    "auto": true
   },
   "CartoonNetwork.us": {
@@ -267,6 +267,10 @@
   },
   "ChargeTV.us": {
    "src": "epgshare01.online|en|US2#CHARGE!.us2",
+   "auto": true
+  },
+  "CheddarNews.us": {
+   "src": "directv.com|en|95622e62-7b62-4eea-bf32-691abc764c77",
    "auto": true
   },
   "CleoTV.us": {
@@ -306,7 +310,7 @@
    "auto": true
   },
   "ComedyCentral.us": {
-   "src": "epgshare01.online|en|US2#Comedy.Central.HD.us2",
+   "src": "directv.com|en|6aec9a4e-7824-4869-b75f-fb1c648d207e",
    "auto": true
   },
   "Comet.us": {
@@ -354,15 +358,19 @@
    "auto": true
   },
   "DiscoveryHistory.uk": {
-   "src": "tv24.co.uk|en|discovery-history",
+   "src": "mytelly.co.uk|en|1606/discovery-history",
+   "auto": true
+  },
+  "DiscoveryLife.us": {
+   "src": "directv.com|en|5372d13d-fe7d-4b4f-b1e9-b28435f3a7c7",
    "auto": true
   },
   "DiscoveryScience.uk": {
-   "src": "tv24.co.uk|en|discovery-science",
+   "src": "mytelly.co.uk|en|129/discovery-science",
    "auto": true
   },
   "DiscoveryTurbo.uk": {
-   "src": "tv24.co.uk|en|discovery-turbo",
+   "src": "mytelly.co.uk|en|153/discovery-turbo",
    "auto": true
   },
   "DisneyChannel.us": {
@@ -421,6 +429,10 @@
    "src": "tvinsider.com|en|fetv",
    "auto": true
   },
+  "Fanduel.us": {
+   "src": "directv.com|en|29f35d32-a695-40de-9fbb-56d5c0204822",
+   "auto": true
+  },
   "Film4.uk": {
    "src": "sky.com|en|GB#4044",
    "auto": true
@@ -442,11 +454,11 @@
    "auto": true
   },
   "FoxSports1.us": {
-   "src": "tvinsider.com|en|fox-sports-1",
+   "src": "directv.com|en|454a64a1-89a7-415b-a315-c3c3ac505198",
    "auto": true
   },
   "FoxSports2.us": {
-   "src": "tvinsider.com|en|fox-sports-2",
+   "src": "directv.com|en|bfc46e01-73b9-4571-8357-f8298d2b2ced",
    "auto": true
   },
   "Freeform.us": {
@@ -470,7 +482,7 @@
    "auto": true
   },
   "FYI.us": {
-   "src": "tvinsider.com|en|fyi",
+   "src": "directv.com|en|6d1cd9b3-d125-4e87-a37f-0309c1459f8a",
    "auto": true
   },
   "GACFamily.us": {
@@ -521,6 +533,10 @@
    "src": "epgshare01.online|en|US2#Grit.us2",
    "auto": true
   },
+  "Hallmark.us": {
+   "src": "directv.com|en|af8acf8a-7195-4f03-8a19-6f59ba859129",
+   "auto": true
+  },
   "HallmarkFamily.us": {
    "src": "epgshare01.online|en|US2#Hallmark.Family.us2",
    "auto": true
@@ -530,7 +546,7 @@
    "auto": true
   },
   "HeroesAndIconsTV.us": {
-   "src": "tvinsider.com|en|heroes-icons",
+   "src": "directv.com|en|6107dde2-4d9f-4c2e-9cb7-75e49ce72ea9",
    "auto": true
   },
   "HGTV.uk": {
@@ -538,7 +554,7 @@
    "auto": true
   },
   "HGTV.us": {
-   "src": "tvinsider.com|en|hgtv",
+   "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
    "auto": true
   },
   "HighStreet1.uk": {
@@ -571,6 +587,10 @@
   },
   "HLN.us": {
    "src": "epgshare01.online|en|US2#HLN.HD.us2",
+   "auto": true
+  },
+  "HopeChannel.us": {
+   "src": "directv.com|en|c8173e6e-bf8f-492d-a992-c3b4baf8d799",
    "auto": true
   },
   "IdealWorld.uk": {
@@ -3606,7 +3626,7 @@
    "auto": true
   },
   "MeTvToons.us": {
-   "src": "tvinsider.com|en|metv",
+   "src": "directv.com|en|038e34a5-d895-44cb-81da-f5d0b860fd06",
    "auto": true
   },
   "MilitaryHistory.us": {
@@ -3634,11 +3654,11 @@
    "auto": true
   },
   "MTV.us": {
-   "src": "tvinsider.com|en|mtv",
+   "src": "directv.com|en|6bb1b774-c06c-44e1-a316-5d41c63229e0",
    "auto": true
   },
   "MTV2.us": {
-   "src": "tvinsider.com|en|mtv2",
+   "src": "directv.com|en|4ec976b6-089d-45b5-ab45-89a88778f27e",
    "auto": true
   },
   "MTVClassic.us": {
@@ -3999,8 +4019,16 @@
    "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
+  "name:TV| 20/20 ᴿᴬᵂ": {
+   "src": "directv.com|en|0ceb396e-86d0-417f-99a2-5de1f3366743",
+   "auto": true
+  },
+  "name:TV| 50 CENT ACTION CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|fc7ce5c3-e076-4ef7-ba8d-148abf978c18",
+   "auto": true
+  },
   "name:TV| A&E ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|ae",
+   "src": "directv.com|en|6e1ae46f-40ab-44ee-b20e-d4508363a65e",
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4008,7 +4036,7 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "directv.com|en|50e4be08-7078-44c8-90ed-f4608a6aa7cf",
    "auto": true
   },
   "name:TV| A3 NEW YORK 04 WNBC NBC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4016,7 +4044,7 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 04 WNBC NBC ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNBC-DT.us_locals1",
+   "src": "directv.com|en|ae6eb561-5bd5-42c4-9bae-e959e1254e63",
    "auto": true
   },
   "name:TV| A3 NEW YORK 05 WNYW FOX NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4024,7 +4052,7 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 05 WNYW FOX ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNYW-DT.us_locals1",
+   "src": "directv.com|en|7da4298b-c078-4dbd-9542-c3313901e5b0",
    "auto": true
   },
   "name:TV| A3 NEW YORK 07 WABC ABC NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4032,7 +4060,11 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 07 WABC ABC ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WABC-DT.us_locals1",
+   "src": "directv.com|en|9dffdf10-1e03-437c-870b-78f6bf7730d8",
+   "auto": true
+  },
+  "name:TV| ABC LOCALISH ᴿᴬᵂ": {
+   "src": "directv.com|en|ad9ce34d-98c0-45a4-8368-d58549960c7c",
    "auto": true
   },
   "name:TV| ABC NEWS LIVE ᴿᴬᵂ": {
@@ -4051,6 +4083,22 @@
    "src": "epgshare01.online|en|US2#AccuWeather.HD.us2",
    "auto": true
   },
+  "name:TV| ACORN TV MYSTERIES ᴿᴬᵂ": {
+   "src": "directv.com|en|ed793a11-6a85-44ce-a008-9f131d774ce1",
+   "auto": true
+  },
+  "name:TV| ALIEN NATION BY DUST ᴿᴬᵂ": {
+   "src": "directv.com|en|35c1d4c8-f63e-4943-83fe-cfcae3f93772",
+   "auto": true
+  },
+  "name:TV| ALL REALITY WETV ᴿᴬᵂ": {
+   "src": "directv.com|en|a9969673-8fa5-4be6-8b38-1aab17e159e4",
+   "auto": true
+  },
+  "name:TV| ALL WOMEN'S SPORTS ᴿᴬᵂ": {
+   "src": "directv.com|en|af4124bc-4b69-4d70-9174-ef8e4d468e7c",
+   "auto": true
+  },
   "name:TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ": {
    "src": "directv.com|en|1ae636b8-db56-4dc4-84fa-580443bc9bce",
    "auto": true
@@ -4059,20 +4107,52 @@
    "src": "epgshare01.online|en|US2#Altitude.Sports.us2",
    "auto": true
   },
+  "name:TV| ALWAYS FUNNY ᴿᴬᵂ": {
+   "src": "directv.com|en|06963d58-2ceb-4d2a-b386-96eea710ce77",
+   "auto": true
+  },
   "name:TV| AMC ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#AMC.HD.us2",
+   "auto": true
+  },
+  "name:TV| AMERICA'S FUNNIEST HOME VIDEOS ᴿᴬᵂ": {
+   "src": "directv.com|en|2fcdc200-1c9d-46dd-be94-fb38cc603d84",
+   "auto": true
+  },
+  "name:TV| AMERICA'S GOT TALENT ᴿᴬᵂ": {
+   "src": "directv.com|en|24a3f97c-f708-47b4-a285-44c9bd116913",
    "auto": true
   },
   "name:TV| AMERICA'S TEST KITCHEN ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#America’s.Test.Kitchen.us2",
    "auto": true
   },
+  "name:TV| AMERICAN HEROES ᴿᴬᵂ": {
+   "src": "directv.com|en|bca90090-7f85-4e55-ba11-ae184874a02d",
+   "auto": true
+  },
+  "name:TV| ANGER MANAGEMENT ᴿᴬᵂ": {
+   "src": "directv.com|en|441ad820-0396-45b8-bc3f-1ea2be87bf6c",
+   "auto": true
+  },
   "name:TV| ANIMAL PLANET ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Animal.Planet.HD.us2",
    "auto": true
   },
+  "name:TV| ARE WE THERE YET ᴿᴬᵂ": {
+   "src": "directv.com|en|8a26be7e-df40-4be0-9a0c-50f2013c03a2",
+   "auto": true
+  },
+  "name:TV| ARIRANG TV ᴿᴬᵂ": {
+   "src": "directv.com|en|87e79461-6524-45b1-b0ef-9c01ac1e7f08",
+   "auto": true
+  },
   "name:TV| ASPIRE (HD) ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#ASPiRE.HD.us2",
+   "auto": true
+  },
+  "name:TV| AT HOME WITH FAMILY HANDYMAN ᴿᴬᵂ": {
+   "src": "directv.com|en|3dab84d2-4086-4b4f-8cdc-e1b75a2820ba",
    "auto": true
   },
   "name:TV| ATLANTA, GA WABE PBS 30 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4103,12 +4183,16 @@
    "src": "epgshare01.online|en|US_LOCALS1#WXIA-DT.us_locals1",
    "auto": true
   },
+  "name:TV| AX MEN ᴿᴬᵂ": {
+   "src": "directv.com|en|16853a87-5925-44a9-a45a-e780c3a6cc5c",
+   "auto": true
+  },
   "name:TV| AXS TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#AXS.TV.us2",
    "auto": true
   },
   "name:TV| BABYFIRST ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|babyfirst",
+   "src": "directv.com|en|dc38a660-5e22-4813-8495-72b44dabedb2",
    "auto": true
   },
   "name:TV| BBC AMERICA ᴿᴬᵂ": {
@@ -4116,7 +4200,15 @@
    "auto": true
   },
   "name:TV| BBC NEWS ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|bbc-news",
+   "src": "directv.com|en|38fa4074-8901-45d1-be15-2fcaf7e54f24",
+   "auto": true
+  },
+  "name:TV| BEACH DAY ᴿᴬᵂ": {
+   "src": "directv.com|en|a546b6ea-66b0-41c1-bdef-f85a070d5777",
+   "auto": true
+  },
+  "name:TV| BEIN SPORTS XTRA ᴿᴬᵂ": {
+   "src": "directv.com|en|be076527-86af-4537-a165-56839e0eea0b",
    "auto": true
   },
   "name:TV| BET HER ᴿᴬᵂ": {
@@ -4125,6 +4217,26 @@
   },
   "name:TV| BET ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#BET.HD.us2",
+   "auto": true
+  },
+  "name:TV| BET WEST ᴿᴬᵂ": {
+   "src": "directv.com|en|4acb50cc-b347-45c1-941c-50d65fb25271",
+   "auto": true
+  },
+  "name:TV| BIG 12 ᴿᴬᵂ": {
+   "src": "directv.com|en|bcb689af-ff7b-48fa-bd72-3cadd3c89ad8",
+   "auto": true
+  },
+  "name:TV| BIG TEN NETWORK OVERFLOW 2 ᴿᴬᵂ": {
+   "src": "directv.com|en|c62eb2bb-9bf9-4a14-a7c6-488c000257ff",
+   "auto": true
+  },
+  "name:TV| BIG TEN NETWORK OVERFLOW 3 ᴿᴬᵂ": {
+   "src": "directv.com|en|31586baa-0f1e-482a-a6e6-b055cf02c106",
+   "auto": true
+  },
+  "name:TV| BIG TEN NETWORK OVERFLOW 4 ᴿᴬᵂ": {
+   "src": "directv.com|en|622d354a-dd46-4cb5-904d-f5d81bb4f2bc",
    "auto": true
   },
   "name:TV| BILLIARD TV ᴿᴬᵂ": {
@@ -4149,6 +4261,18 @@
   },
   "name:TV| BINGHAMTON, NY WSKG PBS 46 A3 HD CAMBRIDGE ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#WSKG-DT.us_locals1",
+   "auto": true
+  },
+  "name:TV| BIZARRE FOODS WITH ANDREW ZIMMERN ᴿᴬᵂ": {
+   "src": "directv.com|en|72febb98-29b7-4254-b909-9521218e9be5",
+   "auto": true
+  },
+  "name:TV| BLOOMBERG TV ᴿᴬᵂ": {
+   "src": "directv.com|en|9d556827-6bb0-4e70-b843-1ae390321e74",
+   "auto": true
+  },
+  "name:TV| BOB ROSS CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|bf1a99c3-b0cb-4eae-92a1-1714086a64f7",
    "auto": true
   },
   "name:TV| BOOMERANG ᴿᴬᵂ": {
@@ -4191,8 +4315,20 @@
    "src": "epgshare01.online|en|US2#Bravo.HD.us2",
    "auto": true
   },
+  "name:TV| BRAVO VAULT ᴿᴬᵂ": {
+   "src": "directv.com|en|df40034e-34cf-48a3-afe2-53140915973b",
+   "auto": true
+  },
+  "name:TV| BTN ᴿᴬᵂ": {
+   "src": "directv.com|en|9a1380bd-3201-4fdd-a46e-c71a0453c87a",
+   "auto": true
+  },
   "name:TV| BUZZR ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|buzzr",
+   "src": "directv.com|en|848b354b-681b-482b-a86b-bd4368b7c84e",
+   "auto": true
+  },
+  "name:TV| CAR CHASE CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|525f0ba1-85aa-4e7b-9f72-bc3c5a842280",
    "auto": true
   },
   "name:TV| CARTOON NETWORK ᴿᴬᵂ": {
@@ -4225,6 +4361,14 @@
   },
   "name:TV| CHATTANOOGA, TN WTVC-D2 FOX 10 A3 HD WASHINGTON ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#WTVC-DT.us_locals1",
+   "auto": true
+  },
+  "name:TV| CHEDDAR NEWS ᴿᴬᵂ": {
+   "src": "directv.com|en|95622e62-7b62-4eea-bf32-691abc764c77",
+   "auto": true
+  },
+  "name:TV| CHICAGO SPORTS NETWORK ᴿᴬᵂ": {
+   "src": "directv.com|en|1a6be6ca-c05f-4780-b4bc-4a2610291dc6",
    "auto": true
   },
   "name:TV| CHICAGO, IL WBBM CBS 2 A3 HD CHICAGO ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4260,7 +4404,7 @@
    "auto": true
   },
   "name:TV| CINEMAX EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Cinemax.HD.us2",
+   "src": "directv.com|en|577da2f8-1c59-4297-8956-c24d30b1d967",
    "auto": true
   },
   "name:TV| CINEMAX HITS ᴿᴬᵂ": {
@@ -4272,7 +4416,7 @@
    "auto": true
   },
   "name:TV| CINEMAX WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Cinemax.HD.us2",
+   "src": "directv.com|en|0e9a6483-c7e1-4cb1-9e51-dda1ead5b966",
    "auto": true
   },
   "name:TV| CLEO TV ᴿᴬᵂ": {
@@ -4291,28 +4435,60 @@
    "src": "epgshare01.online|en|US2#CNN.HD.us2",
    "auto": true
   },
+  "name:TV| CNNI ᴿᴬᵂ": {
+   "src": "directv.com|en|7f7c3e96-628e-43df-bb90-7307f3878140",
+   "auto": true
+  },
+  "name:TV| COLD CASE FILES ᴿᴬᵂ": {
+   "src": "directv.com|en|2c6c500b-89fe-4d0e-aaa8-71f181b8575c",
+   "auto": true
+  },
   "name:TV| COMEDY CENTRAL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Comedy.Central.HD.us2",
    "auto": true
   },
   "name:TV| COMEDY CENTRAL WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Comedy.Central.HD.us2",
+   "src": "directv.com|en|6aec9a4e-7824-4869-b75f-fb1c648d207e",
+   "auto": true
+  },
+  "name:TV| COMEDY DYNAMICS ᴿᴬᵂ": {
+   "src": "directv.com|en|c0562e14-c7b8-48a7-8cd8-b587629ccebc",
    "auto": true
   },
   "name:TV| COMEDY TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Comedy.TV.HD.us2",
    "auto": true
   },
+  "name:TV| CONFESS BY NOSEY ᴿᴬᵂ": {
+   "src": "directv.com|en|15ef47e7-1b5e-4cf2-be5e-dedc55dfdaf8",
+   "auto": true
+  },
   "name:TV| COOKING CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Cooking.Channel.HD.us2",
+   "auto": true
+  },
+  "name:TV| COSMIC FRONTIERS ᴿᴬᵂ": {
+   "src": "directv.com|en|539834dd-b156-4cde-bb2d-04152dc009f9",
    "auto": true
   },
   "name:TV| COURT TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Court.TV.us2",
    "auto": true
   },
+  "name:TV| COWBOY CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|8f4c4f53-92ad-4430-9d67-fe21808384af",
+   "auto": true
+  },
   "name:TV| COZI TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#COZI.TV.us2",
+   "auto": true
+  },
+  "name:TV| CRIME 360 ᴿᴬᵂ": {
+   "src": "directv.com|en|56e7cb5d-eb7c-42a6-b584-099f8380bc09",
+   "auto": true
+  },
+  "name:TV| CRIME SCENES ᴿᴬᵂ": {
+   "src": "directv.com|en|7b4b945b-8877-4aa3-b194-e352c209f1c7",
    "auto": true
   },
   "name:TV| CSPAN 2 ᴿᴬᵂ": {
@@ -4351,8 +4527,16 @@
    "src": "epgshare01.online|en|US_LOCALS1#WFAA-DT.us_locals1",
    "auto": true
   },
+  "name:TV| DANCE MOMS BY LIFETIME ᴿᴬᵂ": {
+   "src": "directv.com|en|34dfe608-a177-4151-9d6d-73e4b4e7d9f0",
+   "auto": true
+  },
   "name:TV| DANGER TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#DangerTV.us2",
+   "auto": true
+  },
+  "name:TV| DATELINE 24/7 ᴿᴬᵂ": {
+   "src": "directv.com|en|0e77933e-f60b-4e10-b546-03aa4e2d5ef7",
    "auto": true
   },
   "name:TV| DAVENPORT, IA KQIN PBS 36 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4380,7 +4564,15 @@
    "auto": true
   },
   "name:TV| DAYSTAR ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|daystar",
+   "src": "directv.com|en|5972cb2f-63d7-47fb-bec3-e1f956f15ceb",
+   "auto": true
+  },
+  "name:TV| DAZN RINGSIDE ᴿᴬᵂ": {
+   "src": "directv.com|en|ccc1eee8-8654-4e42-87a0-a8de1cee9fe3",
+   "auto": true
+  },
+  "name:TV| DEAL ZONE ᴿᴬᵂ": {
+   "src": "directv.com|en|0bc3e62a-7fc8-41dc-97a3-09279d6c1a52",
    "auto": true
   },
   "name:TV| DENVER, CO KBDI PBS 12 A3 HD (D11) DENVER ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4447,6 +4639,18 @@
    "src": "epgshare01.online|en|US2#Discovery.Family.Channel.HD.us2",
    "auto": true
   },
+  "name:TV| DISCOVERY LIFE ᴿᴬᵂ": {
+   "src": "directv.com|en|5372d13d-fe7d-4b4f-b1e9-b28435f3a7c7",
+   "auto": true
+  },
+  "name:TV| DISCOVERY ᴿᴬᵂ": {
+   "src": "directv.com|en|4d2c2d58-cb18-44fe-8f9b-96637b1aac60",
+   "auto": true
+  },
+  "name:TV| DISCOVERY TURBO ᴿᴬᵂ": {
+   "src": "directv.com|en|32f60ebb-2e14-4265-b5bf-1c63f1d58f7c",
+   "auto": true
+  },
   "name:TV| DISNEY CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Disney.Channel.HD.us2",
    "auto": true
@@ -4459,12 +4663,44 @@
    "src": "epgshare01.online|en|US2#Disney.XD.HD.us2",
    "auto": true
   },
+  "name:TV| DOCUMENTARY+ ᴿᴬᵂ": {
+   "src": "directv.com|en|d2d0ba03-cbf0-40ec-a604-010a95390a9e",
+   "auto": true
+  },
+  "name:TV| DOG WHISPERER ᴿᴬᵂ": {
+   "src": "directv.com|en|6b0c9b83-a93d-4516-bba9-02bf5d5c06b2",
+   "auto": true
+  },
+  "name:TV| DOVE TV ᴿᴬᵂ": {
+   "src": "directv.com|en|197dee36-1b7f-4796-8332-f6565aa389a3",
+   "auto": true
+  },
+  "name:TV| DRAFTKINGS ᴿᴬᵂ": {
+   "src": "directv.com|en|d1a19b75-96ab-4546-8cf5-82abe21c553c",
+   "auto": true
+  },
+  "name:TV| DUCK DYNASTY ᴿᴬᵂ": {
+   "src": "directv.com|en|45c79610-0f58-4ab3-a9b7-d1b2c2a54bc3",
+   "auto": true
+  },
+  "name:TV| E! KEEPING UP ᴿᴬᵂ": {
+   "src": "directv.com|en|1814ce60-55e6-4379-a7dc-01d0d669dcd4",
+   "auto": true
+  },
   "name:TV| E! ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|e",
+   "src": "directv.com|en|1538b39f-3303-44d0-a98f-dbfb77ce13df",
    "auto": true
   },
   "name:TV| EARTHX ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#EarthX.us2",
+   "auto": true
+  },
+  "name:TV| EBONY TV ᴿᴬᵂ": {
+   "src": "directv.com|en|4ce170e6-9219-42f3-8b02-ad3a5b851e81",
+   "auto": true
+  },
+  "name:TV| EL REY REBEL ᴿᴬᵂ": {
+   "src": "directv.com|en|1e160544-00bc-4b3c-88df-455fb4af26e2",
    "auto": true
   },
   "name:TV| ESPN ᴿᴬᵂ": {
@@ -4479,6 +4715,26 @@
   "name:TV| ESPN+ 2 ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#ESPN.HD.us2",
    "offset": 2,
+   "auto": true
+  },
+  "name:TV| ESPN+ 3 ᴿᴬᵂ": {
+   "src": "directv.com|en|ae8449d2-f57d-436a-936d-414a232dbf5a",
+   "auto": true
+  },
+  "name:TV| ESPN+ 4 ᴿᴬᵂ": {
+   "src": "directv.com|en|2a52c1df-ee7e-4525-a7a8-05eb32f748b6",
+   "auto": true
+  },
+  "name:TV| ESPN+ 5 ᴿᴬᵂ": {
+   "src": "directv.com|en|e81e1c93-a8c5-4f40-8193-7795ab6a5cbb",
+   "auto": true
+  },
+  "name:TV| ESPN+ 6 ᴿᴬᵂ": {
+   "src": "directv.com|en|3cc8d07b-8366-4c4a-8839-3940e7bcafaf",
+   "auto": true
+  },
+  "name:TV| ESPN+ 7 ᴿᴬᵂ": {
+   "src": "directv.com|en|9327d69a-3362-49b4-b131-9aa12fe541f6",
    "auto": true
   },
   "name:TV| ESPN2 ᴿᴬᵂ": {
@@ -4517,12 +4773,24 @@
    "src": "epgshare01.online|en|US_LOCALS1#KVAL-DT.us_locals1",
    "auto": true
   },
+  "name:TV| FAIL ARMY ᴿᴬᵂ": {
+   "src": "directv.com|en|5b2cc61c-32c8-42db-8c2e-ec527e55f1fa",
+   "auto": true
+  },
   "name:TV| FAMILY ENTERTAINMENT TELEVISION ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Family.Entertainment.Television.us2",
    "auto": true
   },
+  "name:TV| FAMILY FEUD (STEVE HARVEY) ᴿᴬᵂ": {
+   "src": "directv.com|en|f4616bcd-507f-4083-8ed3-122a5dec2fcf",
+   "auto": true
+  },
   "name:TV| FAMILY MOVIE CLASSICS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Family.Movie.Classics.us2",
+   "auto": true
+  },
+  "name:TV| FANDUEL TV ᴿᴬᵂ": {
+   "src": "directv.com|en|29f35d32-a695-40de-9fbb-56d5c0204822",
    "auto": true
   },
   "name:TV| FIGHT NETWORK ᴿᴬᵂ": {
@@ -4537,6 +4805,10 @@
    "src": "epgshare01.online|en|US2#Food.Network.HD.us2",
    "auto": true
   },
+  "name:TV| FOX BUSINESS NETWORK ᴿᴬᵂ": {
+   "src": "directv.com|en|84df7371-69e0-49be-a058-bf2f6e8bac84",
+   "auto": true
+  },
   "name:TV| FOX NEWS CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Fox.News.Channel.HD.us2",
    "auto": true
@@ -4546,15 +4818,27 @@
    "auto": true
   },
   "name:TV| FOX SPORTS 1 ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|fox-sports-1",
+   "src": "directv.com|en|454a64a1-89a7-415b-a315-c3c3ac505198",
    "auto": true
   },
   "name:TV| FOX SPORTS 2 ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|fox-sports-2",
+   "src": "directv.com|en|bfc46e01-73b9-4571-8357-f8298d2b2ced",
+   "auto": true
+  },
+  "name:TV| FOX SPORTS ᴿᴬᵂ": {
+   "src": "directv.com|en|9f07c24a-045f-42b4-90a7-fee624e62356",
+   "auto": true
+  },
+  "name:TV| FOX WEATHER ᴿᴬᵂ": {
+   "src": "directv.com|en|3eb71a0d-48b1-459a-be81-c229062bb18c",
    "auto": true
   },
   "name:TV| FREEFORM ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Freeform.HD.us2",
+   "auto": true
+  },
+  "name:TV| FUEL TV ᴿᴬᵂ": {
+   "src": "directv.com|en|cff1891b-b09a-4b79-9d89-28754383976e",
    "auto": true
   },
   "name:TV| FUSE ᴿᴬᵂ": {
@@ -4574,15 +4858,35 @@
    "auto": true
   },
   "name:TV| FYI ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|fyi",
+   "src": "directv.com|en|6d1cd9b3-d125-4e87-a37f-0309c1459f8a",
+   "auto": true
+  },
+  "name:TV| GALAVISION ᴿᴬᵂ": {
+   "src": "directv.com|en|187cc33f-28cc-404d-b2ab-c2b317a982f0",
    "auto": true
   },
   "name:TV| GAME SHOW NETWORK ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Game.Show.Network.HD.us2",
    "auto": true
   },
+  "name:TV| GEM SHOPPING NETWORK ᴿᴬᵂ": {
+   "src": "directv.com|en|e499c4cf-6b9b-483f-b1fa-cbd0d79a81bf",
+   "auto": true
+  },
+  "name:TV| GHOSTS ARE REAL ᴿᴬᵂ": {
+   "src": "directv.com|en|fb00926e-50d3-48f0-825f-92d0be19713e",
+   "auto": true
+  },
   "name:TV| GOLF CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Golf.Channel.HD.us2",
+   "auto": true
+  },
+  "name:TV| GOLFPASS ᴿᴬᵂ": {
+   "src": "directv.com|en|27133a31-573d-4d7b-bb3c-fcf2d7e46360",
+   "auto": true
+  },
+  "name:TV| GOTRAVELER ᴿᴬᵂ": {
+   "src": "directv.com|en|700a3608-e13e-42f3-8c19-bf2fe96cc94d",
    "auto": true
   },
   "name:TV| GREAT AMERICAN FAMILY ᴿᴬᵂ": {
@@ -4591,6 +4895,10 @@
   },
   "name:TV| GREAT AMERICAN ROMCOMS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Great.American.Romcoms.us2",
+   "auto": true
+  },
+  "name:TV| GREAT ᴿᴬᵂ": {
+   "src": "directv.com|en|f2826647-aa15-443d-9242-a05526e580aa",
    "auto": true
   },
   "name:TV| GREEN BAY, WI WBAY ABC 2 A3 HD GREENBAY ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4633,6 +4941,10 @@
    "src": "epgshare01.online|en|US2#Grit.us2",
    "auto": true
   },
+  "name:TV| GUSTO TV ᴿᴬᵂ": {
+   "src": "directv.com|en|ea82c4aa-5081-46b9-8328-f9a7501f8f7c",
+   "auto": true
+  },
   "name:TV| HALLMARK CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Hallmark.Channel.HD.us2",
    "auto": true
@@ -4654,11 +4966,11 @@
    "auto": true
   },
   "name:TV| HBO HITS EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#HBO.Hits.us2",
+   "src": "directv.com|en|51cfd7f4-0f6e-4c9b-b2ec-646afb3f7d93",
    "auto": true
   },
   "name:TV| HBO HITS WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#HBO.Hits.us2",
+   "src": "directv.com|en|5f50d25a-3283-4d8d-8cfd-adb8b999c0b3",
    "auto": true
   },
   "name:TV| HBO LATINO ᴿᴬᵂ": {
@@ -4673,8 +4985,16 @@
    "src": "epgshare01.online|en|US2#HBO.West.us2",
    "auto": true
   },
+  "name:TV| HERSPHERE ᴿᴬᵂ": {
+   "src": "directv.com|en|c0c3cea1-a0fc-4ea0-831c-11a9487cd38c",
+   "auto": true
+  },
   "name:TV| HGTV ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|hgtv",
+   "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
+   "auto": true
+  },
+  "name:TV| HISTORY & WARFARE ᴿᴬᵂ": {
+   "src": "directv.com|en|6ba0f00a-e4f9-4ad7-8bc0-58c1b1be2d5c",
    "auto": true
   },
   "name:TV| HISTORY ᴿᴬᵂ": {
@@ -4689,16 +5009,52 @@
    "src": "epgshare01.online|en|US2#Home.Shopping.Network.us2",
    "auto": true
   },
+  "name:TV| HORROR BY ALTER ᴿᴬᵂ": {
+   "src": "directv.com|en|8584c42f-762d-4a54-8912-f1166a61131c",
+   "auto": true
+  },
+  "name:TV| HOW TO ᴿᴬᵂ": {
+   "src": "directv.com|en|605b59bf-b596-44f8-9cc6-ce69d80657e3",
+   "auto": true
+  },
+  "name:TV| I (ALMOST) GOT AWAY WITH IT ᴿᴬᵂ": {
+   "src": "directv.com|en|58dae6c5-d0e2-4069-9350-5fd26f538f93",
+   "auto": true
+  },
+  "name:TV| I24 NEWS ᴿᴬᵂ": {
+   "src": "directv.com|en|8a5c075e-1969-453b-b5f9-9108243c7816",
+   "auto": true
+  },
+  "name:TV| ICE ROAD TRUCKERS ᴿᴬᵂ": {
+   "src": "directv.com|en|b6b9e4bb-503a-492c-88f5-4de71aedaae8",
+   "auto": true
+  },
   "name:TV| IFC ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#IFC.HD.us2",
+   "auto": true
+  },
+  "name:TV| IN TOUCH + ᴿᴬᵂ": {
+   "src": "directv.com|en|17915df7-392d-458c-a52d-f15761031840",
+   "auto": true
+  },
+  "name:TV| INFAST ᴿᴬᵂ": {
+   "src": "directv.com|en|f662c708-ff11-4649-a1af-b43850b13c33",
    "auto": true
   },
   "name:TV| INSP ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#INSP.HD.us2",
    "auto": true
   },
+  "name:TV| INSP WESTERN BOUND ᴿᴬᵂ": {
+   "src": "directv.com|en|b475c9ac-c6cc-4e9e-833d-d64ae67bc28a",
+   "auto": true
+  },
   "name:TV| INVESTIGATION DISCOVERY ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Investigation.Discovery.HD.us2",
+   "auto": true
+  },
+  "name:TV| INWONDER ᴿᴬᵂ": {
+   "src": "directv.com|en|45c0b1b4-190f-4b09-beb8-e264ec62980a",
    "auto": true
   },
   "name:TV| JACKSON, TN WBBJ ABC 7 A3 HD NASHVILLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4721,8 +5077,16 @@
    "src": "epgshare01.online|en|US_LOCALS1#WNBJ-LD.us_locals1",
    "auto": true
   },
+  "name:TV| JAMIE OLIVER ᴿᴬᵂ": {
+   "src": "directv.com|en|26cde0b9-26f2-4b0d-b505-ac7e75f89529",
+   "auto": true
+  },
   "name:TV| JEWELRY TELEVISION ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Jewelry.Television.us2",
+   "auto": true
+  },
+  "name:TV| JOEL OSTEEN ᴿᴬᵂ": {
+   "src": "directv.com|en|51b72650-121d-42fa-842c-3b87b040b05a",
    "auto": true
   },
   "name:TV| JUSTICE CENTRAL ᴿᴬᵂ": {
@@ -4769,6 +5133,10 @@
    "src": "epgshare01.online|en|US_LOCALS1#KVHP-DT.us_locals1",
    "auto": true
   },
+  "name:TV| LET'S MAKE A DEAL ᴿᴬᵂ": {
+   "src": "directv.com|en|6037ae8a-1207-4e0a-8284-da0155266094",
+   "auto": true
+  },
   "name:TV| LEXINGTON, KY WDKY FOX 56 A3 HD PHOENIX ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#WDKY-DT.us_locals1",
    "auto": true
@@ -4793,6 +5161,10 @@
    "src": "epgshare01.online|en|US2#Lifetime.HD.us2",
    "auto": true
   },
+  "name:TV| LIONSGATE COLLECTION ᴿᴬᵂ": {
+   "src": "directv.com|en|01d53c03-2779-480d-a5cc-635c8acede24",
+   "auto": true
+  },
   "name:TV| LITTLE ROCK, AR KARK NBC 4 A3 HD HOUSTON ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#KARK-DT.us_locals1",
    "auto": true
@@ -4809,6 +5181,10 @@
    "src": "epgshare01.online|en|US_LOCALS1#KTHV-DT.us_locals1",
    "auto": true
   },
+  "name:TV| LIVING WITH EVIL ᴿᴬᵂ": {
+   "src": "directv.com|en|cb6822da-03bc-42b4-bf41-d63b2ba29fa6",
+   "auto": true
+  },
   "name:TV| LMN ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#LMN.HD.us2",
    "auto": true
@@ -4817,12 +5193,20 @@
    "src": "epgshare01.online|en|US2#Logo.us2",
    "auto": true
   },
+  "name:TV| LOOLOO KIDS ᴿᴬᵂ": {
+   "src": "directv.com|en|2a20c19d-ae2c-4b15-8b6c-24223a4c4d40",
+   "auto": true
+  },
+  "name:TV| LOVE AFTER LOCKUP ᴿᴬᵂ": {
+   "src": "directv.com|en|5b8593ee-d7b2-4e25-91f1-5c68cc7f71ba",
+   "auto": true
+  },
   "name:TV| LOVE KILLS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Love.Kills.us2",
    "auto": true
   },
   "name:TV| LOVE NATURE ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|CA2#Love.Nature.ca2",
+   "src": "directv.com|en|22f9cdd5-fcae-4f86-af5e-ce4105209af6",
    "auto": true
   },
   "name:TV| MACON, GA  WGXA-D2 ABC 25 A3 HD SILVER SPRING ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4845,12 +5229,28 @@
    "src": "epgshare01.online|en|US_LOCALS1#WMUM-DT.us_locals1",
    "auto": true
   },
+  "name:TV| MADISON SQUARE GARDEN ᴿᴬᵂ": {
+   "src": "directv.com|en|ad7c110d-65a0-43b0-93f1-29d695c10901",
+   "auto": true
+  },
+  "name:TV| MAGELLANTV WILDEST ᴿᴬᵂ": {
+   "src": "directv.com|en|3d9c81e7-7124-4de1-a978-a013a4d40947",
+   "auto": true
+  },
   "name:TV| MAGNOLIA NETWORK ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Magnolia.Network.HD.us2",
    "auto": true
   },
+  "name:TV| MASN ᴿᴬᵂ": {
+   "src": "directv.com|en|8e4f3326-9bf2-46df-a128-92df7f3e8919",
+   "auto": true
+  },
+  "name:TV| MEATEATER ᴿᴬᵂ": {
+   "src": "directv.com|en|77cf4af2-7b83-4838-a30a-c7be89f60fa2",
+   "auto": true
+  },
   "name:TV| METV ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|metv",
+   "src": "directv.com|en|038e34a5-d895-44cb-81da-f5d0b860fd06",
    "auto": true
   },
   "name:TV| METV TOONS ᴿᴬᵂ": {
@@ -4861,48 +5261,100 @@
    "src": "epgshare01.online|en|US_LOCALS1#WPLG-DT.us_locals1",
    "auto": true
   },
+  "name:TV| MILITARY HEROES ᴿᴬᵂ": {
+   "src": "directv.com|en|07e6d416-6d4c-4a0f-8848-e49bb6f8e25f",
+   "auto": true
+  },
+  "name:TV| MILLION DOLLAR LISTING VAULT ᴿᴬᵂ": {
+   "src": "directv.com|en|6ab5f785-6071-4a16-80b0-03d0020a2d26",
+   "auto": true
+  },
   "name:TV| MLB NETWORK ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#MLB.Network.HD.us2",
    "auto": true
   },
+  "name:TV| MODERN MARVELS ᴿᴬᵂ": {
+   "src": "directv.com|en|3113dc10-422a-4139-b6d0-93fceb900d74",
+   "auto": true
+  },
   "name:TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ": {
-   "src": "directv.com|en|d69fe447-2e99-4fe1-a888-7af281700185",
+   "src": "directv.com|en|ab074342-55eb-4db8-bbe4-f5b15b17e737",
+   "auto": true
+  },
+  "name:TV| MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ": {
+   "src": "directv.com|en|009ae0d4-8a1e-4f96-8abd-56afe53f9c30",
    "auto": true
   },
   "name:TV| MOVIESPHERE GOLD ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#MovieSphere.Gold.us2",
    "auto": true
   },
+  "name:TV| MOVIESPHERE ᴿᴬᵂ": {
+   "src": "directv.com|en|0fa300f0-8f01-48ea-96fd-3009ce524321",
+   "auto": true
+  },
   "name:TV| MS NOW ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#MS.NOW.HD.us2",
+   "auto": true
+  },
+  "name:TV| MSG ALT-1 ᴿᴬᵂ": {
+   "src": "directv.com|en|5e2df6ea-3021-4cd5-a3bb-8710e97fa73f",
    "auto": true
   },
   "name:TV| MSG ALT-2 ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#MSG2.HD.us2",
    "auto": true
   },
+  "name:TV| MSG ALT-3 ᴿᴬᵂ": {
+   "src": "directv.com|en|6e57ff28-45ae-4136-926e-f2bcb4cf4921",
+   "auto": true
+  },
+  "name:TV| MSG SPORTSNET ᴿᴬᵂ": {
+   "src": "directv.com|en|2f03db29-3914-4b6e-a37b-ba2b34811ff8",
+   "auto": true
+  },
   "name:TV| MTV ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|mtv",
+   "src": "directv.com|en|6bb1b774-c06c-44e1-a316-5d41c63229e0",
+   "auto": true
+  },
+  "name:TV| MTV WEST ᴿᴬᵂ": {
+   "src": "directv.com|en|e3190daa-5f8a-41e8-b8ff-0d9eae7bb347",
    "auto": true
   },
   "name:TV| MTV2 ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|mtv2",
+   "src": "directv.com|en|4ec976b6-089d-45b5-ab45-89a88778f27e",
+   "auto": true
+  },
+  "name:TV| MYSTERIOUS WORLDS ᴿᴬᵂ": {
+   "src": "directv.com|en|86e6ea74-3167-4294-82b2-681b7ee90502",
+   "auto": true
+  },
+  "name:TV| MYTHBUSTERS ᴿᴬᵂ": {
+   "src": "directv.com|en|46735643-b251-441d-bec8-c1daa2971135",
    "auto": true
   },
   "name:TV| NAT GEO WILD ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|nat-geo-wild",
+   "src": "directv.com|en|9c05f5fd-529d-4e3a-8683-33003c243914",
    "auto": true
   },
   "name:TV| NATIONAL GEOGRAPHIC ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#National.Geographic.HD.us2",
    "auto": true
   },
+  "name:TV| NBA FAST CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|522ea921-5c82-4044-a93d-99d4750c8c77",
+   "auto": true
+  },
   "name:TV| NBA TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#NBA.TV.HD.us2",
    "auto": true
   },
+  "name:TV| NBC NEWS NOW ᴿᴬᵂ": {
+   "src": "directv.com|en|13037afa-9397-4f2a-b015-069621319ced",
+   "auto": true
+  },
   "name:TV| NBC SPORTS BAY AREA PLUS ALTERNATE ᴿᴬᵂ": {
-   "src": "directv.com|en|eb8988a5-c8e5-47c2-b120-4f765eab3d85",
+   "src": "directv.com|en|737ccfce-e1c3-4d1c-a731-7905e0035c8f",
    "auto": true
   },
   "name:TV| NBC SPORTS BAY AREA ᴿᴬᵂ": {
@@ -4913,6 +5365,10 @@
    "src": "epgshare01.online|en|US2#NBC.Sports.Boston.HD.us2",
    "auto": true
   },
+  "name:TV| NBC SPORTS CALIFORNIA PLUS 2 ᴿᴬᵂ": {
+   "src": "directv.com|en|16e41d2f-f7e1-4a11-b655-a71de3b6d027",
+   "auto": true
+  },
   "name:TV| NBC SPORTS CALIFORNIA PLUS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#NBC.Sports.California.Plus.us2",
    "auto": true
@@ -4921,12 +5377,16 @@
    "src": "epgshare01.online|en|US2#NBC.Sports.Now.us2",
    "auto": true
   },
+  "name:TV| NESN PLUS ᴿᴬᵂ": {
+   "src": "directv.com|en|5900f38f-1973-4a53-9168-980fa39474ab",
+   "auto": true
+  },
   "name:TV| NEW YORK, NY WEDW PBS 49 A3 HD NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#WEDW-DT.us_locals1",
    "auto": true
   },
   "name:TV| NEW YORK, NY WEDW PBS 49 A3 ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WEDW-DT.us_locals1",
+   "src": "directv.com|en|10bac3e0-2cea-4b9f-a473-ed3efffbea5f",
    "auto": true
   },
   "name:TV| NEW YORK, NY WNET PBS 13 A3 HD NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4934,7 +5394,7 @@
    "auto": true
   },
   "name:TV| NEW YORK, NY WNET PBS 13 A3 ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNET-DT.us_locals1",
+   "src": "directv.com|en|261f8679-5d40-4769-88e5-642b787db3b7",
    "auto": true
   },
   "name:TV| NEW YORK, NY WNJN PBS 50 A3 HD NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4942,7 +5402,7 @@
    "auto": true
   },
   "name:TV| NEW YORK, NY WNJN PBS 50 A3 ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNJN-DT.us_locals1",
+   "src": "directv.com|en|16ac1489-3d4d-4e7e-8f2b-f2d0b4664a90",
    "auto": true
   },
   "name:TV| NEWSMAX TV ᴿᴬᵂ": {
@@ -4974,11 +5434,15 @@
    "auto": true
   },
   "name:TV| NICKELODEON EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Nickelodeon.HD.us2",
+   "src": "directv.com|en|18ee6c13-d93a-4f79-bd02-21bd18b052a3",
    "auto": true
   },
   "name:TV| NICKTOONS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Nicktoons.us2",
+   "auto": true
+  },
+  "name:TV| NOSEY ᴿᴬᵂ": {
+   "src": "directv.com|en|171d9bb5-236b-4d9b-9c29-c9e5dc823d9b",
    "auto": true
   },
   "name:TV| OUTDOOR CHANNEL ᴿᴬᵂ": {
@@ -4990,7 +5454,11 @@
    "auto": true
   },
   "name:TV| OWN ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|own",
+   "src": "directv.com|en|58e441dc-f9fe-41a5-af33-aac1f03d3ed1",
+   "auto": true
+  },
+  "name:TV| OXYGEN TRUE CRIME ARCHIVES ᴿᴬᵂ": {
+   "src": "directv.com|en|9ebb3bd2-af94-436d-8123-4add71872f98",
    "auto": true
   },
   "name:TV| OXYGEN TRUE CRIME ᴿᴬᵂ": {
@@ -5002,19 +5470,39 @@
    "auto": true
   },
   "name:TV| PARAMOUNT+ WITH SHOWTIME EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Paramount+.with.Showtime.HD.us2",
+   "src": "directv.com|en|0bba36e4-7802-43c0-ad3f-cc0ff064a518",
    "auto": true
   },
   "name:TV| PARAMOUNT+ WITH SHOWTIME WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Paramount+.with.Showtime.HD.us2",
+   "src": "directv.com|en|1c4e1fec-a588-42e2-b068-e04ad332824c",
    "auto": true
   },
   "name:TV| PBS KIDS ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#PBS.KIDS.HD.us2",
    "auto": true
   },
+  "name:TV| PICKLEBALL TV ᴿᴬᵂ": {
+   "src": "directv.com|en|d351ef21-b01e-434f-acec-712e62b6d093",
+   "auto": true
+  },
+  "name:TV| PLAYERS TV ᴿᴬᵂ": {
+   "src": "directv.com|en|01aead45-ac59-49b6-9ee0-a513c60e373f",
+   "auto": true
+  },
+  "name:TV| POKERGO ᴿᴬᵂ": {
+   "src": "directv.com|en|3d550255-c27b-4d12-b681-343bcbaa7fe5",
+   "auto": true
+  },
   "name:TV| POP ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#POP.HD.us2",
+   "auto": true
+  },
+  "name:TV| PORTLANDIA ᴿᴬᵂ": {
+   "src": "directv.com|en|1db98d7f-4a0f-44e8-9ec3-08313505fb3e",
+   "auto": true
+  },
+  "name:TV| POWERNATION ᴿᴬᵂ": {
+   "src": "directv.com|en|f1e6988c-8273-4356-9d41-23dd1eb7e667",
    "auto": true
   },
   "name:TV| PUREFLIX TV ᴿᴬᵂ": {
@@ -5023,6 +5511,10 @@
   },
   "name:TV| PURSUIT CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Pursuit.Channel.us2",
+   "auto": true
+  },
+  "name:TV| PURSUIT UP ᴿᴬᵂ": {
+   "src": "directv.com|en|54097e9b-de62-4618-be26-12f73cf6c484",
    "auto": true
   },
   "name:TV| QVC ᴿᴬᵂ": {
@@ -5041,8 +5533,20 @@
    "src": "epgshare01.online|en|US2#RACER.Network.HD.us2",
    "auto": true
   },
+  "name:TV| RACING AMERICA ᴿᴬᵂ": {
+   "src": "directv.com|en|d8e10041-feec-44fa-983f-dd8ae07323fe",
+   "auto": true
+  },
+  "name:TV| REAL HOUSEWIVES VAULT ᴿᴬᵂ": {
+   "src": "directv.com|en|c641c3d4-7d95-4f74-b0f5-703356eef6c2",
+   "auto": true
+  },
   "name:TV| RECIPE TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Recipe.TV.HD.us2",
+   "auto": true
+  },
+  "name:TV| RED BULL TV ᴿᴬᵂ": {
+   "src": "directv.com|en|6fe20dc1-9103-4569-a42c-d887dddf14a3",
    "auto": true
   },
   "name:TV| REELZCHANNEL ᴿᴬᵂ": {
@@ -5055,6 +5559,18 @@
   },
   "name:TV| RFD TV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#RFD.TV.HD.us2",
+   "auto": true
+  },
+  "name:TV| RIG TV ᴿᴬᵂ": {
+   "src": "directv.com|en|48e1a675-8d4b-472e-bcde-159312ae7ce5",
+   "auto": true
+  },
+  "name:TV| RVTV ᴿᴬᵂ": {
+   "src": "directv.com|en|822d6157-1ee8-4175-b749-270fdc0e4289",
+   "auto": true
+  },
+  "name:TV| RYZ SPORTS ᴿᴬᵂ": {
+   "src": "directv.com|en|d0e60163-66ce-449c-a34b-a0cd7c39be94",
    "auto": true
   },
   "name:TV| SALT LAKE CITY, UT KJZZ IND 14 A3 HD PHILADELPHIA ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5107,6 +5623,18 @@
   },
   "name:TV| SAN FRANCISCO, CA KTVU FOX 2 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "auto": true
+  },
+  "name:TV| SAY YES TO THE DRESS ᴿᴬᵂ": {
+   "src": "directv.com|en|ebb2a922-67e6-4067-ad83-bba5a293a77c",
+   "auto": true
+  },
+  "name:TV| SCIENCE ᴿᴬᵂ": {
+   "src": "directv.com|en|5bc45a0d-29b8-4cdc-a0b2-c694a29c51f2",
+   "auto": true
+  },
+  "name:TV| SCIENTOLOGY NETWORK ᴿᴬᵂ": {
+   "src": "directv.com|en|336feaf4-0c3f-4b91-b903-81d2694ba296",
    "auto": true
   },
   "name:TV| SCRIPPS NEWS ᴿᴬᵂ": {
@@ -5174,7 +5702,27 @@
    "auto": true
   },
   "name:TV| SMITHSONIAN CHANNEL ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|smithsonian-channel",
+   "src": "directv.com|en|b7dd0c3c-d22b-4a6b-b360-dcaf56deab7f",
+   "auto": true
+  },
+  "name:TV| SNL VAULT ᴿᴬᵂ": {
+   "src": "directv.com|en|1354ac42-cf21-4578-82df-9e35c0657718",
+   "auto": true
+  },
+  "name:TV| SOMOS NOVELAS ᴿᴬᵂ": {
+   "src": "directv.com|en|63ba40e0-454c-4cbf-a485-cd7412cda1d5",
+   "auto": true
+  },
+  "name:TV| SPECTRUM SPORTSNET ᴿᴬᵂ": {
+   "src": "directv.com|en|8c4620bb-bdd2-4917-b94a-b7e9484a8239",
+   "auto": true
+  },
+  "name:TV| SPEEDVISION ᴿᴬᵂ": {
+   "src": "directv.com|en|d1351812-e633-4da7-8fbf-972d52d869b5",
+   "auto": true
+  },
+  "name:TV| SPORTS ILLUSTRATED ᴿᴬᵂ": {
+   "src": "directv.com|en|245d033a-2b77-410b-9428-ad59e3f8b104",
    "auto": true
   },
   "name:TV| SPORTSGRID ᴿᴬᵂ": {
@@ -5183,6 +5731,14 @@
   },
   "name:TV| SPORTSMAN CHANNEL ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Sportsman.Channel.us2",
+   "auto": true
+  },
+  "name:TV| SPORTSNET NEW YORK ᴿᴬᵂ": {
+   "src": "directv.com|en|78673916-6fd6-45cd-b5f2-fdad66eb8288",
+   "auto": true
+  },
+  "name:TV| SPORTSNET PITTSBURGH ALTERNATE ᴿᴬᵂ": {
+   "src": "directv.com|en|7ae9a96c-cda3-42da-9851-bfb916ae4c39",
    "auto": true
   },
   "name:TV| SPRINGFIELD, MA WGBY PBS 57 A3 HD DETROIT ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5225,8 +5781,12 @@
    "src": "epgshare01.online|en|US_LOCALS1#KTVI-DT.us_locals1",
    "auto": true
   },
+  "name:TV| STADIUM STREAM ᴿᴬᵂ": {
+   "src": "directv.com|en|d21c2609-c765-4efd-a9d3-d739d4a42289",
+   "auto": true
+  },
   "name:TV| START TV ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|start-tv",
+   "src": "directv.com|en|d833c43a-5f3c-45a1-9c4d-2861c71da177",
    "auto": true
   },
   "name:TV| STARZ CINEMA ᴿᴬᵂ": {
@@ -5238,7 +5798,7 @@
    "auto": true
   },
   "name:TV| STARZ EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Starz.HD.us2",
+   "src": "directv.com|en|2b37e536-052a-4969-b5c9-2bc1455d8c51",
    "auto": true
   },
   "name:TV| STARZ EDGE ᴿᴬᵂ": {
@@ -5270,7 +5830,7 @@
    "auto": true
   },
   "name:TV| STARZ ENCORE WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Starz.Encore.HD.us2",
+   "src": "directv.com|en|3db92850-0314-4bd9-a517-7af91523d3ea",
    "auto": true
   },
   "name:TV| STARZ ENCORE WESTERNS ᴿᴬᵂ": {
@@ -5282,11 +5842,11 @@
    "auto": true
   },
   "name:TV| STARZ KIDS & FAMILY ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|starz-kids-family",
+   "src": "directv.com|en|a159f96b-b98b-4772-af97-dff13b11a0d2",
    "auto": true
   },
   "name:TV| STARZ WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Starz.HD.us2",
+   "src": "directv.com|en|17b336f5-9ead-4b76-8526-54bc8688e6e9",
    "auto": true
   },
   "name:TV| STORIES BY AMC ᴿᴬᵂ": {
@@ -5295,6 +5855,22 @@
   },
   "name:TV| SUNDANCETV ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#SundanceTV.HD.us2",
+   "auto": true
+  },
+  "name:TV| SUPERMARKET SWEEP ᴿᴬᵂ": {
+   "src": "directv.com|en|aac0e9ef-e46b-4207-943f-75519c3d64d9",
+   "auto": true
+  },
+  "name:TV| SURF CINEMA ᴿᴬᵂ": {
+   "src": "directv.com|en|01ea1d5d-dd94-4db1-9eef-4a1f5979251b",
+   "auto": true
+  },
+  "name:TV| SWEET ESCAPES ᴿᴬᵂ": {
+   "src": "directv.com|en|9007fc14-113d-4e1e-bf32-abc1a8777d1d",
+   "auto": true
+  },
+  "name:TV| SWERVE COMBAT ᴿᴬᵂ": {
+   "src": "directv.com|en|f90768ab-a273-4808-9460-30818f1839f9",
    "auto": true
   },
   "name:TV| SYFYHD ᴿᴬᵂ": {
@@ -5317,8 +5893,20 @@
    "src": "epgshare01.online|en|US2#TBS.HD.us2",
    "auto": true
   },
+  "name:TV| TBS WEST ᴿᴬᵂ": {
+   "src": "directv.com|en|385801f7-606a-457d-8116-e1a73cf77484",
+   "auto": true
+  },
+  "name:TV| TCM ᴿᴬᵂ": {
+   "src": "directv.com|en|6b20b8de-3094-48f4-ad7b-4eecc2f8d48a",
+   "auto": true
+  },
   "name:TV| TEENNICK ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Teen.Nick.us2",
+   "auto": true
+  },
+  "name:TV| TENNIS CHANNEL 2 ᴿᴬᵂ": {
+   "src": "directv.com|en|2ad8b4d0-8c6f-4360-84e5-79f5f1874aee",
    "auto": true
   },
   "name:TV| TENNIS CHANNEL ᴿᴬᵂ": {
@@ -5326,19 +5914,51 @@
    "auto": true
   },
   "name:TV| THE DESIGN NETWORK ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|the-design-network",
+   "src": "directv.com|en|f6dbe792-f9fd-4cb7-a8f2-4e9cc342700e",
    "auto": true
   },
   "name:TV| THE FIRST ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#The.First.us2",
    "auto": true
   },
+  "name:TV| THE JIM ROME SHOW ᴿᴬᵂ": {
+   "src": "directv.com|en|d72fbe30-8ad9-48b4-8f51-90991572ae1e",
+   "auto": true
+  },
+  "name:TV| THE MASKED SINGER ᴿᴬᵂ": {
+   "src": "directv.com|en|968a5a0c-8c2f-4f18-a0c0-3b9be518bbbe",
+   "auto": true
+  },
+  "name:TV| THE MLB CHANNEL ᴿᴬᵂ": {
+   "src": "directv.com|en|ab1de666-b3c5-45df-8f5d-4d2555683a89",
+   "auto": true
+  },
   "name:TV| THE MOVIE CHANNEL EAST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#The.Movie.Channel.HD.us2",
+   "src": "directv.com|en|3078897a-8da3-4a0f-b5e1-19aac06a1c0d",
+   "auto": true
+  },
+  "name:TV| THE MOVIE CHANNEL XTRA ᴿᴬᵂ": {
+   "src": "directv.com|en|15d23b4b-a9df-4094-ba16-cebfca650cd1",
+   "auto": true
+  },
+  "name:TV| THE PET COLLECTIVE ᴿᴬᵂ": {
+   "src": "directv.com|en|1a3d9bbb-6fa6-4db0-9e48-00c80d1fd8c6",
+   "auto": true
+  },
+  "name:TV| THE PRICE IS RIGHT: DREW CAREY ᴿᴬᵂ": {
+   "src": "directv.com|en|6543ae89-5bf4-4bb8-83b9-916c55a8b59b",
+   "auto": true
+  },
+  "name:TV| THE PRICE IS RIGHT: THE BARKER ERA ᴿᴬᵂ": {
+   "src": "directv.com|en|b13da9ab-076b-4009-a367-38a282ea78da",
    "auto": true
   },
   "name:TV| THE REPAIR SHOP ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#The.Repair.Shop.us2",
+   "auto": true
+  },
+  "name:TV| THE WALKING DEAD UNIVERSE ᴿᴬᵂ": {
+   "src": "directv.com|en|03c898d9-9054-4f99-a772-1470e1e9846b",
    "auto": true
   },
   "name:TV| THE WEATHER CHANNEL ᴿᴬᵂ": {
@@ -5349,20 +5969,52 @@
    "src": "epgshare01.online|en|US2#The.Grio.HD.us2",
    "auto": true
   },
+  "name:TV| THREE STOOGES ᴿᴬᵂ": {
+   "src": "directv.com|en|aa7407ef-0ee4-4141-89bb-8e22016507ac",
+   "auto": true
+  },
+  "name:TV| TINY HOUSE NATION ᴿᴬᵂ": {
+   "src": "directv.com|en|45f5b2a9-2318-41e2-a471-e2f2efcdcfa7",
+   "auto": true
+  },
   "name:TV| TLC ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|tlc",
+   "src": "directv.com|en|37a0a48a-3ca8-465f-8c4e-cbce36dd0ff3",
+   "auto": true
+  },
+  "name:TV| TNA ᴿᴬᵂ": {
+   "src": "directv.com|en|b2dfe3d3-4fc3-4112-baa1-2c7ba0b3970d",
    "auto": true
   },
   "name:TV| TNT ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#TNT.HD.us2",
    "auto": true
   },
+  "name:TV| TNT WEST ᴿᴬᵂ": {
+   "src": "directv.com|en|fb089f4f-0b1a-481c-adb1-d624884f51f2",
+   "auto": true
+  },
+  "name:TV| TODAY ALL DAY ᴿᴬᵂ": {
+   "src": "directv.com|en|8f6ceea8-50d7-46b3-9c25-4b61598f94d9",
+   "auto": true
+  },
+  "name:TV| TORQUE BY HISTORY ᴿᴬᵂ": {
+   "src": "directv.com|en|e8e77841-c3ec-4442-8458-d08231e89f73",
+   "auto": true
+  },
   "name:TV| TRAVEL CHANNEL ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|travel-channel",
+   "src": "directv.com|en|088ffb78-2fed-4ebb-bf13-bf009d0700d7",
    "auto": true
   },
   "name:TV| TRIBECA FESTIVAL+ ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Tribeca.Festival.+.us2",
+   "auto": true
+  },
+  "name:TV| TRUE CRIME NOW ᴿᴬᵂ": {
+   "src": "directv.com|en|63a853ea-605c-44bc-aecb-7d660282352e",
+   "auto": true
+  },
+  "name:TV| TRUE CRMZ ᴿᴬᵂ": {
+   "src": "directv.com|en|9ee1bd46-2998-4f53-861d-9314a7584ff5",
    "auto": true
   },
   "name:TV| TRUTV ᴿᴬᵂ": {
@@ -5382,7 +6034,7 @@
    "auto": true
   },
   "name:TV| UNIMAS WEST ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#UniMas.us2",
+   "src": "directv.com|en|dad499f5-14e2-43f8-a98a-333022817223",
    "auto": true
   },
   "name:TV| UNIVERSO ᴿᴬᵂ": {
@@ -5390,7 +6042,11 @@
    "auto": true
   },
   "name:TV| UNIVISION EAST ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|univision",
+   "src": "directv.com|en|94f35e95-f0d6-4967-874e-234e4ceaae8c",
+   "auto": true
+  },
+  "name:TV| UNXPLAINED ZONE ᴿᴬᵂ": {
+   "src": "directv.com|en|ce445d73-10fd-4bdd-a147-18571f90a0bf",
    "auto": true
   },
   "name:TV| UPTV ᴿᴬᵂ": {
@@ -5407,6 +6063,10 @@
   },
   "name:TV| VICE ᴿᴬᵂ": {
    "src": "epgshare01.online|en|US2#Vice.HD.us2",
+   "auto": true
+  },
+  "name:TV| WAYPOINT TV ᴿᴬᵂ": {
+   "src": "directv.com|en|6ddbad2d-436e-4d64-8754-16d598c5edb0",
    "auto": true
   },
   "name:TV| WE TV ᴿᴬᵂ": {
@@ -5429,8 +6089,48 @@
    "src": "epgshare01.online|en|US_LOCALS1#WTRF-DT.us_locals1",
    "auto": true
   },
+  "name:TV| WILLOW 2 ᴿᴬᵂ": {
+   "src": "directv.com|en|42fb56a2-5a5a-456c-8846-71f0941d0ea5",
+   "auto": true
+  },
   "name:TV| WILLOW ᴿᴬᵂ": {
-   "src": "tvinsider.com|en|willow",
+   "src": "directv.com|en|c17cd3d2-0549-44f3-845b-0f39eb194ce4",
+   "auto": true
+  },
+  "name:TV| WILLOW SPORTS ᴿᴬᵂ": {
+   "src": "directv.com|en|90a0ccfd-61b9-4904-999a-c97a9befe3cc",
+   "auto": true
+  },
+  "name:TV| WIRED2FISH TV ᴿᴬᵂ": {
+   "src": "directv.com|en|98e9d25c-ff7e-49e4-b5ba-6bbce1476194",
+   "auto": true
+  },
+  "name:TV| WNBA ON ION 1 ᴿᴬᵂ": {
+   "src": "directv.com|en|93c1ddc2-93be-46eb-8032-9d4e45503e73",
+   "auto": true
+  },
+  "name:TV| WNBA ON ION 2 ᴿᴬᵂ": {
+   "src": "directv.com|en|18e5a4de-e3ed-43bf-9232-1d9be2af67f1",
+   "auto": true
+  },
+  "name:TV| WNBA ON ION 3 ᴿᴬᵂ": {
+   "src": "directv.com|en|8f7c844a-e121-4ecf-87ca-6b1128e7a192",
+   "auto": true
+  },
+  "name:TV| WOMEN'S SPORTS NETWORK ᴿᴬᵂ": {
+   "src": "directv.com|en|812f6dbf-9b5a-4f45-9af8-d1723d847dfe",
+   "auto": true
+  },
+  "name:TV| YAHOO FINANCE ᴿᴬᵂ": {
+   "src": "directv.com|en|f4fb0d15-77c9-4ef8-b86c-1500ae958250",
+   "auto": true
+  },
+  "name:TV| YES ᴿᴬᵂ": {
+   "src": "directv.com|en|d78f51a2-e4a7-4c3e-86c9-1f6f4361d2fb",
+   "auto": true
+  },
+  "name:TV| YU-GI-OH! ᴿᴬᵂ": {
+   "src": "directv.com|en|76b0b447-3a1e-451b-a415-84cc8cfd41dd",
    "auto": true
   },
   "name:UK-BBCI| BBC ALBA": {
@@ -5446,7 +6146,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE CHANNEL ISLANDS": {
-   "src": "tv24.co.uk|en|bbc-one-channel-islands",
+   "src": "mytelly.co.uk|en|1663/bbc-one-channel-islands",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE EAST": {
@@ -5466,11 +6166,11 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NORTH EAST & CUMBRIA": {
-   "src": "tv24.co.uk|en|bbc-one-north-east-cumbria-hd",
+   "src": "mytelly.co.uk|en|13/bbc-one-north-east-cumbria",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NORTH WEST": {
-   "src": "tv24.co.uk|en|bbc-one-north-west-hd",
+   "src": "mytelly.co.uk|en|14/bbc-one-north-west",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SCOTLAND": {
@@ -5482,11 +6182,11 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SOUTH EAST": {
-   "src": "tv24.co.uk|en|bbc-one-south-east-hd",
+   "src": "mytelly.co.uk|en|16/bbc-one-south-east",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SOUTH WEST": {
-   "src": "tv24.co.uk|en|bbc-one-south-west-hd",
+   "src": "mytelly.co.uk|en|17/bbc-one-south-west",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE WALES": {
@@ -5578,7 +6278,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC TWO ENGLAND": {
-   "src": "tv24.co.uk|en|bbc2-england",
+   "src": "mytelly.co.uk|en|52/bbc-two-england",
    "auto": true
   },
   "name:UK-BBCI| BBC TWO NI": {
@@ -5598,11 +6298,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKY GREATS FHD": {
-   "src": "epgshare01.online|en|UK1#Sky.Greats.HD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Greats.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKY GREATS HD": {
-   "src": "epgshare01.online|en|UK1#Sky.Greats.HD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Greats.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKY SCFI/HOR FHD": {
@@ -5630,11 +6330,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE FHD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE HD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYANIMATION FHD": {
@@ -5666,7 +6366,7 @@
    "auto": true
   },
   "name:UK| BBC ONE SOUTH WEST": {
-   "src": "tv24.co.uk|en|bbc-one-south-west-hd",
+   "src": "mytelly.co.uk|en|17/bbc-one-south-west",
    "auto": true
   },
   "name:UK| BBC ONE WEST MIDLANDS": {
@@ -5698,7 +6398,7 @@
    "auto": true
   },
   "name:UK| CARTOON NETWORK +1": {
-   "src": "tv24.co.uk|en|cartoon-network-1",
+   "src": "mytelly.co.uk|en|705/cartoon-network-1",
    "auto": true
   },
   "name:UK| CHANNEL 4 +1": {
@@ -5861,7 +6561,7 @@
    "auto": true
   },
   "name:UK| SKY CRIME +1": {
-   "src": "tv24.co.uk|en|sky-crime-1",
+   "src": "mytelly.co.uk|en|1470/sky-crime-1",
    "auto": true
   },
   "name:UK| SKY KIDS HD": {
@@ -5869,7 +6569,7 @@
    "auto": true
   },
   "name:UK| SKY PREMIERE +1": {
-   "src": "epgshare01.online|en|UK1#SkyPremiereHD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Premiere.uk",
    "offset": 1,
    "auto": true
   },
@@ -5878,7 +6578,7 @@
    "auto": true
   },
   "name:UK| SKY SPORT NEWS": {
-   "src": "tv24.co.uk|en|sky-sport-news",
+   "src": "tv24.co.uk|en|sky-sports-news-hd-1",
    "auto": true
   },
   "name:UK| SKY SPORTS + HD": {
@@ -5886,7 +6586,7 @@
    "auto": true
   },
   "name:UK| SKY SPORTS BOX OFFICE HD": {
-   "src": "tv24.co.uk|en|sky-sports-box-office-hd",
+   "src": "mytelly.co.uk|en|1939/sky-sports-box-office-hd",
    "auto": true
   },
   "name:UK| SKY SPORTS TENNIS FHD": {
@@ -6077,6 +6777,14 @@
    "src": "epgshare01.online|en|US2#Discovery.Channel.HD.us2",
    "auto": true
   },
+  "name:US| DISCOVERY TURBO": {
+   "src": "directv.com|en|32f60ebb-2e14-4265-b5bf-1c63f1d58f7c",
+   "auto": true
+  },
+  "name:US| EL REY REBEL HD": {
+   "src": "directv.com|en|1e160544-00bc-4b3c-88df-455fb4af26e2",
+   "auto": true
+  },
   "name:US| FOX 5 SAN DIEGO CA (KSWB)": {
    "src": "epgshare01.online|en|US_LOCALS1#KSWB-DT.us_locals1",
    "auto": true
@@ -6093,6 +6801,10 @@
    "src": "epgshare01.online|en|US2#FOX.SOUL.us2",
    "auto": true
   },
+  "name:US| FOX WEATHER": {
+   "src": "directv.com|en|3eb71a0d-48b1-459a-be81-c229062bb18c",
+   "auto": true
+  },
   "name:US| HSN": {
    "src": "tvinsider.com|en|hsn",
    "auto": true
@@ -6103,6 +6815,10 @@
   },
   "name:US| MARQUEE SPORTS NETWORK HD": {
    "src": "epgshare01.online|en|US2#Marquee.Sports.Network.HD.us2",
+   "auto": true
+  },
+  "name:US| MASN": {
+   "src": "directv.com|en|8e4f3326-9bf2-46df-a128-92df7f3e8919",
    "auto": true
   },
   "name:US| MAV TV": {
@@ -6245,6 +6961,10 @@
    "src": "epgshare01.online|en|US_LOCALS1#WQED-DT.us_locals1",
    "auto": true
   },
+  "name:US| POWERNATION HD": {
+   "src": "directv.com|en|f1e6988c-8273-4356-9d41-23dd1eb7e667",
+   "auto": true
+  },
   "name:US| REAL AMERICA'S VOICE": {
    "src": "epgshare01.online|en|US2#Real.Americas.Voice.us2",
    "auto": true
@@ -6286,7 +7006,7 @@
    "auto": true
   },
   "name:US| TELEMUNDO (EAST)": {
-   "src": "tvinsider.com|en|telemundo",
+   "src": "directv.com|en|81eb963b-d26c-4a45-a525-1bdcd7655dda",
    "auto": true
   },
   "name:US| TELEMUNDO (KBLR) NORTH LAS VEGAS": {
@@ -6569,6 +7289,10 @@
    "src": "epgshare01.online|en|US2#Victory.Channel.us2",
    "auto": true
   },
+  "name:US| YAHOO FINANCE": {
+   "src": "directv.com|en|f4fb0d15-77c9-4ef8-b86c-1500ae958250",
+   "auto": true
+  },
   "name:US|MYTV 20 (WMYD) Detroit": {
    "src": "epgshare01.online|en|US_LOCALS1#WMYD-DT.us_locals1",
    "auto": true
@@ -6586,7 +7310,7 @@
    "auto": true
   },
   "national-geographic-wild": {
-   "src": "tvinsider.com|en|nat-geo-wild",
+   "src": "directv.com|en|9c05f5fd-529d-4e3a-8683-33003c243914",
    "auto": true
   },
   "NBC10WCAU.us": {
@@ -6701,6 +7425,10 @@
    "src": "epgshare01.online|en|US2#PixL.us2",
    "auto": true
   },
+  "PokerGo.us": {
+   "src": "directv.com|en|3d550255-c27b-4d12-b681-343bcbaa7fe5",
+   "auto": true
+  },
   "Pop.uk": {
    "src": "freeview.co.uk|en|64257#16272",
    "auto": true
@@ -6751,6 +7479,10 @@
   },
   "recipetv-hd": {
    "src": "epgshare01.online|en|US2#Recipe.TV.HD.us2",
+   "auto": true
+  },
+  "RedBullTV.us": {
+   "src": "directv.com|en|6fe20dc1-9103-4569-a42c-d887dddf14a3",
    "auto": true
   },
   "RETROplex.us": {
@@ -6864,7 +7596,7 @@
    "auto": true
   },
   "SkyMax.uk": {
-   "src": "virgintvgo.virginmedia.com|en|2181",
+   "src": "mytelly.co.uk|en|2353/sky-max-hd",
    "auto": true
   },
   "SkyNature.uk": {
@@ -6940,11 +7672,15 @@
    "auto": true
   },
   "SmithsonianChannel.us": {
-   "src": "tvinsider.com|en|smithsonian-channel",
+   "src": "directv.com|en|b7dd0c3c-d22b-4a6b-b360-dcaf56deab7f",
    "auto": true
   },
   "SoYummy.us": {
    "src": "epgshare01.online|en|US2#So.Yummy.us2",
+   "auto": true
+  },
+  "SpectrumSportsNet.us": {
+   "src": "directv.com|en|8c4620bb-bdd2-4917-b94a-b7e9484a8239",
    "auto": true
   },
   "SportsBoston.us": {
@@ -6981,6 +7717,10 @@
   },
   "Thats.TV.uk": {
    "src": "sky.com|en|GB#3605",
+   "auto": true
+  },
+  "TheCowboyChannel.us": {
+   "src": "directv.com|en|8f4c4f53-92ad-4430-9d67-fe21808384af",
    "auto": true
   },
   "TheJewelryChannel.uk": {
@@ -7039,7 +7779,7 @@
    "auto": true
   },
   "TravelChannel.us": {
-   "src": "tvinsider.com|en|travel-channel",
+   "src": "directv.com|en|088ffb78-2fed-4ebb-bf13-bf009d0700d7",
    "auto": true
   },
   "TRTWorld.tr": {
@@ -7159,11 +7899,11 @@
    "auto": true
   },
   "uk.Cartoon Network": {
-   "src": "tv24.co.uk|en|cartoon-network",
+   "src": "mytelly.co.uk|en|102/cartoon-network",
    "auto": true
   },
   "uk.Cartoon Network HD": {
-   "src": "tv24.co.uk|en|cartoon-network",
+   "src": "mytelly.co.uk|en|102/cartoon-network",
    "auto": true
   },
   "uk.Channel 5+1": {
@@ -7179,7 +7919,7 @@
    "auto": true
   },
   "uk.Disc.Turbo": {
-   "src": "tv24.co.uk|en|discovery-turbo-1",
+   "src": "mytelly.co.uk|en|2113/discovery-turbo-1",
    "auto": true
   },
   "uk.E4+1": {
@@ -7198,7 +7938,7 @@
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "virgintvgo.virginmedia.com|en|1800",
+   "src": "mytelly.co.uk|en|1930/itvbe-hd",
    "auto": true
   },
   "uk.ITV Central": {
@@ -7294,7 +8034,7 @@
    "auto": true
   },
   "US-Cartoon Network USA - Pacific Feed": {
-   "src": "epgshare01.online|en|US2#Cartoon.Network.HD.us2",
+   "src": "directv.com|en|2c8f5f1d-ca3e-44a3-80ee-a30bf8060aa2",
    "auto": true
   },
   "US-CBS Sports Network USA": {
@@ -7313,8 +8053,24 @@
    "src": "epgshare01.online|en|US2#Comedy.Central.HD.us2",
    "auto": true
   },
+  "US-Discovery Channel (US) - Eastern Feed": {
+   "src": "directv.com|en|4d2c2d58-cb18-44fe-8f9b-96637b1aac60",
+   "auto": true
+  },
   "US-Disney - Pacific Feed": {
-   "src": "epgshare01.online|en|US2#Disney.Channel.HD.us2",
+   "src": "directv.com|en|e0811c53-5460-4731-a8dd-1e3e3543a4c1",
+   "auto": true
+  },
+  "US-Fox Business": {
+   "src": "directv.com|en|84df7371-69e0-49be-a058-bf2f6e8bac84",
+   "auto": true
+  },
+  "US-Fox Sports North": {
+   "src": "directv.com|en|9f07c24a-045f-42b4-90a7-fee624e62356",
+   "auto": true
+  },
+  "US-Fox Sports South": {
+   "src": "directv.com|en|9f07c24a-045f-42b4-90a7-fee624e62356",
    "auto": true
   },
   "US-Lifetime Movies - East": {
@@ -7329,8 +8085,16 @@
    "src": "epgshare01.online|en|US2#MOTORTREND.HD.us2",
    "auto": true
   },
+  "US-NBC Sports Chicago": {
+   "src": "directv.com|en|1a6be6ca-c05f-4780-b4bc-4a2610291dc6",
+   "auto": true
+  },
   "US-New England Sports Network": {
-   "src": "directv.com|en|b483a61d-4b7a-48ba-8446-d0729df61697",
+   "src": "directv.com|en|5900f38f-1973-4a53-9168-980fa39474ab",
+   "auto": true
+  },
+  "US-New England Sports Network Plus": {
+   "src": "directv.com|en|5900f38f-1973-4a53-9168-980fa39474ab",
    "auto": true
   },
   "US-Newsy": {
@@ -7338,7 +8102,7 @@
    "auto": true
   },
   "US-Oprah Winfrey Network USA Eastern": {
-   "src": "tvinsider.com|en|own",
+   "src": "directv.com|en|58e441dc-f9fe-41a5-af33-aac1f03d3ed1",
    "auto": true
   },
   "US-PBS (KCTS) Seattle, WA": {
@@ -7362,7 +8126,11 @@
    "auto": true
   },
   "US-TLC USA - Eastern": {
-   "src": "tvinsider.com|en|tlc",
+   "src": "directv.com|en|37a0a48a-3ca8-465f-8c4e-cbce36dd0ff3",
+   "auto": true
+  },
+  "US-Turner Classic Movies USA": {
+   "src": "directv.com|en|6b20b8de-3094-48f4-ad7b-4eecc2f8d48a",
    "auto": true
   },
   "US-WFN-World Fishing Network HD": {
@@ -7386,7 +8154,11 @@
    "auto": true
   },
   "us.Nickelodeon USA - Pacific Feed": {
-   "src": "epgshare01.online|en|US2#Nickelodeon.HD.us2",
+   "src": "directv.com|en|63c40d47-aab6-4ba9-b1ad-de7a646e4ce9",
+   "auto": true
+  },
+  "us.SNY Sportsnet NY": {
+   "src": "directv.com|en|78673916-6fd6-45cd-b5f2-fdad66eb8288",
    "auto": true
   },
   "us.The Fight Network (United States) SDTV": {
@@ -7399,6 +8171,10 @@
   },
   "US| BRAVO WEST HD": {
    "src": "epgshare01.online|en|US2#Bravo.HD.us2",
+   "auto": true
+  },
+  "US| DISCOVERY WEST HD": {
+   "src": "directv.com|en|4d2c2d58-cb18-44fe-8f9b-96637b1aac60",
    "auto": true
   },
   "US| DISNEY XD WEST HD": {
@@ -7414,7 +8190,7 @@
    "auto": true
   },
   "US| HGTV WEST HD": {
-   "src": "tvinsider.com|en|hgtv",
+   "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
    "auto": true
   },
   "US| OXYGEN WEST HD": {
@@ -7422,15 +8198,23 @@
    "auto": true
   },
   "US| SMITHSONIAN CHANNEL WEST HD": {
-   "src": "tvinsider.com|en|smithsonian-channel",
+   "src": "directv.com|en|b7dd0c3c-d22b-4a6b-b360-dcaf56deab7f",
    "auto": true
   },
   "US| SYFY WEST HD": {
    "src": "epgshare01.online|en|US2#Syfy.HD.us2",
    "auto": true
   },
+  "US| TBS WEST HD": {
+   "src": "directv.com|en|385801f7-606a-457d-8116-e1a73cf77484",
+   "auto": true
+  },
+  "US| TNT WEST HD": {
+   "src": "directv.com|en|fb089f4f-0b1a-481c-adb1-d624884f51f2",
+   "auto": true
+  },
   "US| TRAVEL CHANNEL WEST HD": {
-   "src": "tvinsider.com|en|travel-channel",
+   "src": "directv.com|en|088ffb78-2fed-4ebb-bf13-bf009d0700d7",
    "auto": true
   },
   "US| TRUTV WEST HD": {
