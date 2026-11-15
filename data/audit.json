@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T01:38",
+ "built": "2026-11-15T04:22",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1214,18 +1214,7 @@
    ]
   }
  ],
- "stale": [
-  {
-   "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 2,
-   "src": "directv.com"
-  },
-  {
-   "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 1,
-   "src": "directv.com"
-  }
- ],
+ "stale": [],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1241,11 +1230,6 @@
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| SKY SPORTS BOX OFFICE HD",
-   "hours": 7,
-   "src": "mytelly.co.uk"
   },
   {
    "ch": "US| PBS HD",
@@ -1276,16 +1260,13 @@
    "+0000": 264
   },
   "directv.com": {
-   "+0000": 268
+   "+0000": 267
   },
   "tvinsider.com": {
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 45
-  },
-  "mytelly.co.uk": {
-   "+0000": 22
+   "+0000": 46
   },
   "freeview.co.uk": {
    "+0000": 26
@@ -1310,84 +1291,84 @@
    "Sun 11:30 Money for Nothing"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 00:55 English Football League Highlights",
-   "Sun 01:55 Shop on TV",
-   "Sun 03:00 Grantchester",
    "Sun 03:50 Unwind with ITV",
    "Sun 05:05 Ainsley&apos;s Taste of the Bahamas",
-   "Sun 05:30 Ainsley&apos;s Taste of the Bahamas"
+   "Sun 05:30 Ainsley&apos;s Taste of the Bahamas",
+   "Sun 06:00 Fletchers&apos; Family Farm",
+   "Sun 07:00 James Martin&apos;s Great British Adventure",
+   "Sun 08:00 James Martin&apos;s Saturday Morning"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 00:00 Live WTA Finals: Doubles SF",
-   "Sun 03:00 Sky Sports News",
    "Sun 04:00 Sky Sports News",
    "Sun 05:00 Sky Sports News",
    "Sun 06:00 Sky Sports News",
-   "Sun 06:30 Live DP World Tour Golf"
+   "Sun 06:30 Live DP World Tour Golf",
+   "Sun 12:30 Sports Sunday",
+   "Sun 13:00 Live Grand Slam Of Darts"
   ],
   "4K| SKY SPORTS DARTS UHD <- SkySpF1 UHD · sky.com": [
-   "Sun 01:25 The Best of China 2026",
-   "Sun 02:00 The Best of Japan 2026",
-   "Sun 02:15 The Best of Miami 2026",
-   "Sun 03:00 The Best of Canada 2026",
-   "Sun 03:30 The Best of Monaco 2026",
-   "Sun 04:00 The Best of Barcelona 2026"
+   "Sun 04:00 The Best of Barcelona 2026",
+   "Sun 04:30 The Best of Austria 2026",
+   "Sun 05:00 The Best of Britain 2026",
+   "Sun 05:35 The Best of Hungary 2026",
+   "Sun 06:00 Singapore F1 GP Highlights",
+   "Sun 07:00 US F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 00:30 Live: College Football",
    "Sun 04:00 Live: News 4 NY at 11",
    "Sun 04:29 Saturday Night Live",
    "Sun 06:03 Open House Outrageous",
    "Sun 06:32 George to the Rescue",
-   "Sun 07:02 Open House Outrageous"
+   "Sun 07:02 Open House Outrageous",
+   "Sun 07:31 Open House NYC"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 23:15 Live: College Football",
-   "Sun 02:15 Live: College Football Scoreboard",
    "Sun 02:30 Live: College Football",
    "Sun 05:30 Live: SportsCenter",
    "Sun 07:00 Live: SportsCenter",
-   "Sun 08:00 College Football Final"
+   "Sun 08:00 College Football Final",
+   "Sun 09:00 NFL Matchup",
+   "Sun 09:30 College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 01:00 Real Time With Bill Maher",
-   "Sun 02:00 Have I Got News for You",
-   "Sun 03:00 CNN Newsroom",
    "Sun 04:00 Real Time With Bill Maher",
    "Sun 05:00 Have I Got News for You",
-   "Sun 06:00 Have I Got News for You"
+   "Sun 06:00 Have I Got News for You",
+   "Sun 07:00 CNN Newsroom",
+   "Sun 08:00 CNN Newsroom",
+   "Sun 09:00 CNN Newsroom Live"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 00:30 Live: College Football",
    "Sun 04:00 Live: College Football",
    "Sun 07:30 KTLA 5 News at 11",
    "Sun 08:05 The Silver and Black Show",
    "Sun 08:35 The Big Bang Theory",
-   "Sun 09:05 The Big Bang Theory"
+   "Sun 09:05 The Big Bang Theory",
+   "Sun 09:35 Police 24/7"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 23:55 Ambulance",
-   "Sun 02:30 Firestarter",
    "Sun 04:10 The Simpsons",
    "Sun 04:35 The Simpsons",
    "Sun 05:00 The Simpsons",
-   "Sun 05:25 The Simpsons"
+   "Sun 05:25 The Simpsons",
+   "Sun 05:55 The Simpsons",
+   "Sun 06:20 Couples Come Dine with Me"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 01:00 Have I Got a Bit More News for You",
-   "Sun 02:00 Live at the Apollo",
-   "Sun 03:00 Dave Gorman: Modern Life Is Goodish",
    "Sun 04:00 Teleshopping",
    "Sun 06:00 Teleshopping",
-   "Sun 07:10 Storage Hunters UK"
+   "Sun 07:10 Storage Hunters UK",
+   "Sun 07:45 Yukon Gold",
+   "Sun 08:40 Yukon Gold",
+   "Sun 09:40 Yukon Gold"
   ]
  },
  "doubleEscaped": 1321,
  "counts": {
   "weakMatches": 1075,
   "sharedIds": 39,
-  "stale": 2,
-  "gaps": 5,
+  "stale": 0,
+  "gaps": 4,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

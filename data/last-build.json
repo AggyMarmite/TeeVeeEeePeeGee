@@ -1,11 +1,11 @@
 {
- "built": "2026-11-15T01:38",
+ "built": "2026-11-15T04:22",
  "channels": 2092,
- "programmes": 185953,
- "noListings": 2,
- "withLogo": 1715,
- "xmlMB": 90.8,
- "gzMB": 12.4,
+ "programmes": 183904,
+ "noListings": 24,
+ "withLogo": 1714,
+ "xmlMB": 90.4,
+ "gzMB": 12.3,
  "bySite": {
   "epgshare01.online": [
    1418,
@@ -20,16 +20,16 @@
    0
   ],
   "directv.com": [
-   268,
-   0
+   267,
+   1
   ],
   "tv24.co.uk": [
-   45,
+   46,
    1
   ],
   "mytelly.co.uk": [
-   22,
-   1
+   0,
+   22
   ],
   "freeview.co.uk": [
    26,
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 206
+    "programmes": 208
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 148
+    "programmes": 139
    },
    "UK1": {
     "channels": 30,
     "withListings": 30,
-    "programmes": 2130
+    "programmes": 2077
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19478
+    "programmes": 19469
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84257
+    "programmes": 84963
    },
    "US_SPORTS1": {
     "channels": 22,
