@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T20:28",
+ "built": "2026-11-16T01:13",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -423,7 +423,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -597,7 +597,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
+   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -795,7 +795,7 @@
   },
   {
    "ch": "US| ABC 8 PORTLAND ME (WMTW)",
-   "src": "WMTW-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WMTW-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -861,7 +861,7 @@
   },
   {
    "ch": "US| ABC 2 ATLANTA GA (WSB)",
-   "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -904,67 +904,10 @@
  ],
  "sharedIds": [
   {
-   "tvgId": "AnimalPlanet.uk",
-   "names": [
-    "D+| ANIMAL PLANET FHD",
-    "UK| ANIMAL PLANET FHD",
-    "UK| ANIMAL PLNT +1"
-   ]
-  },
-  {
-   "tvgId": "CBBC.uk",
-   "names": [
-    "UK| BBC 3 / CBBC HD",
-    "UK| CBBC FHD"
-   ]
-  },
-  {
-   "tvgId": "DiscoveryChannel.uk",
-   "names": [
-    "UK| DISCOVERY +1",
-    "UK| DISCOVERY FHD",
-    "UK| DISCOVERY HD",
-    "UK| DISCOVERY SD"
-   ]
-  },
-  {
-   "tvgId": "DiscoveryDMAX.uk",
-   "names": [
-    "D+| DMAX",
-    "UK| DMAX",
-    "UK| DMAX +1"
-   ]
-  },
-  {
    "tvgId": "Drama.uk",
    "names": [
     "UK| DRAMA",
     "UK| DRAMA +1"
-   ]
-  },
-  {
-   "tvgId": "Eden.uk",
-   "names": [
-    "UK| EDEN",
-    "UK| EDEN +1",
-    "UK| EDEN FHD"
-   ]
-  },
-  {
-   "tvgId": "FoodNetwork.uk",
-   "names": [
-    "D+| FOOD NETWORK",
-    "UK| FOOD NETWORK",
-    "UK| FOOD NETWORK +1"
-   ]
-  },
-  {
-   "tvgId": "GOLD.uk",
-   "names": [
-    "UK| GOLD +1",
-    "UK| GOLD FHD",
-    "UK| GOLD HEVC FHD",
-    "UK| GOLD HEVC HD"
    ]
   },
   {
@@ -978,7 +921,6 @@
    "tvgId": "History2.uk",
    "names": [
     "UK| HISTORY 2 FHD",
-    "UK| SKY HISTORY 2 HEVC FHD",
     "UK| SKY HISTORY 2 HEVC HD"
    ]
   },
@@ -987,46 +929,16 @@
    "names": [
     "UK| HISTORY FHD",
     "UK| SKY HISTORY HD",
-    "UK| SKY HISTORY HEVC FHD",
     "UK| SKY HISTORY HEVC HD",
-    "UK-NOWTV| SKY HISTORY FHD"
+    "UK-NOWTV| SKY HISTORY FHD",
+    "UK-NOWTV| SKY HISTORY HD"
    ]
   },
   {
    "tvgId": "InvestigationDiscovery.uk",
    "names": [
     "D+| ID",
-    "UK| ID +1",
     "UK| INVESTIGATION DISCOVERY"
-   ]
-  },
-  {
-   "tvgId": "ITV2.uk",
-   "names": [
-    "UK| ITV 2",
-    "UK| ITV 2 HD",
-    "UK| ITV 2 HEVC",
-    "UK| ITV 2+1",
-    "UK| ITV 2 FHD"
-   ]
-  },
-  {
-   "tvgId": "ITV3.uk",
-   "names": [
-    "UK| ITV 3",
-    "UK| ITV 3 HD",
-    "UK| ITV 3 HEVC",
-    "UK| ITV 3+1",
-    "UK| ITV 3 HEVC FHD"
-   ]
-  },
-  {
-   "tvgId": "ITV4.uk",
-   "names": [
-    "UK| ITV 4",
-    "UK| ITV 4 HD",
-    "UK| ITV 4 HEVC",
-    "UK| ITV 4+1"
    ]
   },
   {
@@ -1096,26 +1008,7 @@
    "tvgId": "NatGeo.uk",
    "names": [
     "UK| NAT GEO FHD",
-    "UK| NAT GEO HD",
-    "UK| NAT GEO SD",
-    "UK| NATIONAL GEO HEVC FHD",
     "UK| NATIONAL GEO HEVC HD"
-   ]
-  },
-  {
-   "tvgId": "Quest.uk",
-   "names": [
-    "D+| QUEST HD",
-    "UK| QUEST +1",
-    "UK| QUEST FHD"
-   ]
-  },
-  {
-   "tvgId": "QuestRed.uk",
-   "names": [
-    "D+| QUEST RED HD",
-    "UK| QUEST RED +1",
-    "UK| QUEST RED"
    ]
   },
   {
@@ -1147,16 +1040,8 @@
    ]
   },
   {
-   "tvgId": "Thats.TV.uk",
-   "names": [
-    "UK| LEGEND XTRA",
-    "UK| THATS TV"
-   ]
-  },
-  {
    "tvgId": "UK| ITV 1",
    "names": [
-    "UK| ITV 1 +1",
     "UK| ITV YORKSHIRE EAST",
     "UK| ITV YORKSHIRE WEST"
    ]
@@ -1198,17 +1083,30 @@
     "US| FOX 61 HARTFORD CT (WTIC)",
     "US| FOX HARTFORD (WTIC)"
    ]
-  },
-  {
-   "tvgId": "Yesterday.uk",
-   "names": [
-    "UK| BBC BRIT",
-    "UK| YESTERDAY"
-   ]
   }
  ],
  "stale": [],
  "gaps": [
+  {
+   "ch": "DE| SKY SPORT BUNDESLIGA 6 HD",
+   "hours": 16,
+   "src": "sky.com"
+  },
+  {
+   "ch": "DE| SKY SPORT BUNDESLIGA 7 HD",
+   "hours": 16,
+   "src": "sky.com"
+  },
+  {
+   "ch": "DE| SKY SPORT BUNDESLIGA 8 HD",
+   "hours": 16,
+   "src": "sky.com"
+  },
+  {
+   "ch": "DE| SKY SPORT BUNDESLIGA 9 HD",
+   "hours": 16,
+   "src": "sky.com"
+  },
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
@@ -1228,11 +1126,6 @@
    "ch": "UK| SKY SPORTS BOX OFFICE HD",
    "hours": 6,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "US| PBS HD",
-   "hours": 7,
-   "src": "tvinsider.com"
   }
  ],
  "overlaps": [],
@@ -1251,11 +1144,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1383,
-   "-0500": 30
+   "+0000": 1386,
+   "-0500": 29
   },
   "sky.com": {
-   "+0000": 265
+   "+0000": 312
   },
   "directv.com": {
    "+0000": 268
@@ -1264,109 +1157,112 @@
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 65
+   "+0000": 69
   },
   "freeview.co.uk": {
-   "+0000": 26
+   "+0000": 27
+  },
+  "player.ee.co.uk": {
+   "+0000": 7
   },
   "virgintvgo.virginmedia.com": {
    "+0000": 5
   },
-  "player.ee.co.uk": {
-   "+0000": 6
-  },
   "dazn.com": {
    "+0000": 9
+  },
+  "mytelly.co.uk": {
+   "+0000": 1
   }
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 20:00 Blue Planet III",
-   "Sun 21:00 This City Is Ours",
-   "Sun 22:00 BBC News and Weather",
-   "Sun 22:25 BBC London News",
-   "Sun 22:30 Another Simple Favour",
-   "Sun 22:30 Another Simple Favour"
+   "Mon 00:25 The Graham Norton Show",
+   "Mon 01:15 Weather for the Week Ahead",
+   "Mon 01:20 BBC News",
+   "Mon 06:00 Breakfast",
+   "Mon 09:30 Morning Live",
+   "Mon 10:45 Dashcam Justice"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 19:00 Spain v England: UEFA Nations League",
-   "Sun 22:05 ITV News",
-   "Sun 22:15 Inside the Asylum Camp",
-   "Sun 23:20 New: The Debrief with Dan and ROG",
-   "Mon 00:25 Shop on TV",
-   "Mon 03:00 Motorsport UK"
+   "Mon 00:30 Shop on TV",
+   "Mon 03:00 Motorsport UK",
+   "Mon 03:50 Unwind with ITV",
+   "Mon 05:00 Fletchers&apos; Family Farm",
+   "Mon 06:00 Good Morning Britain",
+   "Mon 09:30 Lorraine"
   ],
   "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 19:00 Live Grand Slam Of Darts",
-   "Sun 23:30 Live NFL 49ers @ Cowboys",
-   "Mon 00:30 Live Football Night In America",
    "Mon 01:10 Live: NFL Steelers @ Bengals",
    "Mon 04:45 Sky Sports News",
-   "Mon 05:00 Sky Sports News"
+   "Mon 05:00 Sky Sports News",
+   "Mon 06:00 Sky Sports News",
+   "Mon 07:00 Sky Sports Breakfast",
+   "Mon 07:30 Live 1st Test Day 2: SA v BAN"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sun 20:00 Bahrain F1 GP Highlights",
-   "Sun 21:00 Singapore F1 GP Highlights",
-   "Sun 22:00 US F1 GP Highlights",
-   "Sun 23:00 Mexico City F1 GP Highlights",
-   "Mon 00:00 Sao Paulo F1 GP Highlights",
-   "Mon 01:00 The Best of Canada 2026"
+   "Mon 01:00 The Best of Canada 2026",
+   "Mon 01:30 The Best of Monaco 2026",
+   "Mon 02:00 The Best of Barcelona 2026",
+   "Mon 02:30 The Best of Austria 2026",
+   "Mon 03:00 The Best of Britain 2026",
+   "Mon 03:35 The Best of Hungary 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 19:00 Live: ISU Grand Prix of Figure Skating",
-   "Sun 23:00 News4 NY at 6 Weekend",
-   "Sun 23:30 NBC Nightly News With Tom Llamas",
    "Mon 00:00 Live: Football Night in America",
    "Mon 01:15 Live: NFL Football",
-   "Mon 04:30 News 4 NY at 11:30"
+   "Mon 04:30 News 4 NY at 11:30",
+   "Mon 05:05 The Tonight Show Starring Jimmy Fallon",
+   "Mon 06:05 Sports Final",
+   "Mon 06:30 Open House"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 20:00 Live: College Basketball",
-   "Sun 22:00 College Basketball Live Scoreboard",
-   "Sun 22:30 Live: Women&apos;s College Basketball",
-   "Mon 00:30 Live: 2027 WNBA Draft Lottery",
    "Mon 01:00 Live: Women&apos;s College Volleyball",
-   "Mon 03:00 College Football Final"
+   "Mon 03:00 College Football Final",
+   "Mon 04:00 Live: SportsCenter",
+   "Mon 04:30 Live: SportsCenter With Scott Van Pelt",
+   "Mon 06:00 Live: SportsCenter",
+   "Mon 07:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 20:00 CNN Newsroom With Fredricka Whitfield",
-   "Sun 21:00 CNN Newsroom With Fredricka Whitfield",
-   "Sun 22:00 CNN Newsroom",
-   "Sun 23:00 CNN Newsroom",
-   "Mon 00:00 CNN Newsroom",
-   "Mon 01:00 Iran and the Bomb: A Fareed Zakaria Special"
+   "Mon 01:00 Iran and the Bomb: A Fareed Zakaria Special",
+   "Mon 02:00 Standoff: The FBI, Power and Paranoia",
+   "Mon 03:00 Standoff: The FBI, Power and Paranoia",
+   "Mon 04:00 Iran and the Bomb: A Fareed Zakaria Special",
+   "Mon 05:00 Fareed Zakaria GPS",
+   "Mon 06:00 State of the Union With Jake Tapper and Dana Bash"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 20:00 Jack Hibbs -- Real Life",
-   "Sun 20:30 Jack Hanna&apos;s Into the Wild",
-   "Sun 21:00 Live: College Basketball",
-   "Sun 23:00 The Big Bang Theory",
-   "Sun 23:30 Jack Hanna&apos;s Into the Wild",
-   "Mon 00:00 Jack Hanna&apos;s Into the Wild"
+   "Mon 01:00 KTLA 5 News at 5",
+   "Mon 02:00 KTLA 5 News at 6",
+   "Mon 02:30 KTLA 5 News at 6:30",
+   "Mon 03:00 Penn & Teller: Fool Us",
+   "Mon 04:00 Paul Blart: Mall Cop",
+   "Mon 06:00 KTLA 5 News at 10"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 20:00 Kevin McCloud&apos;s Listed Britain",
-   "Sun 21:00 New: Kevin McCloud&apos;s Classic...",
-   "Sun 22:00 New: Stacey Dooley&apos;s Australia...",
-   "Sun 23:00 Gogglebox",
-   "Mon 00:00 Gogglebox",
-   "Mon 01:05 First Dates"
+   "Mon 01:05 First Dates",
+   "Mon 02:00 Ramsay&apos;s Hotel Hell",
+   "Mon 02:50 Chevalier",
+   "Mon 04:35 The Simpsons",
+   "Mon 05:00 The Simpsons",
+   "Mon 05:25 The Simpsons"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 20:00 Will & Ralf Should Know Better",
-   "Sun 21:00 Have I Got a Bit More News for You",
-   "Sun 22:00 Jack Dee&apos;s Help Me Tiny Big Brain",
-   "Sun 22:40 Mock the Week",
-   "Sun 23:20 Mock the Week",
-   "Mon 00:00 Live at the Apollo"
+   "Mon 01:00 QI XL",
+   "Mon 02:00 Have I Got a Bit More News for You",
+   "Mon 03:00 Dave Gorman: Modern Life Is Goodish",
+   "Mon 04:00 Teleshopping",
+   "Mon 06:00 Teleshopping",
+   "Mon 07:10 Top Gear"
   ]
  },
  "doubleEscaped": 1321,
  "counts": {
   "weakMatches": 1074,
-  "sharedIds": 38,
+  "sharedIds": 24,
   "stale": 0,
-  "gaps": 5,
+  "gaps": 8,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

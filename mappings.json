@@ -922,7 +922,7 @@
    "auto": true
   },
   "loc.ABC (KTMF) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (KTNV) Las Vegas, NV": {
@@ -1038,7 +1038,7 @@
    "auto": true
   },
   "loc.ABC (WCTI) New Bern, NC": {
-   "src": "epgshare01.online|en|US_LOCALS1#FOX.(WCTI-TV2).New.Bern,.NC.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCTI-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WCVB) Boston, MA": {
@@ -1170,7 +1170,7 @@
    "auto": true
   },
   "loc.ABC (WMTW) Auburn, ME": {
-   "src": "epgshare01.online|en|US_LOCALS1#WMTW-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WMTW-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WMUR) Manchester, NH": {
@@ -1214,7 +1214,7 @@
    "auto": true
   },
   "loc.ABC (WSB) Atlanta, GA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WSET) Lynchburg, VA": {
@@ -1446,7 +1446,7 @@
    "auto": true
   },
   "loc.CBS (KIRO) Seattle, WA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KIRO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KIRO-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (KKTV)": {
@@ -1854,7 +1854,7 @@
    "auto": true
   },
   "loc.CBS (WOIO) Cleveland, OH": {
-   "src": "epgshare01.online|en|US_LOCALS1#WOIO-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WOIO-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (WOWK) Huntington, WV": {
@@ -2070,7 +2070,7 @@
    "auto": true
   },
   "loc.CW (WNLO) Buffalo, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNLO-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNLO-CD.us_locals1",
    "auto": true
   },
   "loc.CW (WNNE-DT2) Plattsburg, NY": {
@@ -2150,7 +2150,7 @@
    "auto": true
   },
   "loc.FOX (KCPQ) Tacoma, WA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KCYU) Tri-Cities, WA": {
@@ -2238,7 +2238,7 @@
    "auto": true
   },
   "loc.FOX (KJTV) Lubbock, TX": {
-   "src": "epgshare01.online|en|US_LOCALS1#KJTV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KJTV-CD.us_locals1",
    "auto": true
   },
   "loc.FOX (KKFX) Santa Barbara, CA": {
@@ -2326,7 +2326,7 @@
    "auto": true
   },
   "loc.FOX (KRXI) Reno, NV": {
-   "src": "epgshare01.online|en|US_LOCALS1#KRXI-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KRXI-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KSAS-TV) Wichita, KS": {
@@ -2354,7 +2354,7 @@
    "auto": true
   },
   "loc.FOX (KTMF-DT2) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KTMJ) Topeka, KS": {
@@ -2370,7 +2370,7 @@
    "auto": true
   },
   "loc.FOX (KTVU) San Francisco, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KTXL) Sacramento, CA": {
@@ -2378,7 +2378,7 @@
    "auto": true
   },
   "loc.FOX (KVCT) Victoria, TX": {
-   "src": "epgshare01.online|en|US_LOCALS1#KVCT-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KVCT-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KVHP) Lake Charles, LA": {
@@ -2710,7 +2710,7 @@
    "auto": true
   },
   "loc.FOX (WTXF) Philadelphia, PA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WTXF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WTXF-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WUHF) Rochester, NY": {
@@ -2750,7 +2750,7 @@
    "auto": true
   },
   "loc.FOX (WXMI) Grand Rapids, MI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WXMI-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WXMI-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WXTX) Columbus, GA": {
@@ -2994,7 +2994,7 @@
    "auto": true
   },
   "loc.NBC (KOAA) Colorado Springs, CO": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOAA-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOAA-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (KOB) Albuquerque, NM": {
@@ -3238,7 +3238,7 @@
    "auto": true
   },
   "loc.NBC (WCYB) Bristol, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCYB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCYB-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (WDAM) Laurel, MS": {
@@ -3266,7 +3266,7 @@
    "auto": true
   },
   "loc.NBC (WESH) Winter Park, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WESH-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WESH-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WEYI) Flint, MI": {
@@ -3414,7 +3414,7 @@
    "auto": true
   },
   "loc.NBC (WNYT) Albany, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNYT-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNYT-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (WOAI) San Antonio, TX": {
@@ -4184,7 +4184,7 @@
    "auto": true
   },
   "name:TV| ATLANTA, GA WSB ABC 2 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
    "auto": true
   },
   "name:TV| ATLANTA, GA WUPA CBS 69 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5634,7 +5634,7 @@
    "auto": true
   },
   "name:TV| SAN FRANCISCO, CA KTVU FOX 2 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "name:TV| SAY YES TO THE DRESS ᴿᴬᵂ": {
@@ -5654,11 +5654,11 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KBTC PBS 28 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KBTC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KBTC-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCPQ FOX 13 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCTS PBS 9 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5666,7 +5666,7 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KIRO CBS 7 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KIRO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KIRO-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KOMO ABC 4 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -6342,11 +6342,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE FHD": {
-   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE HD": {
-   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYANIMATION FHD": {
@@ -6357,8 +6357,44 @@
    "src": "sky.com|en|GB#4020",
    "auto": true
   },
+  "name:UK| 5 SELECT": {
+   "src": "sky.com|en|GB#3028",
+   "auto": true
+  },
+  "name:UK| 5 STAR+1": {
+   "src": "sky.com|en|GB#3024",
+   "auto": true
+  },
+  "name:UK| 5 USA +1": {
+   "src": "sky.com|en|GB#3027",
+   "auto": true
+  },
   "name:UK| ALIBI +1": {
    "src": "sky.com|en|GB#2630",
+   "auto": true
+  },
+  "name:UK| ANIMAL PLNT +1": {
+   "src": "sky.com|en|GB#1352",
+   "auto": true
+  },
+  "name:UK| BABY TV": {
+   "src": "sky.com|en|GB#3645",
+   "auto": true
+  },
+  "name:UK| BBC 4": {
+   "src": "sky.com|en|GB#2086",
+   "auto": true
+  },
+  "name:UK| BBC NEWS HD": {
+   "src": "sky.com|en|GB#2085",
+   "auto": true
+  },
+  "name:UK| BBC NEWS HEVC": {
+   "src": "sky.com|en|GB#2085",
+   "auto": true
+  },
+  "name:UK| BBC NEWS HEVC FHD": {
+   "src": "sky.com|en|GB#2085",
    "auto": true
   },
   "name:UK| BBC ONE EAST": {
@@ -6369,6 +6405,10 @@
    "src": "epgshare01.online|en|UK1#BBC.One.NI.HD.uk",
    "auto": true
   },
+  "name:UK| BBC ONE NORTH WEST": {
+   "src": "tv24.co.uk|en|bbc-one-north-west-hd",
+   "auto": true
+  },
   "name:UK| BBC ONE SCOT": {
    "src": "epgshare01.online|en|UK1#BBC.One.ScotHD.uk",
    "auto": true
@@ -6377,8 +6417,24 @@
    "src": "epgshare01.online|en|UK1#BBC.One.ScotHD.uk",
    "auto": true
   },
+  "name:UK| BBC ONE SCOTLAND HEVC": {
+   "src": "tv24.co.uk|en|bbc-one-scotland",
+   "auto": true
+  },
   "name:UK| BBC ONE SOUTH WEST": {
    "src": "tv24.co.uk|en|bbc-one-south-west-hd",
+   "auto": true
+  },
+  "name:UK| BBC ONE WALES": {
+   "src": "tv24.co.uk|en|bbc-one-wales",
+   "auto": true
+  },
+  "name:UK| BBC ONE WALES HD": {
+   "src": "tv24.co.uk|en|bbc-one-wales",
+   "auto": true
+  },
+  "name:UK| BBC ONE WEST": {
+   "src": "freeview.co.uk|en|64320#4161",
    "auto": true
   },
   "name:UK| BBC ONE WEST MIDLANDS": {
@@ -6409,8 +6465,44 @@
    "src": "freeview.co.uk|en|64257#6912",
    "auto": true
   },
+  "name:UK| BBC TWO NORTHERN IRELAND": {
+   "src": "tv24.co.uk|en|bbc-two-northern-ireland-hd",
+   "auto": true
+  },
+  "name:UK| BBC TWO SCOTLAND": {
+   "src": "sky.com|en|GB#2075",
+   "auto": true
+  },
+  "name:UK| BBC TWO WALES": {
+   "src": "tv24.co.uk|en|bbc-two-wales",
+   "auto": true
+  },
+  "name:UK| BBC TWO WALES HD": {
+   "src": "tv24.co.uk|en|bbc-two-wales",
+   "auto": true
+  },
+  "name:UK| BBC TWO WALES HEVC": {
+   "src": "tv24.co.uk|en|bbc-two-wales",
+   "auto": true
+  },
+  "name:UK| BBC2 HEVC FHD": {
+   "src": "sky.com|en|GB#2075",
+   "auto": true
+  },
+  "name:UK| BLOOMBERG HEVC": {
+   "src": "sky.com|en|GB#1074",
+   "auto": true
+  },
+  "name:UK| BOOMERANG +1": {
+   "src": "sky.com|en|GB#5603",
+   "auto": true
+  },
   "name:UK| CARTOON NETWORK +1": {
    "src": "tv24.co.uk|en|cartoon-network-1",
+   "auto": true
+  },
+  "name:UK| CBBC FHD": {
+   "src": "sky.com|en|GB#2078",
    "auto": true
   },
   "name:UK| CHANNEL 4 +1": {
@@ -6429,8 +6521,16 @@
    "src": "tv24.co.uk|en|channel-4-south-east",
    "auto": true
   },
+  "name:UK| CHANNEL 5 +1": {
+   "src": "epgshare01.online|en|UK1#Channel.5+1.uk",
+   "auto": true
+  },
   "name:UK| CLASSIC FM": {
    "src": "sky.com|en|GB#3470",
+   "auto": true
+  },
+  "name:UK| CLUBLAND TV": {
+   "src": "sky.com|en|GB#4505",
    "auto": true
   },
   "name:UK| COMEDY CENTRAL +1": {
@@ -6438,8 +6538,16 @@
    "offset": 1,
    "auto": true
   },
+  "name:UK| COMEDY CENTRAL HEVC FHD": {
+   "src": "sky.com|en|GB#2510",
+   "auto": true
+  },
   "name:UK| DAYSTAR HEVC": {
    "src": "sky.com|en|GB#5541",
+   "auto": true
+  },
+  "name:UK| DISCOVERY +1": {
+   "src": "sky.com|en|GB#2404",
    "auto": true
   },
   "name:UK| DISCOVERY HEVC FHD": {
@@ -6450,16 +6558,52 @@
    "src": "sky.com|en|GB#2401",
    "auto": true
   },
+  "name:UK| DISCOVERY TURBO +1": {
+   "src": "tv24.co.uk|en|discovery-turbo-1",
+   "auto": true
+  },
+  "name:UK| DMAX +1": {
+   "src": "sky.com|en|GB#1865",
+   "auto": true
+  },
   "name:UK| E4 EXTRA": {
    "src": "sky.com|en|GB#1200",
+   "auto": true
+  },
+  "name:UK| EDEN +1": {
+   "src": "sky.com|en|GB#2307",
+   "auto": true
+  },
+  "name:UK| EDEN FHD": {
+   "src": "sky.com|en|GB#2302",
+   "auto": true
+  },
+  "name:UK| EURONEWS": {
+   "src": "sky.com|en|GB#4604",
    "auto": true
   },
   "name:UK| FILM 4 +1": {
    "src": "sky.com|en|GB#1629",
    "auto": true
   },
+  "name:UK| FOOD NETWORK +1": {
+   "src": "mytelly.co.uk|en|1524/food-network-1",
+   "auto": true
+  },
   "name:UK| FRANCE 24": {
    "src": "sky.com|en|GB#1121",
+   "auto": true
+  },
+  "name:UK| GB NEWS FHD": {
+   "src": "sky.com|en|GB#1196",
+   "auto": true
+  },
+  "name:UK| GB NEWS HEVC FHD": {
+   "src": "sky.com|en|GB#1196",
+   "auto": true
+  },
+  "name:UK| GEMS TV": {
+   "src": "virgintvgo.virginmedia.com|en|418",
    "auto": true
   },
   "name:UK| GEOTV": {
@@ -6468,6 +6612,14 @@
   },
   "name:UK| GOD CHANNEL": {
    "src": "sky.com|en|GB#3105",
+   "auto": true
+  },
+  "name:UK| GOLD +1": {
+   "src": "sky.com|en|GB#2703",
+   "auto": true
+  },
+  "name:UK| GOLD HEVC FHD": {
+   "src": "sky.com|en|GB#6513",
    "auto": true
   },
   "name:UK| GREAT MOVIES": {
@@ -6490,20 +6642,73 @@
    "src": "sky.com|en|GB#5338",
    "auto": true
   },
+  "name:UK| HIGH STREET TV 1": {
+   "src": "sky.com|en|GB#3580",
+   "auto": true
+  },
+  "name:UK| HIGH STREET TV 2": {
+   "src": "sky.com|en|GB#5706",
+   "auto": true
+  },
+  "name:UK| HIGH STREET TV 3": {
+   "src": "epgshare01.online|en|UK1#High.Street.TV.3.uk",
+   "auto": true
+  },
+  "name:UK| HIGH STREET TV 4": {
+   "src": "epgshare01.online|en|UK1#High.Street.TV.4.uk",
+   "auto": true
+  },
   "name:UK| HOBBY MAKER": {
    "src": "sky.com|en|GB#1169",
+   "auto": true
+  },
+  "name:UK| ID +1": {
+   "src": "sky.com|en|GB#5452",
+   "auto": true
+  },
+  "name:UK| IDEAL WORLD HD": {
+   "src": "sky.com|en|GB#1101",
+   "auto": true
+  },
+  "name:UK| ITV +1 CENTRAL WEST": {
+   "src": "tv24.co.uk|en|itv-central-west-hd",
+   "offset": 1,
+   "auto": true
+  },
+  "name:UK| ITV 1 +1": {
+   "src": "sky.com|en|GB#6145",
    "auto": true
   },
   "name:UK| ITV 2 ᴴᴰ": {
    "src": "sky.com|en|GB#6532",
    "auto": true
   },
+  "name:UK| ITV 2 HEVC HD": {
+   "src": "sky.com|en|GB#6532",
+   "auto": true
+  },
+  "name:UK| ITV 2+1": {
+   "src": "sky.com|en|GB#6241",
+   "auto": true
+  },
   "name:UK| ITV 3 ᴴᴰ": {
    "src": "sky.com|en|GB#6533",
    "auto": true
   },
+  "name:UK| ITV 3 HEVC FHD": {
+   "src": "sky.com|en|GB#6533",
+   "auto": true
+  },
+  "name:UK| ITV 3+1": {
+   "src": "sky.com|en|GB#6261",
+   "auto": true
+  },
   "name:UK| ITV 4 ᴴᴰ": {
    "src": "sky.com|en|GB#6534",
+   "auto": true
+  },
+  "name:UK| ITV 4+1": {
+   "src": "sky.com|en|GB#6274",
    "auto": true
   },
   "name:UK| ITV CENTRAL WEST": {
@@ -6526,12 +6731,28 @@
    "src": "tv24.co.uk|en|itv1-border-scotland",
    "auto": true
   },
+  "name:UK| ITV1 FHD": {
+   "src": "sky.com|en|GB#1043",
+   "auto": true
+  },
   "name:UK| ITV1 LONDON FHD": {
    "src": "player.ee.co.uk|en|dvb://233a..2045",
    "auto": true
   },
+  "name:UK| LEGEND": {
+   "src": "sky.com|en|GB#4610",
+   "auto": true
+  },
+  "name:UK| LOVE WORLD FHD": {
+   "src": "sky.com|en|GB#1228",
+   "auto": true
+  },
   "name:UK| MORE 4 +1": {
    "src": "sky.com|en|GB#3310",
+   "auto": true
+  },
+  "name:UK| MORE4 HEVC FHD": {
+   "src": "sky.com|en|GB#4043",
    "auto": true
   },
   "name:UK| MOVIES 24 +1": {
@@ -6539,21 +6760,85 @@
    "offset": 1,
    "auto": true
   },
+  "name:UK| MTV FHD": {
+   "src": "sky.com|en|GB#3831",
+   "auto": true
+  },
+  "name:UK| MTV HEVC FHD": {
+   "src": "sky.com|en|GB#3831",
+   "auto": true
+  },
   "name:UK| NAT GEO +1": {
    "src": "sky.com|en|GB#4031",
    "offset": 1,
+   "auto": true
+  },
+  "name:UK| NAT GEO HD": {
+   "src": "sky.com|en|GB#4031",
+   "auto": true
+  },
+  "name:UK| NAT GEO SD": {
+   "src": "sky.com|en|GB#4031",
+   "auto": true
+  },
+  "name:UK| NAT GEO WILD HD": {
+   "src": "sky.com|en|GB#4025",
+   "auto": true
+  },
+  "name:UK| Nat Geo WIld HEVC FHD": {
+   "src": "sky.com|en|GB#4025",
+   "auto": true
+  },
+  "name:UK| NAT GEO WILD SD": {
+   "src": "sky.com|en|GB#4025",
    "auto": true
   },
   "name:UK| NHK WORLD FHD": {
    "src": "sky.com|en|GB#3147",
    "auto": true
   },
+  "name:UK| NICK JUNIOR": {
+   "src": "player.ee.co.uk|en|http://bds.tv/services/BT_770161_1857_HD",
+   "auto": true
+  },
   "name:UK| NICKELODEON +1": {
    "src": "sky.com|en|GB#1845",
    "auto": true
   },
+  "name:UK| NICKELODEON FHD": {
+   "src": "sky.com|en|GB#4069",
+   "auto": true
+  },
+  "name:UK| NOW 80S": {
+   "src": "sky.com|en|GB#4541",
+   "auto": true
+  },
+  "name:UK| NOW 90S": {
+   "src": "epgshare01.online|en|UK1#NOW.90s.uk",
+   "auto": true
+  },
   "name:UK| PREMIER SPORTS 2 IRELAND HEVC FHD": {
    "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
+   "auto": true
+  },
+  "name:UK| QUEST +1": {
+   "src": "sky.com|en|GB#3621",
+   "auto": true
+  },
+  "name:UK| QUEST RED": {
+   "src": "sky.com|en|GB#2411",
+   "auto": true
+  },
+  "name:UK| QUEST RED +1": {
+   "src": "sky.com|en|GB#4547",
+   "auto": true
+  },
+  "name:UK| QVC BEAUTY": {
+   "src": "sky.com|en|GB#4105",
+   "auto": true
+  },
+  "name:UK| QVC EXTRA": {
+   "src": "sky.com|en|GB#3359",
    "auto": true
   },
   "name:UK| RT UK HD": {
@@ -6568,16 +6853,68 @@
    "src": "epgshare01.online|en|IE1#RTE.News.Now.ie",
    "auto": true
   },
+  "name:UK| S4C": {
+   "src": "sky.com|en|GB#2296",
+   "auto": true
+  },
+  "name:UK| SKY ARTS HEVC FHD": {
+   "src": "sky.com|en|GB#4063",
+   "auto": true
+  },
+  "name:UK| SKY ATLANTIC HEVC FHD": {
+   "src": "sky.com|en|GB#4053",
+   "auto": true
+  },
   "name:UK| SKY CINEMA SELECT HD": {
    "src": "sky.com|en|GB#4020",
+   "auto": true
+  },
+  "name:UK| SKY COMEDY HEVC FHD": {
+   "src": "sky.com|en|GB#1143",
    "auto": true
   },
   "name:UK| SKY CRIME +1": {
    "src": "tv24.co.uk|en|sky-crime-1",
    "auto": true
   },
+  "name:UK| SKY CRIME HEVC FHD": {
+   "src": "sky.com|en|GB#1212",
+   "auto": true
+  },
+  "name:UK| SKY DOCUMENTARIES HD": {
+   "src": "epgshare01.online|en|UK1#Sky.Documentaries.HD.uk",
+   "auto": true
+  },
+  "name:UK| SKY DOCUMENTARIES SD": {
+   "src": "epgshare01.online|en|UK1#Sky.Documentaries.HD.uk",
+   "auto": true
+  },
+  "name:UK| SKY HISTORY 2 HEVC FHD": {
+   "src": "sky.com|en|GB#1879",
+   "auto": true
+  },
+  "name:UK| SKY HISTORY HEVC FHD": {
+   "src": "sky.com|en|GB#4086",
+   "auto": true
+  },
   "name:UK| SKY KIDS HD": {
    "src": "sky.com|en|GB#1147",
+   "auto": true
+  },
+  "name:UK| SKY NATURE HEVC FHD": {
+   "src": "sky.com|en|GB#1165",
+   "auto": true
+  },
+  "name:UK| SKY NEWS": {
+   "src": "sky.com|en|GB#4050",
+   "auto": true
+  },
+  "name:UK| SKY NEWS FHD": {
+   "src": "sky.com|en|GB#4050",
+   "auto": true
+  },
+  "name:UK| SKY NEWS HEVC FHD": {
+   "src": "sky.com|en|GB#4050",
    "auto": true
   },
   "name:UK| SKY PREMIERE +1": {
@@ -6617,6 +6954,10 @@
    "src": "sky.com|en|GB#4066",
    "auto": true
   },
+  "name:UK| SKY WITNESS HEVC FHD": {
+   "src": "sky.com|en|GB#4066",
+   "auto": true
+  },
   "name:UK| STV CENTRAL EAST": {
    "src": "tv24.co.uk|en|stv-central-east",
    "auto": true
@@ -6637,8 +6978,16 @@
    "src": "freeview.co.uk|en|64409#32880",
    "auto": true
   },
+  "name:UK| THATS TV": {
+   "src": "freeview.co.uk|en|64409#32880",
+   "auto": true
+  },
   "name:UK| TIMES RADIO": {
    "src": "sky.com|en|GB#1005",
+   "auto": true
+  },
+  "name:UK| TJC FHD": {
+   "src": "sky.com|en|GB#1113",
    "auto": true
   },
   "name:UK| TLC HEVC FHD": {
@@ -6657,8 +7006,24 @@
    "src": "epgshare01.online|en|UK1#TNT.Sports.Box.Office.uk",
    "auto": true
   },
+  "name:UK| TOGETHER": {
+   "src": "sky.com|en|GB#1872",
+   "auto": true
+  },
+  "name:UK| TRUE CRIME": {
+   "src": "sky.com|en|GB#1142",
+   "auto": true
+  },
   "name:UK| TRUE CRIME XTRA": {
    "src": "freeview.co.uk|en|64257#14456",
+   "auto": true
+  },
+  "name:UK| TV WAREHOUSE": {
+   "src": "sky.com|en|GB#3632",
+   "auto": true
+  },
+  "name:UK| U&W HD": {
+   "src": "sky.com|en|GB#2617",
    "auto": true
   },
   "name:UK| VIRGIN 1 HEVC FHD": {
@@ -7066,11 +7431,11 @@
    "auto": true
   },
   "name:US| TELEMUNDO (KTLM) MISSION": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTLM-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTLM-DT.us_locals1",
    "auto": true
   },
   "name:US| TELEMUNDO (KTLM) RIO GRANDE CITY": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTLM-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTLM-DT.us_locals1",
    "auto": true
   },
   "name:US| TELEMUNDO (KTMD) HOUSTON": {
@@ -7999,10 +8364,6 @@
   },
   "uk.Trace Urban": {
    "src": "tv24.co.uk|en|trace-urban",
-   "auto": true
-  },
-  "uk.W": {
-   "src": "sky.com|en|GB#2617",
    "auto": true
   },
   "UK| BBC ONE NI": {
