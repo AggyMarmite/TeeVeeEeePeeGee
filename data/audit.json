@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T01:13",
+ "built": "2026-11-16T11:51",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -904,20 +904,6 @@
  ],
  "sharedIds": [
   {
-   "tvgId": "Drama.uk",
-   "names": [
-    "UK| DRAMA",
-    "UK| DRAMA +1"
-   ]
-  },
-  {
-   "tvgId": "GreatAction.uk",
-   "names": [
-    "UK| GREAT! ACTION",
-    "UK| GREAT! ACTION +1"
-   ]
-  },
-  {
    "tvgId": "History2.uk",
    "names": [
     "UK| HISTORY 2 FHD",
@@ -929,9 +915,7 @@
    "names": [
     "UK| HISTORY FHD",
     "UK| SKY HISTORY HD",
-    "UK| SKY HISTORY HEVC HD",
-    "UK-NOWTV| SKY HISTORY FHD",
-    "UK-NOWTV| SKY HISTORY HD"
+    "UK| SKY HISTORY HEVC HD"
    ]
   },
   {
@@ -1012,13 +996,10 @@
    ]
   },
   {
-   "tvgId": "SkyAction.uk",
+   "tvgId": "PremierSports2.uk",
    "names": [
-    "UK| SKY CINEMA ACTION",
-    "UK| SKY CINEMA ACTION FHD",
-    "UK| SKY CINEMA ACTION HD",
-    "UK| SKY CINEMA ACTION HEVC FHD",
-    "UK-NOWTV| SKY ACTION FHD"
+    "IR| PREMIER SPORTS 2 FHD",
+    "UK| PREMIER SPORT 2 HD"
    ]
   },
   {
@@ -1064,7 +1045,6 @@
   {
    "tvgId": "ViaplaySports2.uk",
    "names": [
-    "UK| PREMIER SPORT 2 HD",
     "UK| PREMIER SPORTS 2 FHD",
     "UK| VIAPLAY 2 HEVC FHD",
     "UK| VIAPLAY 2 HEVC HD"
@@ -1088,26 +1068,6 @@
  "stale": [],
  "gaps": [
   {
-   "ch": "DE| SKY SPORT BUNDESLIGA 6 HD",
-   "hours": 16,
-   "src": "sky.com"
-  },
-  {
-   "ch": "DE| SKY SPORT BUNDESLIGA 7 HD",
-   "hours": 16,
-   "src": "sky.com"
-  },
-  {
-   "ch": "DE| SKY SPORT BUNDESLIGA 8 HD",
-   "hours": 16,
-   "src": "sky.com"
-  },
-  {
-   "ch": "DE| SKY SPORT BUNDESLIGA 9 HD",
-   "hours": 16,
-   "src": "sky.com"
-  },
-  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1123,9 +1083,24 @@
    "src": "tv24.co.uk"
   },
   {
+   "ch": "UK-NOWTV| SKY SPORTS GOLF HD",
+   "hours": 4,
+   "src": "sky.com"
+  },
+  {
    "ch": "UK| SKY SPORTS BOX OFFICE HD",
    "hours": 6,
    "src": "tv24.co.uk"
+  },
+  {
+   "ch": "UK| SKY SPORTS GOLF HEVC FHD",
+   "hours": 4,
+   "src": "sky.com"
+  },
+  {
+   "ch": "UK| SKY SPORTS GOLF",
+   "hours": 4,
+   "src": "sky.com"
   }
  ],
  "overlaps": [],
@@ -1144,11 +1119,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1386,
+   "+0000": 1401,
    "-0500": 29
   },
   "sky.com": {
-   "+0000": 312
+   "+0000": 358
   },
   "directv.com": {
    "+0000": 268
@@ -1166,7 +1141,7 @@
    "+0000": 7
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 5
+   "+0000": 8
   },
   "dazn.com": {
    "+0000": 9
@@ -1177,92 +1152,92 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Mon 00:25 The Graham Norton Show",
-   "Mon 01:15 Weather for the Week Ahead",
-   "Mon 01:20 BBC News",
-   "Mon 06:00 Breakfast",
-   "Mon 09:30 Morning Live",
-   "Mon 10:45 Dashcam Justice"
+   "Mon 11:15 Homes Under the Hammer",
+   "Mon 11:15 Homes Under the Hammer",
+   "Mon 12:15 Bargain Hunt",
+   "Mon 13:00 BBC News at One including BBC London News",
+   "Mon 14:00 Scam Interceptors",
+   "Mon 14:30 Doorbell Detectives"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Mon 00:30 Shop on TV",
-   "Mon 03:00 Motorsport UK",
-   "Mon 03:50 Unwind with ITV",
-   "Mon 05:00 Fletchers&apos; Family Farm",
-   "Mon 06:00 Good Morning Britain",
-   "Mon 09:30 Lorraine"
+   "Mon 10:00 This Morning",
+   "Mon 12:30 Loose Women",
+   "Mon 13:30 ITV Lunchtime News",
+   "Mon 13:55 ITV News Tyne Tees",
+   "Mon 14:00 New: Dickinson&apos;s Real Deal",
+   "Mon 15:00 New: Lingo"
   ],
-  "UK-NOWTV| SKY SPORTS MAIN EVENT FHD <- SkySpMainEvHD · sky.com": [
-   "Mon 01:10 Live: NFL Steelers @ Bengals",
-   "Mon 04:45 Sky Sports News",
-   "Mon 05:00 Sky Sports News",
-   "Mon 06:00 Sky Sports News",
-   "Mon 07:00 Sky Sports Breakfast",
-   "Mon 07:30 Live 1st Test Day 2: SA v BAN"
+  "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
+   "Mon 10:30 Live ATP Finals: Day 2 Doubles",
+   "Mon 12:00 Live ATP Finals: Alcaraz v Tiafoe",
+   "Mon 15:00 Live 1st Test Day 2: SA v BAN",
+   "Mon 16:00 Sports Desk",
+   "Mon 17:00 Live ATP Finals: Day 2 Doubles",
+   "Mon 18:30 Live ATP Finals:Medvedev v Cobolli"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Mon 01:00 The Best of Canada 2026",
-   "Mon 01:30 The Best of Monaco 2026",
-   "Mon 02:00 The Best of Barcelona 2026",
-   "Mon 02:30 The Best of Austria 2026",
-   "Mon 03:00 The Best of Britain 2026",
-   "Mon 03:35 The Best of Hungary 2026"
+   "Mon 10:00 Las Vegas F1 Grand Prix 2023",
+   "Mon 12:30 Las Vegas F1 Grand Prix 2024",
+   "Mon 14:45 Las Vegas F1 Grand Prix 2025",
+   "Mon 17:00 Sao Paulo F1 Grand Prix",
+   "Mon 19:30 Ted&apos;s Notebook: Sao Paulo",
+   "Mon 20:00 Las Vegas F1 GP Highlights 2023"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Mon 00:00 Live: Football Night in America",
-   "Mon 01:15 Live: NFL Football",
-   "Mon 04:30 News 4 NY at 11:30",
-   "Mon 05:05 The Tonight Show Starring Jimmy Fallon",
-   "Mon 06:05 Sports Final",
-   "Mon 06:30 Open House"
+   "Mon 11:00 Today in New York @ 6AM",
+   "Mon 12:00 Today",
+   "Mon 14:00 Today 3rd Hour",
+   "Mon 15:00 Today With Jenna & Sheinelle",
+   "Mon 16:00 Live: News 4 NY at 11AM",
+   "Mon 16:30 New York Live"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Mon 01:00 Live: Women&apos;s College Volleyball",
-   "Mon 03:00 College Football Final",
-   "Mon 04:00 Live: SportsCenter",
-   "Mon 04:30 Live: SportsCenter With Scott Van Pelt",
-   "Mon 06:00 Live: SportsCenter",
-   "Mon 07:00 Live: SportsCenter"
+   "Mon 11:00 SportsCenter",
+   "Mon 12:00 Live: SportsCenter",
+   "Mon 13:00 Live: Get Up",
+   "Mon 15:00 Live: First Take",
+   "Mon 17:00 Live: The Pat McAfee Show",
+   "Mon 19:00 Live: Big Day With Peter Schrager"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Mon 01:00 Iran and the Bomb: A Fareed Zakaria Special",
-   "Mon 02:00 Standoff: The FBI, Power and Paranoia",
-   "Mon 03:00 Standoff: The FBI, Power and Paranoia",
-   "Mon 04:00 Iran and the Bomb: A Fareed Zakaria Special",
-   "Mon 05:00 Fareed Zakaria GPS",
-   "Mon 06:00 State of the Union With Jake Tapper and Dana Bash"
+   "Mon 11:00 Live: CNN This Morning",
+   "Mon 12:00 Live: CNN News Central",
+   "Mon 13:00 Live: CNN News Central",
+   "Mon 14:00 Live: CNN News Central",
+   "Mon 15:00 Live: The Situation Room",
+   "Mon 16:00 Live: The Situation Room"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Mon 01:00 KTLA 5 News at 5",
-   "Mon 02:00 KTLA 5 News at 6",
-   "Mon 02:30 KTLA 5 News at 6:30",
-   "Mon 03:00 Penn & Teller: Fool Us",
-   "Mon 04:00 Paul Blart: Mall Cop",
-   "Mon 06:00 KTLA 5 News at 10"
+   "Mon 11:30 Judy Justice",
+   "Mon 12:00 KTLA 5 Morning News at 4",
+   "Mon 12:30 KTLA 5 Morning News at 4:30",
+   "Mon 13:00 KTLA 5 Morning News at 5",
+   "Mon 14:00 KTLA 5 Morning News at 6",
+   "Mon 15:00 KTLA 5 Morning News at 7"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Mon 01:05 First Dates",
-   "Mon 02:00 Ramsay&apos;s Hotel Hell",
-   "Mon 02:50 Chevalier",
-   "Mon 04:35 The Simpsons",
-   "Mon 05:00 The Simpsons",
-   "Mon 05:25 The Simpsons"
+   "Mon 11:40 Frasier",
+   "Mon 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Mon 13:05 Channel 4 News Summary",
+   "Mon 13:10 Renovation Nation",
+   "Mon 14:10 Escape to Florida",
+   "Mon 15:10 Countdown"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Mon 01:00 QI XL",
-   "Mon 02:00 Have I Got a Bit More News for You",
-   "Mon 03:00 Dave Gorman: Modern Life Is Goodish",
-   "Mon 04:00 Teleshopping",
-   "Mon 06:00 Teleshopping",
-   "Mon 07:10 Top Gear"
+   "Mon 11:00 Rick Stein: From Venice to Istanbul",
+   "Mon 12:00 Hairy Bikers&apos; Best of British",
+   "Mon 13:00 Great Canal Journeys",
+   "Mon 14:00 Top Gear",
+   "Mon 15:00 Guy Martin: Arctic Warrior",
+   "Mon 16:00 Rick Stein: From Venice to Istanbul"
   ]
  },
  "doubleEscaped": 1321,
  "counts": {
-  "weakMatches": 1074,
-  "sharedIds": 24,
+  "weakMatches": 1075,
+  "sharedIds": 22,
   "stale": 0,
-  "gaps": 8,
+  "gaps": 7,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

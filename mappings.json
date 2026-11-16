@@ -6309,12 +6309,188 @@
    "src": "sky.com|en|GB#2088",
    "auto": true
   },
+  "name:UK-NOWTV| ALIBI HD": {
+   "src": "sky.com|en|GB#3825",
+   "auto": true
+  },
+  "name:UK-NOWTV| ALIBI SD": {
+   "src": "sky.com|en|GB#3825",
+   "auto": true
+  },
+  "name:UK-NOWTV| BOOMERANG FHD": {
+   "src": "sky.com|en|GB#5609",
+   "auto": true
+  },
+  "name:UK-NOWTV| BOOMERANG HD": {
+   "src": "sky.com|en|GB#5609",
+   "auto": true
+  },
+  "name:UK-NOWTV| CARTOON NETWORK FHD": {
+   "src": "tv24.co.uk|en|cartoon-network",
+   "auto": true
+  },
+  "name:UK-NOWTV| CARTOON NETWORK HD": {
+   "src": "tv24.co.uk|en|cartoon-network",
+   "auto": true
+  },
+  "name:UK-NOWTV| COMEDY CENTRAL FHD": {
+   "src": "sky.com|en|GB#2510",
+   "auto": true
+  },
+  "name:UK-NOWTV| COMEDY CENTRAL HD": {
+   "src": "sky.com|en|GB#2510",
+   "auto": true
+  },
+  "name:UK-NOWTV| GOLD FHD": {
+   "src": "sky.com|en|GB#6513",
+   "auto": true
+  },
+  "name:UK-NOWTV| GOLD HD": {
+   "src": "sky.com|en|GB#6513",
+   "auto": true
+  },
+  "name:UK-NOWTV| MTV FHD": {
+   "src": "sky.com|en|GB#3831",
+   "auto": true
+  },
+  "name:UK-NOWTV| MTV HD": {
+   "src": "sky.com|en|GB#3831",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICK JR FHD": {
+   "src": "sky.com|en|GB#4039",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICK JR HD": {
+   "src": "sky.com|en|GB#4039",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICKELODEON FHD": {
+   "src": "sky.com|en|GB#4069",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICKELODEON HD": {
+   "src": "sky.com|en|GB#4069",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICKTOONS FHD": {
+   "src": "epgshare01.online|en|UK1#Nicktoons.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| NICKTOONS HD": {
+   "src": "epgshare01.online|en|UK1#Nicktoons.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| PREMIER SPORTS 1 FHD": {
+   "src": "epgshare01.online|en|UK1#Premier.Sports.1.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| PREMIER SPORTS 1 HD": {
+   "src": "epgshare01.online|en|UK1#Premier.Sports.1.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| PREMIER SPORTS 2 FHD": {
+   "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| PREMIER SPORTS 2 HD": {
+   "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY ACTION FHD": {
+   "src": "epgshare01.online|en|UK1#Sky.Action.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY ACTION HD": {
+   "src": "epgshare01.online|en|UK1#Sky.Action.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY ATLANTIC FHD": {
+   "src": "sky.com|en|GB#4053",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY ATLANTIC HD": {
+   "src": "sky.com|en|GB#4053",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY CINEMA PREMIERE FHD": {
+   "src": "sky.com|en|GB#4021",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY CINEMA PREMIERE HD": {
+   "src": "sky.com|en|GB#4021",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY COMEDY FHD": {
+   "src": "sky.com|en|GB#1143",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY COMEDY HD": {
+   "src": "sky.com|en|GB#1143",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY CRIME FHD": {
+   "src": "sky.com|en|GB#1212",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY CRIME HD": {
+   "src": "sky.com|en|GB#1212",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY DOCUMENTARIES FHD": {
+   "src": "epgshare01.online|en|UK1#Sky.Documentaries.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY DOCUMENTARIES HD": {
+   "src": "epgshare01.online|en|UK1#Sky.Documentaries.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY DRAMA FHD": {
+   "src": "epgshare01.online|en|UK1#Sky.Drama.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY DRAMA HD": {
+   "src": "epgshare01.online|en|UK1#Sky.Drama.HD.uk",
+   "auto": true
+  },
   "name:UK-NOWTV| SKY GREATS FHD": {
    "src": "epgshare01.online|en|UK1#Sky.Greats.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKY GREATS HD": {
    "src": "epgshare01.online|en|UK1#Sky.Greats.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY HISTORY FHD": {
+   "src": "sky.com|en|GB#4086",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY HISTORY HD": {
+   "src": "sky.com|en|GB#4086",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY KIDS FHD": {
+   "src": "sky.com|en|GB#1147",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY KIDS HD": {
+   "src": "sky.com|en|GB#1147",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY MAX FHD": {
+   "src": "virgintvgo.virginmedia.com|en|2181",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY MAX HD": {
+   "src": "virgintvgo.virginmedia.com|en|2181",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY NATURE FHD": {
+   "src": "sky.com|en|GB#1165",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY NATURE HD": {
+   "src": "sky.com|en|GB#1165",
    "auto": true
   },
   "name:UK-NOWTV| SKY SCFI/HOR FHD": {
@@ -6333,12 +6509,116 @@
    "src": "sky.com|en|GB#4074",
    "auto": true
   },
+  "name:UK-NOWTV| SKY SPORTS ACTION FHD": {
+   "src": "sky.com|en|GB#1703",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS ACTION HD": {
+   "src": "sky.com|en|GB#1703",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS CRICKET FHD": {
+   "src": "sky.com|en|GB#1702",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS CRICKET HD": {
+   "src": "sky.com|en|GB#1702",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS F1 (UHD/4K)": {
+   "src": "sky.com|en|GB#3835",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS F1 HD": {
+   "src": "sky.com|en|GB#3835",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS FOOTBALL FHD": {
+   "src": "epgshare01.online|en|UK1#Sky.Sports.Football.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS FOOTBALL HD": {
+   "src": "epgshare01.online|en|UK1#Sky.Sports.Football.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS GOLF HD": {
+   "src": "sky.com|en|GB#1094",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS MAIN EVENT FHD": {
+   "src": "sky.com|en|GB#1701",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS MAIN EVENT HD": {
+   "src": "sky.com|en|GB#1701",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS MAIN EVENT SD": {
+   "src": "sky.com|en|GB#1701",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS MIX FHD": {
+   "src": "sky.com|en|GB#4090",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS MIX HD": {
+   "src": "sky.com|en|GB#4090",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS NEWS HQ FHD": {
+   "src": "sky.com|en|GB#1340",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS NEWS HQ HD": {
+   "src": "sky.com|en|GB#1340",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD": {
+   "src": "sky.com|en|GB#1096",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD": {
+   "src": "sky.com|en|GB#1096",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS RACING FHD": {
+   "src": "sky.com|en|GB#4032",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS RACING HD": {
+   "src": "sky.com|en|GB#4032",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS TENNIS FHD": {
+   "src": "sky.com|en|GB#1284",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS TENNIS HD": {
+   "src": "sky.com|en|GB#1284",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS+ FHD": {
+   "src": "sky.com|en|GB#3839",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY SPORTS+ HD": {
+   "src": "sky.com|en|GB#3839",
+   "auto": true
+  },
   "name:UK-NOWTV| SKY THRILLER FHD": {
    "src": "epgshare01.online|en|UK1#Sky.Thriller.HD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKY THRILLER HD": {
    "src": "epgshare01.online|en|UK1#Sky.Thriller.HD.uk",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY WITNESS FHD": {
+   "src": "sky.com|en|GB#4066",
+   "auto": true
+  },
+  "name:UK-NOWTV| SKY WITNESS HD": {
+   "src": "sky.com|en|GB#4066",
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE FHD": {
@@ -6355,6 +6635,14 @@
   },
   "name:UK-NOWTV| SKYANIMATION HD": {
    "src": "sky.com|en|GB#4020",
+   "auto": true
+  },
+  "name:UK-NOWTV| TNT SPORTS 4 FHD": {
+   "src": "sky.com|en|GB#4040",
+   "auto": true
+  },
+  "name:UK-NOWTV| TNT SPORTS 4 HD": {
+   "src": "sky.com|en|GB#4040",
    "auto": true
   },
   "name:UK| 5 SELECT": {
@@ -6768,6 +7056,10 @@
    "src": "sky.com|en|GB#3831",
    "auto": true
   },
+  "name:UK| MUTV HEVC FHD": {
+   "src": "sky.com|en|GB#1003",
+   "auto": true
+  },
   "name:UK| NAT GEO +1": {
    "src": "sky.com|en|GB#4031",
    "offset": 1,
@@ -6817,6 +7109,10 @@
    "src": "epgshare01.online|en|UK1#NOW.90s.uk",
    "auto": true
   },
+  "name:UK| PREMIER SPORTS 1 IRELAND HEVC FHD": {
+   "src": "epgshare01.online|en|UK1#Premier.Sports.1.HD.uk",
+   "auto": true
+  },
   "name:UK| PREMIER SPORTS 2 IRELAND HEVC FHD": {
    "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
    "auto": true
@@ -6839,6 +7135,10 @@
   },
   "name:UK| QVC EXTRA": {
    "src": "sky.com|en|GB#3359",
+   "auto": true
+  },
+  "name:UK| RACING UK HEVC FHD": {
+   "src": "epgshare01.online|en|IE1#Racing.UK.ie",
    "auto": true
   },
   "name:UK| RT UK HD": {
@@ -6934,8 +7234,44 @@
    "src": "sky.com|en|GB#3839",
    "auto": true
   },
+  "name:UK| SKY SPORTS ACTION HEVC FHD": {
+   "src": "sky.com|en|GB#1703",
+   "auto": true
+  },
   "name:UK| SKY SPORTS BOX OFFICE HD": {
    "src": "tv24.co.uk|en|sky-sports-box-office-hd",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS CRICKET HEVC FHD": {
+   "src": "sky.com|en|GB#1702",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS DARTS HEVC HD": {
+   "src": "virgintvgo.virginmedia.com|en|1771",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS FOOTBALL HEVC FHD": {
+   "src": "epgshare01.online|en|UK1#Sky.Sports.Football.HD.uk",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS GOLF HEVC FHD": {
+   "src": "sky.com|en|GB#1094",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS MIX HEVC FHD": {
+   "src": "sky.com|en|GB#4090",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS NEWS HEVC FHD": {
+   "src": "sky.com|en|GB#1340",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS PREMIER LEAGUE HEVC": {
+   "src": "sky.com|en|GB#1096",
+   "auto": true
+  },
+  "name:UK| SKY SPORTS RACING HEVC FHD": {
+   "src": "sky.com|en|GB#4032",
    "auto": true
   },
   "name:UK| SKY SPORTS TENNIS FHD": {
@@ -6992,6 +7328,18 @@
   },
   "name:UK| TLC HEVC FHD": {
    "src": "sky.com|en|GB#3812",
+   "auto": true
+  },
+  "name:UK| TNT SPORTS 1 HEVC FHD": {
+   "src": "sky.com|en|GB#1120",
+   "auto": true
+  },
+  "name:UK| TNT SPORTS 2 HEVC FHD": {
+   "src": "sky.com|en|GB#3627",
+   "auto": true
+  },
+  "name:UK| TNT SPORTS 3 HEVC FHD": {
+   "src": "sky.com|en|GB#3629",
    "auto": true
   },
   "name:UK| TNT SPORTS 4 HEVC FHD": {
@@ -7982,10 +8330,6 @@
   },
   "SkyNews.uk": {
    "src": "sky.com|en|GB#4050",
-   "auto": true
-  },
-  "SkyPremiere.uk": {
-   "src": "sky.com|en|GB#4021",
    "auto": true
   },
   "SkySportsAction.uk": {
