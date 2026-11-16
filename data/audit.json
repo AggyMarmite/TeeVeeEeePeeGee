@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16T11:51",
+ "built": "2026-11-16T22:25",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1152,84 +1152,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Mon 11:15 Homes Under the Hammer",
-   "Mon 11:15 Homes Under the Hammer",
-   "Mon 12:15 Bargain Hunt",
-   "Mon 13:00 BBC News at One including BBC London News",
-   "Mon 14:00 Scam Interceptors",
-   "Mon 14:30 Doorbell Detectives"
+   "Mon 22:00 BBC News and Weather",
+   "Mon 22:30 BBC London News",
+   "Mon 22:40 Young, British and Tradwife",
+   "Mon 23:40 The Traitors Ireland",
+   "Mon 23:40 The Traitors Ireland",
+   "Tue 00:30 The Traitors Ireland"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Mon 10:00 This Morning",
-   "Mon 12:30 Loose Women",
-   "Mon 13:30 ITV Lunchtime News",
-   "Mon 13:55 ITV News Tyne Tees",
-   "Mon 14:00 New: Dickinson&apos;s Real Deal",
-   "Mon 15:00 New: Lingo"
+   "Mon 21:00 New: I&apos;m a Celebrity... Get Me...",
+   "Mon 22:40 ITV News at Ten",
+   "Mon 23:10 ITV News Tyne Tees",
+   "Mon 23:25 Jack Reacher",
+   "Tue 01:30 Shop on TV",
+   "Tue 03:00 Lingo"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Mon 10:30 Live ATP Finals: Day 2 Doubles",
-   "Mon 12:00 Live ATP Finals: Alcaraz v Tiafoe",
-   "Mon 15:00 Live 1st Test Day 2: SA v BAN",
-   "Mon 16:00 Sports Desk",
-   "Mon 17:00 Live ATP Finals: Day 2 Doubles",
-   "Mon 18:30 Live ATP Finals:Medvedev v Cobolli"
+   "Mon 19:00 Live Grand Slam Of Darts",
+   "Mon 23:00 Sky Sports News",
+   "Mon 23:30 Live NBA: Magic @ Celtics",
+   "Tue 01:00 Live: NFL Chargers @ Ravens",
+   "Tue 04:30 Sky Sports News",
+   "Tue 05:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Mon 10:00 Las Vegas F1 Grand Prix 2023",
-   "Mon 12:30 Las Vegas F1 Grand Prix 2024",
-   "Mon 14:45 Las Vegas F1 Grand Prix 2025",
-   "Mon 17:00 Sao Paulo F1 Grand Prix",
-   "Mon 19:30 Ted&apos;s Notebook: Sao Paulo",
-   "Mon 20:00 Las Vegas F1 GP Highlights 2023"
+   "Mon 22:00 Las Vegas F1 GP Highlights 2025",
+   "Mon 23:00 British GB3 Highlights",
+   "Tue 00:00 Sao Paulo F1 GP Highlights",
+   "Tue 01:00 The Best of Australia 2026",
+   "Tue 01:25 The Best of China 2026",
+   "Tue 02:00 The Best of Japan 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Mon 11:00 Today in New York @ 6AM",
-   "Mon 12:00 Today",
-   "Mon 14:00 Today 3rd Hour",
-   "Mon 15:00 Today With Jenna & Sheinelle",
-   "Mon 16:00 Live: News 4 NY at 11AM",
-   "Mon 16:30 New York Live"
+   "Mon 22:00 News 4 NY at 5",
+   "Mon 22:30 News 4 NY at 5:30",
+   "Mon 23:00 News 4 NY at 6",
+   "Mon 23:30 NBC Nightly News With Tom Llamas",
+   "Tue 00:00 News 4 NY at 7",
+   "Tue 00:30 New York Live Tonight"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Mon 11:00 SportsCenter",
-   "Mon 12:00 Live: SportsCenter",
-   "Mon 13:00 Live: Get Up",
-   "Mon 15:00 Live: First Take",
-   "Mon 17:00 Live: The Pat McAfee Show",
-   "Mon 19:00 Live: Big Day With Peter Schrager"
+   "Mon 22:00 Live: SportsCenter",
+   "Mon 22:30 Live: Pardon the Interruption",
+   "Mon 23:00 Live: Monday Night Countdown",
+   "Tue 01:00 Live: Monday Night Kickoff",
+   "Tue 01:15 Live: NFL Football",
+   "Tue 04:15 Live: Monday Night Postgame"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Mon 11:00 Live: CNN This Morning",
-   "Mon 12:00 Live: CNN News Central",
-   "Mon 13:00 Live: CNN News Central",
-   "Mon 14:00 Live: CNN News Central",
-   "Mon 15:00 Live: The Situation Room",
-   "Mon 16:00 Live: The Situation Room"
+   "Mon 22:00 Live: The Lead With Jake Tapper",
+   "Mon 23:00 Live: The Lead With Jake Tapper",
+   "Tue 00:00 Live: Erin Burnett OutFront",
+   "Tue 01:00 Live: Anderson Cooper 360",
+   "Tue 02:00 Live: The Source With Kaitlan Collins",
+   "Tue 03:00 Live: CNN NewsNight With Abby Phillip"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Mon 11:30 Judy Justice",
-   "Mon 12:00 KTLA 5 Morning News at 4",
-   "Mon 12:30 KTLA 5 Morning News at 4:30",
-   "Mon 13:00 KTLA 5 Morning News at 5",
-   "Mon 14:00 KTLA 5 Morning News at 6",
-   "Mon 15:00 KTLA 5 Morning News at 7"
+   "Mon 22:00 Off the Clock",
+   "Mon 23:00 KTLA 5 News at 3",
+   "Tue 00:00 KTLA 5 News at 4",
+   "Tue 01:00 KTLA 5 News at 5",
+   "Tue 02:00 KTLA 5 News at 6",
+   "Tue 02:30 KTLA 5 News at 6:30"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Mon 11:40 Frasier",
-   "Mon 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Mon 13:05 Channel 4 News Summary",
-   "Mon 13:10 Renovation Nation",
-   "Mon 14:10 Escape to Florida",
-   "Mon 15:10 Countdown"
+   "Mon 22:00 New: I Am Helen",
+   "Mon 23:00 24 Hours in A&E",
+   "Tue 00:05 999: On the Front Line",
+   "Tue 01:10 Ramsay&apos;s Kitchen Nightmares USA",
+   "Tue 02:00 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Tue 02:55 The F Ward"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Mon 11:00 Rick Stein: From Venice to Istanbul",
-   "Mon 12:00 Hairy Bikers&apos; Best of British",
-   "Mon 13:00 Great Canal Journeys",
-   "Mon 14:00 Top Gear",
-   "Mon 15:00 Guy Martin: Arctic Warrior",
-   "Mon 16:00 Rick Stein: From Venice to Istanbul"
+   "Mon 22:00 QI XL",
+   "Mon 23:00 Taskmaster",
+   "Tue 00:00 Mock the Week",
+   "Tue 00:40 Would I Lie To You?",
+   "Tue 01:20 Would I Lie To You?",
+   "Tue 02:00 The Good Place"
   ]
  },
  "doubleEscaped": 1321,

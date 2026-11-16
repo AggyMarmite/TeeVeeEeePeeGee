@@ -1,11 +1,11 @@
 {
- "built": "2026-11-16T11:51",
+ "built": "2026-11-16T22:25",
  "channels": 2271,
- "programmes": 194105,
+ "programmes": 168151,
  "noListings": 1,
  "withLogo": 1862,
- "xmlMB": 94.5,
- "gzMB": 11.4,
+ "xmlMB": 82.1,
+ "gzMB": 9.9,
  "bySite": {
   "epgshare01.online": [
    1441,
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 227
+    "programmes": 228
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 145
+    "programmes": 147
    },
    "UK1": {
     "channels": 31,
     "withListings": 31,
-    "programmes": 1980
+    "programmes": 1655
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 18392
+    "programmes": 15671
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84354
+    "programmes": 72895
    },
    "US_SPORTS1": {
     "channels": 22,
