@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T08:14",
+ "built": "2026-11-17T18:43",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1065,23 +1065,7 @@
    ]
   }
  ],
- "stale": [
-  {
-   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 2,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 2,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 2,
-   "src": "epgshare01.online"
-  }
- ],
+ "stale": [],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1097,11 +1081,6 @@
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| RTE JR",
-   "hours": 5,
-   "src": "mytelly.co.uk"
   },
   {
    "ch": "UK| SKY SPORTS BOX OFFICE HD",
@@ -1125,122 +1104,112 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1399,
-   "-0500": 33
+   "+0000": 1400,
+   "-0500": 30
   },
   "sky.com": {
-   "+0000": 351
+   "+0000": 352
   },
   "directv.com": {
-   "+0000": 265
+   "+0000": 268
   },
   "tvinsider.com": {
    "+0000": 28
   },
-  "mytelly.co.uk": {
-   "+0000": 23
+  "tv24.co.uk": {
+   "+0000": 54
   },
   "freeview.co.uk": {
-   "+0000": 24
-  },
-  "tv24.co.uk": {
-   "+0000": 41
+   "+0000": 26
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 3
+   "+0000": 4
   },
   "player.ee.co.uk": {
    "+0000": 3
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [
-   "Tue 06:00 Breakfast",
-   "Tue 09:30 Morning Live",
-   "Tue 10:45 Dashcam Justice",
-   "Tue 11:15 Homes Under the Hammer",
-   "Tue 12:15 Bargain Hunt",
-   "Tue 13:00 BBC News at One; Weather"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Tue 06:00 Good Morning Britain",
-   "Tue 09:30 Lorraine",
-   "Tue 10:00 This Morning",
-   "Tue 12:30 Loose Women",
-   "Tue 13:30 ITV Lunchtime News",
-   "Tue 13:55 ITV News Tyne Tees"
+   "Tue 18:30 ITV Evening News",
+   "Tue 19:00 New: The Martin Lewis Money Show..",
+   "Tue 20:00 Emmerdale",
+   "Tue 20:30 Coronation Street",
+   "Tue 21:00 New: I&apos;m a Celebrity... Get Me...",
+   "Tue 22:30 ITV News at Ten"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Tue 07:30 Live 1st Test Day 3: SA v BAN",
-   "Tue 10:30 Live ATP Finals: Day 3 Doubles",
-   "Tue 12:00 Live ATP Finals: Fils v Jodar",
-   "Tue 15:00 Live 1st Test Day 3: SA v BAN",
-   "Tue 16:00 Sports Desk",
-   "Tue 17:00 Live ATP Finals: Day 3 Doubles"
+   "Tue 18:30 Live ATP Finals: Zverev v Shelton",
+   "Tue 19:00 Live Grand Slam Of Darts",
+   "Tue 23:00 Sky Sports News",
+   "Wed 00:00 Live NBA: Pistons @ Spurs",
+   "Wed 04:00 Live NBA: Hornets @ LA Lakers",
+   "Wed 06:00 Live NBA: Hornets @ LA Lakers"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Tue 08:00 Sao Paulo F1 GP Highlights",
-   "Tue 09:00 British GB3 Highlights",
-   "Tue 10:00 US F1 Grand Prix",
-   "Tue 12:15 Mexico City F1 Grand Prix",
-   "Tue 15:05 Sao Paulo F1 Grand Prix",
-   "Tue 17:30 Ted&apos;s Notebook: Sao Paulo"
+   "Tue 18:00 Las Vegas F1 GP Highlights 2023",
+   "Tue 19:00 Las Vegas F1 GP Highlights 2024",
+   "Tue 20:00 Las Vegas F1 GP Highlights 2025",
+   "Tue 21:00 US F1 GP Highlights",
+   "Tue 22:00 Mexico City F1 GP Highlights",
+   "Tue 23:00 Sao Paulo F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Tue 07:39 Top Story With Tom Llamas",
-   "Tue 08:30 New York Live Tonight",
-   "Tue 09:00 Early Today",
-   "Tue 09:30 Today in New York",
-   "Tue 10:00 Today in New York",
-   "Tue 11:00 Today in New York @ 6AM"
+   "Tue 18:00 Dateline",
+   "Tue 19:00 NBC News Daily",
+   "Tue 20:00 News Zone",
+   "Tue 21:00 News 4 NY at 4",
+   "Tue 21:30 Live: News 4 NY at 4:30",
+   "Tue 22:00 Live: News 4 NY at 5"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Tue 07:30 SportsCenter",
-   "Tue 08:30 SportsCenter",
-   "Tue 09:30 SportsCenter",
-   "Tue 10:00 SportsCenter",
-   "Tue 11:00 SportsCenter",
-   "Tue 12:00 Live: SportsCenter"
+   "Tue 17:00 Live: The Pat McAfee Show",
+   "Tue 19:00 Live: College Basketball",
+   "Tue 21:00 College Basketball Live Scoreboard",
+   "Tue 21:30 Live: College Basketball",
+   "Tue 23:30 Live: College Basketball Scoreboard",
+   "Wed 00:00 Live: College Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Tue 08:00 CNN NewsNight With Abby Phillip",
-   "Tue 09:00 Anderson Cooper 360",
-   "Tue 10:00 Live: CNN Headline Express",
-   "Tue 11:00 Live: CNN This Morning",
-   "Tue 12:00 Live: CNN News Central",
-   "Tue 13:00 Live: CNN News Central"
+   "Tue 18:00 Live: CNN News Central",
+   "Tue 19:00 Live: CNN News Central",
+   "Tue 20:00 Live: CNN News Central",
+   "Tue 21:00 Live: The Arena With Kasie Hunt",
+   "Tue 22:00 Live: The Lead With Jake Tapper",
+   "Tue 23:00 Live: The Lead With Jake Tapper"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Tue 08:05 Friends",
-   "Tue 08:35 The Big Bang Theory",
-   "Tue 09:05 The Big Bang Theory",
-   "Tue 09:35 Two and a Half Men",
-   "Tue 10:05 Scrabble",
-   "Tue 10:35 Trivial Pursuit"
+   "Tue 18:00 KTLA 5 Morning News at 10",
+   "Tue 19:00 KTLA 5 Morning News at 11",
+   "Tue 20:00 KTLA 5 News at Noon",
+   "Tue 21:00 KTLA 5 News at 1",
+   "Tue 22:00 Off the Clock",
+   "Tue 23:00 KTLA 5 News at 3"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Tue 08:00 The King of Queens",
-   "Tue 08:25 The King of Queens",
-   "Tue 08:45 Everybody Loves Raymond",
-   "Tue 09:10 Everybody Loves Raymond",
-   "Tue 09:40 Everybody Loves Raymond",
-   "Tue 10:10 Frasier"
+   "Tue 18:30 Come Dine with Me",
+   "Tue 19:00 New: A Place in the Sun",
+   "Tue 20:00 Channel 4 News",
+   "Tue 21:00 New: The Great British Bake Off",
+   "Tue 22:15 New: I Am Helen",
+   "Tue 23:20 New: The Great British Bake..."
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Tue 08:00 Highland Cops",
-   "Tue 09:00 Highland Cops",
-   "Tue 10:00 Rick Stein: From Venice to Istanbul",
-   "Tue 11:00 Rick Stein: From Venice to Istanbul",
-   "Tue 12:00 Hairy Bikers&apos; Best of British",
-   "Tue 13:00 Great Canal Journeys"
+   "Tue 18:00 Hairy Bikers&apos; Best of British",
+   "Tue 19:00 Would I Lie To You?",
+   "Tue 19:40 Would I Lie To You?",
+   "Tue 20:20 Would I Lie To You?",
+   "Tue 21:00 Have I Got a Bit More News for You",
+   "Tue 22:00 QI XL"
   ]
  },
  "doubleEscaped": 1319,
  "counts": {
-  "weakMatches": 1063,
+  "weakMatches": 1064,
   "sharedIds": 22,
-  "stale": 3,
-  "gaps": 5,
+  "stale": 0,
+  "gaps": 4,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
