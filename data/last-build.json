@@ -1,51 +1,51 @@
 {
- "built": "2026-11-16T22:25",
- "channels": 2271,
- "programmes": 168151,
- "noListings": 1,
- "withLogo": 1862,
- "xmlMB": 82.1,
- "gzMB": 9.9,
+ "built": "2026-11-17T08:14",
+ "channels": 2300,
+ "programmes": 199686,
+ "noListings": 65,
+ "withLogo": 1884,
+ "xmlMB": 97.4,
+ "gzMB": 11.6,
  "bySite": {
   "epgshare01.online": [
-   1441,
-   0
+   1443,
+   12
   ],
   "sky.com": [
-   400,
-   0
+   393,
+   6
   ],
   "tvinsider.com": [
    30,
    0
   ],
   "directv.com": [
-   268,
-   0
+   265,
+   4
+  ],
+  "mytelly.co.uk": [
+   23,
+   7
   ],
   "tv24.co.uk": [
-   77,
-   1
+   49,
+   34
   ],
   "freeview.co.uk": [
-   28,
-   0
+   25,
+   1
   ],
   "virgintvgo.virginmedia.com": [
-   9,
+   4,
    0
   ],
   "player.ee.co.uk": [
-   7,
+   3,
    0
   ],
   "dazn.com": [
-   9,
-   0
-  ],
-  "mytelly.co.uk": [
-   1,
-   0
+   0,
+   1
   ]
  },
  "epgshare": {
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "SLICE HD = SLICE.HD.ca2",
-     "CTV LIFE CHANNEL HD = CTV.LIFE.CHANNEL.HD.ca2",
-     "WBZ = WBZ.ca2",
-     "Uvagut TV = Uvagut.TV.ca2",
-     "ERT World = ERT.World.ca2",
-     "CFEM = CFEM.ca2"
+     "Stingray Jukebox Oldies = Stingray.Jukebox.Oldies.ca2",
+     "Stingray Classic R’n’B & Soul = Stingray.Classic.R’n’B.&.Soul.ca2",
+     "CKLT = CKLT.ca2",
+     "Crave1 = Crave1.ca2",
+     "CFTM Montréal = CFTM.Montréal.ca2",
+     "CJBR = CJBR.ca2"
     ]
    },
    "IE1": {
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Adult Channel = Adult.Channel.uk",
-     "Ideal Extra = Ideal.Extra.uk",
-     "Akaal Channel = Akaal.Channel.uk",
-     "BBC One Y and L HD = BBC.One.Y.and.L.HD.uk",
-     "ITV3+1 = ITV3+1.uk",
-     "Sky Family HD = Sky.Family.HD.uk"
+     "HobbyMaker = HobbyMaker.uk",
+     "SkyAdventureHD = SkyAdventureHD.uk",
+     "The Craft Store = The.Craft.Store.uk",
+     "U and YESTERDAY = U.and.YESTERDAY.uk",
+     "GREAT! tv = GREAT!.tv.uk",
+     "TNT Sports 3 HD = TNT.Sports.3.HD.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Grjngo - Western Movies = Grjngo.-.Western.Movies.us2",
-     "BabyFirst TV = BabyFirst.TV.us2",
-     "Home Shopping Network = Home.Shopping.Network.us2",
-     "Pinoy Box Office = Pinoy.Box.Office.us2",
-     "Spectrum News 1 - (Kentucky) Lexington = Spectrum.News.1.-.(Kentucky).Lexington.us2",
-     "NBA League Pass 6 HD = NBA.League.Pass.6.HD.us2"
+     "Free Movies Plus = Free.Movies.Plus.us2",
+     "The Weather Channel HD = The.Weather.Channel.HD.us2",
+     "The Grio HD = The.Grio.HD.us2",
+     "FS2 HD = FS2.HD.us2",
+     "Great American Romcoms = Great.American.Romcoms.us2",
+     "CNBC World = CNBC.World.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "KMLU-DT = KMLU-DT.us_locals1",
-     "K35JJ-D = K35JJ-D.us_locals1",
-     "KMDE-DT = KMDE-DT.us_locals1",
-     "WWVA-FM = WWVA-FM.us_locals1",
-     "K41LB-D = K41LB-D.us_locals1",
-     "K27JW-D = K27JW-D.us_locals1"
+     "K29HG-D = K29HG-D.us_locals1",
+     "WXIA-DT = WXIA-DT.us_locals1",
+     "WNYW-DT = WNYW-DT.us_locals1",
+     "KMJF-LD = KMJF-LD.us_locals1",
+     "K30LY-D = K30LY-D.us_locals1",
+     "K25PL-D = K25PL-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 228
+    "programmes": 212
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 147
+    "programmes": 127
    },
    "UK1": {
-    "channels": 31,
-    "withListings": 31,
-    "programmes": 1655
+    "channels": 42,
+    "withListings": 30,
+    "programmes": 2016
    },
    "US2": {
-    "channels": 225,
-    "withListings": 225,
-    "programmes": 15671
+    "channels": 226,
+    "withListings": 226,
+    "programmes": 19239
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 72895
+    "programmes": 88474
    },
    "US_SPORTS1": {
     "channels": 22,

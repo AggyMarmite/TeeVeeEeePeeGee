@@ -1,12 +1,6 @@
 {
- "built": "2026-11-16T22:25",
+ "built": "2026-11-17T08:14",
  "weakMatches": [
-  {
-   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
-   "src": "BBC One HD · tv24.co.uk",
-   "score": 84,
-   "auto": true
-  },
   {
    "ch": "US| KTLA LOS ANGELES HD",
    "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
@@ -28,12 +22,6 @@
   {
    "ch": "4K| ESPN UHD",
    "src": "ESPN HD · epgshare01.online US2 US",
-   "score": 94,
-   "auto": true
-  },
-  {
-   "ch": "D+| HGTV",
-   "src": "TLC · player.ee.co.uk",
    "score": 94,
    "auto": true
   },
@@ -81,7 +69,7 @@
   },
   {
    "ch": "US| PBS PORTLAND (KOPB) OR",
-   "src": "KOPB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -237,7 +225,7 @@
   },
   {
    "ch": "US| ABC 7 SAN FRANCISCO CA (KGO)",
-   "src": "KGO-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KGO-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -423,7 +411,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -597,7 +585,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
+   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -669,7 +657,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -879,7 +867,7 @@
   },
   {
    "ch": "US| ABC 9 CHARLOTTE NC (WSOC)",
-   "src": "WSOC-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WSOC-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -898,6 +886,18 @@
   {
    "ch": "US| ABC 4 PITTSBURGH PA (WTAE)",
    "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 10 ALBANY NY (WTEN)",
+   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 8 NEW HAVEN CT (WTNH)",
+   "src": "WTNH-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   }
@@ -1065,7 +1065,23 @@
    ]
   }
  ],
- "stale": [],
+ "stale": [
+  {
+   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
+   "hoursAhead": 2,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS NORTH HD",
+   "hoursAhead": 2,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS SOUTH HD",
+   "hoursAhead": 2,
+   "src": "epgshare01.online"
+  }
+ ],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1083,24 +1099,14 @@
    "src": "tv24.co.uk"
   },
   {
-   "ch": "UK-NOWTV| SKY SPORTS GOLF HD",
-   "hours": 4,
-   "src": "sky.com"
+   "ch": "UK| RTE JR",
+   "hours": 5,
+   "src": "mytelly.co.uk"
   },
   {
    "ch": "UK| SKY SPORTS BOX OFFICE HD",
    "hours": 6,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| SKY SPORTS GOLF HEVC FHD",
-   "hours": 4,
-   "src": "sky.com"
-  },
-  {
-   "ch": "UK| SKY SPORTS GOLF",
-   "hours": 4,
-   "src": "sky.com"
   }
  ],
  "overlaps": [],
@@ -1119,125 +1125,122 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1401,
-   "-0500": 29
+   "+0000": 1399,
+   "-0500": 33
   },
   "sky.com": {
-   "+0000": 358
+   "+0000": 351
   },
   "directv.com": {
-   "+0000": 268
+   "+0000": 265
   },
   "tvinsider.com": {
    "+0000": 28
   },
-  "tv24.co.uk": {
-   "+0000": 69
+  "mytelly.co.uk": {
+   "+0000": 23
   },
   "freeview.co.uk": {
-   "+0000": 27
+   "+0000": 24
   },
-  "player.ee.co.uk": {
-   "+0000": 7
+  "tv24.co.uk": {
+   "+0000": 41
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 8
+   "+0000": 3
   },
-  "dazn.com": {
-   "+0000": 9
-  },
-  "mytelly.co.uk": {
-   "+0000": 1
+  "player.ee.co.uk": {
+   "+0000": 3
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Mon 22:00 BBC News and Weather",
-   "Mon 22:30 BBC London News",
-   "Mon 22:40 Young, British and Tradwife",
-   "Mon 23:40 The Traitors Ireland",
-   "Mon 23:40 The Traitors Ireland",
-   "Tue 00:30 The Traitors Ireland"
+  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [
+   "Tue 06:00 Breakfast",
+   "Tue 09:30 Morning Live",
+   "Tue 10:45 Dashcam Justice",
+   "Tue 11:15 Homes Under the Hammer",
+   "Tue 12:15 Bargain Hunt",
+   "Tue 13:00 BBC News at One; Weather"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Mon 21:00 New: I&apos;m a Celebrity... Get Me...",
-   "Mon 22:40 ITV News at Ten",
-   "Mon 23:10 ITV News Tyne Tees",
-   "Mon 23:25 Jack Reacher",
-   "Tue 01:30 Shop on TV",
-   "Tue 03:00 Lingo"
+   "Tue 06:00 Good Morning Britain",
+   "Tue 09:30 Lorraine",
+   "Tue 10:00 This Morning",
+   "Tue 12:30 Loose Women",
+   "Tue 13:30 ITV Lunchtime News",
+   "Tue 13:55 ITV News Tyne Tees"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Mon 19:00 Live Grand Slam Of Darts",
-   "Mon 23:00 Sky Sports News",
-   "Mon 23:30 Live NBA: Magic @ Celtics",
-   "Tue 01:00 Live: NFL Chargers @ Ravens",
-   "Tue 04:30 Sky Sports News",
-   "Tue 05:00 Sky Sports News"
+   "Tue 07:30 Live 1st Test Day 3: SA v BAN",
+   "Tue 10:30 Live ATP Finals: Day 3 Doubles",
+   "Tue 12:00 Live ATP Finals: Fils v Jodar",
+   "Tue 15:00 Live 1st Test Day 3: SA v BAN",
+   "Tue 16:00 Sports Desk",
+   "Tue 17:00 Live ATP Finals: Day 3 Doubles"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Mon 22:00 Las Vegas F1 GP Highlights 2025",
-   "Mon 23:00 British GB3 Highlights",
-   "Tue 00:00 Sao Paulo F1 GP Highlights",
-   "Tue 01:00 The Best of Australia 2026",
-   "Tue 01:25 The Best of China 2026",
-   "Tue 02:00 The Best of Japan 2026"
+   "Tue 08:00 Sao Paulo F1 GP Highlights",
+   "Tue 09:00 British GB3 Highlights",
+   "Tue 10:00 US F1 Grand Prix",
+   "Tue 12:15 Mexico City F1 Grand Prix",
+   "Tue 15:05 Sao Paulo F1 Grand Prix",
+   "Tue 17:30 Ted&apos;s Notebook: Sao Paulo"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Mon 22:00 News 4 NY at 5",
-   "Mon 22:30 News 4 NY at 5:30",
-   "Mon 23:00 News 4 NY at 6",
-   "Mon 23:30 NBC Nightly News With Tom Llamas",
-   "Tue 00:00 News 4 NY at 7",
-   "Tue 00:30 New York Live Tonight"
+   "Tue 07:39 Top Story With Tom Llamas",
+   "Tue 08:30 New York Live Tonight",
+   "Tue 09:00 Early Today",
+   "Tue 09:30 Today in New York",
+   "Tue 10:00 Today in New York",
+   "Tue 11:00 Today in New York @ 6AM"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Mon 22:00 Live: SportsCenter",
-   "Mon 22:30 Live: Pardon the Interruption",
-   "Mon 23:00 Live: Monday Night Countdown",
-   "Tue 01:00 Live: Monday Night Kickoff",
-   "Tue 01:15 Live: NFL Football",
-   "Tue 04:15 Live: Monday Night Postgame"
+   "Tue 07:30 SportsCenter",
+   "Tue 08:30 SportsCenter",
+   "Tue 09:30 SportsCenter",
+   "Tue 10:00 SportsCenter",
+   "Tue 11:00 SportsCenter",
+   "Tue 12:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Mon 22:00 Live: The Lead With Jake Tapper",
-   "Mon 23:00 Live: The Lead With Jake Tapper",
-   "Tue 00:00 Live: Erin Burnett OutFront",
-   "Tue 01:00 Live: Anderson Cooper 360",
-   "Tue 02:00 Live: The Source With Kaitlan Collins",
-   "Tue 03:00 Live: CNN NewsNight With Abby Phillip"
+   "Tue 08:00 CNN NewsNight With Abby Phillip",
+   "Tue 09:00 Anderson Cooper 360",
+   "Tue 10:00 Live: CNN Headline Express",
+   "Tue 11:00 Live: CNN This Morning",
+   "Tue 12:00 Live: CNN News Central",
+   "Tue 13:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Mon 22:00 Off the Clock",
-   "Mon 23:00 KTLA 5 News at 3",
-   "Tue 00:00 KTLA 5 News at 4",
-   "Tue 01:00 KTLA 5 News at 5",
-   "Tue 02:00 KTLA 5 News at 6",
-   "Tue 02:30 KTLA 5 News at 6:30"
+   "Tue 08:05 Friends",
+   "Tue 08:35 The Big Bang Theory",
+   "Tue 09:05 The Big Bang Theory",
+   "Tue 09:35 Two and a Half Men",
+   "Tue 10:05 Scrabble",
+   "Tue 10:35 Trivial Pursuit"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Mon 22:00 New: I Am Helen",
-   "Mon 23:00 24 Hours in A&E",
-   "Tue 00:05 999: On the Front Line",
-   "Tue 01:10 Ramsay&apos;s Kitchen Nightmares USA",
-   "Tue 02:00 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Tue 02:55 The F Ward"
+   "Tue 08:00 The King of Queens",
+   "Tue 08:25 The King of Queens",
+   "Tue 08:45 Everybody Loves Raymond",
+   "Tue 09:10 Everybody Loves Raymond",
+   "Tue 09:40 Everybody Loves Raymond",
+   "Tue 10:10 Frasier"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Mon 22:00 QI XL",
-   "Mon 23:00 Taskmaster",
-   "Tue 00:00 Mock the Week",
-   "Tue 00:40 Would I Lie To You?",
-   "Tue 01:20 Would I Lie To You?",
-   "Tue 02:00 The Good Place"
+   "Tue 08:00 Highland Cops",
+   "Tue 09:00 Highland Cops",
+   "Tue 10:00 Rick Stein: From Venice to Istanbul",
+   "Tue 11:00 Rick Stein: From Venice to Istanbul",
+   "Tue 12:00 Hairy Bikers&apos; Best of British",
+   "Tue 13:00 Great Canal Journeys"
   ]
  },
- "doubleEscaped": 1321,
+ "doubleEscaped": 1319,
  "counts": {
-  "weakMatches": 1075,
+  "weakMatches": 1063,
   "sharedIds": 22,
-  "stale": 0,
-  "gaps": 7,
+  "stale": 3,
+  "gaps": 5,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
