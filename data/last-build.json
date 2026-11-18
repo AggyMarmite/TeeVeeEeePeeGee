@@ -1,18 +1,18 @@
 {
- "built": "2026-11-17T18:43",
- "channels": 2284,
- "programmes": 174707,
- "noListings": 54,
- "withLogo": 1886,
- "xmlMB": 85.7,
- "gzMB": 10.4,
+ "built": "2026-11-18T03:02",
+ "channels": 2272,
+ "programmes": 208526,
+ "noListings": 4,
+ "withLogo": 1879,
+ "xmlMB": 101.4,
+ "gzMB": 12.2,
  "bySite": {
   "epgshare01.online": [
-   1441,
-   0
+   1440,
+   1
   ],
   "sky.com": [
-   394,
+   400,
    0
   ],
   "tvinsider.com": [
@@ -23,24 +23,28 @@
    268,
    0
   ],
-  "mytelly.co.uk": [
-   0,
-   43
-  ],
   "tv24.co.uk": [
-   62,
-   2
+   58,
+   1
+  ],
+  "mytelly.co.uk": [
+   27,
+   1
   ],
   "freeview.co.uk": [
-   27,
+   28,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   5,
-   9
+   4,
+   1
   ],
   "player.ee.co.uk": [
-   3,
+   4,
+   0
+  ],
+  "dazn.com": [
+   9,
    0
   ]
  },
@@ -71,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "HobbyMaker = HobbyMaker.uk",
-     "SkyAdventureHD = SkyAdventureHD.uk",
-     "The Craft Store = The.Craft.Store.uk",
-     "U and YESTERDAY = U.and.YESTERDAY.uk",
-     "GREAT! tv = GREAT!.tv.uk",
-     "TNT Sports 3 HD = TNT.Sports.3.HD.uk"
+     "Sky Greats = Sky.Greats.uk",
+     "Nat Geo HD = Nat.Geo.HD.uk",
+     "DMAX+1 = DMAX+1.uk",
+     "Nick Jr+1 = Nick.Jr+1.uk",
+     "Sky HistoryHD = Sky.HistoryHD.uk",
+     "Create and CraftHD = Create.and.CraftHD.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Free Movies Plus = Free.Movies.Plus.us2",
-     "The Weather Channel HD = The.Weather.Channel.HD.us2",
-     "The Grio HD = The.Grio.HD.us2",
-     "FS2 HD = FS2.HD.us2",
-     "Great American Romcoms = Great.American.Romcoms.us2",
-     "CNBC World = CNBC.World.us2"
+     "Pets TV HD = Pets.TV.HD.us2",
+     "ESPN Deportes HD = ESPN.Deportes.HD.us2",
+     "American Crimes = American.Crimes.us2",
+     "Horror Plus = Horror.Plus.us2",
+     "Zona Futbol = Zona.Futbol.us2",
+     "ION Mystery = ION.Mystery.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "K29HG-D = K29HG-D.us_locals1",
-     "WXIA-DT = WXIA-DT.us_locals1",
-     "WNYW-DT = WNYW-DT.us_locals1",
-     "KMJF-LD = KMJF-LD.us_locals1",
-     "K30LY-D = K30LY-D.us_locals1",
-     "K25PL-D = K25PL-D.us_locals1"
+     "WSMV-DT = WSMV-DT.us_locals1",
+     "K25CV-D = K25CV-D.us_locals1",
+     "KXMA-DT = KXMA-DT.us_locals1",
+     "K31LB-D = K31LB-D.us_locals1",
+     "K28JR-D = K28JR-D.us_locals1",
+     "K23CU-D = K23CU-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -117,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 216
+    "programmes": 213
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 141
+    "programmes": 134
    },
    "UK1": {
     "channels": 31,
-    "withListings": 31,
-    "programmes": 1768
+    "withListings": 30,
+    "programmes": 2055
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 16562
+    "programmes": 19775
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 76171
+    "programmes": 91856
    },
    "US_SPORTS1": {
     "channels": 22,
