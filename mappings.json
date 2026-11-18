@@ -262,7 +262,7 @@
    "auto": true
   },
   "Channel5.uk": {
-   "src": "epgshare01.online|en|UK1#Channel.5.uk",
+   "src": "epgshare01.online|en|UK1#Channel.5.HD.uk",
    "auto": true
   },
   "ChargeTV.us": {
@@ -3685,7 +3685,7 @@
    "auto": true
   },
   "name:4K| SKY SPORTS DARTS UHD": {
-   "src": "virgintvgo.virginmedia.com|en|1595",
+   "src": "virgintvgo.virginmedia.com|en|1771",
    "auto": true
   },
   "name:4K| SKY SPORTS F1 UHD": {
@@ -3708,7 +3708,7 @@
    "auto": true
   },
   "name:CL| GOLF CHANNEL": {
-   "src": "epgshare01.online|en|CA2#Golf.Channel.HD.ca2",
+   "src": "epgshare01.online|en|CA2#Golf.Channel.ca2",
    "auto": true
   },
   "name:DE| EUROSPORT 1 HD": {
@@ -3836,7 +3836,7 @@
    "auto": true
   },
   "name:FR| GOLF CHANNEL HD": {
-   "src": "epgshare01.online|en|CA2#Golf.Channel.HD.ca2",
+   "src": "epgshare01.online|en|CA2#Golf.Channel.ca2",
    "auto": true
   },
   "name:GR| EUROSPORT 1": {
@@ -7178,7 +7178,7 @@
    "auto": true
   },
   "name:UK| SKY CRIME +1": {
-   "src": "mytelly.co.uk|en|1470/sky-crime-1",
+   "src": "tv24.co.uk|en|sky-crime-1",
    "auto": true
   },
   "name:UK| SKY CRIME HEVC FHD": {

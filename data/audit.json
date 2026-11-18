@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T03:02",
+ "built": "2026-11-18T12:01",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1065,7 +1065,18 @@
    ]
   }
  ],
- "stale": [],
+ "stale": [
+  {
+   "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
+   "hoursAhead": 18,
+   "src": "directv.com"
+  },
+  {
+   "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
+   "hoursAhead": 14,
+   "src": "directv.com"
+  }
+ ],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1104,7 +1115,7 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1400,
+   "+0000": 1401,
    "-0500": 29
   },
   "sky.com": {
@@ -1117,7 +1128,7 @@
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 50
+   "+0000": 51
   },
   "mytelly.co.uk": {
    "+0000": 27
@@ -1128,100 +1139,100 @@
   "player.ee.co.uk": {
    "+0000": 4
   },
+  "virgintvgo.virginmedia.com": {
+   "+0000": 4
+  },
   "dazn.com": {
    "+0000": 9
-  },
-  "virgintvgo.virginmedia.com": {
-   "+0000": 3
   }
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [
-   "Wed 00:35 BBC News",
-   "Wed 06:00 Breakfast",
-   "Wed 09:30 Morning Live",
-   "Wed 10:45 Dashcam Justice",
    "Wed 11:15 Homes Under the Hammer",
-   "Wed 12:15 Bargain Hunt"
+   "Wed 12:15 Bargain Hunt",
+   "Wed 13:00 BBC News at One; Weather",
+   "Wed 13:35 BBC London News; Weather",
+   "Wed 13:45 BBC News at One; Weather",
+   "Wed 14:00 Scam Interceptors"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Wed 03:00 Inside the Asylum Camp",
-   "Wed 04:00 Unwind with ITV",
-   "Wed 05:10 Deal or No Deal",
-   "Wed 06:00 Good Morning Britain",
-   "Wed 09:30 Lorraine",
-   "Wed 10:00 This Morning"
+   "Wed 10:00 This Morning",
+   "Wed 12:30 Loose Women",
+   "Wed 13:30 ITV Lunchtime News",
+   "Wed 13:55 ITV News Tyne Tees",
+   "Wed 14:00 New: Dickinson&apos;s Real Deal",
+   "Wed 15:00 Lingo"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Wed 00:00 Live NBA: Pistons @ Spurs",
-   "Wed 04:00 Live NBA: Hornets @ LA Lakers",
-   "Wed 06:00 Live NBA: Hornets @ LA Lakers",
-   "Wed 07:00 Sky Sports Breakfast",
-   "Wed 07:30 Live 1st Test Day 4: SA v BAN",
-   "Wed 10:30 Live ATP Finals: Day 4 Doubles"
+   "Wed 12:00 Live ATP Finals:Alcaraz v Medvedev",
+   "Wed 15:00 Live 1st Test Day 4: SA v BAN",
+   "Wed 16:00 The Transfer Show",
+   "Wed 17:00 Live ATP Finals: Day 4 Doubles",
+   "Wed 18:30 Live ATP Finals: Cobolli v Tiafoe",
+   "Wed 19:00 Live Grand Slam Of Darts Last 16"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Wed 03:00 The Best of Britain 2026",
-   "Wed 03:35 The Best of Hungary 2026",
-   "Wed 04:00 The Best of Australia 2026",
-   "Wed 04:25 The Best of China 2026",
-   "Wed 05:00 The Best of Japan 2026",
-   "Wed 05:15 The Best of Miami 2026"
+   "Wed 10:00 Las Vegas F1 Grand Prix 2025",
+   "Wed 12:15 Weekend Wrapped",
+   "Wed 12:45 Sao Paulo F1 GP Highlights",
+   "Wed 13:45 Ted&apos;s Notebook: Sao Paulo",
+   "Wed 14:15 The Career of Kimi Antonelli",
+   "Wed 14:30 Las Vegas F1 GP Highlights 2023"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Wed 01:00 Live: NBA Basketball",
-   "Wed 04:00 Live: News 4 NY at 11",
-   "Wed 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Wed 05:35 Late Night With Seth Meyers",
-   "Wed 06:34 News 4 NY at 11",
-   "Wed 07:09 NBC Nightly News With Tom Llamas"
+   "Wed 12:00 Today",
+   "Wed 14:00 Today 3rd Hour",
+   "Wed 15:00 Today With Jenna & Sheinelle",
+   "Wed 16:00 Live: News 4 NY at 11AM",
+   "Wed 16:30 New York Live",
+   "Wed 17:00 NBC News Daily"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Wed 02:30 Live: College Basketball",
-   "Wed 04:30 College Basketball Live Scoreboard",
-   "Wed 05:00 Live: College Basketball",
-   "Wed 07:00 Live: SportsCenter",
-   "Wed 08:00 SportsCenter",
-   "Wed 09:00 SportsCenter"
+   "Wed 12:00 Live: SportsCenter",
+   "Wed 13:00 Live: Get Up",
+   "Wed 15:00 Live: First Take",
+   "Wed 17:00 Live: The Pat McAfee Show",
+   "Wed 19:00 Live: College Basketball",
+   "Wed 21:00 College Basketball Live Scoreboard"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Wed 03:00 Live: CNN NewsNight With Abby Phillip",
-   "Wed 04:00 Laura Coates Live",
-   "Wed 05:00 Live: The Story Is With Elex Michaelson",
-   "Wed 06:00 Live: The Story Is With Elex Michaelson",
-   "Wed 07:00 Anderson Cooper 360",
-   "Wed 08:00 CNN NewsNight With Abby Phillip"
+   "Wed 12:00 Live: CNN News Central",
+   "Wed 13:00 Live: CNN News Central",
+   "Wed 14:00 Live: CNN News Central",
+   "Wed 15:00 Live: The Situation Room",
+   "Wed 16:00 Live: The Situation Room",
+   "Wed 17:00 Live: Inside Politics With Dana Bash"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Wed 03:00 KTLA 5 News at 7",
-   "Wed 03:30 L.A. Unscripted",
-   "Wed 04:00 WWE NXT",
-   "Wed 06:00 KTLA 5 News at 10",
-   "Wed 06:45 KTLA 5 Sports Final",
-   "Wed 07:00 KTLA 5 News at 11"
+   "Wed 12:00 KTLA 5 Morning News at 4",
+   "Wed 12:30 KTLA 5 Morning News at 4:30",
+   "Wed 13:00 KTLA 5 Morning News at 5",
+   "Wed 14:00 KTLA 5 Morning News at 6",
+   "Wed 15:00 KTLA 5 Morning News at 7",
+   "Wed 17:00 KTLA 5 Morning News at 9"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Wed 02:45 AI: Probably Nothing to Worry...",
-   "Wed 04:55 Couples Come Dine with Me",
-   "Wed 05:45 Kirstie and Phil&apos;s Love It or...",
-   "Wed 06:40 Cheers",
-   "Wed 07:05 Cheers",
-   "Wed 07:35 The King of Queens"
+   "Wed 11:40 Frasier",
+   "Wed 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Wed 13:05 Channel 4 News Summary",
+   "Wed 13:10 Renovation Nation",
+   "Wed 14:10 Escape to Florida",
+   "Wed 15:10 Countdown"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Wed 02:35 Dave Gorman: Modern Life Is Goodish",
-   "Wed 03:25 Richard Osman&apos;s House of Games",
-   "Wed 04:00 Teleshopping",
-   "Wed 06:00 Teleshopping",
-   "Wed 07:10 Top Gear",
-   "Wed 08:00 Highland Cops"
+   "Wed 12:00 Hairy Bikers&apos; Best of British",
+   "Wed 13:00 Great Canal Journeys",
+   "Wed 14:00 Top Gear",
+   "Wed 15:00 Speed with Guy Martin",
+   "Wed 16:00 Rick Stein: From Venice to Istanbul",
+   "Wed 17:00 Rick Stein: From Venice to Istanbul"
   ]
  },
  "doubleEscaped": 1319,
  "counts": {
   "weakMatches": 1075,
   "sharedIds": 22,
-  "stale": 0,
+  "stale": 2,
   "gaps": 4,
   "overlaps": 0,
   "badTimes": 2,
