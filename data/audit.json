@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18T12:01",
+ "built": "2026-11-18T20:46",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1068,12 +1068,12 @@
  "stale": [
   {
    "ch": "TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 18,
+   "hoursAhead": 9,
    "src": "directv.com"
   },
   {
    "ch": "TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ",
-   "hoursAhead": 14,
+   "hoursAhead": 5,
    "src": "directv.com"
   }
  ],
@@ -1148,84 +1148,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [
-   "Wed 11:15 Homes Under the Hammer",
-   "Wed 12:15 Bargain Hunt",
-   "Wed 13:00 BBC News at One; Weather",
-   "Wed 13:35 BBC London News; Weather",
-   "Wed 13:45 BBC News at One; Weather",
-   "Wed 14:00 Scam Interceptors"
+   "Wed 20:00 Celebrity Race Across the World",
+   "Wed 21:00 MasterChef: The Professionals",
+   "Wed 22:00 BBC News at Ten",
+   "Wed 22:30 BBC London News; Weather",
+   "Wed 22:40 BBC New Comedy Awards",
+   "Wed 23:40 The Famous Finish Line"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Wed 10:00 This Morning",
-   "Wed 12:30 Loose Women",
-   "Wed 13:30 ITV Lunchtime News",
-   "Wed 13:55 ITV News Tyne Tees",
-   "Wed 14:00 New: Dickinson&apos;s Real Deal",
-   "Wed 15:00 Lingo"
+   "Wed 20:30 Coronation Street",
+   "Wed 21:00 New: I&apos;m a Celebrity... Get Me...",
+   "Wed 22:15 ITV News at Ten",
+   "Wed 22:45 ITV News Tyne Tees",
+   "Wed 23:00 New: Peston",
+   "Wed 23:45 The Assembly"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Wed 12:00 Live ATP Finals:Alcaraz v Medvedev",
-   "Wed 15:00 Live 1st Test Day 4: SA v BAN",
-   "Wed 16:00 The Transfer Show",
-   "Wed 17:00 Live ATP Finals: Day 4 Doubles",
-   "Wed 18:30 Live ATP Finals: Cobolli v Tiafoe",
-   "Wed 19:00 Live Grand Slam Of Darts Last 16"
+   "Wed 19:00 Live Grand Slam Of Darts Last 16",
+   "Wed 23:00 Sky Sports News",
+   "Thu 00:00 Live NBA: Bucks @ Heat",
+   "Thu 02:30 Sky Sports News",
+   "Thu 03:00 Sky Sports News",
+   "Thu 04:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Wed 10:00 Las Vegas F1 Grand Prix 2025",
-   "Wed 12:15 Weekend Wrapped",
-   "Wed 12:45 Sao Paulo F1 GP Highlights",
-   "Wed 13:45 Ted&apos;s Notebook: Sao Paulo",
-   "Wed 14:15 The Career of Kimi Antonelli",
-   "Wed 14:30 Las Vegas F1 GP Highlights 2023"
+   "Wed 20:00 Classic F1 Races: US 1981",
+   "Wed 22:15 Las Vegas F1 Grand Prix 2025",
+   "Thu 00:30 Weekend Wrapped",
+   "Thu 01:00 Sao Paulo F1 GP Highlights",
+   "Thu 02:00 New: F1 Drivers&apos; Press Conference",
+   "Thu 02:45 Las Vegas F1 GP Highlights 2025"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Wed 12:00 Today",
-   "Wed 14:00 Today 3rd Hour",
-   "Wed 15:00 Today With Jenna & Sheinelle",
-   "Wed 16:00 Live: News 4 NY at 11AM",
-   "Wed 16:30 New York Live",
-   "Wed 17:00 NBC News Daily"
+   "Wed 20:00 Live: News Zone",
+   "Wed 21:00 Live: News 4 NY at 4",
+   "Wed 21:30 Live: News 4 NY at 4:30",
+   "Wed 22:00 Live: News 4 NY at 5",
+   "Wed 22:30 Live: News 4 NY at 5:30",
+   "Wed 23:00 Live: News 4 NY at 6"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Wed 12:00 Live: SportsCenter",
-   "Wed 13:00 Live: Get Up",
-   "Wed 15:00 Live: First Take",
-   "Wed 17:00 Live: The Pat McAfee Show",
    "Wed 19:00 Live: College Basketball",
-   "Wed 21:00 College Basketball Live Scoreboard"
+   "Wed 21:00 College Basketball Live Scoreboard",
+   "Wed 21:30 Live: College Basketball",
+   "Wed 23:30 Live: NBA Countdown",
+   "Thu 00:00 Live: NBA Basketball",
+   "Thu 02:35 Live: NBA Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Wed 12:00 Live: CNN News Central",
-   "Wed 13:00 Live: CNN News Central",
-   "Wed 14:00 Live: CNN News Central",
-   "Wed 15:00 Live: The Situation Room",
-   "Wed 16:00 Live: The Situation Room",
-   "Wed 17:00 Live: Inside Politics With Dana Bash"
+   "Wed 20:00 Live: CNN News Central",
+   "Wed 21:00 Live: The Arena With Kasie Hunt",
+   "Wed 22:00 Live: The Lead With Jake Tapper",
+   "Wed 23:00 Live: The Lead With Jake Tapper",
+   "Thu 00:00 Live: Erin Burnett OutFront",
+   "Thu 01:00 Live: Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Wed 12:00 KTLA 5 Morning News at 4",
-   "Wed 12:30 KTLA 5 Morning News at 4:30",
-   "Wed 13:00 KTLA 5 Morning News at 5",
-   "Wed 14:00 KTLA 5 Morning News at 6",
-   "Wed 15:00 KTLA 5 Morning News at 7",
-   "Wed 17:00 KTLA 5 Morning News at 9"
+   "Wed 20:00 KTLA 5 News at Noon",
+   "Wed 21:00 KTLA 5 News at 1",
+   "Wed 22:00 Off the Clock",
+   "Wed 23:00 KTLA 5 News at 3",
+   "Thu 00:00 KTLA 5 News at 4",
+   "Thu 01:00 KTLA 5 News at 5"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Wed 11:40 Frasier",
-   "Wed 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Wed 13:05 Channel 4 News Summary",
-   "Wed 13:10 Renovation Nation",
-   "Wed 14:10 Escape to Florida",
-   "Wed 15:10 Countdown"
+   "Wed 20:00 Channel 4 News",
+   "Wed 20:55 New: Rory Peck Awards",
+   "Wed 21:00 New: Location, Location, Location",
+   "Wed 22:00 New: Hunting Alice Bell",
+   "Wed 23:00 New: First Dates",
+   "Thu 00:05 The Great British Bake Off"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Wed 12:00 Hairy Bikers&apos; Best of British",
-   "Wed 13:00 Great Canal Journeys",
-   "Wed 14:00 Top Gear",
-   "Wed 15:00 Speed with Guy Martin",
-   "Wed 16:00 Rick Stein: From Venice to Istanbul",
-   "Wed 17:00 Rick Stein: From Venice to Istanbul"
+   "Wed 20:20 Would I Lie To You?",
+   "Wed 21:00 QI XL",
+   "Wed 22:00 Have I Got a Bit More News for You",
+   "Wed 23:00 Taskmaster",
+   "Thu 00:00 Mock the Week",
+   "Thu 00:40 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1319,
