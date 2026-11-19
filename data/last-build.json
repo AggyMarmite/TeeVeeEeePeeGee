@@ -1,11 +1,11 @@
 {
- "built": "2026-11-18T20:46",
- "channels": 2272,
- "programmes": 171604,
- "noListings": 1,
- "withLogo": 1879,
- "xmlMB": 83.5,
- "gzMB": 10.2,
+ "built": "2026-11-19T02:44",
+ "channels": 2273,
+ "programmes": 201574,
+ "noListings": 31,
+ "withLogo": 1880,
+ "xmlMB": 98.4,
+ "gzMB": 12.9,
  "bySite": {
   "epgshare01.online": [
    1441,
@@ -20,16 +20,16 @@
    0
   ],
   "directv.com": [
-   268,
-   0
+   267,
+   1
   ],
   "tv24.co.uk": [
    59,
-   1
+   3
   ],
   "mytelly.co.uk": [
-   27,
-   0
+   0,
+   27
   ],
   "freeview.co.uk": [
    28,
@@ -40,7 +40,7 @@
    0
   ],
   "player.ee.co.uk": [
-   4,
+   3,
    0
   ],
   "dazn.com": [
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Sky Greats = Sky.Greats.uk",
-     "Nat Geo HD = Nat.Geo.HD.uk",
-     "DMAX+1 = DMAX+1.uk",
-     "Nick Jr+1 = Nick.Jr+1.uk",
-     "Sky HistoryHD = Sky.HistoryHD.uk",
-     "Create and CraftHD = Create.and.CraftHD.uk"
+     "MTV HD = MTV.HD.uk",
+     "WION HD = WION.HD.uk",
+     "Virgin Media Four HD = Virgin.Media.Four.HD.uk",
+     "U and Laughs = U.and.Laughs.uk",
+     "Sky Cinema Hits HD = Sky.Cinema.Hits.HD.uk",
+     "SkySp+ = SkySp+.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Pets TV HD = Pets.TV.HD.us2",
-     "ESPN Deportes HD = ESPN.Deportes.HD.us2",
-     "American Crimes = American.Crimes.us2",
+     "ESPN2 HD = ESPN2.HD.us2",
      "Horror Plus = Horror.Plus.us2",
-     "Zona Futbol = Zona.Futbol.us2",
-     "ION Mystery = ION.Mystery.us2"
+     "[TFC] The Filipino Channel HD = [TFC].The.Filipino.Channel.HD.us2",
+     "AMG TV = AMG.TV.us2",
+     "MagellanTV Now = MagellanTV.Now.us2",
+     "BBC America HD = BBC.America.HD.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WSMV-DT = WSMV-DT.us_locals1",
-     "K25CV-D = K25CV-D.us_locals1",
-     "KXMA-DT = KXMA-DT.us_locals1",
-     "K31LB-D = K31LB-D.us_locals1",
-     "K28JR-D = K28JR-D.us_locals1",
-     "K23CU-D = K23CU-D.us_locals1"
+     "WPTA-DT2 = WPTA-DT2.us_locals1",
+     "WINM-DT = WINM-DT.us_locals1",
+     "WAPK-CD = WAPK-CD.us_locals1",
+     "K22IX-D = K22IX-D.us_locals1",
+     "KCYH-LD = KCYH-LD.us_locals1",
+     "K22JJ-D = K22JJ-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 206
+    "programmes": 205
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 161
+    "programmes": 156
    },
    "UK1": {
     "channels": 31,
     "withListings": 31,
-    "programmes": 1708
+    "programmes": 2180
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15920
+    "programmes": 19593
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 74552
+    "programmes": 88654
    },
    "US_SPORTS1": {
     "channels": 22,

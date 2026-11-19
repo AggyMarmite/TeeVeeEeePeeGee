@@ -19,6 +19,14 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "directv.com|en|ab074342-55eb-4db8-bbe4-f5b15b17e737": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "directv.com|en|cfaf4c6b-fc72-4b3a-af5d-be8074adfbe1": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "directv.com|en|e68a9f77-7585-4b8a-a365-efffe5531d25": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -103,6 +111,10 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|102/cartoon-network": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|1076/eurosport-2": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -111,9 +123,21 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|129/discovery-science": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|13/bbc-one-north-east-cumbria": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|1355/sky-showcase-hd": {
   "reason": "empty",
   "since": "2026-11-17"
+ },
+ "mytelly.co.uk|en|14/bbc-one-north-west": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "mytelly.co.uk|en|1434/eurosport-1-hd": {
   "reason": "empty",
@@ -127,6 +151,22 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|153/discovery-turbo": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|1560/itv1-london-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|16/bbc-one-south-east": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|1606/discovery-history": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|1632/mtv-music": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -139,6 +179,14 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|1663/bbc-one-channel-islands": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|17/bbc-one-south-west": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|1745/eurosport-2-hd": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -146,6 +194,10 @@
  "mytelly.co.uk|en|1762/mtv-live-hd": {
   "reason": "empty",
   "since": "2026-11-17"
+ },
+ "mytelly.co.uk|en|1770/bbc-one-northern-ireland-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "mytelly.co.uk|en|1863/london-live": {
   "reason": "empty",
@@ -155,6 +207,22 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|1930/itvbe-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|1939/sky-sports-box-office-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|2044/itv1-west-country-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|2113/discovery-turbo-1": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|222/sky-showcase": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -163,9 +231,17 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "mytelly.co.uk|en|2353/sky-max-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "mytelly.co.uk|en|2363/bbc-one-channel-islands-hd": {
   "reason": "empty",
   "since": "2026-11-17"
+ },
+ "mytelly.co.uk|en|2366/bbc-one-london-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "mytelly.co.uk|en|2367/bbc-one-north-east-cumbria-hd": {
   "reason": "empty",
@@ -198,6 +274,14 @@
  "mytelly.co.uk|en|49/itv1-london": {
   "reason": "empty",
   "since": "2026-11-17"
+ },
+ "mytelly.co.uk|en|52/bbc-two-england": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|705/cartoon-network-1": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "mytelly.co.uk|en|713/bbc-one-london": {
   "reason": "empty",
@@ -341,7 +425,7 @@
  },
  "tv24.co.uk|en|lfc": {
   "reason": "empty",
-  "since": "2026-11-16"
+  "since": "2026-11-19"
  },
  "tv24.co.uk|en|mtv-music": {
   "reason": "empty",
@@ -353,7 +437,7 @@
  },
  "tv24.co.uk|en|nick-junior": {
   "reason": "empty",
-  "since": "2026-11-16"
+  "since": "2026-11-19"
  },
  "tv24.co.uk|en|sky-2": {
   "reason": "empty",
