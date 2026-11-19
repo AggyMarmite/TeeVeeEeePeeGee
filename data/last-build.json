@@ -1,14 +1,14 @@
 {
- "built": "2026-11-19T02:44",
- "channels": 2273,
- "programmes": 201574,
- "noListings": 31,
- "withLogo": 1880,
- "xmlMB": 98.4,
- "gzMB": 12.9,
+ "built": "2026-11-19T12:00",
+ "channels": 2271,
+ "programmes": 185651,
+ "noListings": 1,
+ "withLogo": 1861,
+ "xmlMB": 90.2,
+ "gzMB": 12,
  "bySite": {
   "epgshare01.online": [
-   1441,
+   1443,
    0
   ],
   "sky.com": [
@@ -20,27 +20,23 @@
    0
   ],
   "directv.com": [
-   267,
-   1
+   268,
+   0
   ],
   "tv24.co.uk": [
-   59,
-   3
-  ],
-  "mytelly.co.uk": [
-   0,
-   27
+   78,
+   1
   ],
   "freeview.co.uk": [
-   28,
+   26,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   5,
+   9,
    0
   ],
   "player.ee.co.uk": [
-   3,
+   7,
    0
   ],
   "dazn.com": [
@@ -53,12 +49,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "MLB Extra Innings HD 6 = MLB.Extra.Innings.HD.6.ca2",
-     "TSN 4 HD = TSN.4.HD.ca2",
-     "Daystar Canada = Daystar.Canada.ca2",
-     "BBC Earth = BBC.Earth.ca2",
-     "Super Écran 4 HD = Super.Écran.4.HD.ca2",
-     "Global Okanagan = Global.Okanagan.ca2"
+     "CBUFT = CBUFT.ca2",
+     "Adult Swim = Adult.Swim.ca2",
+     "CBN Commonwealth Broadcasting Network = CBN.Commonwealth.Broadcasting.Network.ca2",
+     "ATN Star Plus = ATN.Star.Plus.ca2",
+     "Golf Channel = Golf.Channel.ca2",
+     "City Saskatchewan = City.Saskatchewan.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +117,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 205
+    "programmes": 199
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 156
+    "programmes": 151
    },
    "UK1": {
-    "channels": 31,
-    "withListings": 31,
-    "programmes": 2180
+    "channels": 32,
+    "withListings": 32,
+    "programmes": 2024
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19593
+    "programmes": 17914
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 88654
+    "programmes": 79802
    },
    "US_SPORTS1": {
     "channels": 22,

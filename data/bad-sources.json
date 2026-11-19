@@ -3,6 +3,10 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "directv.com|en|1ae636b8-db56-4dc4-84fa-580443bc9bce": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "directv.com|en|23d4fb04-2b56-4a9e-9066-47022a5e164f": {
   "reason": "empty",
   "since": "2026-11-17"
@@ -102,6 +106,10 @@
  "epgshare01.online|en|US_LOCALS1#WEAU-LD.us_locals1": {
   "reason": "notice",
   "since": "2026-11-11"
+ },
+ "freeview.co.uk|en|64257#15584": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "freeview.co.uk|en|64257#16406": {
   "reason": "empty",
@@ -423,6 +431,10 @@
   "reason": "empty",
   "since": "2026-11-17"
  },
+ "tv24.co.uk|en|itvbe-hd": {
+  "reason": "empty",
+  "since": "2026-11-19"
+ },
  "tv24.co.uk|en|lfc": {
   "reason": "empty",
   "since": "2026-11-19"
@@ -450,6 +462,10 @@
  "tv24.co.uk|en|sky-max-hd": {
   "reason": "empty",
   "since": "2026-11-18"
+ },
+ "tv24.co.uk|en|sky-max-sd": {
+  "reason": "empty",
+  "since": "2026-11-19"
  },
  "tv24.co.uk|en|sky-sport-news": {
   "reason": "foreign",
