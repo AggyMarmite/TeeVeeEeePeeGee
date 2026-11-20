@@ -1,47 +1,51 @@
 {
- "built": "2026-11-19T20:52",
- "channels": 2271,
- "programmes": 165173,
- "noListings": 1,
- "withLogo": 1861,
- "xmlMB": 80.4,
- "gzMB": 10.8,
+ "built": "2026-11-20T02:28",
+ "channels": 2300,
+ "programmes": 197157,
+ "noListings": 64,
+ "withLogo": 1884,
+ "xmlMB": 95.9,
+ "gzMB": 13.7,
  "bySite": {
   "epgshare01.online": [
-   1443,
-   0
+   1445,
+   12
   ],
   "sky.com": [
-   400,
-   0
+   393,
+   6
   ],
   "tvinsider.com": [
    30,
    0
   ],
   "directv.com": [
-   268,
-   0
+   266,
+   3
+  ],
+  "mytelly.co.uk": [
+   23,
+   7
   ],
   "tv24.co.uk": [
-   78,
-   1
+   49,
+   34
   ],
   "freeview.co.uk": [
-   26,
-   0
+   23,
+   1
   ],
   "virgintvgo.virginmedia.com": [
-   9,
+   4,
    0
   ],
   "player.ee.co.uk": [
-   7,
+   3,
    0
   ],
   "dazn.com": [
-   9,
-   0
+   0,
+   1
   ]
  },
  "epgshare": {
@@ -71,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "MTV HD = MTV.HD.uk",
-     "WION HD = WION.HD.uk",
-     "Virgin Media Four HD = Virgin.Media.Four.HD.uk",
-     "U and Laughs = U.and.Laughs.uk",
-     "Sky Cinema Hits HD = Sky.Cinema.Hits.HD.uk",
-     "SkySp+ = SkySp+.uk"
+     "Sky History+1 = Sky.History+1.uk",
+     "Ahlulbayt TV = Ahlulbayt.TV.uk",
+     "A1TV = A1TV.uk",
+     "Kanshi TV = Kanshi.TV.uk",
+     "Khushkhabri = Khushkhabri.uk",
+     "Sky Cinema Select = Sky.Cinema.Select.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "ESPN2 HD = ESPN2.HD.us2",
-     "Horror Plus = Horror.Plus.us2",
-     "[TFC] The Filipino Channel HD = [TFC].The.Filipino.Channel.HD.us2",
-     "AMG TV = AMG.TV.us2",
-     "MagellanTV Now = MagellanTV.Now.us2",
-     "BBC America HD = BBC.America.HD.us2"
+     "Movie Hub = Movie.Hub.us2",
+     "News 12 New Jersey = News.12.New.Jersey.us2",
+     "Spectrum News 1 - (Kentucky) Lexington = Spectrum.News.1.-.(Kentucky).Lexington.us2",
+     "Justice Central HD = Justice.Central.HD.us2",
+     "i-CABLE News = i-CABLE.News.us2",
+     "NBC East Stream = NBC.East.Stream.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WPTA-DT2 = WPTA-DT2.us_locals1",
-     "WINM-DT = WINM-DT.us_locals1",
-     "WAPK-CD = WAPK-CD.us_locals1",
-     "K22IX-D = K22IX-D.us_locals1",
-     "KCYH-LD = KCYH-LD.us_locals1",
-     "K22JJ-D = K22JJ-D.us_locals1"
+     "KXXV-DT = KXXV-DT.us_locals1",
+     "WENH-DT = WENH-DT.us_locals1",
+     "WBNX-DT = WBNX-DT.us_locals1",
+     "K47CY-D = K47CY-D.us_locals1",
+     "WYYW-CD = WYYW-CD.us_locals1",
+     "KSWB-DT = KSWB-DT.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -117,27 +121,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 194
+    "programmes": 192
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 152
+    "programmes": 143
    },
    "UK1": {
-    "channels": 32,
-    "withListings": 32,
-    "programmes": 1754
+    "channels": 43,
+    "withListings": 31,
+    "programmes": 2246
    },
    "US2": {
-    "channels": 225,
-    "withListings": 225,
-    "programmes": 15666
+    "channels": 226,
+    "withListings": 226,
+    "programmes": 19325
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 70156
+    "programmes": 86142
    },
    "US_SPORTS1": {
     "channels": 22,
