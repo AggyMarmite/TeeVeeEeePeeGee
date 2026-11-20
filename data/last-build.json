@@ -1,19 +1,19 @@
 {
- "built": "2026-11-20T02:28",
- "channels": 2300,
- "programmes": 197157,
- "noListings": 64,
- "withLogo": 1884,
- "xmlMB": 95.9,
- "gzMB": 13.7,
+ "built": "2026-11-20T11:59",
+ "channels": 2285,
+ "programmes": 179353,
+ "noListings": 54,
+ "withLogo": 1889,
+ "xmlMB": 87.4,
+ "gzMB": 12.6,
  "bySite": {
   "epgshare01.online": [
-   1445,
-   12
+   1446,
+   0
   ],
   "sky.com": [
-   393,
-   6
+   394,
+   0
   ],
   "tvinsider.com": [
    30,
@@ -21,31 +21,27 @@
   ],
   "directv.com": [
    266,
-   3
+   0
   ],
   "mytelly.co.uk": [
-   23,
-   7
+   0,
+   43
   ],
   "tv24.co.uk": [
-   49,
-   34
+   62,
+   2
   ],
   "freeview.co.uk": [
-   23,
-   1
+   25,
+   0
   ],
   "virgintvgo.virginmedia.com": [
-   4,
-   0
+   5,
+   9
   ],
   "player.ee.co.uk": [
    3,
    0
-  ],
-  "dazn.com": [
-   0,
-   1
   ]
  },
  "epgshare": {
@@ -53,12 +49,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "CBUFT = CBUFT.ca2",
-     "Adult Swim = Adult.Swim.ca2",
-     "CBN Commonwealth Broadcasting Network = CBN.Commonwealth.Broadcasting.Network.ca2",
-     "ATN Star Plus = ATN.Star.Plus.ca2",
-     "Golf Channel = Golf.Channel.ca2",
-     "City Saskatchewan = City.Saskatchewan.ca2"
+     "CTV Two - Atlantic = CTV.Two.-.Atlantic.ca2",
+     "CKSH-DT = CKSH-DT.ca2",
+     "CTV Calgary = CTV.Calgary.ca2",
+     "Fairchild (Vancouver) VCHILD = Fairchild.(Vancouver).VCHILD.ca2",
+     "CHET-TV = CHET-TV.ca2",
+     "[CPACF] Cable Public Affairs Channel (French) = [CPACF].Cable.Public.Affairs.Channel.(French).ca2"
     ]
    },
    "IE1": {
@@ -121,27 +117,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 192
+    "programmes": 185
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 143
+    "programmes": 135
    },
    "UK1": {
-    "channels": 43,
-    "withListings": 31,
-    "programmes": 2246
+    "channels": 32,
+    "withListings": 32,
+    "programmes": 2052
    },
    "US2": {
     "channels": 226,
     "withListings": 226,
-    "programmes": 19325
+    "programmes": 17809
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 86142
+    "programmes": 77694
    },
    "US_SPORTS1": {
     "channels": 22,

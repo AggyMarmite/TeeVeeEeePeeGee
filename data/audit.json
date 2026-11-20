@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T02:28",
+ "built": "2026-11-20T11:59",
  "weakMatches": [
   {
    "ch": "US| KTLA LOS ANGELES HD",
@@ -1068,17 +1068,17 @@
  "stale": [
   {
    "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 8,
+   "hoursAhead": -1,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 8,
+   "hoursAhead": -1,
    "src": "epgshare01.online"
   },
   {
    "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 8,
+   "hoursAhead": -1,
    "src": "epgshare01.online"
   }
  ],
@@ -1102,11 +1102,6 @@
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| RTE JR",
-   "hours": 12,
-   "src": "mytelly.co.uk"
   },
   {
    "ch": "UK| SKY SPORTS BOX OFFICE HD",
@@ -1135,11 +1130,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1402,
+   "+0000": 1403,
    "-0500": 32
   },
   "sky.com": {
-   "+0000": 351
+   "+0000": 352
   },
   "directv.com": {
    "+0000": 266
@@ -1147,110 +1142,100 @@
   "tvinsider.com": {
    "+0000": 28
   },
-  "mytelly.co.uk": {
-   "+0000": 23
+  "tv24.co.uk": {
+   "+0000": 54
   },
   "freeview.co.uk": {
-   "+0000": 22
-  },
-  "tv24.co.uk": {
-   "+0000": 41
+   "+0000": 24
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 3
+   "+0000": 4
   },
   "player.ee.co.uk": {
    "+0000": 3
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [
-   "Fri 00:15 BBC News",
-   "Fri 06:00 Breakfast",
-   "Fri 09:30 Morning Live",
-   "Fri 10:45 Dashcam Justice",
-   "Fri 11:15 Homes Under the Hammer",
-   "Fri 12:15 Bargain Hunt"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 01:20 Shop on TV",
-   "Fri 03:00 Jack Reacher",
-   "Fri 05:05 Deal or No Deal",
-   "Fri 06:00 Good Morning Britain",
-   "Fri 09:30 Lorraine",
-   "Fri 10:00 This Morning"
+   "Fri 10:00 This Morning",
+   "Fri 12:30 Loose Women",
+   "Fri 13:30 ITV Lunchtime News",
+   "Fri 13:55 ITV News Tyne Tees",
+   "Fri 14:00 New: Dickinson&apos;s Real Deal",
+   "Fri 15:00 Lingo"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Fri 01:55 Live F1 Academy: Practice",
-   "Fri 02:50 Kimi Antonelli - World Champion",
-   "Fri 03:00 Sky Sports News",
-   "Fri 03:45 Live Las Vegas F1 GP: Practice 2",
-   "Fri 05:25 Live F1 Academy: Qualifying",
-   "Fri 06:15 Live The F1 Show: Las Vegas"
+   "Fri 10:30 Live ATP Finals: Day 6 Doubles",
+   "Fri 12:00 Live ATP Finals: Alcaraz v Cobolli",
+   "Fri 15:00 Live PGA Tour Featured Groups",
+   "Fri 17:00 Live PGA Tour Golf",
+   "Fri 19:00 Live Grand Slam Of Darts Q/Final",
+   "Fri 20:00 Live EFL: Barnsley v Sheff Weds"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Fri 01:55 Live F1 Academy: Practice",
-   "Fri 02:50 Team Principals&apos; Press Conference",
-   "Fri 03:20 An Interview with Pedro Cueto",
-   "Fri 03:35 Kimi Antonelli - World Champion",
-   "Fri 03:45 Live Las Vegas F1 GP: Practice 2",
-   "Fri 05:25 Live F1 Academy: Qualifying"
+   "Fri 11:45 Live Ferrari Challenge Europe",
+   "Fri 12:45 Las Vegas F1 GP: Practice 1",
+   "Fri 14:00 Las Vegas F1 GP: Practice 2",
+   "Fri 15:15 The F1 Show: Las Vegas",
+   "Fri 16:15 Weekend Wrapped",
+   "Fri 16:45 Las Vegas F1 GP: Practice 2"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 02:00 The Traitors",
-   "Fri 03:00 The Tonight Show Starring Jimmy Fallon",
-   "Fri 04:00 Live: News 4 NY at 11",
-   "Fri 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Fri 05:35 Late Night With Seth Meyers",
-   "Fri 06:34 News 4 NY at 11"
+   "Fri 11:00 Today in New York @ 6AM",
+   "Fri 12:00 Today",
+   "Fri 14:00 Today 3rd Hour",
+   "Fri 15:00 Today With Jenna & Sheinelle",
+   "Fri 16:00 Live: News 4 NY at 11AM",
+   "Fri 16:30 New York Live"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 00:30 Live: College Football",
-   "Fri 03:30 College Basketball Live Scoreboard",
-   "Fri 04:00 Live: College Basketball",
-   "Fri 06:00 Live: SportsCenter",
-   "Fri 07:00 Live: SportsCenter",
-   "Fri 08:00 SportsCenter"
+   "Fri 11:00 SportsCenter",
+   "Fri 12:00 Live: SportsCenter",
+   "Fri 13:00 Live: Get Up",
+   "Fri 15:00 Live: First Take",
+   "Fri 17:00 Live: The Pat McAfee Show",
+   "Fri 19:00 Live: Bussin&apos; & Pate On Campus"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 02:00 Live: The Source With Kaitlan Collins",
-   "Fri 03:00 Live: CNN NewsNight With Abby Phillip",
-   "Fri 04:00 Laura Coates Live",
-   "Fri 05:00 Live: The Story Is With Elex Michaelson",
-   "Fri 06:00 Live: The Story Is With Elex Michaelson",
-   "Fri 07:00 Anderson Cooper 360"
+   "Fri 11:00 Live: CNN This Morning",
+   "Fri 12:00 Live: CNN News Central",
+   "Fri 13:00 Live: CNN News Central",
+   "Fri 14:00 Live: CNN News Central",
+   "Fri 15:00 Live: The Situation Room",
+   "Fri 16:00 Live: The Situation Room"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 01:00 Live: NBA Basketball",
-   "Fri 03:30 L.A. Unscripted",
-   "Fri 04:00 Scrabble",
-   "Fri 05:00 Trivial Pursuit",
-   "Fri 06:00 KTLA 5 News at 10",
-   "Fri 06:45 KTLA 5 Sports Final"
+   "Fri 11:30 Judy Justice",
+   "Fri 12:00 KTLA 5 Morning News at 4",
+   "Fri 12:30 KTLA 5 Morning News at 4:30",
+   "Fri 13:00 KTLA 5 Morning News at 5",
+   "Fri 14:00 KTLA 5 Morning News at 6",
+   "Fri 15:00 KTLA 5 Morning News at 7"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 01:50 Peterloo",
-   "Fri 04:25 The Great British Bake Off:...",
-   "Fri 05:05 Come Dine with Me",
-   "Fri 05:45 Kirstie and Phil&apos;s Love It or...",
-   "Fri 06:40 Cheers",
-   "Fri 07:05 Cheers"
+   "Fri 11:40 Frasier",
+   "Fri 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Fri 13:05 Channel 4 News Summary",
+   "Fri 13:10 Renovation Nation",
+   "Fri 14:10 Escape to Florida",
+   "Fri 15:10 Countdown"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 02:00 The Good Place",
-   "Fri 02:35 Dave Gorman: Modern Life Is Goodish",
-   "Fri 03:25 Richard Osman&apos;s House of Games",
-   "Fri 04:00 Teleshopping",
-   "Fri 06:00 Teleshopping",
-   "Fri 07:10 Top Gear"
+   "Fri 11:30 Rick Stein&apos;s Cornwall",
+   "Fri 12:00 Hairy Bikers&apos; Best of British",
+   "Fri 13:00 Great Canal Journeys",
+   "Fri 14:00 Top Gear",
+   "Fri 15:00 Speed with Guy Martin",
+   "Fri 16:00 Rick Stein&apos;s Cornwall"
   ]
  },
  "doubleEscaped": 1318,
  "counts": {
-  "weakMatches": 1063,
+  "weakMatches": 1064,
   "sharedIds": 22,
   "stale": 3,
-  "gaps": 7,
+  "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
