@@ -1,18 +1,18 @@
 {
- "built": "2026-11-20T11:59",
- "channels": 2285,
- "programmes": 179353,
- "noListings": 54,
- "withLogo": 1889,
- "xmlMB": 87.4,
- "gzMB": 12.6,
+ "built": "2026-11-20T20:38",
+ "channels": 2272,
+ "programmes": 180568,
+ "noListings": 1,
+ "withLogo": 1859,
+ "xmlMB": 88.6,
+ "gzMB": 12.8,
  "bySite": {
   "epgshare01.online": [
-   1446,
+   1443,
    0
   ],
   "sky.com": [
-   394,
+   400,
    0
   ],
   "tvinsider.com": [
@@ -20,27 +20,27 @@
    0
   ],
   "directv.com": [
-   266,
+   269,
    0
   ],
-  "mytelly.co.uk": [
-   0,
-   43
-  ],
   "tv24.co.uk": [
-   62,
-   2
+   78,
+   1
   ],
   "freeview.co.uk": [
-   25,
+   26,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   5,
-   9
+   9,
+   0
   ],
   "player.ee.co.uk": [
-   3,
+   7,
+   0
+  ],
+  "dazn.com": [
+   9,
    0
   ]
  },
@@ -93,12 +93,12 @@
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "KXXV-DT = KXXV-DT.us_locals1",
-     "WENH-DT = WENH-DT.us_locals1",
-     "WBNX-DT = WBNX-DT.us_locals1",
-     "K47CY-D = K47CY-D.us_locals1",
-     "WYYW-CD = WYYW-CD.us_locals1",
-     "KSWB-DT = KSWB-DT.us_locals1"
+     "K14OV-D = K14OV-D.us_locals1",
+     "WRDC-DT = WRDC-DT.us_locals1",
+     "KPXD-DT = KPXD-DT.us_locals1",
+     "WRGB-DT = WRGB-DT.us_locals1",
+     "WAUG-LD = WAUG-LD.us_locals1",
+     "KAMU-DT = KAMU-DT.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -117,27 +117,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 185
+    "programmes": 195
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 135
+    "programmes": 137
    },
    "UK1": {
     "channels": 32,
     "withListings": 32,
-    "programmes": 2052
+    "programmes": 1764
    },
    "US2": {
-    "channels": 226,
-    "withListings": 226,
-    "programmes": 17809
+    "channels": 225,
+    "withListings": 225,
+    "programmes": 15479
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 77694
+    "programmes": 84270
    },
    "US_SPORTS1": {
     "channels": 22,

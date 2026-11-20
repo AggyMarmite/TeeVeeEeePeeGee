@@ -1,6 +1,12 @@
 {
- "built": "2026-11-20T11:59",
+ "built": "2026-11-20T20:38",
  "weakMatches": [
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC One HD · tv24.co.uk",
+   "score": 84,
+   "auto": true
+  },
   {
    "ch": "US| KTLA LOS ANGELES HD",
    "src": "KTLA-DT · epgshare01.online US_LOCALS1 US",
@@ -22,6 +28,12 @@
   {
    "ch": "4K| ESPN UHD",
    "src": "ESPN HD · epgshare01.online US2 US",
+   "score": 94,
+   "auto": true
+  },
+  {
+   "ch": "D+| HGTV",
+   "src": "TLC · player.ee.co.uk",
    "score": 94,
    "auto": true
   },
@@ -279,7 +291,7 @@
   },
   {
    "ch": "US| ABC 8 LINCOLN NE (KLKN)",
-   "src": "KLKN-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KLKN-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -429,7 +441,7 @@
   },
   {
    "ch": "US| ABC 8 TULSA OK (KTUL)",
-   "src": "KTUL-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KTUL-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -471,7 +483,7 @@
   },
   {
    "ch": "US| ABC 18 BUTTE MT (KWYB)",
-   "src": "KWYB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -585,7 +597,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
+   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -657,7 +669,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-CD · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -849,7 +861,7 @@
   },
   {
    "ch": "US| ABC 2 ATLANTA GA (WSB)",
-   "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -867,7 +879,7 @@
   },
   {
    "ch": "US| ABC 9 CHARLOTTE NC (WSOC)",
-   "src": "WSOC-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WSOC-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -886,18 +898,6 @@
   {
    "ch": "US| ABC 4 PITTSBURGH PA (WTAE)",
    "src": "WTAE-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
-  },
-  {
-   "ch": "US| ABC 10 ALBANY NY (WTEN)",
-   "src": "WTEN-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
-  },
-  {
-   "ch": "US| ABC 8 NEW HAVEN CT (WTNH)",
-   "src": "WTNH-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   }
@@ -1065,23 +1065,7 @@
    ]
   }
  ],
- "stale": [
-  {
-   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": -1,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": -1,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": -1,
-   "src": "epgshare01.online"
-  }
- ],
+ "stale": [],
  "gaps": [
   {
    "ch": "US| CBS HD",
@@ -1130,111 +1114,121 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1403,
-   "-0500": 32
+   "+0000": 1402,
+   "-0500": 30
   },
   "sky.com": {
-   "+0000": 352
+   "+0000": 358
   },
   "directv.com": {
-   "+0000": 266
+   "+0000": 269
   },
   "tvinsider.com": {
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 54
+   "+0000": 70
   },
   "freeview.co.uk": {
-   "+0000": 24
-  },
-  "virgintvgo.virginmedia.com": {
-   "+0000": 4
+   "+0000": 25
   },
   "player.ee.co.uk": {
-   "+0000": 3
+   "+0000": 7
+  },
+  "virgintvgo.virginmedia.com": {
+   "+0000": 8
+  },
+  "dazn.com": {
+   "+0000": 9
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
+  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
+   "Fri 20:00 Return to Paradise",
+   "Fri 21:00 Have I Got News for You",
+   "Fri 21:30 Bill&apos;s Included",
+   "Fri 22:00 BBC News and Weather",
+   "Fri 22:30 BBC London News",
+   "Fri 22:40 The Graham Norton Show"
+  ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 10:00 This Morning",
-   "Fri 12:30 Loose Women",
-   "Fri 13:30 ITV Lunchtime News",
-   "Fri 13:55 ITV News Tyne Tees",
-   "Fri 14:00 New: Dickinson&apos;s Real Deal",
-   "Fri 15:00 Lingo"
+   "Fri 20:30 Coronation Street",
+   "Fri 21:00 New: I&apos;m a Celebrity... Get Me...",
+   "Fri 22:05 ITV News at Ten",
+   "Fri 22:35 ITV News Tyne Tees",
+   "Fri 22:50 Jack Reacher: Never Go Back",
+   "Sat 00:45 Shop on TV"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Fri 10:30 Live ATP Finals: Day 6 Doubles",
-   "Fri 12:00 Live ATP Finals: Alcaraz v Cobolli",
-   "Fri 15:00 Live PGA Tour Featured Groups",
-   "Fri 17:00 Live PGA Tour Golf",
-   "Fri 19:00 Live Grand Slam Of Darts Q/Final",
-   "Fri 20:00 Live EFL: Barnsley v Sheff Weds"
+   "Fri 20:00 Live EFL: Barnsley v Sheff Weds",
+   "Fri 22:00 Live Grand Slam Of Darts Q/Final",
+   "Fri 23:00 Sky Sports News",
+   "Sat 00:00 Sky Sports News",
+   "Sat 00:15 Live Las Vegas F1 GP: Practice 3",
+   "Sat 01:45 US F1 GP Bitesize Highlights"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Fri 11:45 Live Ferrari Challenge Europe",
-   "Fri 12:45 Las Vegas F1 GP: Practice 1",
-   "Fri 14:00 Las Vegas F1 GP: Practice 2",
-   "Fri 15:15 The F1 Show: Las Vegas",
-   "Fri 16:15 Weekend Wrapped",
-   "Fri 16:45 Las Vegas F1 GP: Practice 2"
+   "Fri 19:30 Las Vegas F1 GP: Practice 2",
+   "Fri 20:45 The F1 Show: Las Vegas",
+   "Fri 21:45 Mexico CIty with Sergio Perez",
+   "Fri 22:00 Las Vegas F1 GP: Practice 2",
+   "Fri 23:15 The F1 Show: Las Vegas",
+   "Sat 00:15 Live Las Vegas F1 GP: Practice 3"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 11:00 Today in New York @ 6AM",
-   "Fri 12:00 Today",
-   "Fri 14:00 Today 3rd Hour",
-   "Fri 15:00 Today With Jenna & Sheinelle",
-   "Fri 16:00 Live: News 4 NY at 11AM",
-   "Fri 16:30 New York Live"
+   "Fri 20:00 Live: News Zone",
+   "Fri 21:00 Live: News 4 NY at 4",
+   "Fri 21:30 Live: News 4 NY at 4:30",
+   "Fri 22:00 Live: News 4 NY at 5",
+   "Fri 22:30 Live: News 4 NY at 5:30",
+   "Fri 23:00 Live: News 4 NY at 6"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 11:00 SportsCenter",
-   "Fri 12:00 Live: SportsCenter",
-   "Fri 13:00 Live: Get Up",
-   "Fri 15:00 Live: First Take",
-   "Fri 17:00 Live: The Pat McAfee Show",
-   "Fri 19:00 Live: Bussin&apos; & Pate On Campus"
+   "Fri 20:00 Live: NBA Today",
+   "Fri 21:00 NFL Live",
+   "Fri 22:00 Live: SportsCenter",
+   "Fri 22:30 Live: Pardon the Interruption",
+   "Fri 23:00 Live: SportsCenter",
+   "Sat 00:00 Live: College Football Countdown"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 11:00 Live: CNN This Morning",
-   "Fri 12:00 Live: CNN News Central",
-   "Fri 13:00 Live: CNN News Central",
-   "Fri 14:00 Live: CNN News Central",
-   "Fri 15:00 Live: The Situation Room",
-   "Fri 16:00 Live: The Situation Room"
+   "Fri 20:00 Live: CNN News Central",
+   "Fri 21:00 Live: The Arena With Kasie Hunt",
+   "Fri 22:00 Live: The Lead With Jake Tapper",
+   "Fri 23:00 Live: The Lead With Jake Tapper",
+   "Sat 00:00 Live: Erin Burnett OutFront",
+   "Sat 01:00 Live: Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 11:30 Judy Justice",
-   "Fri 12:00 KTLA 5 Morning News at 4",
-   "Fri 12:30 KTLA 5 Morning News at 4:30",
-   "Fri 13:00 KTLA 5 Morning News at 5",
-   "Fri 14:00 KTLA 5 Morning News at 6",
-   "Fri 15:00 KTLA 5 Morning News at 7"
+   "Fri 20:00 KTLA 5 News at Noon",
+   "Fri 21:00 KTLA 5 News at 1",
+   "Fri 22:00 Off the Clock",
+   "Fri 23:00 KTLA 5 News at 3",
+   "Sat 00:00 KTLA 5 News at 4",
+   "Sat 01:00 Live: College Football"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 11:40 Frasier",
-   "Fri 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Fri 13:05 Channel 4 News Summary",
-   "Fri 13:10 Renovation Nation",
-   "Fri 14:10 Escape to Florida",
-   "Fri 15:10 Countdown"
+   "Fri 20:30 New: Unreported World",
+   "Fri 21:00 George Clarke&apos;s Building Home",
+   "Fri 22:00 New: Gogglebox",
+   "Fri 23:00 Live: The Last Leg",
+   "Sat 00:05 Sarah Millican: Control Enthusiast",
+   "Sat 01:10 Daddy&apos;s Home"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 11:30 Rick Stein&apos;s Cornwall",
-   "Fri 12:00 Hairy Bikers&apos; Best of British",
-   "Fri 13:00 Great Canal Journeys",
-   "Fri 14:00 Top Gear",
-   "Fri 15:00 Speed with Guy Martin",
-   "Fri 16:00 Rick Stein&apos;s Cornwall"
+   "Fri 20:20 Would I Lie To You?",
+   "Fri 21:00 Guy Martin: Proper Jobs",
+   "Fri 22:00 Have I Got a Bit More News for You",
+   "Fri 23:00 Taskmaster",
+   "Sat 00:00 Mock the Week",
+   "Sat 00:40 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1318,
  "counts": {
-  "weakMatches": 1064,
+  "weakMatches": 1075,
   "sharedIds": 22,
-  "stale": 3,
+  "stale": 0,
   "gaps": 6,
   "overlaps": 0,
   "badTimes": 2,
