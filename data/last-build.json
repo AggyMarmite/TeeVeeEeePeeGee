@@ -1,18 +1,18 @@
 {
- "built": "2026-11-21T11:31",
- "channels": 2342,
- "programmes": 185238,
- "noListings": 32,
- "withLogo": 1898,
- "xmlMB": 90.1,
- "gzMB": 13.2,
+ "built": "2026-11-21T13:10",
+ "channels": 2338,
+ "programmes": 180510,
+ "noListings": 25,
+ "withLogo": 1887,
+ "xmlMB": 87.8,
+ "gzMB": 12.8,
  "bySite": {
   "epgshare01.online": [
-   1444,
-   6
+   1443,
+   3
   ],
   "sky.com": [
-   410,
+   411,
    0
   ],
   "tvinsider.com": [
@@ -24,20 +24,20 @@
    0
   ],
   "tv24.co.uk": [
-   82,
-   10
+   83,
+   15
   ],
   "freeview.co.uk": [
    49,
-   2
+   0
   ],
   "virgintvgo.virginmedia.com": [
-   10,
-   3
+   12,
+   0
   ],
   "mytelly.co.uk": [
    0,
-   11
+   7
   ],
   "player.ee.co.uk": [
    8,
@@ -106,14 +106,14 @@
     ]
    },
    "US_SPORTS1": {
-    "channels": 299,
+    "channels": 297,
     "sample": [
      "MILB - Inland Empire 66ers = MILB-InlandEmpire66ers.us",
      "MILB - Hillsboro Hops = MILB-HillsboroHops.us",
      "MILB - Nashville Sounds = MILB-NashvilleSounds.us",
      "MLB - Minnesota Twins = MLB-MinnesotaTwins.us",
-     "NBA - Orlando Magic = NBA-OrlandoMagic.us",
-     "NHL - Chicago Blackhawks = NHL-ChicagoBlackhawks.us"
+     "NBA - Brooklyn Nets = NBA-BrooklynNets.us",
+     "NHL - St. Louis Blues = NHL-St.LouisBlues.us"
     ]
    }
   },
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 273
+    "programmes": 276
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 125
+    "programmes": 126
    },
    "UK1": {
-    "channels": 38,
-    "withListings": 32,
-    "programmes": 2066
+    "channels": 34,
+    "withListings": 31,
+    "programmes": 1971
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 17840
+    "programmes": 17432
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 78623
+    "programmes": 76092
    },
    "US_SPORTS1": {
     "channels": 22,

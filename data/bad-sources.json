@@ -183,6 +183,10 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "mytelly.co.uk|en|1654/itv1-meridian-hd": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "mytelly.co.uk|en|1663/bbc-one-channel-islands": {
   "reason": "empty",
   "since": "2026-11-19"
@@ -363,6 +367,10 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "tv24.co.uk|en|bt-sport-uhd-4k": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "tv24.co.uk|en|cnn": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -478,6 +486,10 @@
  "tv24.co.uk|en|sky-sports-f1": {
   "reason": "notice",
   "since": "2026-11-11"
+ },
+ "tv24.co.uk|en|talk-tv-hd": {
+  "reason": "empty",
+  "since": "2026-11-21"
  },
  "tv24.co.uk|en|turner-classic-movies": {
   "reason": "notice",

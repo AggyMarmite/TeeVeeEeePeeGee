@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T11:31",
+ "built": "2026-11-21T13:10",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -60,12 +60,6 @@
    "src": "ESPN HD · epgshare01.online US2 US",
    "score": 94,
    "auto": true
-  },
-  {
-   "ch": "UK| EUROSPORT 2 HD",
-   "src": "Eurosport 2HD · virgintvgo.virginmedia.com UK",
-   "score": 79,
-   "auto": false
   },
   {
    "ch": "UK| ITV WALES HD",
@@ -900,6 +894,12 @@
    "src": "WRTV-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
+  },
+  {
+   "ch": "US| ABC 2 ATLANTA GA (WSB)",
+   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
   }
  ],
  "sharedIds": [
@@ -1114,11 +1114,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1403,
+   "+0000": 1402,
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 368
+   "+0000": 369
   },
   "directv.com": {
    "+0000": 268
@@ -1127,13 +1127,13 @@
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 74
+   "+0000": 75
   },
   "freeview.co.uk": {
    "+0000": 48
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 9
+   "+0000": 11
   },
   "player.ee.co.uk": {
    "+0000": 8
@@ -1144,20 +1144,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 11:30 Simply Nigella",
-   "Sat 12:00 Bargain Hunt: Doctors Special",
-   "Sat 12:45 Leon Goretzka: The Football Interview",
    "Sat 13:00 BBC News",
    "Sat 13:15 Money for Nothing",
-   "Sat 14:00 Homes Under the Hammer"
+   "Sat 14:00 Homes Under the Hammer",
+   "Sat 15:00 Escape to the Country",
+   "Sat 15:45 Final Score",
+   "Sat 17:30 BBC News"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 09:35 New: James Martin&apos;s Saturday Morning",
-   "Sat 12:10 New: Clodagh: Cooking at Home",
-   "Sat 12:40 ITV News",
    "Sat 13:00 England v New Zealand: Nations Championship",
    "Sat 16:20 Ireland v South Africa: Nations Championship",
-   "Sat 19:00 ITV Evening News"
+   "Sat 19:00 ITV Evening News",
+   "Sat 19:15 Celebrity Catchphrase",
+   "Sat 20:10 The 1% Club",
+   "Sat 21:15 New: I&apos;m a Celebrity... Get Me"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
    "Sat 11:30 Live EFL: Millwall v QPR",
@@ -1168,65 +1168,65 @@
    "Sun 00:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sat 10:30 Las Vegas F1 GP: Qualifying",
    "Sat 12:30 F1 Academy: Race 1",
    "Sat 13:30 Las Vegas F1 GP: Qualifying",
    "Sat 15:30 Ferrari Challenge: World Final",
    "Sat 16:30 Ferrari Challenge: World Final",
-   "Sat 17:30 The Career of Kimi Antonelli"
+   "Sat 17:30 The Career of Kimi Antonelli",
+   "Sat 17:40 Flying Lap: Las Vegas"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 11:00 Saturday Today in New York",
-   "Sat 12:00 Saturday Today",
    "Sat 13:00 Saturday Today in New York",
    "Sat 13:30 Saturday Today in New York",
    "Sat 14:00 Saturday Today in New York",
-   "Sat 14:30 Open House"
+   "Sat 14:30 Open House",
+   "Sat 15:00 Mutual of Omaha&apos;s Wild Kingdom Protecting the Wild",
+   "Sat 15:30 Earth Odyssey With Dylan Dreyer"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 11:00 SportsCenter",
    "Sat 12:00 Live: SportsCenter",
    "Sat 14:00 Live: College GameDay",
    "Sat 17:00 Live: College Football",
    "Sat 20:00 Live: College Football Scoreboard",
-   "Sat 20:30 Live: College Football"
+   "Sat 20:30 Live: College Football",
+   "Sat 23:30 Live: College Football Scoreboard"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 11:00 CNN This Morning Weekend",
-   "Sat 12:00 CNN Table for Five",
    "Sat 13:00 CNN This Morning Weekend",
    "Sat 14:00 Live: Smerconish",
    "Sat 15:00 CNN Table for Five",
-   "Sat 16:00 The Amanpour Hour"
+   "Sat 16:00 The Amanpour Hour",
+   "Sat 17:00 The Arena: Saturday",
+   "Sat 18:00 CNN Newsroom With Fredricka Whitfield"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 11:31 Paid Programming",
-   "Sat 12:00 American Trends & Lifestyle",
-   "Sat 12:30 Popstar! Today",
    "Sat 13:00 Laura McKenzie&apos;s Traveler",
    "Sat 13:30 California Cooking With Jessica Holmes",
-   "Sat 14:00 KTLA 5 Morning News at 6"
+   "Sat 14:00 KTLA 5 Morning News at 6",
+   "Sat 15:00 KTLA 5 Morning News at 7",
+   "Sat 17:00 Live: CW College Football Countdown",
+   "Sat 17:30 Live: College Football"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 11:10 The Simpsons",
-   "Sat 11:45 The Simpsons",
    "Sat 12:20 F1 Las Vegas GP Qualifying...",
    "Sat 13:50 The Simpsons",
    "Sat 14:20 The Simpsons",
-   "Sat 14:50 Four in a Bed"
+   "Sat 14:50 Four in a Bed",
+   "Sat 15:20 Four in a Bed",
+   "Sat 15:55 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 10:35 Top Gear",
    "Sat 11:40 Top Gear: Nepal Special",
    "Sat 13:15 Would I Lie To You?",
    "Sat 13:55 Would I Lie To You?",
    "Sat 14:35 Would I Lie To You?",
-   "Sat 15:15 Would I Lie To You?"
+   "Sat 15:15 Would I Lie To You?",
+   "Sat 15:55 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1321,
  "counts": {
-  "weakMatches": 1127,
+  "weakMatches": 1124,
   "sharedIds": 22,
   "stale": 0,
   "gaps": 6,
