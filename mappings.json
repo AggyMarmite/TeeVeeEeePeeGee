@@ -7314,6 +7314,9 @@
   "name:UK| SKY REPLAY": {
    "src": "epgshare01.online|en|UK1#Sky.Replay.uk"
   },
+  "name:UK| SKY SHOWCASE": {
+   "src": "mytelly.co.uk|en|222/sky-showcase"
+  },
   "name:UK| SKY SHOWCASE HEVC FHD": {
    "src": "mytelly.co.uk|en|222/sky-showcase"
   },
@@ -8831,6 +8834,9 @@
   "uk.Trace Urban": {
    "src": "tv24.co.uk|en|trace-urban",
    "auto": true
+  },
+  "uk.W": {
+   "src": "sky.com|en|GB#2617"
   },
   "UK| BBC ONE NI": {
    "src": "epgshare01.online|en|UK1#BBC.One.NI.HD.uk",
