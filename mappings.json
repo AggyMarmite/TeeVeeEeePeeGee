@@ -105,9 +105,15 @@
    "src": "tv24.co.uk|en|bbc-two-northern-ireland-hd",
    "auto": true
   },
+  "BBC3CBBC.uk": {
+   "src": "freeview.co.uk|en|64257#4288"
+  },
   "BBC4.uk": {
    "src": "sky.com|en|GB#2086",
    "auto": true
+  },
+  "BBC4CBeebies.uk": {
+   "src": "freeview.co.uk|en|64257#4672"
   },
   "BBCAmerica.us": {
    "src": "epgshare01.online|en|US2#BBC.America.HD.us2",
@@ -550,8 +556,7 @@
    "auto": true
   },
   "HGTV.uk": {
-   "src": "player.ee.co.uk|en|dvb://233a..6d60",
-   "auto": true
+   "src": "epgshare01.online|en|UK1#HGTV.uk"
   },
   "HGTV.us": {
    "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
@@ -621,6 +626,9 @@
    "src": "sky.com|en|GB#1043",
    "auto": true
   },
+  "ITV1Wales.uk": {
+   "src": "sky.com|en|GB#6501"
+  },
   "ITV2.uk": {
    "src": "sky.com|en|GB#6532",
    "auto": true
@@ -648,6 +656,9 @@
   "ITVGranada.uk": {
    "src": "tv24.co.uk|en|itv1-granada",
    "auto": true
+  },
+  "ITVWales.uk": {
+   "src": "sky.com|en|GB#6501"
   },
   "JusticeCentral.us": {
    "src": "epgshare01.online|en|US2#Justice.Central.HD.us2",
@@ -6677,6 +6688,9 @@
    "src": "sky.com|en|GB#2086",
    "auto": true
   },
+  "name:UK| BBC EARTH HD": {
+   "src": "epgshare01.online|en|CA2#BBC.Earth.ca2"
+  },
   "name:UK| BBC NEWS HD": {
    "src": "sky.com|en|GB#2085",
    "auto": true
@@ -6689,13 +6703,22 @@
    "src": "sky.com|en|GB#2085",
    "auto": true
   },
+  "name:UK| BBC ONE CHANNEL ISLAND": {
+   "src": "mytelly.co.uk|en|1663/bbc-one-channel-islands"
+  },
   "name:UK| BBC ONE EAST": {
    "src": "sky.com|en|GB#3006",
    "auto": true
   },
+  "name:UK| BBC ONE EAST W": {
+   "src": "tv24.co.uk|en|bbc-one-east-west-hd-vm"
+  },
   "name:UK| BBC ONE NI HEVC": {
    "src": "epgshare01.online|en|UK1#BBC.One.NI.HD.uk",
    "auto": true
+  },
+  "name:UK| BBC ONE NORTH EAST& CAM": {
+   "src": "mytelly.co.uk|en|13/bbc-one-north-east-cumbria"
   },
   "name:UK| BBC ONE NORTH WEST": {
    "src": "tv24.co.uk|en|bbc-one-north-west-hd",
@@ -6733,6 +6756,9 @@
    "src": "tv24.co.uk|en|bbc-one-west-midlands-hd",
    "auto": true
   },
+  "name:UK| BBC ONE YK LI": {
+   "src": "sky.com|en|GB#3017"
+  },
   "name:UK| BBC ONE YORKS": {
    "src": "epgshare01.online|en|UK1#BBC.One.Yorks.HD.uk",
    "auto": true
@@ -6745,6 +6771,9 @@
    "src": "freeview.co.uk|en|64257#6720",
    "auto": true
   },
+  "name:UK| BBC RADIO 1XTRA": {
+   "src": "freeview.co.uk|en|64257#5888"
+  },
   "name:UK| BBC RADIO 2": {
    "src": "freeview.co.uk|en|64257#6784",
    "auto": true
@@ -6756,6 +6785,12 @@
   "name:UK| BBC RADIO 4": {
    "src": "freeview.co.uk|en|64257#6912",
    "auto": true
+  },
+  "name:UK| BBC RADIO 4 EXTRA": {
+   "src": "freeview.co.uk|en|64257#5824"
+  },
+  "name:UK| BBC RADIO 6 MUSIC": {
+   "src": "sky.com|en|GB#2127"
   },
   "name:UK| BBC TWO NORTHERN IRELAND": {
    "src": "tv24.co.uk|en|bbc-two-northern-ireland-hd",
@@ -6816,6 +6851,9 @@
   "name:UK| CHANNEL 5 +1": {
    "src": "epgshare01.online|en|UK1#Channel.5+1.uk",
    "auto": true
+  },
+  "name:UK| CITV": {
+   "src": "epgshare01.online|en|UK1#CITV.uk"
   },
   "name:UK| CLASSIC FM": {
    "src": "sky.com|en|GB#3470",
@@ -6967,9 +7005,18 @@
    "offset": 1,
    "auto": true
   },
+  "name:UK| ITV +1 GRANADA": {
+   "src": "mytelly.co.uk|en|1627/itv1-granada-1"
+  },
+  "name:UK| ITV +1 LONDON": {
+   "src": "player.ee.co.uk|en|dvb://233a..20a9"
+  },
   "name:UK| ITV 1 +1": {
    "src": "sky.com|en|GB#6145",
    "auto": true
+  },
+  "name:UK| ITV 1 WEST COUNTRY WEST FHD": {
+   "src": "mytelly.co.uk|en|2044/itv1-west-country-hd"
   },
   "name:UK| ITV 2 ᴴᴰ": {
    "src": "sky.com|en|GB#6532",
@@ -7003,9 +7050,15 @@
    "src": "sky.com|en|GB#6274",
    "auto": true
   },
+  "name:UK| ITV BORDER SCOTLAND": {
+   "src": "freeview.co.uk|en|64392#8259"
+  },
   "name:UK| ITV CENTRAL WEST": {
    "src": "tv24.co.uk|en|itv-central-west-hd",
    "auto": true
+  },
+  "name:UK| ITV LONDON": {
+   "src": "player.ee.co.uk|en|dvb://233a..2045"
   },
   "name:UK| ITV MERIDIAN NORTH FHD": {
    "src": "tv24.co.uk|en|itv-meridian-north-hd",
@@ -7015,9 +7068,15 @@
    "src": "tv24.co.uk|en|itv-meridian-south-east-hd",
    "auto": true
   },
+  "name:UK| ITV MERIDIAN WEST": {
+   "src": "mytelly.co.uk|en|42/itv1-meridian"
+  },
   "name:UK| ITV QUIZ HD": {
    "src": "sky.com|en|GB#3026",
    "auto": true
+  },
+  "name:UK| ITV WALES HEVC": {
+   "src": "sky.com|en|GB#6501"
   },
   "name:UK| ITV1 BORDER SCOTLAND FHD": {
    "src": "tv24.co.uk|en|itv1-border-scotland",
@@ -7226,6 +7285,9 @@
    "offset": 1,
    "auto": true
   },
+  "name:UK| SKY REPLAY": {
+   "src": "epgshare01.online|en|UK1#Sky.Replay.uk"
+  },
   "name:UK| SKY SPORT MAIN EVENT": {
    "src": "virgintvgo.virginmedia.com|en|2257",
    "auto": true
@@ -7309,6 +7371,9 @@
   "name:UK| STV NORTH": {
    "src": "epgshare01.online|en|UK1#STV.North.uk",
    "auto": true
+  },
+  "name:UK| TALK TV FHD": {
+   "src": "freeview.co.uk|en|64257#16406"
   },
   "name:UK| TG4 HD": {
    "src": "tv24.co.uk|en|tg4",
@@ -8428,6 +8493,9 @@
    "src": "sky.com|en|GB#5252",
    "auto": true
   },
+  "TalkTV.uk": {
+   "src": "freeview.co.uk|en|64257#16406"
+  },
   "Tastemade.us": {
    "src": "epgshare01.online|en|US2#Tastemade.us2",
    "auto": true
@@ -8670,6 +8738,9 @@
    "src": "tv24.co.uk|en|itv-central-west-hd",
    "offset": 1,
    "auto": true
+  },
+  "uk.ITV Granada": {
+   "src": "tv24.co.uk|en|itv-granada-hd"
   },
   "uk.MTV HD": {
    "src": "sky.com|en|GB#3831",
