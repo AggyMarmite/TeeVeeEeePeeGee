@@ -1,11 +1,11 @@
 {
- "built": "2026-11-21T09:11",
- "channels": 2343,
- "programmes": 191822,
+ "built": "2026-11-21T11:31",
+ "channels": 2342,
+ "programmes": 185238,
  "noListings": 32,
  "withLogo": 1898,
- "xmlMB": 93.3,
- "gzMB": 13.6,
+ "xmlMB": 90.1,
+ "gzMB": 13.2,
  "bySite": {
   "epgshare01.online": [
    1444,
@@ -20,7 +20,7 @@
    0
   ],
   "directv.com": [
-   269,
+   268,
    0
   ],
   "tv24.co.uk": [
@@ -121,7 +121,7 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 261
+    "programmes": 273
    },
    "IE1": {
     "channels": 2,
@@ -131,17 +131,17 @@
    "UK1": {
     "channels": 38,
     "withListings": 32,
-    "programmes": 2116
+    "programmes": 2066
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 18378
+    "programmes": 17840
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 80912
+    "programmes": 78623
    },
    "US_SPORTS1": {
     "channels": 22,

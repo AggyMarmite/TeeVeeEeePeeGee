@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T09:11",
+ "built": "2026-11-21T11:31",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -1121,7 +1121,7 @@
    "+0000": 368
   },
   "directv.com": {
-   "+0000": 269
+   "+0000": 268
   },
   "tvinsider.com": {
    "+0000": 28
@@ -1144,84 +1144,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 06:00 Breakfast",
-   "Sat 10:00 Saturday Kitchen Live",
    "Sat 11:30 Simply Nigella",
    "Sat 12:00 Bargain Hunt: Doctors Special",
    "Sat 12:45 Leon Goretzka: The Football Interview",
-   "Sat 13:00 BBC News"
+   "Sat 13:00 BBC News",
+   "Sat 13:15 Money for Nothing",
+   "Sat 14:00 Homes Under the Hammer"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 07:30 Love Your Weekend with Alan Titchmarsh",
-   "Sat 09:25 ITV News",
    "Sat 09:35 New: James Martin&apos;s Saturday Morning",
    "Sat 12:10 New: Clodagh: Cooking at Home",
    "Sat 12:40 ITV News",
-   "Sat 13:00 England v New Zealand: Nations Championship"
+   "Sat 13:00 England v New Zealand: Nations Championship",
+   "Sat 16:20 Ireland v South Africa: Nations Championship",
+   "Sat 19:00 ITV Evening News"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 08:00 Las Vegas F1 GP: Qualifying",
-   "Sat 10:00 Premier League Weekend Live",
    "Sat 11:30 Live EFL: Millwall v QPR",
    "Sat 15:00 Soccer Saturday Live Scores",
    "Sat 17:00 Live SNF: Newcastle v Arsenal",
-   "Sat 20:00 Live Grand Slam Of Darts Q/Final"
+   "Sat 20:00 Live Grand Slam Of Darts Q/Final",
+   "Sat 23:00 Sky Sports News",
+   "Sun 00:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sat 09:00 US F1 GP Bitesize Highlights",
-   "Sat 09:15 Las Vegas F1 GP: Practice 3",
    "Sat 10:30 Las Vegas F1 GP: Qualifying",
    "Sat 12:30 F1 Academy: Race 1",
    "Sat 13:30 Las Vegas F1 GP: Qualifying",
-   "Sat 15:30 Ferrari Challenge: World Final"
+   "Sat 15:30 Ferrari Challenge: World Final",
+   "Sat 16:30 Ferrari Challenge: World Final",
+   "Sat 17:30 The Career of Kimi Antonelli"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 09:00 1st Look",
-   "Sat 09:30 Cindy Crawford talks about the latest breakthroughs in skincare",
-   "Sat 10:00 Open House Outrageous",
-   "Sat 10:30 Open House NYC",
    "Sat 11:00 Saturday Today in New York",
-   "Sat 12:00 Saturday Today"
+   "Sat 12:00 Saturday Today",
+   "Sat 13:00 Saturday Today in New York",
+   "Sat 13:30 Saturday Today in New York",
+   "Sat 14:00 Saturday Today in New York",
+   "Sat 14:30 Open House"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 09:00 SportsCenter",
-   "Sat 10:00 SportsCenter",
    "Sat 11:00 SportsCenter",
    "Sat 12:00 Live: SportsCenter",
    "Sat 14:00 Live: College GameDay",
-   "Sat 17:00 Live: College Football"
+   "Sat 17:00 Live: College Football",
+   "Sat 20:00 Live: College Football Scoreboard",
+   "Sat 20:30 Live: College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 09:00 Anderson Cooper 360",
-   "Sat 10:00 CNN Newsroom Live",
    "Sat 11:00 CNN This Morning Weekend",
    "Sat 12:00 CNN Table for Five",
    "Sat 13:00 CNN This Morning Weekend",
-   "Sat 14:00 Live: Smerconish"
+   "Sat 14:00 Live: Smerconish",
+   "Sat 15:00 CNN Table for Five",
+   "Sat 16:00 The Amanpour Hour"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 09:05 The Big Bang Theory",
-   "Sat 09:35 Two and a Half Men",
-   "Sat 10:05 Scrabble",
-   "Sat 10:35 Trivial Pursuit",
-   "Sat 11:01 The Aging Brain",
-   "Sat 11:31 Paid Programming"
+   "Sat 11:31 Paid Programming",
+   "Sat 12:00 American Trends & Lifestyle",
+   "Sat 12:30 Popstar! Today",
+   "Sat 13:00 Laura McKenzie&apos;s Traveler",
+   "Sat 13:30 California Cooking With Jessica Holmes",
+   "Sat 14:00 KTLA 5 Morning News at 6"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 08:50 Everybody Loves Raymond",
-   "Sat 09:15 Everybody Loves Raymond",
-   "Sat 09:40 Everybody Loves Raymond",
-   "Sat 10:10 Frasier",
-   "Sat 10:40 Frasier",
-   "Sat 11:10 The Simpsons"
+   "Sat 11:10 The Simpsons",
+   "Sat 11:45 The Simpsons",
+   "Sat 12:20 F1 Las Vegas GP Qualifying...",
+   "Sat 13:50 The Simpsons",
+   "Sat 14:20 The Simpsons",
+   "Sat 14:50 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 08:35 Train Rescue Down Under",
-   "Sat 09:35 Train Rescue Down Under",
    "Sat 10:35 Top Gear",
    "Sat 11:40 Top Gear: Nepal Special",
    "Sat 13:15 Would I Lie To You?",
-   "Sat 13:55 Would I Lie To You?"
+   "Sat 13:55 Would I Lie To You?",
+   "Sat 14:35 Would I Lie To You?",
+   "Sat 15:15 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1321,
