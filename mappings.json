@@ -437,7 +437,7 @@
    "auto": true
   },
   "Eurosport 2 HD.uk": {
-   "src": "virgintvgo.virginmedia.com|en|2085"
+   "src": "tv24.co.uk|en|eurosport-2-hd"
   },
   "FaithTV.us": {
    "src": "sky.com|en|GB#4404",
@@ -568,7 +568,7 @@
    "auto": true
   },
   "HGTV.uk": {
-   "src": "epgshare01.online|en|UK1#HGTV.uk"
+   "src": "tv24.co.uk|en|hgtv"
   },
   "HGTV.us": {
    "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
@@ -6193,7 +6193,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE EAST YORKSHIRE & LINCOLNSHIRE": {
-   "src": "tv24.co.uk|en|bbc-one-yorkshireincolnshire-hd-l"
+   "src": "mytelly.co.uk|en|2375/bbc-one-yorkshire-lincolnshire-hd"
   },
   "name:UK-BBCI| BBC ONE LONDON": {
    "src": "player.ee.co.uk|en|dvb://233a..1044",
@@ -6359,13 +6359,13 @@
    "auto": true
   },
   "name:UK-BBCI| BBC RED BUTTON 4": {
-   "src": "tv24.co.uk|en|bbc-red-button-4"
+   "src": null
   },
   "name:UK-BBCI| BBC RED BUTTON 5": {
-   "src": "tv24.co.uk|en|bbc-red-button-5"
+   "src": null
   },
   "name:UK-BBCI| BBC RED BUTTON 6": {
-   "src": "tv24.co.uk|en|bbc-red-button-6"
+   "src": null
   },
   "name:UK-BBCI| BBC RED BUTTON 7": {
    "src": null
@@ -6781,21 +6781,21 @@
    "auto": true
   },
   "name:UK| BBC ONE CHANNEL ISLAND": {
-   "src": "mytelly.co.uk|en|1663/bbc-one-channel-islands"
+   "src": null
   },
   "name:UK| BBC ONE EAST": {
    "src": "sky.com|en|GB#3006",
    "auto": true
   },
   "name:UK| BBC ONE EAST W": {
-   "src": "tv24.co.uk|en|bbc-one-east-west-hd-vm"
+   "src": null
   },
   "name:UK| BBC ONE NI HEVC": {
    "src": "epgshare01.online|en|UK1#BBC.One.NI.HD.uk",
    "auto": true
   },
   "name:UK| BBC ONE NORTH EAST& CAM": {
-   "src": "mytelly.co.uk|en|13/bbc-one-north-east-cumbria"
+   "src": null
   },
   "name:UK| BBC ONE NORTH WEST": {
    "src": "tv24.co.uk|en|bbc-one-north-west-hd",
@@ -6982,7 +6982,7 @@
    "auto": true
   },
   "name:UK| EARTHX TV": {
-   "src": "epgshare01.online|en|UK1#EarthxTV.HD.uk"
+   "src": "tv24.co.uk|en|earth-x-tv-europe"
   },
   "name:UK| EDEN +1": {
    "src": "sky.com|en|GB#2307",
@@ -7092,7 +7092,8 @@
    "auto": true
   },
   "name:UK| ITV +1 GRANADA": {
-   "src": "mytelly.co.uk|en|1627/itv1-granada-1"
+   "src": "tv24.co.uk|en|itv-granada-hd",
+   "offset": 1
   },
   "name:UK| ITV +1 LONDON": {
    "src": "player.ee.co.uk|en|dvb://233a..20a9"
@@ -7102,7 +7103,7 @@
    "auto": true
   },
   "name:UK| ITV 1 WEST COUNTRY WEST FHD": {
-   "src": "mytelly.co.uk|en|2044/itv1-west-country-hd"
+   "src": "mytelly.co.uk|en|48/itv1-west-country"
   },
   "name:UK| ITV 2 ᴴᴰ": {
    "src": "sky.com|en|GB#6532",
@@ -7155,7 +7156,7 @@
    "auto": true
   },
   "name:UK| ITV MERIDIAN WEST": {
-   "src": "mytelly.co.uk|en|42/itv1-meridian"
+   "src": "mytelly.co.uk|en|1654/itv1-meridian-hd"
   },
   "name:UK| ITV QUIZ HD": {
    "src": "sky.com|en|GB#3026",
@@ -7209,10 +7210,10 @@
    "auto": true
   },
   "name:UK| MTV LIVE FHD": {
-   "src": "mytelly.co.uk|en|1762/mtv-live-hd"
+   "src": "tv24.co.uk|en|mtvive-hd-1-l"
   },
   "name:UK| MTV MUSIC": {
-   "src": "mytelly.co.uk|en|1632/mtv-music"
+   "src": "tv24.co.uk|en|mtv-music"
   },
   "name:UK| MUTV HEVC FHD": {
    "src": "sky.com|en|GB#1003",
@@ -7398,13 +7399,13 @@
    "auto": true
   },
   "name:UK| SKY REPLAY": {
-   "src": "epgshare01.online|en|UK1#Sky.Replay.uk"
+   "src": "mytelly.co.uk|en|919/sky-replay"
   },
   "name:UK| SKY SHOWCASE": {
-   "src": "mytelly.co.uk|en|222/sky-showcase"
+   "src": "mytelly.co.uk|en|1355/sky-showcase-hd"
   },
   "name:UK| SKY SHOWCASE HEVC FHD": {
-   "src": "mytelly.co.uk|en|222/sky-showcase"
+   "src": "mytelly.co.uk|en|1355/sky-showcase-hd"
   },
   "name:UK| SKY SPORT MAIN EVENT": {
    "src": "virgintvgo.virginmedia.com|en|2257",
@@ -7494,7 +7495,7 @@
    "auto": true
   },
   "name:UK| TALK TV FHD": {
-   "src": "freeview.co.uk|en|64257#16406"
+   "src": "tv24.co.uk|en|talk-tv-hd"
   },
   "name:UK| TG4 HD": {
    "src": "tv24.co.uk|en|tg4",
@@ -7565,7 +7566,7 @@
    "auto": true
   },
   "name:UK| VIAPLAY XTRA HD": {
-   "src": "tv24.co.uk|en|freesports-hd"
+   "src": "tv24.co.uk|en|free-sports"
   },
   "name:UK| VIRGIN 1 HEVC FHD": {
    "src": "sky.com|en|GB#3881",
@@ -8526,7 +8527,7 @@
    "auto": true
   },
   "SkyShowcase.uk": {
-   "src": "mytelly.co.uk|en|222/sky-showcase"
+   "src": "mytelly.co.uk|en|1355/sky-showcase-hd"
   },
   "SkySportsAction.uk": {
    "src": "sky.com|en|GB#1703",
@@ -8621,7 +8622,7 @@
    "auto": true
   },
   "TalkTV.uk": {
-   "src": "freeview.co.uk|en|64257#16406"
+   "src": "tv24.co.uk|en|talk-tv-hd"
   },
   "Tastemade.us": {
    "src": "epgshare01.online|en|US2#Tastemade.us2",
@@ -8854,13 +8855,13 @@
    "auto": true
   },
   "uk.Eurosport 1": {
-   "src": "virgintvgo.virginmedia.com|en|2084"
+   "src": "tv24.co.uk|en|eurosport-1-hd-1"
   },
   "uk.Eurosport 2": {
    "src": "tv24.co.uk|en|eurosport-2"
   },
   "uk.Eurosport 2 HD": {
-   "src": "virgintvgo.virginmedia.com|en|2085"
+   "src": "tv24.co.uk|en|eurosport-2-hd"
   },
   "uk.GOLD HD": {
    "src": "sky.com|en|GB#6513",
@@ -8876,7 +8877,7 @@
    "auto": true
   },
   "uk.ITV Granada": {
-   "src": "tv24.co.uk|en|itv-granada-hd"
+   "src": "tv24.co.uk|en|itv1-granada"
   },
   "uk.MTV HD": {
    "src": "sky.com|en|GB#3831",
