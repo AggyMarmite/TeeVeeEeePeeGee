@@ -7128,6 +7128,12 @@
    "src": "sky.com|en|GB#3831",
    "auto": true
   },
+  "name:UK| MTV LIVE FHD": {
+   "src": "mytelly.co.uk|en|1762/mtv-live-hd"
+  },
+  "name:UK| MTV MUSIC": {
+   "src": "mytelly.co.uk|en|1632/mtv-music"
+  },
   "name:UK| MUTV HEVC FHD": {
    "src": "sky.com|en|GB#1003",
    "auto": true
