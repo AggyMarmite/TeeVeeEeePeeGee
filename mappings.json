@@ -6196,6 +6196,9 @@
    "src": "tv24.co.uk|en|bbc-one-east-midlands-hd",
    "auto": true
   },
+  "name:UK-BBCI| BBC ONE EAST YORKSHIRE & LINCOLNSHIRE": {
+   "src": "tv24.co.uk|en|bbc-one-yorkshireincolnshire-hd-l"
+  },
   "name:UK-BBCI| BBC ONE LONDON": {
    "src": "player.ee.co.uk|en|dvb://233a..1044",
    "auto": true
@@ -6276,13 +6279,61 @@
    "src": "freeview.co.uk|en|64424#6397",
    "auto": true
   },
+  "name:UK-BBCI| BBC RADIO GLOUCESTERSHIRE": {
+   "src": "freeview.co.uk|en|64297#6209"
+  },
+  "name:UK-BBCI| BBC RADIO GUERNSEY": {
+   "src": "freeview.co.uk|en|64334#6158"
+  },
+  "name:UK-BBCI| BBC RADIO LANCASHIRE": {
+   "src": "freeview.co.uk|en|64376#6216"
+  },
+  "name:UK-BBCI| BBC RADIO LEICESTER": {
+   "src": "freeview.co.uk|en|64342#6278"
+  },
+  "name:UK-BBCI| BBC RADIO LINCOLNSHIRE": {
+   "src": "freeview.co.uk|en|64342#6159"
+  },
   "name:UK-BBCI| BBC RADIO LONDON": {
    "src": "freeview.co.uk|en|64257#6148",
    "auto": true
   },
+  "name:UK-BBCI| BBC RADIO MANCHESTER": {
+   "src": "freeview.co.uk|en|64376#6152"
+  },
+  "name:UK-BBCI| BBC RADIO MERSEYSIDE": {
+   "src": "freeview.co.uk|en|64376#6280"
+  },
+  "name:UK-BBCI| BBC RADIO NAN GAIDHEAL": {
+   "src": "freeview.co.uk|en|64392#6268"
+  },
+  "name:UK-BBCI| BBC RADIO NEWCASTLE": {
+   "src": "freeview.co.uk|en|64368#6153"
+  },
+  "name:UK-BBCI| BBC RADIO NOTTINGHAM": {
+   "src": "freeview.co.uk|en|64342#6150"
+  },
+  "name:UK-BBCI| BBC RADIO SCOTLAND FM": {
+   "src": "freeview.co.uk|en|64392#6204"
+  },
+  "name:UK-BBCI| BBC RADIO SHEFFIELD": {
+   "src": "freeview.co.uk|en|64352#6218"
+  },
+  "name:UK-BBCI| BBC RADIO SHROPSHIRE": {
+   "src": "freeview.co.uk|en|64336#6341"
+  },
+  "name:UK-BBCI| BBC RADIO SOLENT WEST DORSET": {
+   "src": "freeview.co.uk|en|64265#6211"
+  },
+  "name:UK-BBCI| BBC RADIO SOMERSET": {
+   "src": "freeview.co.uk|en|64320#6337"
+  },
   "name:UK-BBCI| BBC RADIO SUSSEX": {
    "src": "epgshare01.online|en|UK1#BBC.Radio.Sussex.uk",
    "auto": true
+  },
+  "name:UK-BBCI| BBC RADIO THREE COUNTIES": {
+   "src": "freeview.co.uk|en|64257#6157"
   },
   "name:UK-BBCI| BBC RADIO ULSTER": {
    "src": "freeview.co.uk|en|64424#6333",
@@ -6291,6 +6342,9 @@
   "name:UK-BBCI| BBC RADIO WALES": {
    "src": "freeview.co.uk|en|64416#6462",
    "auto": true
+  },
+  "name:UK-BBCI| BBC RADIO WILTSHIRE": {
+   "src": "freeview.co.uk|en|64265#6273"
   },
   "name:UK-BBCI| BBC RED BUTTON": {
    "src": "freeview.co.uk|en|64257#4416",
@@ -6307,6 +6361,21 @@
   "name:UK-BBCI| BBC RED BUTTON 3": {
    "src": "tv24.co.uk|en|bbc-red-button-3",
    "auto": true
+  },
+  "name:UK-BBCI| BBC RED BUTTON 4": {
+   "src": "tv24.co.uk|en|bbc-red-button-4"
+  },
+  "name:UK-BBCI| BBC RED BUTTON 5": {
+   "src": "tv24.co.uk|en|bbc-red-button-5"
+  },
+  "name:UK-BBCI| BBC RED BUTTON 6": {
+   "src": "tv24.co.uk|en|bbc-red-button-6"
+  },
+  "name:UK-BBCI| BBC RED BUTTON 7": {
+   "src": null
+  },
+  "name:UK-BBCI| BBC RED BUTTON 8": {
+   "src": null
   },
   "name:UK-BBCI| BBC SCOTLAND": {
    "src": "sky.com|en|GB#1138",
