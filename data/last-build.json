@@ -1,18 +1,18 @@
 {
- "built": "2026-11-21T02:37",
- "channels": 2272,
- "programmes": 199115,
- "noListings": 1,
- "withLogo": 1861,
- "xmlMB": 97,
- "gzMB": 14.1,
+ "built": "2026-11-21T09:11",
+ "channels": 2343,
+ "programmes": 191822,
+ "noListings": 32,
+ "withLogo": 1898,
+ "xmlMB": 93.3,
+ "gzMB": 13.6,
  "bySite": {
   "epgshare01.online": [
-   1443,
-   0
+   1444,
+   6
   ],
   "sky.com": [
-   400,
+   410,
    0
   ],
   "tvinsider.com": [
@@ -24,19 +24,23 @@
    0
   ],
   "tv24.co.uk": [
-   78,
-   1
+   82,
+   10
   ],
   "freeview.co.uk": [
-   26,
-   0
+   49,
+   2
   ],
   "virgintvgo.virginmedia.com": [
-   9,
-   0
+   10,
+   3
+  ],
+  "mytelly.co.uk": [
+   0,
+   11
   ],
   "player.ee.co.uk": [
-   7,
+   8,
    0
   ],
   "dazn.com": [
@@ -49,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "CTV Two - Atlantic = CTV.Two.-.Atlantic.ca2",
-     "CKSH-DT = CKSH-DT.ca2",
-     "CTV Calgary = CTV.Calgary.ca2",
-     "Fairchild (Vancouver) VCHILD = Fairchild.(Vancouver).VCHILD.ca2",
-     "CHET-TV = CHET-TV.ca2",
-     "[CPACF] Cable Public Affairs Channel (French) = [CPACF].Cable.Public.Affairs.Channel.(French).ca2"
+     "WBZ = WBZ.ca2",
+     "Super Écran = Super.Écran.ca2",
+     "CHNM-DT = CHNM-DT.ca2",
+     "Disney Channel Canada HD = Disney.Channel.Canada.HD.ca2",
+     "Global Regina = Global.Regina.ca2",
+     "TSN 3 HD = TSN.3.HD.ca2"
     ]
    },
    "IE1": {
@@ -115,29 +119,29 @@
   },
   "listings": {
    "CA2": {
-    "channels": 3,
-    "withListings": 3,
-    "programmes": 194
+    "channels": 4,
+    "withListings": 4,
+    "programmes": 261
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 130
+    "programmes": 125
    },
    "UK1": {
-    "channels": 32,
+    "channels": 38,
     "withListings": 32,
-    "programmes": 2284
+    "programmes": 2116
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19189
+    "programmes": 18378
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 85248
+    "programmes": 80912
    },
    "US_SPORTS1": {
     "channels": 22,

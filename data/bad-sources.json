@@ -135,6 +135,14 @@
   "reason": "empty",
   "since": "2026-11-19"
  },
+ "mytelly.co.uk|en|1434/eurosport-1-hd": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
+ "mytelly.co.uk|en|1470/sky-crime-1": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "mytelly.co.uk|en|1524/food-network-1": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -154,6 +162,10 @@
  "mytelly.co.uk|en|1606/discovery-history": {
   "reason": "empty",
   "since": "2026-11-19"
+ },
+ "mytelly.co.uk|en|1627/itv1-granada-1": {
+  "reason": "empty",
+  "since": "2026-11-21"
  },
  "mytelly.co.uk|en|1632/mtv-music": {
   "reason": "empty",
@@ -255,6 +267,10 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "mytelly.co.uk|en|42/itv1-meridian": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "mytelly.co.uk|en|48/itv1-west-country": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -307,6 +323,14 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "tv24.co.uk|en|bbc-one-east-west-hd-vm": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
+ "tv24.co.uk|en|bbc-one-yorkshireincolnshire-hd-l": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "tv24.co.uk|en|bbc-red-button-4": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -318,6 +342,10 @@
  "tv24.co.uk|en|bbc-red-button-6": {
   "reason": "empty",
   "since": "2026-11-20"
+ },
+ "tv24.co.uk|en|bbc1": {
+  "reason": "empty",
+  "since": "2026-11-21"
  },
  "tv24.co.uk|en|bbc1-northern-ireland": {
   "reason": "empty",
@@ -383,6 +411,10 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "tv24.co.uk|en|itv-be-hd": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "tv24.co.uk|en|itv-granada-hd": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -427,6 +459,10 @@
   "reason": "notice",
   "since": "2026-11-11"
  },
+ "tv24.co.uk|en|sky-max-hd": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "tv24.co.uk|en|sky-max-sd": {
   "reason": "empty",
   "since": "2026-11-19"
@@ -455,6 +491,10 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
+ "virgintvgo.virginmedia.com|en|1595": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
  "virgintvgo.virginmedia.com|en|1733": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -462,6 +502,14 @@
  "virgintvgo.virginmedia.com|en|1767": {
   "reason": "empty",
   "since": "2026-11-20"
+ },
+ "virgintvgo.virginmedia.com|en|2084": {
+  "reason": "empty",
+  "since": "2026-11-21"
+ },
+ "virgintvgo.virginmedia.com|en|2085": {
+  "reason": "empty",
+  "since": "2026-11-21"
  },
  "virgintvgo.virginmedia.com|en|244": {
   "reason": "empty",
