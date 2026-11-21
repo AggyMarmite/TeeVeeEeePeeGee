@@ -568,7 +568,7 @@
    "auto": true
   },
   "HGTV.uk": {
-   "src": "tv24.co.uk|en|hgtv"
+   "src": "virgintvgo.virginmedia.com|en|244"
   },
   "HGTV.us": {
    "src": "directv.com|en|b7669e3c-2916-4b8c-b40d-6266e791ab57",
@@ -6193,7 +6193,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE EAST YORKSHIRE & LINCOLNSHIRE": {
-   "src": "mytelly.co.uk|en|2375/bbc-one-yorkshire-lincolnshire-hd"
+   "src": null
   },
   "name:UK-BBCI| BBC ONE LONDON": {
    "src": "player.ee.co.uk|en|dvb://233a..1044",
