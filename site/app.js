@@ -106,8 +106,7 @@ async function load() {
     }
     S.mappings = (mapText ? JSON.parse(mapText).map : {}) || {}
     S.saved = JSON.stringify(S.mappings)
-    // Show every category; only hide the header rows (auto-match still skips config.skipGroups)
-    const skip = skipMatcher([])
+    const skip = skipMatcher(S.config.skipGroups || [])
     S.allGroups = groupChannels(channels)
     S.groups = S.allGroups.filter(g => S.mappings[g.key] || !skip(g)).sort((a, b) => a.names[0].localeCompare(b.names[0], undefined, { numeric: true }))
     S.sugCache.clear()
