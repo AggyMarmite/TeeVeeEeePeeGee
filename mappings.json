@@ -7235,6 +7235,9 @@
    "src": "tv24.co.uk|en|rte1-network",
    "auto": true
   },
+  "name:UK| RTE JR": {
+   "src": "mytelly.co.uk|en|1649/rte-jr"
+  },
   "name:UK| RTE NEWS NOW": {
    "src": "epgshare01.online|en|IE1#RTE.News.Now.ie",
    "auto": true
@@ -8743,6 +8746,9 @@
   "uk.Disc.Turbo": {
    "src": "tv24.co.uk|en|discovery-turbo-1",
    "auto": true
+  },
+  "uk.Disney Chnl": {
+   "src": "tv24.co.uk|en|disney-channel-2"
   },
   "uk.E4+1": {
    "src": "sky.com|en|GB#3300",
