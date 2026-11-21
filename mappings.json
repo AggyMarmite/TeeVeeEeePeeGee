@@ -7097,6 +7097,9 @@
    "src": "sky.com|en|GB#4610",
    "auto": true
   },
+  "name:UK| LFC HEVC FHD": {
+   "src": "sky.com|en|GB#3845"
+  },
   "name:UK| LOVE WORLD FHD": {
    "src": "sky.com|en|GB#1228",
    "auto": true
@@ -7326,6 +7329,9 @@
   "name:UK| SKY SPORTS GOLF HEVC FHD": {
    "src": "sky.com|en|GB#1094",
    "auto": true
+  },
+  "name:UK| SKY SPORTS MAIN EVENTS HEVC FHD": {
+   "src": "sky.com|en|GB#1701"
   },
   "name:UK| SKY SPORTS MIX HEVC FHD": {
    "src": "sky.com|en|GB#4090",
