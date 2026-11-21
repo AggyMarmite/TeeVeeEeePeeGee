@@ -223,6 +223,9 @@
    "src": "epgshare01.online|en|US2#Bravo.HD.us2",
    "auto": true
   },
+  "BTSportUltimate.uk": {
+   "src": "sky.com|en|GB#1336"
+  },
   "BuzzrTV.us": {
    "src": "directv.com|en|848b354b-681b-482b-a86b-bd4368b7c84e",
    "auto": true
@@ -426,6 +429,9 @@
   "EuroNews.uk": {
    "src": "sky.com|en|GB#4604",
    "auto": true
+  },
+  "Eurosport 2 HD.uk": {
+   "src": "virgintvgo.virginmedia.com|en|2085"
   },
   "FaithTV.us": {
    "src": "sky.com|en|GB#4404",
@@ -6864,9 +6870,7 @@
    "auto": true
   },
   "name:UK| COMEDY CENTRAL +1": {
-   "src": "sky.com|en|GB#2510",
-   "offset": 1,
-   "auto": true
+   "src": "virgintvgo.virginmedia.com|en|1325"
   },
   "name:UK| COMEDY CENTRAL HEVC FHD": {
    "src": "sky.com|en|GB#2510",
@@ -6913,8 +6917,7 @@
    "auto": true
   },
   "name:UK| FILM 4 +1": {
-   "src": "sky.com|en|GB#1629",
-   "auto": true
+   "src": "sky.com|en|GB#1629"
   },
   "name:UK| FOOD NETWORK +1": {
    "src": "tv24.co.uk|en|food-network-1",
@@ -7442,6 +7445,9 @@
   "name:UK| U&W HD": {
    "src": "sky.com|en|GB#2617",
    "auto": true
+  },
+  "name:UK| VIAPLAY XTRA HD": {
+   "src": "tv24.co.uk|en|freesports-hd"
   },
   "name:UK| VIRGIN 1 HEVC FHD": {
    "src": "sky.com|en|GB#3881",
@@ -8723,8 +8729,14 @@
    "src": "sky.com|en|GB#4604",
    "auto": true
   },
+  "uk.Eurosport 1": {
+   "src": "virgintvgo.virginmedia.com|en|2084"
+  },
   "uk.Eurosport 2": {
    "src": "tv24.co.uk|en|eurosport-2"
+  },
+  "uk.Eurosport 2 HD": {
+   "src": "virgintvgo.virginmedia.com|en|2085"
   },
   "uk.GOLD HD": {
    "src": "sky.com|en|GB#6513",
