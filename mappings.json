@@ -6995,6 +6995,9 @@
    "src": "sky.com|en|GB#1169",
    "auto": true
   },
+  "name:UK| I24NEWS EN": {
+   "src": "tv24.co.uk|en|i24-news"
+  },
   "name:UK| ID +1": {
    "src": "sky.com|en|GB#5452",
    "auto": true
@@ -7154,6 +7157,12 @@
    "src": "sky.com|en|GB#4025",
    "auto": true
   },
+  "name:UK| NBC NEWS NOW FHD": {
+   "src": "epgshare01.online|en|UK1#NBCNewsNowHD.uk"
+  },
+  "name:UK| NEW MEDIA FHD": {
+   "src": "freeview.co.uk|en|64257#16360"
+  },
   "name:UK| NHK WORLD FHD": {
    "src": "sky.com|en|GB#3147",
    "auto": true
@@ -7186,6 +7195,9 @@
    "src": "epgshare01.online|en|UK1#Premier.Sports.2.HD.uk",
    "auto": true
   },
+  "name:UK| PTV GLOBAL": {
+   "src": "epgshare01.online|en|UK1#PTV.Global.uk"
+  },
   "name:UK| QUEST +1": {
    "src": "sky.com|en|GB#3621",
    "auto": true
@@ -7211,8 +7223,7 @@
    "auto": true
   },
   "name:UK| RT UK HD": {
-   "src": "tv24.co.uk|en|rt-hd",
-   "auto": true
+   "src": "tv24.co.uk|en|rt-hd"
   },
   "name:UK| RTE 1 HEVC FHD": {
    "src": "tv24.co.uk|en|rte1-network",
