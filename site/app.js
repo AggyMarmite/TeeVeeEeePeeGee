@@ -106,7 +106,9 @@ async function load() {
     }
     S.mappings = (mapText ? JSON.parse(mapText).map : {}) || {}
     S.saved = JSON.stringify(S.mappings)
-    const skip = skipMatcher(S.config.skipGroups || [])
+    // Matcher hides skipGroups except those listed in showInMatcher (auto-match still uses skipGroups)
+    const showInMatcher = S.config.showInMatcher || []
+    const skip = skipMatcher((S.config.skipGroups || []).filter(p => !showInMatcher.includes(p)))
     S.allGroups = groupChannels(channels)
     S.groups = S.allGroups.filter(g => S.mappings[g.key] || !skip(g)).sort((a, b) => a.names[0].localeCompare(b.names[0], undefined, { numeric: true }))
     S.sugCache.clear()

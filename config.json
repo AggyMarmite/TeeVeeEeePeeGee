@@ -82,5 +82,8 @@
     "www.lyngsat.com",
     "logo.clearbit.com",
     "tvprofil.net"
+  ],
+  "showInMatcher": [
+    "PRIME"
   ]
 }
