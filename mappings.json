@@ -334,6 +334,9 @@
    "src": "tv24.co.uk|en|court-tv",
    "auto": true
   },
+  "CrimeAndInvestigationNetwork.uk": {
+   "src": "tv24.co.uk|en|crime-and-investigation-network"
+  },
   "CrimeInvestigation.uk": {
    "src": "tv24.co.uk|en|crime-and-investigation-network"
   },
@@ -6879,6 +6882,9 @@
    "src": "sky.com|en|GB#2510",
    "auto": true
   },
+  "name:UK| CRIME INVESTIGATION +1": {
+   "src": "tv24.co.uk|en|crime-investigation-network-1"
+  },
   "name:UK| CRIME INVESTIGATION HEVC FHD": {
    "src": "tv24.co.uk|en|crime-and-investigation-network"
   },
@@ -6909,6 +6915,9 @@
   "name:UK| E4 EXTRA": {
    "src": "sky.com|en|GB#1200",
    "auto": true
+  },
+  "name:UK| EARTHX TV": {
+   "src": "epgshare01.online|en|UK1#EarthxTV.HD.uk"
   },
   "name:UK| EDEN +1": {
    "src": "sky.com|en|GB#2307",
@@ -7294,6 +7303,9 @@
   "name:UK| SKY HISTORY HEVC FHD": {
    "src": "sky.com|en|GB#4086",
    "auto": true
+  },
+  "name:UK| SKY HISTORY/H2 HD": {
+   "src": "sky.com|en|GB#4086"
   },
   "name:UK| SKY KIDS HD": {
    "src": "sky.com|en|GB#1147",
