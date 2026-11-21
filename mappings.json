@@ -3707,6 +3707,9 @@
    "src": "sky.com|en|GB#1076",
    "auto": true
   },
+  "name:4K| SKY SPORTS 2 UHD": {
+   "src": "virgintvgo.virginmedia.com|en|2265"
+  },
   "name:4K| SKY SPORTS DARTS UHD": {
    "src": "virgintvgo.virginmedia.com|en|1771",
    "auto": true
@@ -3714,6 +3717,12 @@
   "name:4K| SKY SPORTS F1 UHD": {
    "src": "sky.com|en|GB#7202",
    "auto": true
+  },
+  "name:4K| SKY SPORTS UHD [EVENT]": {
+   "src": "sky.com|en|GB#1701"
+  },
+  "name:4K| TNT SPORTS UHD [EVENT]": {
+   "src": "tv24.co.uk|en|bt-sport-uhd-4k"
   },
   "name:4K| TNT ULTIMATE 4K+ [LIVE-EVENT]": {
    "src": "player.ee.co.uk|en|http://bds.tv/services/BT_768397"
@@ -8445,7 +8454,7 @@
    "auto": true
   },
   "Sky.Sports.Ultra.HD.1.uk": {
-   "src": "epgshare01.online|en|UK1#Sky.Sports.Ultra.HD.1.uk"
+   "src": "virgintvgo.virginmedia.com|en|2258"
   },
   "Sky.Sports.Ultra.HD.2.uk": {
    "src": "epgshare01.online|en|UK1#Sky.Sports.Ultra.HD.2.uk"
