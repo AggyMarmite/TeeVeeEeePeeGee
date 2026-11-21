@@ -120,6 +120,8 @@ export function normalizeName(name) {
   // other short "XX-YYY| " style prefixes, e.g. "UK-BBCI| ", "TV| ", "4K| "
   s = s.replace(/^\s*[^|]{1,14}\|\s*/, ' ')
   s = s.replace(/\b(25|30|50|60)\s*fps\b/g, ' ')
+  s = s.replace(/\bnow hk\b/g, 'now') // "NOW HK NOW SPORTS 1" → "now sports 1"
+  s = s.replace(/\bnow now\b/g, 'now')
   s = s.replace(/&/g, ' and ').replace(/\+/g, ' plus ')
   s = s.replace(/[^a-z0-9]+/g, ' ').trim()
   s = s.replace(/^u and (?=\w)/, '') // UKTV's "U&Dave", "U&Alibi"…
@@ -193,6 +195,8 @@ export function suggest(group, sources, opts = {}) {
   // UK/Irish channels only ever get UK/Irish (English) listings; US only US/Canada
   const chCc = names[0].cc || groupCc
   const allowed = chCc === 'uk' || chCc === 'ie' ? ['', 'GB', 'IE'] : chCc === 'us' || chCc === 'ca' ? ['US', 'CA'] : null
+  // Now Sports (Hong Kong) and Astro channels also take their own region's listings
+  if (allowed && /^(now(sports|premier)|astro)/.test(names[0].key)) allowed.push('HK', 'MY')
   const calls = new Set(group.names.flatMap(n => callSigns(n)))
   const callHits = new Set()
   for (const c of calls) for (const s of byCall(sources).get(c) || []) callHits.add(s)
@@ -252,6 +256,8 @@ export function suggest(group, sources, opts = {}) {
       if (pref && src._feed.includes(pref)) best += 2
       else if (/ireland|scotland|wales|cymru|northernireland|ni$|anglia|granada|border|meridian|tyne|tees|central|westcountry|yorkshire|midlands/.test(src._feed)) best -= 2
     }
+    // Tie-break: "Now Sports 4K 3" vs "Now Sports 3" — prefer the feed whose resolution matches the channel's
+    if (/\b4k\b|uhd/i.test(src.n) !== group.names.some(n => /\b4k\b|uhd/i.test(n))) best -= 0.5
     const pr = sitePriority.indexOf(src.s)
     best -= (pr < 0 ? sitePriority.length : pr) * 0.5
     const prev = results.get(src.k)

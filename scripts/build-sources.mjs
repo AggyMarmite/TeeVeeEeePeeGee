@@ -66,6 +66,8 @@ for (const site of config.sites) {
       }
       if (!ch.site_id || !ch.name) continue
       let region = (config.siteRegions || {})[site] || ''
+      // Hong Kong and Malaysian listings are English-only, like the UK ones
+      if ((region === 'HK' || region === 'MY') && ch.lang !== 'en') continue
       if (site === 'sky.com') {
         region = ch.site_id.split('#')[0]
         if (config.skyRegions && !config.skyRegions.includes(region)) continue

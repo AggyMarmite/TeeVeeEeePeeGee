@@ -9,7 +9,9 @@
     "virgintvgo.virginmedia.com",
     "dazn.com",
     "directv.com",
-    "tvinsider.com"
+    "tvinsider.com",
+    "nowplayer.now.com",
+    "content.astro.com.my"
   ],
   "skyRegions": [
     "GB",
@@ -21,7 +23,9 @@
   "maxConnections": 8,
   "siteRegions": {
     "directv.com": "US",
-    "tvinsider.com": "US"
+    "tvinsider.com": "US",
+    "nowplayer.now.com": "HK",
+    "content.astro.com.my": "MY"
   },
   "skipGroups": [
     "24/7",
