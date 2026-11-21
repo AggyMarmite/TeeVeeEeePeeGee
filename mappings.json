@@ -7314,6 +7314,9 @@
   "name:UK| SKY REPLAY": {
    "src": "epgshare01.online|en|UK1#Sky.Replay.uk"
   },
+  "name:UK| SKY SHOWCASE HEVC FHD": {
+   "src": "mytelly.co.uk|en|222/sky-showcase"
+  },
   "name:UK| SKY SPORT MAIN EVENT": {
    "src": "virgintvgo.virginmedia.com|en|2257",
    "auto": true
@@ -8432,6 +8435,9 @@
   "SkyNews.uk": {
    "src": "sky.com|en|GB#4050",
    "auto": true
+  },
+  "SkyShowcase.uk": {
+   "src": "mytelly.co.uk|en|222/sky-showcase"
   },
   "SkySportsAction.uk": {
    "src": "sky.com|en|GB#1703",
