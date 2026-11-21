@@ -1,11 +1,11 @@
 {
- "built": "2026-11-21T13:10",
+ "built": "2026-11-21T19:35",
  "channels": 2338,
- "programmes": 180510,
+ "programmes": 182296,
  "noListings": 25,
  "withLogo": 1887,
- "xmlMB": 87.8,
- "gzMB": 12.8,
+ "xmlMB": 88.9,
+ "gzMB": 12.5,
  "bySite": {
   "epgshare01.online": [
    1443,
@@ -97,12 +97,12 @@
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "K14OV-D = K14OV-D.us_locals1",
-     "WRDC-DT = WRDC-DT.us_locals1",
-     "KPXD-DT = KPXD-DT.us_locals1",
-     "WRGB-DT = WRGB-DT.us_locals1",
-     "WAUG-LD = WAUG-LD.us_locals1",
-     "KAMU-DT = KAMU-DT.us_locals1"
+     "KFXA-DT = KFXA-DT.us_locals1",
+     "KGKC-LD = KGKC-LD.us_locals1",
+     "KUIL-LD = KUIL-LD.us_locals1",
+     "KRCR-DT = KRCR-DT.us_locals1",
+     "WTRF-DT = WTRF-DT.us_locals1",
+     "KDCU-DT = KDCU-DT.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 276
+    "programmes": 272
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 126
+    "programmes": 130
    },
    "UK1": {
     "channels": 34,
     "withListings": 31,
-    "programmes": 1971
+    "programmes": 1765
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 17432
+    "programmes": 15741
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 76092
+    "programmes": 83007
    },
    "US_SPORTS1": {
     "channels": 22,

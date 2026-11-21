@@ -705,7 +705,7 @@
    "auto": true
   },
   "KOPB.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOPB-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOPB-DT.us_locals1",
    "auto": true
   },
   "KRDO.us": {
@@ -857,7 +857,7 @@
    "auto": true
   },
   "loc.ABC (KLKN) Lincoln, NE": {
-   "src": "epgshare01.online|en|US_LOCALS1#KLKN-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KLKN-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KLTV) Tyler, TX": {
@@ -1097,7 +1097,7 @@
    "auto": true
   },
   "loc.ABC (WFTV) Orlando, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WFTV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WFTV-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WHAM) Rochester, NY": {
@@ -1109,7 +1109,7 @@
    "auto": true
   },
   "loc.ABC (WHSV) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WHTM) Harrisburg, PA": {
@@ -1237,7 +1237,7 @@
    "auto": true
   },
   "loc.ABC (WSB) Atlanta, GA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (WSET) Lynchburg, VA": {
@@ -1469,7 +1469,7 @@
    "auto": true
   },
   "loc.CBS (KIRO) Seattle, WA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KIRO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KIRO-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (KKTV)": {
@@ -1517,7 +1517,7 @@
    "auto": true
   },
   "loc.CBS (KOLD) Tucson, AZ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOLD-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOLD-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (KOLN) Lincoln, NE": {
@@ -1753,7 +1753,7 @@
    "auto": true
   },
   "loc.CBS (WHBF) Rock Island, Il": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (WHIO) Dayton, OH": {
@@ -2001,7 +2001,7 @@
    "auto": true
   },
   "loc.CBS (WWTV) Cadillac, MI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WWTV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WWTV-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (WYOU) Scranton, PA": {
@@ -2173,7 +2173,7 @@
    "auto": true
   },
   "loc.FOX (KCPQ) Tacoma, WA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KCYU) Tri-Cities, WA": {
@@ -2401,7 +2401,7 @@
    "auto": true
   },
   "loc.FOX (KVCT) Victoria, TX": {
-   "src": "epgshare01.online|en|US_LOCALS1#KVCT-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KVCT-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KVHP) Lake Charles, LA": {
@@ -2573,7 +2573,7 @@
    "auto": true
   },
   "loc.FOX (WHSV-DT2) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WICZ) Binghamton, NY": {
@@ -2733,7 +2733,7 @@
    "auto": true
   },
   "loc.FOX (WTXF) Philadelphia, PA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WTXF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WTXF-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WUHF) Rochester, NY": {
@@ -3017,7 +3017,7 @@
    "auto": true
   },
   "loc.NBC (KOAA) Colorado Springs, CO": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOAA-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOAA-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (KOB) Albuquerque, NM": {
@@ -3289,7 +3289,7 @@
    "auto": true
   },
   "loc.NBC (WESH) Winter Park, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WESH-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WESH-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WEYI) Flint, MI": {
@@ -3437,7 +3437,7 @@
    "auto": true
   },
   "loc.NBC (WNYT) Albany, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNYT-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNYT-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WOAI) San Antonio, TX": {
@@ -4216,7 +4216,7 @@
    "auto": true
   },
   "name:TV| ATLANTA, GA WSB ABC 2 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSB-LD.us_locals1",
    "auto": true
   },
   "name:TV| ATLANTA, GA WUPA CBS 69 A3 HD ATLANTA ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -4596,7 +4596,7 @@
    "auto": true
   },
   "name:TV| DAVENPORT, IA WHBF CBS 4 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "name:TV| DAVENPORT, IA WQAD ABC 8 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5694,7 +5694,7 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KCPQ FOX 13 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KCPQ-LD.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCTS PBS 9 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5702,7 +5702,7 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KIRO CBS 7 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KIRO-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KIRO-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KOMO ABC 4 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -7598,7 +7598,7 @@
    "auto": true
   },
   "name:US| 69 NEWS (WFMZ) PHILADELPHIA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-LD.us_locals1",
    "auto": true
   },
   "name:US| ABC  2 (KQTV ) ST JOSEPH": {
@@ -7982,11 +7982,11 @@
    "auto": true
   },
   "name:US| TELEMUNDO (KTLM) MISSION": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTLM-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTLM-LD.us_locals1",
    "auto": true
   },
   "name:US| TELEMUNDO (KTLM) RIO GRANDE CITY": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTLM-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTLM-LD.us_locals1",
    "auto": true
   },
   "name:US| TELEMUNDO (KTMD) HOUSTON": {
@@ -9230,7 +9230,7 @@
    "auto": true
   },
   "WGAL.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#WGAL-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WGAL-LD.us_locals1",
    "auto": true
   },
   "WGBH.us": {
@@ -9250,7 +9250,7 @@
    "auto": true
   },
   "WJAC.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#WJAC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WJAC-DT.us_locals1",
    "auto": true
   },
   "WKOW.us": {
