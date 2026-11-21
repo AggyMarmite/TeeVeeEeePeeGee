@@ -334,6 +334,9 @@
    "src": "tv24.co.uk|en|court-tv",
    "auto": true
   },
+  "CrimeInvestigation.uk": {
+   "src": "tv24.co.uk|en|crime-and-investigation-network"
+  },
   "CSPAN2.us": {
    "src": "epgshare01.online|en|US2#CSPAN2.us2",
    "auto": true
@@ -6876,6 +6879,9 @@
    "src": "sky.com|en|GB#2510",
    "auto": true
   },
+  "name:UK| CRIME INVESTIGATION HEVC FHD": {
+   "src": "tv24.co.uk|en|crime-and-investigation-network"
+  },
   "name:UK| DAYSTAR HEVC": {
    "src": "sky.com|en|GB#5541",
    "auto": true
@@ -7162,6 +7168,9 @@
   "name:UK| NAT GEO WILD SD": {
    "src": "sky.com|en|GB#4025",
    "auto": true
+  },
+  "name:UK| NATIONAL GEO HEVC FHD": {
+   "src": "sky.com|en|GB#4031"
   },
   "name:UK| NBC NEWS NOW FHD": {
    "src": "epgshare01.online|en|UK1#NBCNewsNowHD.uk"
