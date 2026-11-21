@@ -35,10 +35,6 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
- "epgshare01.online|en|UK1#Channel.5.uk": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
  "epgshare01.online|en|UK1#Court.TV.uk": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -138,14 +134,6 @@
  "mytelly.co.uk|en|14/bbc-one-north-west": {
   "reason": "empty",
   "since": "2026-11-19"
- },
- "mytelly.co.uk|en|1434/eurosport-1-hd": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
- "mytelly.co.uk|en|1470/sky-crime-1": {
-  "reason": "empty",
-  "since": "2026-11-18"
  },
  "mytelly.co.uk|en|1524/food-network-1": {
   "reason": "empty",
@@ -331,10 +319,6 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
- "tv24.co.uk|en|bbc1": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
  "tv24.co.uk|en|bbc1-northern-ireland": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -350,10 +334,6 @@
  "tv24.co.uk|en|cnn": {
   "reason": "empty",
   "since": "2026-11-20"
- },
- "tv24.co.uk|en|comedy-central-1": {
-  "reason": "empty",
-  "since": "2026-11-18"
  },
  "tv24.co.uk|en|disney-channel-2": {
   "reason": "foreign",
@@ -403,10 +383,6 @@
   "reason": "empty",
   "since": "2026-11-20"
  },
- "tv24.co.uk|en|itv-be-hd": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
  "tv24.co.uk|en|itv-granada-hd": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -451,10 +427,6 @@
   "reason": "notice",
   "since": "2026-11-11"
  },
- "tv24.co.uk|en|sky-max-hd": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
  "tv24.co.uk|en|sky-max-sd": {
   "reason": "empty",
   "since": "2026-11-19"
@@ -475,10 +447,6 @@
   "reason": "notice",
   "since": "2026-11-11"
  },
- "virgintvgo.virginmedia.com|en|1383": {
-  "reason": "empty",
-  "since": "2026-11-18"
- },
  "virgintvgo.virginmedia.com|en|1404": {
   "reason": "empty",
   "since": "2026-11-20"
@@ -486,10 +454,6 @@
  "virgintvgo.virginmedia.com|en|1548": {
   "reason": "empty",
   "since": "2026-11-20"
- },
- "virgintvgo.virginmedia.com|en|1595": {
-  "reason": "empty",
-  "since": "2026-11-18"
  },
  "virgintvgo.virginmedia.com|en|1733": {
   "reason": "empty",

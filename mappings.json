@@ -2,7 +2,7 @@
  "version": 1,
  "map": {
   "3ABN.us": {
-   "src": "epgshare01.online|en|US2#3ABN.us2",
+   "src": "epgshare01.online|en|US2#3ABN.Proclaim.Network.us2",
    "auto": true
   },
   "5Action.uk": {
@@ -6078,7 +6078,7 @@
    "auto": true
   },
   "name:TV| VICE ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Vice.us2",
+   "src": "epgshare01.online|en|US2#Vice.HD.us2",
    "auto": true
   },
   "name:TV| WAYPOINT TV ᴿᴬᵂ": {
@@ -8966,7 +8966,7 @@
    "auto": true
   },
   "ViceOnTV.us": {
-   "src": "epgshare01.online|en|US2#Vice.us2",
+   "src": "epgshare01.online|en|US2#Vice.HD.us2",
    "auto": true
   },
   "VirginMediaOne.ie": {

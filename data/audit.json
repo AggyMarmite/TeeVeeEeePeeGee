@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T20:38",
+ "built": "2026-11-21T02:37",
  "weakMatches": [
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
@@ -1144,87 +1144,87 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Fri 20:00 Return to Paradise",
-   "Fri 21:00 Have I Got News for You",
-   "Fri 21:30 Bill&apos;s Included",
-   "Fri 22:00 BBC News and Weather",
-   "Fri 22:30 BBC London News",
-   "Fri 22:40 The Graham Norton Show"
+   "Sat 01:15 BBC News",
+   "Sat 06:00 Breakfast",
+   "Sat 10:00 Saturday Kitchen Live",
+   "Sat 11:30 Simply Nigella",
+   "Sat 12:00 Bargain Hunt: Doctors Special",
+   "Sat 12:45 Leon Goretzka: The Football Interview"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 20:30 Coronation Street",
-   "Fri 21:00 New: I&apos;m a Celebrity... Get Me...",
-   "Fri 22:05 ITV News at Ten",
-   "Fri 22:35 ITV News Tyne Tees",
-   "Fri 22:50 Jack Reacher: Never Go Back",
-   "Sat 00:45 Shop on TV"
+   "Sat 00:45 Shop on TV",
+   "Sat 03:00 How to Clean Up for Cash",
+   "Sat 03:25 How to Clean Up for Cash",
+   "Sat 03:50 Unwind with ITV",
+   "Sat 05:05 Deal or No Deal",
+   "Sat 06:00 Cooking with the Stars"
   ],
   "UK| SKY SPORTS MAIN EVENT <- SkySpMainEvHD · sky.com": [
-   "Fri 20:00 Live EFL: Barnsley v Sheff Weds",
-   "Fri 22:00 Live Grand Slam Of Darts Q/Final",
-   "Fri 23:00 Sky Sports News",
-   "Sat 00:00 Sky Sports News",
-   "Sat 00:15 Live Las Vegas F1 GP: Practice 3",
-   "Sat 01:45 US F1 GP Bitesize Highlights"
+   "Sat 02:10 Live F1 Academy: Race 1",
+   "Sat 03:00 Live Las Vegas F1 GP: Qualifying",
+   "Sat 06:00 Sky Sports News",
+   "Sat 07:00 Sky Sports Breakfast",
+   "Sat 08:00 Las Vegas F1 GP: Qualifying",
+   "Sat 10:00 Premier League Weekend Live"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Fri 19:30 Las Vegas F1 GP: Practice 2",
-   "Fri 20:45 The F1 Show: Las Vegas",
-   "Fri 21:45 Mexico CIty with Sergio Perez",
-   "Fri 22:00 Las Vegas F1 GP: Practice 2",
-   "Fri 23:15 The F1 Show: Las Vegas",
-   "Sat 00:15 Live Las Vegas F1 GP: Practice 3"
+   "Sat 02:10 Live F1 Academy: Race 1",
+   "Sat 03:00 Live Las Vegas F1 GP: Qualifying",
+   "Sat 06:00 Las Vegas F1 GP: Qualifying",
+   "Sat 08:00 Las Vegas F1 GP: Qualifying Hlts",
+   "Sat 09:00 US F1 GP Bitesize Highlights",
+   "Sat 09:15 Las Vegas F1 GP: Practice 3"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 20:00 Live: News Zone",
-   "Fri 21:00 Live: News 4 NY at 4",
-   "Fri 21:30 Live: News 4 NY at 4:30",
-   "Fri 22:00 Live: News 4 NY at 5",
-   "Fri 22:30 Live: News 4 NY at 5:30",
-   "Fri 23:00 Live: News 4 NY at 6"
+   "Sat 02:01 America&apos;s Parade: 100 Years of Macy&apos;s Thanksgiving Day Parade",
+   "Sat 03:01 Dateline NBC",
+   "Sat 04:00 Live: News 4 NY at 11",
+   "Sat 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Sat 05:35 Late Night With Seth Meyers",
+   "Sat 06:34 News 4 NY at 11"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 20:00 Live: NBA Today",
-   "Fri 21:00 NFL Live",
-   "Fri 22:00 Live: SportsCenter",
-   "Fri 22:30 Live: Pardon the Interruption",
-   "Fri 23:00 Live: SportsCenter",
-   "Sat 00:00 Live: College Football Countdown"
+   "Sat 00:30 Live: College Football",
+   "Sat 03:30 Live: SportsCenter With Scott Van Pelt",
+   "Sat 05:00 Live: SportsCenter",
+   "Sat 06:00 Live: SportsCenter",
+   "Sat 07:00 SportsCenter",
+   "Sat 08:00 SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 20:00 Live: CNN News Central",
-   "Fri 21:00 Live: The Arena With Kasie Hunt",
-   "Fri 22:00 Live: The Lead With Jake Tapper",
-   "Fri 23:00 Live: The Lead With Jake Tapper",
-   "Sat 00:00 Live: Erin Burnett OutFront",
-   "Sat 01:00 Live: Anderson Cooper 360"
+   "Sat 02:00 Live: The Source With Kaitlan Collins",
+   "Sat 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Sat 04:00 Laura Coates Live",
+   "Sat 05:00 Live: The Story Is With Elex Michaelson",
+   "Sat 06:00 Live: The Story Is With Elex Michaelson",
+   "Sat 07:00 Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 20:00 KTLA 5 News at Noon",
-   "Fri 21:00 KTLA 5 News at 1",
-   "Fri 22:00 Off the Clock",
-   "Fri 23:00 KTLA 5 News at 3",
-   "Sat 00:00 KTLA 5 News at 4",
-   "Sat 01:00 Live: College Football"
+   "Sat 01:00 Live: College Football",
+   "Sat 04:30 Two and a Half Men",
+   "Sat 05:00 L.A. Unscripted",
+   "Sat 05:30 Friends",
+   "Sat 06:00 KTLA 5 News at 10",
+   "Sat 06:45 KTLA 5 Sports Final"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 20:30 New: Unreported World",
-   "Fri 21:00 George Clarke&apos;s Building Home",
-   "Fri 22:00 New: Gogglebox",
-   "Fri 23:00 Live: The Last Leg",
-   "Sat 00:05 Sarah Millican: Control Enthusiast",
-   "Sat 01:10 Daddy&apos;s Home"
+   "Sat 01:10 Daddy&apos;s Home",
+   "Sat 02:50 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Sat 03:40 Millionaire Hoarders",
+   "Sat 04:35 Come Dine with Me",
+   "Sat 05:00 Come Dine with Me",
+   "Sat 05:25 Come Dine with Me"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 20:20 Would I Lie To You?",
-   "Fri 21:00 Guy Martin: Proper Jobs",
-   "Fri 22:00 Have I Got a Bit More News for You",
-   "Fri 23:00 Taskmaster",
-   "Sat 00:00 Mock the Week",
-   "Sat 00:40 Would I Lie To You?"
+   "Sat 02:35 QI XL",
+   "Sat 03:25 Richard Osman&apos;s House of Games",
+   "Sat 04:00 Teleshopping",
+   "Sat 06:00 Teleshopping",
+   "Sat 07:05 Lazy Boy Garage",
+   "Sat 07:40 Top Gear"
   ]
  },
- "doubleEscaped": 1318,
+ "doubleEscaped": 1320,
  "counts": {
   "weakMatches": 1075,
   "sharedIds": 22,

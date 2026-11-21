@@ -1,11 +1,11 @@
 {
- "built": "2026-11-20T20:38",
+ "built": "2026-11-21T02:37",
  "channels": 2272,
- "programmes": 180568,
+ "programmes": 199115,
  "noListings": 1,
- "withLogo": 1859,
- "xmlMB": 88.6,
- "gzMB": 12.8,
+ "withLogo": 1861,
+ "xmlMB": 97,
+ "gzMB": 14.1,
  "bySite": {
   "epgshare01.online": [
    1443,
@@ -71,23 +71,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Sky History+1 = Sky.History+1.uk",
-     "Ahlulbayt TV = Ahlulbayt.TV.uk",
-     "A1TV = A1TV.uk",
-     "Kanshi TV = Kanshi.TV.uk",
-     "Khushkhabri = Khushkhabri.uk",
-     "Sky Cinema Select = Sky.Cinema.Select.uk"
+     "Sky Greats = Sky.Greats.uk",
+     "Sky Documentaries HD = Sky.Documentaries.HD.uk",
+     "STV Central = STV.Central.uk",
+     "Channel 4 HD = Channel.4.HD.uk",
+     "U and Drama = U.and.Drama.uk",
+     "Dunamis TV = Dunamis.TV.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Movie Hub = Movie.Hub.us2",
-     "News 12 New Jersey = News.12.New.Jersey.us2",
-     "Spectrum News 1 - (Kentucky) Lexington = Spectrum.News.1.-.(Kentucky).Lexington.us2",
-     "Justice Central HD = Justice.Central.HD.us2",
-     "i-CABLE News = i-CABLE.News.us2",
-     "NBC East Stream = NBC.East.Stream.us2"
+     "FYI Channel HD = FYI.Channel.HD.us2",
+     "HBO Latino HD = HBO.Latino.HD.us2",
+     "Outdoor Channel HD = Outdoor.Channel.HD.us2",
+     "Cine Mexicano US Feed = Cine.Mexicano.US.Feed.us2",
+     "WRR 101.9 = WRR.101.9.us2",
+     "Monumental Sports Network Outer Market = Monumental.Sports.Network.Outer.Market.us2"
     ]
    },
    "US_LOCALS1": {
@@ -117,27 +117,27 @@
    "CA2": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 195
+    "programmes": 194
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 137
+    "programmes": 130
    },
    "UK1": {
     "channels": 32,
     "withListings": 32,
-    "programmes": 1764
+    "programmes": 2284
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15479
+    "programmes": 19189
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 84270
+    "programmes": 85248
    },
    "US_SPORTS1": {
     "channels": 22,
