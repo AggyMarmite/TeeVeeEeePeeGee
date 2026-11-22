@@ -3731,12 +3731,24 @@
    "src": "epgshare01.online|en|US_LOCALS1#KFPH-DT.us_locals1",
    "auto": true
   },
+  "name:AZ| PHOENIX| UNIVISION 33 KTVW-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KTVW-DT.us_locals1",
+   "auto": true
+  },
   "name:AZ| TUCSON-DOUGLAS| UNIMÁS 3 KFTU-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#KFTU-CD.us_locals1",
    "auto": true
   },
+  "name:AZ| TUCSON| UNIVISION 46 KUVE-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUVE-CD.us_locals1",
+   "auto": true
+  },
   "name:AZ| YUMA-EL CENTRO| UNIMÁS 54 KAJB": {
    "src": "epgshare01.online|en|US_LOCALS1#KAJB-DT.us_locals1",
+   "auto": true
+  },
+  "name:AZ| YUMA| UNIVISION 7 KVYE": {
+   "src": "epgshare01.online|en|US_LOCALS1#KVYE-DT.us_locals1",
    "auto": true
   },
   "name:BG| EUROSPORT2 HD": {
@@ -3755,6 +3767,14 @@
    "src": "epgshare01.online|en|CA2#Golf.Channel.ca2",
    "auto": true
   },
+  "name:CO| COLORADO SPRINGS| UNIVISION 48 KVSN-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KVSN-DT.us_locals1",
+   "auto": true
+  },
+  "name:CO| DENVER| UNIVISION 14 KCEC": {
+   "src": "epgshare01.online|en|US_LOCALS1#KCEC-DT.us_locals1",
+   "auto": true
+  },
   "name:CO| PUEBLO-COLORADO SPRINGS| UNIMÁS 27 KGHB-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KGHB-CD.us_locals1",
    "auto": true
@@ -3763,7 +3783,15 @@
    "src": "epgshare01.online|en|US_LOCALS1#WUTH-CD.us_locals1",
    "auto": true
   },
+  "name:CT| HARTFORD-NEW HAVEN| UNIVISION 18 WUVN": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUVN-DT.us_locals1",
+   "auto": true
+  },
   "name:DC| WASHINGTON| UNIMÁS 14.4 WFDC-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#WFDC-DT.us_locals1",
+   "auto": true
+  },
+  "name:DC| WASHINGTON| UNIVISION 14 WFDC-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#WFDC-DT.us_locals1",
    "auto": true
   },
@@ -3891,11 +3919,23 @@
    "src": "epgshare01.online|en|US_LOCALS1#WAMI-DT.us_locals1",
    "auto": true
   },
+  "name:FL| MIAMI-FORT LAUDERDALE| UNIVISION 23 WLTV-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#WLTV-DT.us_locals1",
+   "auto": true
+  },
   "name:FL| ORLANDO| UNIMÁS 29 WRCF-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#WRCF-CD.us_locals1",
    "auto": true
   },
+  "name:FL| ORLANDO| UNIVISION 43 WVEN-TV": {
+   "src": "epgshare01.online|en|US_LOCALS1#WVEN-DT.us_locals1",
+   "auto": true
+  },
   "name:FL| TAMPA-ST. PETERSBURG| UNIMÁS 50.6 WVEA-TV": {
+   "src": "epgshare01.online|en|US_LOCALS1#WVEA-DT.us_locals1",
+   "auto": true
+  },
+  "name:FL| TAMPA| UNIVISION 50 WVEA": {
    "src": "epgshare01.online|en|US_LOCALS1#WVEA-DT.us_locals1",
    "auto": true
   },
@@ -3915,6 +3955,10 @@
    "src": "epgshare01.online|en|US_LOCALS1#WUVG-DT.us_locals1",
    "auto": true
   },
+  "name:GA| ATLANTA| UNIVISION 34 WUVG": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUVG-DT.us_locals1",
+   "auto": true
+  },
   "name:GR| EUROSPORT 1": {
    "src": "sky.com|de|DE#2502",
    "auto": true
@@ -3925,6 +3969,10 @@
   },
   "name:IL| CHICAGO| UNIMÁS 60 WXFT-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#WXFT-DT.us_locals1",
+   "auto": true
+  },
+  "name:IL| CHICAGO| UNIVISION 66 WGBO": {
+   "src": "epgshare01.online|en|US_LOCALS1#WGBO-DT.us_locals1",
    "auto": true
   },
   "name:IR| VIRGIN MEDIA FOUR": {
@@ -3979,12 +4027,24 @@
    "src": "sky.com|it|IT#23",
    "auto": true
   },
+  "name:KS| WICHITA| UNIVISION 46 KDCU-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KDCU-DT.us_locals1",
+   "auto": true
+  },
   "name:LV| EUROSPORT 1": {
    "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:LV| EUROSPORT 2": {
    "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
+   "auto": true
+  },
+  "name:MA| BOSTON| UNIVISION 66 WUNI": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUNI-DT.us_locals1",
+   "auto": true
+  },
+  "name:MA| SPRINGFIELD| UNIVISION 43 WHTX-LD": {
+   "src": "epgshare01.online|en|US_LOCALS1#WHTX-LD.us_locals1",
    "auto": true
   },
   "name:MLS Austin FC": {
@@ -4075,8 +4135,20 @@
    "src": "epgshare01.online|en|US_SPORTS1#MLS-TorontoFC.us",
    "auto": true
   },
+  "name:MN| MINNEAPOLIS-ST. PAUL| UNIVISION 21 WUMN-LD": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUMN-LD.us_locals1",
+   "auto": true
+  },
+  "name:MO| KANSAS CITY| UNIVISION 14 KUKC-LD": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUKC-LD.us_locals1",
+   "auto": true
+  },
   "name:NC| RALEIGH-DURHAM| UNIMÁS 26 WTNC-LD": {
    "src": "epgshare01.online|en|US_LOCALS1#WTNC-LD.us_locals1",
+   "auto": true
+  },
+  "name:NC| RALEIGH-DURHAM| UNIVISION 40 WUVC-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUVC-DT.us_locals1",
    "auto": true
   },
   "name:NL| EUROSPORT 1 HD": {
@@ -4087,12 +4159,28 @@
    "src": "dazn.com|de|893cxtl671ey1jf0o6na51es0",
    "auto": true
   },
+  "name:NM| ALBUQUERQUE-SANTA FE| UNIVISION 14 KLUZ": {
+   "src": "epgshare01.online|en|US_LOCALS1#KLUZ-DT.us_locals1",
+   "auto": true
+  },
   "name:NV| LAS VEGAS| UNIMÁS 27 KELV-LD": {
    "src": "epgshare01.online|en|US_LOCALS1#KELV-LD.us_locals1",
    "auto": true
   },
+  "name:NV| LAS VEGAS| UNIVISION 15 KINC": {
+   "src": "epgshare01.online|en|US_LOCALS1#KINC-DT.us_locals1",
+   "auto": true
+  },
   "name:NV| RENO| UNIMÁS 46 KRNS-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KRNS-CD.us_locals1",
+   "auto": true
+  },
+  "name:NV| RENO| UNIVISION 27 KREN-TV": {
+   "src": "epgshare01.online|en|US_LOCALS1#KREN-DT.us_locals1",
+   "auto": true
+  },
+  "name:NY| NEW YORK CITY| UNIVISION 41 WXTV": {
+   "src": "epgshare01.online|en|US_LOCALS1#WXTV-DT.us_locals1",
    "auto": true
   },
   "name:NY| NEW YORK| UNIMÁS 68 WFUT-DT": {
@@ -4103,7 +4191,15 @@
    "src": "epgshare01.online|en|US_LOCALS1#WQHS-DT.us_locals1",
    "auto": true
   },
+  "name:OH| CLEVELAND| UNIVISION 61 (WQHS-DT)": {
+   "src": "epgshare01.online|en|US_LOCALS1#WQHS-DT.us_locals1",
+   "auto": true
+  },
   "name:OK| OKLAHOMA CITY| UNIMÁS 36.2 KUOK": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
+   "auto": true
+  },
+  "name:OK| OKLAHOMA CITY| UNIVISION 36 KUOK-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
    "auto": true
   },
@@ -4113,6 +4209,10 @@
   },
   "name:PA| PHILADELPHIA| UNIMÁS 28 WFPA-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#WFPA-CD.us_locals1",
+   "auto": true
+  },
+  "name:PA| PHILADELPHIA| UNIVISION 65 WUVP": {
+   "src": "epgshare01.online|en|US_LOCALS1#WUVP-DT.us_locals1",
    "auto": true
   },
   "name:PL| EURONEWS HD": {
@@ -6265,32 +6365,68 @@
    "src": "epgshare01.online|en|US_LOCALS1#KTFO-CD.us_locals1",
    "auto": true
   },
+  "name:TX| AUSTIN| UNIVISION 62 KAKW-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KAKW-DT.us_locals1",
+   "auto": true
+  },
   "name:TX| CORPUS CHRISTI| UNIMÁS 41 KCRP-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KCRP-CD.us_locals1",
+   "auto": true
+  },
+  "name:TX| CORPUS CHRISTI| UNIVISION 28 KORO": {
+   "src": "epgshare01.online|en|US_LOCALS1#KORO-DT.us_locals1",
    "auto": true
   },
   "name:TX| DALLAS-FORT WORTH| UNIMÁS 49 KSTR-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#KSTR-DT.us_locals1",
    "auto": true
   },
+  "name:TX| DALLAS-FORT WORTH| UNIVISION 23 KUVN-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUVN-DT.us_locals1",
+   "auto": true
+  },
   "name:TX| EL PASO| UNIMÁS 65 KTFN": {
    "src": "epgshare01.online|en|US_LOCALS1#KTFN-DT.us_locals1",
+   "auto": true
+  },
+  "name:TX| EL PASO| UNIVISION KINT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KINT-DT.us_locals1",
    "auto": true
   },
   "name:TX| HOUSTON| UNIMÁS 67 KFTH-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#KFTH-DT.us_locals1",
    "auto": true
   },
+  "name:TX| HOUSTON| UNIVISION 45 KXLN": {
+   "src": "epgshare01.online|en|US_LOCALS1#KXLN-DT.us_locals1",
+   "auto": true
+  },
   "name:TX| LAREDO| UNIMÁS 39 KETF-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KETF-CD.us_locals1",
+   "auto": true
+  },
+  "name:TX| LAREDO| UNIVISION 27 KLDO-TV": {
+   "src": "epgshare01.online|en|US_LOCALS1#KLDO-DT.us_locals1",
    "auto": true
   },
   "name:TX| MCALLEN-BROWNSVILLE| UNIMÁS 32 KTFV-CD": {
    "src": "epgshare01.online|en|US_LOCALS1#KTFV-CD.us_locals1",
    "auto": true
   },
+  "name:TX| MCALLEN-HARLINGEN| UNIVISION 48 KNVO": {
+   "src": "epgshare01.online|en|US_LOCALS1#KNVO-DT.us_locals1",
+   "auto": true
+  },
+  "name:TX| MIDLAND-ODESSA| UNIVISION 18 KUPB": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUPB-DT.us_locals1",
+   "auto": true
+  },
   "name:TX| SAN ANTONIO| UNIMÁS 17 KNIC-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#KNIC-DT.us_locals1",
+   "auto": true
+  },
+  "name:TX| SAN ANTONIO| UNIVISION 41 KWEX-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KWEX-DT.us_locals1",
    "auto": true
   },
   "name:UK-BBCI| BBC ALBA": {
@@ -8343,6 +8479,18 @@
   },
   "name:UT| SALT LAKE CITY| UNIMÁS 32.2 KUTH-DT": {
    "src": "epgshare01.online|en|US_LOCALS1#KUTH-DT.us_locals1",
+   "auto": true
+  },
+  "name:UT| SALT LAKE CITY| UNIVISION 32 KUTH-DT": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUTH-DT.us_locals1",
+   "auto": true
+  },
+  "name:WA| SEATTLE-BELLINGHAM| UNIVISION 12 KVOS-TV": {
+   "src": "epgshare01.online|en|US_LOCALS1#KVOS-DT.us_locals1",
+   "auto": true
+  },
+  "name:WA| YAKIMA| UNIVISION 2 KUNW-CD": {
+   "src": "epgshare01.online|en|US_LOCALS1#KUNW-CD.us_locals1",
    "auto": true
   },
   "NatGeo.uk": {

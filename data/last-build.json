@@ -1,14 +1,14 @@
 {
- "built": "2026-11-22T11:47",
- "channels": 2368,
- "programmes": 194201,
+ "built": "2026-11-22T19:54",
+ "channels": 2405,
+ "programmes": 174823,
  "noListings": 25,
- "withLogo": 1915,
- "xmlMB": 94.4,
- "gzMB": 12.8,
+ "withLogo": 1952,
+ "xmlMB": 85.5,
+ "gzMB": 11.2,
  "bySite": {
   "epgshare01.online": [
-   1473,
+   1510,
    3
   ],
   "sky.com": [
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 283
+    "programmes": 291
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 120
+    "programmes": 125
    },
    "UK1": {
     "channels": 34,
     "withListings": 31,
-    "programmes": 2060
+    "programmes": 1771
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 18081
+    "programmes": 16011
    },
    "US_LOCALS1": {
-    "channels": 890,
-    "withListings": 890,
-    "programmes": 84641
+    "channels": 921,
+    "withListings": 921,
+    "programmes": 75680
    },
    "US_SPORTS1": {
     "channels": 22,
