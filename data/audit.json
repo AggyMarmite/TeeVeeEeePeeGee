@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T19:35",
+ "built": "2026-11-22T01:31",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -12,12 +12,6 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
-  },
-  {
-   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
-   "src": "BBC One HD · tv24.co.uk",
-   "score": 84,
-   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -900,6 +894,12 @@
    "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
+   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
   }
  ],
  "sharedIds": [
@@ -1068,11 +1068,6 @@
  "stale": [],
  "gaps": [
   {
-   "ch": "US| CBS HD",
-   "hours": 7,
-   "src": "tvinsider.com"
-  },
-  {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
    "hours": 6,
    "src": "tv24.co.uk"
@@ -1088,13 +1083,18 @@
    "src": "tv24.co.uk"
   },
   {
-   "ch": "UK| SKY SPORTS BOX OFFICE HD",
+   "ch": "US| MAV TV",
    "hours": 6,
-   "src": "tv24.co.uk"
+   "src": "tvinsider.com"
+  },
+  {
+   "ch": "US| MAV TV HD",
+   "hours": 6,
+   "src": "tvinsider.com"
   },
   {
    "ch": "US| PBS HD",
-   "hours": 8,
+   "hours": 7,
    "src": "tvinsider.com"
   }
  ],
@@ -1102,7 +1102,7 @@
  "badTimes": [
   {
    "ch": "TV| TASTEMADE HOME ᴿᴬᵂ",
-   "bad": 1,
+   "bad": 2,
    "src": "epgshare01.online"
   },
   {
@@ -1114,119 +1114,112 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1402,
+   "+0000": 1400,
    "-0500": 30
   },
   "sky.com": {
    "+0000": 369
   },
   "directv.com": {
-   "+0000": 268
+   "+0000": 266
   },
   "tvinsider.com": {
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 75
+   "+0000": 56
   },
   "freeview.co.uk": {
    "+0000": 48
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 11
+   "+0000": 7
   },
   "player.ee.co.uk": {
-   "+0000": 8
+   "+0000": 4
   },
   "dazn.com": {
    "+0000": 9
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sat 18:35 Strictly Come Dancing: Blackpool Special",
-   "Sat 20:15 Michael McIntyre&apos;s The Wheel",
-   "Sat 21:15 Honey",
-   "Sat 22:00 BBC News",
-   "Sat 22:20 Match of the Day",
-   "Sat 23:45 Far from the Madding Crowd"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sat 19:15 Celebrity Catchphrase",
-   "Sat 20:10 The 1% Club",
-   "Sat 21:15 New: I&apos;m a Celebrity... Get Me",
-   "Sat 22:20 ITV News",
-   "Sat 22:30 It&apos;ll Be Alright on the Night",
-   "Sat 23:25 English Football League Highlights"
+   "Sun 00:55 Shop on TV",
+   "Sun 03:00 Grantchester",
+   "Sun 03:50 Unwind with ITV",
+   "Sun 05:05 Fletchers&apos; Family Farm",
+   "Sun 06:00 James Martin&apos;s Great British Adventure",
+   "Sun 07:00 James Martin&apos;s Saturday Morning"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Sat 17:00 Live SNF: Newcastle v Arsenal",
-   "Sat 20:00 Live Grand Slam Of Darts Q/Final",
-   "Sat 23:00 Sky Sports News",
-   "Sun 00:00 Sky Sports News",
-   "Sun 00:15 Live F1 Academy: Race 2",
-   "Sun 01:05 US F1 GP Bitesize Highlights"
+   "Sun 01:25 Las Vegas F1 GP: Qualifying Hlts",
+   "Sun 02:25 Flying Lap: Las Vegas",
+   "Sun 02:30 Live Grand Prix Sunday: Las Vegas",
+   "Sun 03:55 Live Las Vegas F1 Grand Prix",
+   "Sun 06:00 Live Chequered Flag: Las Vegas",
+   "Sun 07:00 Las Vegas F1 GP Highlights"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sat 17:45 Las Vegas F1 GP: Qualifying",
-   "Sat 19:45 Kimi Antonelli - World Champion",
-   "Sat 19:55 Flying Lap: Las Vegas",
-   "Sat 20:00 Las Vegas F1 GP: Qualifying",
-   "Sat 22:00 Kimi Antonelli - World Champion",
-   "Sat 22:10 Flying Lap: Las Vegas"
+   "Sun 01:25 Las Vegas F1 GP: Qualifying Hlts",
+   "Sun 02:25 Flying Lap: Las Vegas",
+   "Sun 02:30 Live Grand Prix Sunday: Las Vegas",
+   "Sun 03:55 Live Las Vegas F1 Grand Prix",
+   "Sun 06:00 Live Chequered Flag: Las Vegas",
+   "Sun 07:00 Las Vegas F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sat 17:00 Live: College Football",
-   "Sat 20:30 Salute to Service Special",
-   "Sat 21:30 New York Live",
-   "Sat 22:00 Open House NYC",
-   "Sat 22:30 Open House Outrageous",
-   "Sat 23:00 News4 NY at 6 Weekend"
+   "Sun 00:30 Live: College Football",
+   "Sun 04:00 Live: News 4 NY at 11",
+   "Sun 04:29 Saturday Night Live",
+   "Sun 06:03 Open House Outrageous",
+   "Sun 06:32 George to the Rescue",
+   "Sun 07:02 Open House Outrageous"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sat 17:00 Live: College Football",
-   "Sat 20:00 Live: College Football Scoreboard",
-   "Sat 20:30 Live: College Football",
-   "Sat 23:30 Live: College Football Scoreboard",
    "Sun 00:00 Live: College Football",
-   "Sun 03:00 Live: College Football Scoreboard"
+   "Sun 03:00 Live: College Football Scoreboard",
+   "Sun 03:15 Live: College Football",
+   "Sun 06:15 Live: SportsCenter",
+   "Sun 07:00 Live: SportsCenter",
+   "Sun 08:00 College Football Final"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sat 19:00 CNN Newsroom With Fredricka Whitfield",
-   "Sat 20:00 CNN Newsroom With Fredricka Whitfield",
-   "Sat 21:00 CNN Newsroom",
-   "Sat 22:00 CNN Newsroom",
-   "Sat 23:00 CNN Newsroom",
-   "Sun 00:00 CNN Newsroom"
+   "Sun 01:00 Real Time With Bill Maher",
+   "Sun 02:00 Have I Got News for You",
+   "Sun 03:00 The Trials of Lindsay Clancy",
+   "Sun 04:00 Real Time With Bill Maher",
+   "Sun 05:00 Have I Got News for You",
+   "Sun 06:00 The Trials of Lindsay Clancy"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sat 17:30 Live: College Football",
-   "Sat 21:00 Live: College Football",
    "Sun 00:30 Live: College Football",
    "Sun 04:00 The Big Bang Theory",
    "Sun 04:30 The Big Bang Theory",
-   "Sun 05:00 L.A. Unscripted"
+   "Sun 05:00 L.A. Unscripted",
+   "Sun 05:30 Friends",
+   "Sun 06:00 KTLA 5 News at 10"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sat 18:35 The Great British Bake Off",
-   "Sat 19:45 Channel 4 News",
-   "Sat 20:15 Ottoman Empire by Train with...",
-   "Sat 21:15 New: Griff Across the Alps",
-   "Sat 22:15 New: A Friend of the Family",
-   "Sat 23:20 New: A Friend of the Family"
+   "Sun 00:30 Spencer",
+   "Sun 02:35 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Sun 03:20 I Am Helen",
+   "Sun 04:15 I Am Helen",
+   "Sun 05:05 The Dog House",
+   "Sun 06:00 The Simpsons"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sat 19:10 Red Dwarf",
-   "Sat 19:50 Red Dwarf",
-   "Sat 20:25 Red Dwarf",
-   "Sat 21:00 Not Going Out Christmas Special: Wilfred",
-   "Sat 22:00 Not Going Out",
-   "Sat 22:35 Would I Lie To You?"
+   "Sun 00:35 Have I Got a Bit More News for You",
+   "Sun 01:35 Live at the Apollo",
+   "Sun 02:40 Dave Gorman: Modern Life Is Goodish",
+   "Sun 03:30 Red Dwarf",
+   "Sun 04:00 Teleshopping",
+   "Sun 06:00 Teleshopping"
   ]
  },
- "doubleEscaped": 1320,
+ "doubleEscaped": 1318,
  "counts": {
-  "weakMatches": 1124,
+  "weakMatches": 1123,
   "sharedIds": 22,
   "stale": 0,
   "gaps": 6,

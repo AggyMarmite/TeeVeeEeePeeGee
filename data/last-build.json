@@ -1,14 +1,14 @@
 {
- "built": "2026-11-21T19:35",
+ "built": "2026-11-22T01:31",
  "channels": 2338,
- "programmes": 182296,
- "noListings": 25,
- "withLogo": 1887,
- "xmlMB": 88.9,
- "gzMB": 12.5,
+ "programmes": 204202,
+ "noListings": 56,
+ "withLogo": 1903,
+ "xmlMB": 99.4,
+ "gzMB": 13.7,
  "bySite": {
   "epgshare01.online": [
-   1443,
+   1441,
    3
   ],
   "sky.com": [
@@ -20,27 +20,27 @@
    0
   ],
   "directv.com": [
-   268,
-   0
+   266,
+   2
   ],
   "tv24.co.uk": [
-   83,
-   15
+   64,
+   16
   ],
   "freeview.co.uk": [
    49,
-   0
-  ],
-  "virgintvgo.virginmedia.com": [
-   12,
-   0
+   2
   ],
   "mytelly.co.uk": [
    0,
-   7
+   33
+  ],
+  "virgintvgo.virginmedia.com": [
+   8,
+   0
   ],
   "player.ee.co.uk": [
-   8,
+   4,
    0
   ],
   "dazn.com": [
@@ -75,23 +75,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Sky Greats = Sky.Greats.uk",
-     "Sky Documentaries HD = Sky.Documentaries.HD.uk",
-     "STV Central = STV.Central.uk",
-     "Channel 4 HD = Channel.4.HD.uk",
-     "U and Drama = U.and.Drama.uk",
-     "Dunamis TV = Dunamis.TV.uk"
+     "BBC R Cymru 2 = BBC.R.Cymru.2.uk",
+     "5STAR = 5STAR.uk",
+     "SkySp Action = SkySp.Action.uk",
+     "Aastha = Aastha.uk",
+     "E4 Extra = E4.Extra.uk",
+     "BBC One Yorks HD = BBC.One.Yorks.HD.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "FYI Channel HD = FYI.Channel.HD.us2",
-     "HBO Latino HD = HBO.Latino.HD.us2",
-     "Outdoor Channel HD = Outdoor.Channel.HD.us2",
-     "Cine Mexicano US Feed = Cine.Mexicano.US.Feed.us2",
-     "WRR 101.9 = WRR.101.9.us2",
-     "Monumental Sports Network Outer Market = Monumental.Sports.Network.Outer.Market.us2"
+     "ESPN2 HD = ESPN2.HD.us2",
+     "i-CABLE News = i-CABLE.News.us2",
+     "Trinity Broadcasting Network HD = Trinity.Broadcasting.Network.HD.us2",
+     "90s Sitcoms = 90s.Sitcoms.us2",
+     "Rai News 24 = Rai.News.24.us2",
+     "Playboy En Español = Playboy.En.Español.us2"
     ]
    },
    "US_LOCALS1": {
@@ -121,7 +121,7 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 272
+    "programmes": 278
    },
    "IE1": {
     "channels": 2,
@@ -129,19 +129,19 @@
     "programmes": 130
    },
    "UK1": {
-    "channels": 34,
-    "withListings": 31,
-    "programmes": 1765
+    "channels": 33,
+    "withListings": 30,
+    "programmes": 2203
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15741
+    "programmes": 19373
    },
    "US_LOCALS1": {
     "channels": 861,
     "withListings": 861,
-    "programmes": 83007
+    "programmes": 85658
    },
    "US_SPORTS1": {
     "channels": 22,
