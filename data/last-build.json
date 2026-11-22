@@ -1,14 +1,14 @@
 {
- "built": "2026-11-22T01:31",
- "channels": 2338,
- "programmes": 204202,
- "noListings": 56,
- "withLogo": 1903,
- "xmlMB": 99.4,
- "gzMB": 13.7,
+ "built": "2026-11-22T11:47",
+ "channels": 2368,
+ "programmes": 194201,
+ "noListings": 25,
+ "withLogo": 1915,
+ "xmlMB": 94.4,
+ "gzMB": 12.8,
  "bySite": {
   "epgshare01.online": [
-   1441,
+   1473,
    3
   ],
   "sky.com": [
@@ -20,27 +20,27 @@
    0
   ],
   "directv.com": [
-   266,
-   2
+   268,
+   0
   ],
   "tv24.co.uk": [
-   64,
-   16
+   83,
+   15
   ],
   "freeview.co.uk": [
    49,
-   2
+   0
+  ],
+  "virgintvgo.virginmedia.com": [
+   12,
+   0
   ],
   "mytelly.co.uk": [
    0,
-   33
-  ],
-  "virgintvgo.virginmedia.com": [
-   8,
-   0
+   7
   ],
   "player.ee.co.uk": [
-   4,
+   8,
    0
   ],
   "dazn.com": [
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "WBZ = WBZ.ca2",
-     "Super Écran = Super.Écran.ca2",
-     "CHNM-DT = CHNM-DT.ca2",
-     "Disney Channel Canada HD = Disney.Channel.Canada.HD.ca2",
-     "Global Regina = Global.Regina.ca2",
-     "TSN 3 HD = TSN.3.HD.ca2"
+     "Stingray Around the World = Stingray.Around.the.World.ca2",
+     "CFCF-DT = CFCF-DT.ca2",
+     "The Miracle Channel - CJIL = The.Miracle.Channel.-.CJIL.ca2",
+     "NHL Centre Ice HD 5 = NHL.Centre.Ice.HD.5.ca2",
+     "Adult Only Video - Movies = Adult.Only.Video.-.Movies.ca2",
+     "WBZ-DT = WBZ-DT.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 278
+    "programmes": 283
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 130
+    "programmes": 120
    },
    "UK1": {
-    "channels": 33,
-    "withListings": 30,
-    "programmes": 2203
+    "channels": 34,
+    "withListings": 31,
+    "programmes": 2060
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19373
+    "programmes": 18081
    },
    "US_LOCALS1": {
-    "channels": 861,
-    "withListings": 861,
-    "programmes": 85658
+    "channels": 890,
+    "withListings": 890,
+    "programmes": 84641
    },
    "US_SPORTS1": {
     "channels": 22,

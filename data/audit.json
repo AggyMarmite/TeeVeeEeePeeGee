@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T01:31",
+ "built": "2026-11-22T11:47",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -12,6 +12,12 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
+  },
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC One HD · tv24.co.uk",
+   "score": 84,
+   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -894,12 +900,6 @@
    "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
-   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1065,7 +1065,13 @@
    ]
   }
  ],
- "stale": [],
+ "stale": [
+  {
+   "ch": "TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ",
+   "hoursAhead": 16,
+   "src": "directv.com"
+  }
+ ],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1080,6 +1086,11 @@
   {
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
+   "src": "tv24.co.uk"
+  },
+  {
+   "ch": "UK| SKY SPORTS BOX OFFICE HD",
+   "hours": 6,
    "src": "tv24.co.uk"
   },
   {
@@ -1114,115 +1125,122 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1400,
+   "+0000": 1432,
    "-0500": 30
   },
   "sky.com": {
    "+0000": 369
   },
   "directv.com": {
-   "+0000": 266
+   "+0000": 268
   },
   "tvinsider.com": {
    "+0000": 28
   },
   "tv24.co.uk": {
-   "+0000": 56
+   "+0000": 75
   },
   "freeview.co.uk": {
    "+0000": 48
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 7
+   "+0000": 11
   },
   "player.ee.co.uk": {
-   "+0000": 4
+   "+0000": 8
   },
   "dazn.com": {
    "+0000": 9
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [],
+  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
+   "Sun 11:30 Celebration Kitchen Live: Guru Nanak Gurpurab",
+   "Sun 11:30 Celebration Kitchen Live: Guru Nanak Gurpurab",
+   "Sun 12:30 Bargain Hunt",
+   "Sun 12:55 Points of View",
+   "Sun 13:10 BBC News",
+   "Sun 13:20 Weather for the Week Ahead"
+  ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 00:55 Shop on TV",
-   "Sun 03:00 Grantchester",
-   "Sun 03:50 Unwind with ITV",
-   "Sun 05:05 Fletchers&apos; Family Farm",
-   "Sun 06:00 James Martin&apos;s Great British Adventure",
-   "Sun 07:00 James Martin&apos;s Saturday Morning"
+   "Sun 11:30 EFL Live: Burnley v Blackburn Rovers",
+   "Sun 14:25 Die Another Day",
+   "Sun 16:50 Tipping Point: Lucky Stars",
+   "Sun 17:50 ITV Evening News",
+   "Sun 18:00 ITV News Tyne Tees",
+   "Sun 18:05 Wicked"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 01:25 Las Vegas F1 GP: Qualifying Hlts",
-   "Sun 02:25 Flying Lap: Las Vegas",
-   "Sun 02:30 Live Grand Prix Sunday: Las Vegas",
-   "Sun 03:55 Live Las Vegas F1 Grand Prix",
-   "Sun 06:00 Live Chequered Flag: Las Vegas",
-   "Sun 07:00 Las Vegas F1 GP Highlights"
+   "Sun 11:30 Live WSL: Manchester City v Spurs",
+   "Sun 14:00 Live PL: Hull City v Brighton",
+   "Sun 16:00 Live PL: Liverpool v Man United",
+   "Sun 19:30 Live Grand Slam Of Darts Final",
+   "Sun 21:45 Live NFL Jaguars @ Giants",
+   "Mon 00:30 Live Football Night In America"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sun 01:25 Las Vegas F1 GP: Qualifying Hlts",
-   "Sun 02:25 Flying Lap: Las Vegas",
-   "Sun 02:30 Live Grand Prix Sunday: Las Vegas",
-   "Sun 03:55 Live Las Vegas F1 Grand Prix",
-   "Sun 06:00 Live Chequered Flag: Las Vegas",
-   "Sun 07:00 Las Vegas F1 GP Highlights"
+   "Sun 11:00 Live Ferrari Challenge Europe",
+   "Sun 12:00 Las Vegas F1 GP Highlights",
+   "Sun 13:00 Flying Lap: Las Vegas",
+   "Sun 13:05 Kimi Antonelli - World Champion",
+   "Sun 13:15 Live Ferrari Challenge Europe",
+   "Sun 14:15 Las Vegas F1 Grand Prix"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 00:30 Live: College Football",
-   "Sun 04:00 Live: News 4 NY at 11",
-   "Sun 04:29 Saturday Night Live",
-   "Sun 06:03 Open House Outrageous",
-   "Sun 06:32 George to the Rescue",
-   "Sun 07:02 Open House Outrageous"
+   "Sun 11:00 Sunday Today in New York",
+   "Sun 12:00 Sunday Today in New York",
+   "Sun 13:00 Sunday Today With Willie Geist",
+   "Sun 14:00 Open House NYC",
+   "Sun 14:30 Sunday Today in New York",
+   "Sun 15:30 Meet the Press"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 00:00 Live: College Football",
-   "Sun 03:00 Live: College Football Scoreboard",
-   "Sun 03:15 Live: College Football",
-   "Sun 06:15 Live: SportsCenter",
-   "Sun 07:00 Live: SportsCenter",
-   "Sun 08:00 College Football Final"
+   "Sun 11:30 NFL Matchup",
+   "Sun 12:00 Live: SportsCenter",
+   "Sun 13:00 Live: SportsCenter",
+   "Sun 14:00 Live: SportsCenter",
+   "Sun 15:00 Live: Sunday NFL Countdown",
+   "Sun 18:00 Live: Women&apos;s College Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 01:00 Real Time With Bill Maher",
-   "Sun 02:00 Have I Got News for You",
-   "Sun 03:00 The Trials of Lindsay Clancy",
-   "Sun 04:00 Real Time With Bill Maher",
-   "Sun 05:00 Have I Got News for You",
-   "Sun 06:00 The Trials of Lindsay Clancy"
+   "Sun 11:00 CNN This Morning Weekend",
+   "Sun 12:00 CNN This Morning Weekend",
+   "Sun 13:00 Inside Politics With Manu Raju",
+   "Sun 14:00 State of the Union With Jake Tapper and Dana Bash",
+   "Sun 15:00 Fareed Zakaria GPS",
+   "Sun 16:00 Inside Politics With Manu Raju"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 00:30 Live: College Football",
-   "Sun 04:00 The Big Bang Theory",
-   "Sun 04:30 The Big Bang Theory",
-   "Sun 05:00 L.A. Unscripted",
-   "Sun 05:30 Friends",
-   "Sun 06:00 KTLA 5 News at 10"
+   "Sun 11:00 Bathroom Makeover",
+   "Sun 12:00 Paid Programming",
+   "Sun 12:30 Cosmetic Surgery Awake",
+   "Sun 13:00 Police 24/7",
+   "Sun 13:30 Inside California Politics",
+   "Sun 14:00 KTLA 5 Morning News at 6"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 00:30 Spencer",
-   "Sun 02:35 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Sun 03:20 I Am Helen",
-   "Sun 04:15 I Am Helen",
-   "Sun 05:05 The Dog House",
-   "Sun 06:00 The Simpsons"
+   "Sun 11:00 Sunday Brunch",
+   "Sun 14:00 F1 Las Vegas GP Highlights",
+   "Sun 16:30 George Clarke&apos;s Amazing Spaces",
+   "Sun 17:05 A Place in the Sun",
+   "Sun 17:50 50 First Dates",
+   "Sun 19:30 Channel 4 News"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 00:35 Have I Got a Bit More News for You",
-   "Sun 01:35 Live at the Apollo",
-   "Sun 02:40 Dave Gorman: Modern Life Is Goodish",
-   "Sun 03:30 Red Dwarf",
-   "Sun 04:00 Teleshopping",
-   "Sun 06:00 Teleshopping"
+   "Sun 11:40 Red Bull Soapbox Race",
+   "Sun 12:40 Our Guy in China",
+   "Sun 13:40 World&apos;s Most Dangerous Roads",
+   "Sun 14:40 Would I Lie To You?",
+   "Sun 15:20 Would I Lie To You?",
+   "Sun 16:00 Would I Lie To You?"
   ]
  },
- "doubleEscaped": 1318,
+ "doubleEscaped": 1348,
  "counts": {
-  "weakMatches": 1123,
+  "weakMatches": 1154,
   "sharedIds": 22,
-  "stale": 0,
-  "gaps": 6,
+  "stale": 1,
+  "gaps": 7,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0
