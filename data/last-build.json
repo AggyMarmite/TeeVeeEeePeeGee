@@ -1,51 +1,51 @@
 {
- "built": "2026-11-22T19:54",
- "channels": 2405,
- "programmes": 174823,
- "noListings": 25,
- "withLogo": 1952,
- "xmlMB": 85.5,
- "gzMB": 11.2,
+ "built": "2026-11-23T01:55",
+ "channels": 2411,
+ "programmes": 212272,
+ "noListings": 87,
+ "withLogo": 1973,
+ "xmlMB": 104.2,
+ "gzMB": 13.1,
  "bySite": {
   "epgshare01.online": [
-   1510,
-   3
+   1512,
+   9
   ],
   "sky.com": [
-   411,
-   0
+   405,
+   6
   ],
   "tvinsider.com": [
    30,
    0
   ],
   "directv.com": [
-   268,
-   0
-  ],
-  "tv24.co.uk": [
-   83,
-   15
-  ],
-  "freeview.co.uk": [
-   49,
-   0
-  ],
-  "virgintvgo.virginmedia.com": [
-   12,
-   0
+   265,
+   3
   ],
   "mytelly.co.uk": [
    0,
-   7
+   36
+  ],
+  "tv24.co.uk": [
+   54,
+   32
+  ],
+  "freeview.co.uk": [
+   46,
+   0
+  ],
+  "virgintvgo.virginmedia.com": [
+   7,
+   0
   ],
   "player.ee.co.uk": [
-   8,
+   5,
    0
   ],
   "dazn.com": [
-   9,
-   0
+   0,
+   1
   ]
  },
  "epgshare": {
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "BBC R Cymru 2 = BBC.R.Cymru.2.uk",
-     "5STAR = 5STAR.uk",
-     "SkySp Action = SkySp.Action.uk",
-     "Aastha = Aastha.uk",
-     "E4 Extra = E4.Extra.uk",
-     "BBC One Yorks HD = BBC.One.Yorks.HD.uk"
+     "Channels 24 = Channels.24.uk",
+     "NDTV 24x7 = NDTV.24x7.uk",
+     "Cartoon Netwrk = Cartoon.Netwrk.uk",
+     "Virgin Radio = Virgin.Radio.uk",
+     "High Street TV 1 = High.Street.TV.1.uk",
+     "E4 Extra = E4.Extra.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "ESPN2 HD = ESPN2.HD.us2",
-     "i-CABLE News = i-CABLE.News.us2",
-     "Trinity Broadcasting Network HD = Trinity.Broadcasting.Network.HD.us2",
-     "90s Sitcoms = 90s.Sitcoms.us2",
-     "Rai News 24 = Rai.News.24.us2",
-     "Playboy En Español = Playboy.En.Español.us2"
+     "Bloomberg Business Television = Bloomberg.Business.Television.us2",
+     "VGN TV = VGN.TV.us2",
+     "Xumo Free Westerns = Xumo.Free.Westerns.us2",
+     "NBA League Pass 4 HD = NBA.League.Pass.4.HD.us2",
+     "NBA League Pass 5 HD = NBA.League.Pass.5.HD.us2",
+     "EarthX = EarthX.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "KFXA-DT = KFXA-DT.us_locals1",
-     "KGKC-LD = KGKC-LD.us_locals1",
-     "KUIL-LD = KUIL-LD.us_locals1",
-     "KRCR-DT = KRCR-DT.us_locals1",
-     "WTRF-DT = WTRF-DT.us_locals1",
-     "KDCU-DT = KDCU-DT.us_locals1"
+     "WSQY-LD = WSQY-LD.us_locals1",
+     "K27KP-D = K27KP-D.us_locals1",
+     "KSMS-DT = KSMS-DT.us_locals1",
+     "WACX-DT = WACX-DT.us_locals1",
+     "K28LH-D = K28LH-D.us_locals1",
+     "W17CT-D = W17CT-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 291
+    "programmes": 295
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 125
+    "programmes": 120
    },
    "UK1": {
-    "channels": 34,
-    "withListings": 31,
-    "programmes": 1771
+    "channels": 39,
+    "withListings": 30,
+    "programmes": 2259
    },
    "US2": {
-    "channels": 225,
-    "withListings": 225,
-    "programmes": 16011
+    "channels": 226,
+    "withListings": 226,
+    "programmes": 19574
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 75680
+    "programmes": 94215
    },
    "US_SPORTS1": {
     "channels": 22,

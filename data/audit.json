@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T19:54",
+ "built": "2026-11-23T01:55",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -12,12 +12,6 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
-  },
-  {
-   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
-   "src": "BBC One HD · tv24.co.uk",
-   "score": 84,
-   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -117,7 +111,7 @@
   },
   {
    "ch": "US| PBS PORTLAND (KOPB) OR",
-   "src": "KOPB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -273,7 +267,7 @@
   },
   {
    "ch": "US| ABC 7 SAN FRANCISCO CA (KGO)",
-   "src": "KGO-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KGO-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -459,7 +453,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -477,7 +471,7 @@
   },
   {
    "ch": "US| ABC 8 TULSA OK (KTUL)",
-   "src": "KTUL-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTUL-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -519,7 +513,7 @@
   },
   {
    "ch": "US| ABC 18 BUTTE MT (KWYB)",
-   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KWYB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -705,7 +699,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-CD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -900,6 +894,12 @@
    "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
+   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
   }
  ],
  "sharedIds": [
@@ -1068,8 +1068,23 @@
  "stale": [
   {
    "ch": "TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ",
-   "hoursAhead": 8,
+   "hoursAhead": 2,
    "src": "directv.com"
+  },
+  {
+   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
+   "hoursAhead": 9,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS NORTH HD",
+   "hoursAhead": 9,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS SOUTH HD",
+   "hoursAhead": 9,
+   "src": "epgshare01.online"
   }
  ],
  "gaps": [
@@ -1095,12 +1110,12 @@
   },
   {
    "ch": "US| MAV TV",
-   "hours": 6,
+   "hours": 11,
    "src": "tvinsider.com"
   },
   {
    "ch": "US| MAV TV HD",
-   "hours": 6,
+   "hours": 11,
    "src": "tvinsider.com"
   },
   {
@@ -1113,7 +1128,7 @@
  "badTimes": [
   {
    "ch": "TV| TASTEMADE HOME ᴿᴬᵂ",
-   "bad": 2,
+   "bad": 1,
    "src": "epgshare01.online"
   },
   {
@@ -1125,121 +1140,111 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1469,
-   "-0500": 30
+   "+0000": 1468,
+   "-0500": 33
   },
   "sky.com": {
-   "+0000": 369
+   "+0000": 363
   },
   "directv.com": {
-   "+0000": 268
+   "+0000": 265
   },
   "tvinsider.com": {
    "+0000": 28
   },
-  "tv24.co.uk": {
-   "+0000": 75
-  },
   "freeview.co.uk": {
-   "+0000": 48
+   "+0000": 45
+  },
+  "tv24.co.uk": {
+   "+0000": 46
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 11
+   "+0000": 6
   },
   "player.ee.co.uk": {
-   "+0000": 8
-  },
-  "dazn.com": {
-   "+0000": 9
+   "+0000": 5
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Sun 19:10 Strictly Come Dancing: The Results",
-   "Sun 20:00 Blue Planet III",
-   "Sun 21:00 The Witch Farm",
-   "Sun 22:00 BBC News and Weather",
-   "Sun 22:25 BBC London News",
-   "Sun 22:30 Match of the Day"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Sun 18:05 Wicked",
-   "Sun 21:00 New: I&apos;m a Celebrity... Get Me...",
-   "Sun 22:30 New: Sorry, I Didn&apos;t Know",
-   "Sun 22:55 ITV News",
-   "Sun 23:15 New: Outlier: Manager Idol:...",
-   "Mon 00:15 The Debrief with Dan and ROG"
+   "Mon 01:20 Shop on TV",
+   "Mon 03:00 Motorsport UK",
+   "Mon 03:50 Unwind with ITV",
+   "Mon 05:05 Ainsley&apos;s Taste of the Bahamas",
+   "Mon 05:30 Clodagh: Cooking at Home",
+   "Mon 06:00 Good Morning Britain"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Sun 19:30 Live Grand Slam Of Darts Final",
-   "Sun 21:45 Live NFL Jaguars @ Giants",
-   "Mon 00:30 Live Football Night In America",
    "Mon 01:10 Live: NFL Vikings @ 49ers",
    "Mon 04:45 Sky Sports News",
-   "Mon 05:00 Sky Sports News"
+   "Mon 05:00 Sky Sports News",
+   "Mon 06:00 Sky Sports News",
+   "Mon 07:00 Live 2nd Test Day 1: SA v BAN",
+   "Mon 16:00 Sports Desk"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Sun 19:45 Las Vegas F1 GP Highlights",
-   "Sun 20:45 Las Vegas F1 Grand Prix",
-   "Sun 23:00 F1 Academy: Race 2",
    "Mon 00:00 Las Vegas F1 Grand Prix",
    "Mon 02:15 The Best of Miami 2026",
-   "Mon 03:00 The Best of Canada 2026"
+   "Mon 03:00 The Best of Canada 2026",
+   "Mon 03:30 The Best of Monaco 2026",
+   "Mon 04:00 The Best of Barcelona 2026",
+   "Mon 04:30 The Best of Austria 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Sun 18:00 Live: 2026 CME Group Tour Championship",
-   "Sun 21:00 ISU Grand Prix of Figure Skating",
-   "Sun 23:00 News4 NY at 6 Weekend",
-   "Sun 23:30 NBC Nightly News With Tom Llamas",
-   "Mon 00:00 Live: Football Night in America",
-   "Mon 01:15 Live: NFL Football"
+   "Mon 01:15 Live: NFL Football",
+   "Mon 04:30 News 4 NY at 11:30",
+   "Mon 05:00 Sports Final",
+   "Mon 05:30 Open House Outrageous",
+   "Mon 06:00 Open House NYC",
+   "Mon 06:30 Open House"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Sun 18:00 Live: Women&apos;s College Basketball",
-   "Sun 20:00 College Basketball Live Scoreboard",
-   "Sun 20:30 Live: College Basketball",
-   "Sun 22:30 Live: Women&apos;s College Basketball",
-   "Mon 00:30 Live: SportsCenter",
-   "Mon 01:30 30 for 30"
+   "Mon 01:30 30 for 30",
+   "Mon 03:30 Live: SportsCenter",
+   "Mon 04:30 Live: SportsCenter With Scott Van Pelt",
+   "Mon 06:00 Live: SportsCenter",
+   "Mon 07:00 Live: SportsCenter",
+   "Mon 08:00 SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Sun 19:00 CNN Newsroom With Fredricka Whitfield",
-   "Sun 20:00 CNN Newsroom With Fredricka Whitfield",
-   "Sun 21:00 CNN Newsroom With Fredricka Whitfield",
-   "Sun 22:00 CNN Newsroom",
-   "Sun 23:00 CNN Newsroom",
-   "Mon 00:00 CNN Newsroom"
+   "Mon 01:00 United States of Scandal",
+   "Mon 02:00 United States of Scandal",
+   "Mon 03:00 United States of Scandal",
+   "Mon 04:00 United States of Scandal",
+   "Mon 05:00 United States of Scandal",
+   "Mon 06:00 United States of Scandal"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Sun 19:00 In Touch With Dr. Charles Stanley",
-   "Sun 20:00 Jack Hibbs -- Real Life",
-   "Sun 20:30 Live: College Basketball",
-   "Sun 22:30 The Big Bang Theory",
-   "Sun 23:00 Jack Hanna&apos;s Into the Wild",
-   "Sun 23:30 Jack Hanna&apos;s Into the Wild"
+   "Mon 01:00 KTLA 5 News at 5",
+   "Mon 02:00 KTLA 5 News at 6",
+   "Mon 02:30 KTLA 5 News at 6:30",
+   "Mon 03:00 Penn & Teller: Fool Us",
+   "Mon 04:00 Dolly Parton&apos;s Christmas of Many Colors: Circle of Love",
+   "Mon 06:00 KTLA 5 News at 10"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Sun 19:30 Channel 4 News",
-   "Sun 20:00 New Zealand by Train",
-   "Sun 21:00 New: Kevin McCloud&apos;s Classic...",
-   "Sun 22:00 New: Stacey Dooley&apos;s Australia...",
-   "Sun 23:00 Gogglebox",
-   "Mon 00:00 24 Hours in A&E"
+   "Mon 01:55 Ramsay&apos;s 24 Hours to Hell and Back",
+   "Mon 02:45 New: A Friend of the Family",
+   "Mon 03:40 New: A Friend of the Family",
+   "Mon 04:40 The Simpsons",
+   "Mon 05:05 The Simpsons",
+   "Mon 05:30 Kirstie and Phil&apos;s Love It or..."
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Sun 19:00 Guy Martin vs the Robot Car",
-   "Sun 20:00 World&apos;s Most Dangerous Roads",
-   "Sun 21:00 Have I Got a Bit More News for You",
-   "Sun 22:00 Jack Dee&apos;s Help Me Tiny Big Brain",
-   "Sun 22:40 Mock the Week",
-   "Sun 23:20 Mock the Week"
+   "Mon 01:00 QI XL",
+   "Mon 02:00 Dave Gorman: Modern Life Is Goodish",
+   "Mon 03:00 Will & Ralf Should Know Better",
+   "Mon 04:00 Teleshopping",
+   "Mon 06:00 Teleshopping",
+   "Mon 07:10 Top Gear"
   ]
  },
- "doubleEscaped": 1385,
+ "doubleEscaped": 1388,
  "counts": {
-  "weakMatches": 1191,
+  "weakMatches": 1178,
   "sharedIds": 22,
-  "stale": 1,
+  "stale": 4,
   "gaps": 7,
   "overlaps": 0,
   "badTimes": 2,
