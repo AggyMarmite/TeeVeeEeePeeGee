@@ -1,19 +1,19 @@
 {
- "built": "2026-11-23T01:55",
- "channels": 2411,
- "programmes": 212272,
- "noListings": 87,
- "withLogo": 1973,
- "xmlMB": 104.2,
- "gzMB": 13.1,
+ "built": "2026-11-23T13:22",
+ "channels": 2405,
+ "programmes": 195823,
+ "noListings": 31,
+ "withLogo": 1958,
+ "xmlMB": 95.6,
+ "gzMB": 11.6,
  "bySite": {
   "epgshare01.online": [
-   1512,
-   9
+   1510,
+   6
   ],
   "sky.com": [
-   405,
-   6
+   411,
+   0
   ],
   "tvinsider.com": [
    30,
@@ -21,31 +21,31 @@
   ],
   "directv.com": [
    265,
-   3
+   0
+  ],
+  "tv24.co.uk": [
+   82,
+   15
+  ],
+  "freeview.co.uk": [
+   48,
+   0
   ],
   "mytelly.co.uk": [
    0,
-   36
-  ],
-  "tv24.co.uk": [
-   54,
-   32
-  ],
-  "freeview.co.uk": [
-   46,
-   0
+   9
   ],
   "virgintvgo.virginmedia.com": [
-   7,
-   0
+   11,
+   1
   ],
   "player.ee.co.uk": [
-   5,
+   8,
    0
   ],
   "dazn.com": [
-   0,
-   1
+   9,
+   0
   ]
  },
  "epgshare": {
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "Stingray Around the World = Stingray.Around.the.World.ca2",
-     "CFCF-DT = CFCF-DT.ca2",
-     "The Miracle Channel - CJIL = The.Miracle.Channel.-.CJIL.ca2",
-     "NHL Centre Ice HD 5 = NHL.Centre.Ice.HD.5.ca2",
-     "Adult Only Video - Movies = Adult.Only.Video.-.Movies.ca2",
-     "WBZ-DT = WBZ-DT.ca2"
+     "NFL Sunday Ticket NFL10 (HDTV) = NFL.Sunday.Ticket.NFL10.(HDTV).ca2",
+     "CBMT - CBC Montreal = CBMT.-.CBC.Montreal.ca2",
+     "TÉMOIN = TÉMOIN.ca2",
+     "NHL Centre Ice HD 6 = NHL.Centre.Ice.HD.6.ca2",
+     "WCVB Satellite = WCVB.Satellite.ca2",
+     "Fairchild (Vancouver) VCHILD = Fairchild.(Vancouver).VCHILD.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 295
+    "programmes": 289
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 120
+    "programmes": 154
    },
    "UK1": {
-    "channels": 39,
-    "withListings": 30,
-    "programmes": 2259
+    "channels": 34,
+    "withListings": 31,
+    "programmes": 1996
    },
    "US2": {
     "channels": 226,
     "withListings": 226,
-    "programmes": 19574
+    "programmes": 17820
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 94215
+    "programmes": 86824
    },
    "US_SPORTS1": {
     "channels": 22,

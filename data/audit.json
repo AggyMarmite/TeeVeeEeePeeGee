@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T01:55",
+ "built": "2026-11-23T13:22",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -1065,28 +1065,7 @@
    ]
   }
  ],
- "stale": [
-  {
-   "ch": "TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ",
-   "hoursAhead": 2,
-   "src": "directv.com"
-  },
-  {
-   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 9,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 9,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 9,
-   "src": "epgshare01.online"
-  }
- ],
+ "stale": [],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 1",
@@ -1140,11 +1119,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1468,
-   "-0500": 33
+   "+0000": 1469,
+   "-0500": 30
   },
   "sky.com": {
-   "+0000": 363
+   "+0000": 369
   },
   "directv.com": {
    "+0000": 265
@@ -1152,99 +1131,109 @@
   "tvinsider.com": {
    "+0000": 28
   },
-  "freeview.co.uk": {
-   "+0000": 45
-  },
   "tv24.co.uk": {
-   "+0000": 46
+   "+0000": 74
+  },
+  "freeview.co.uk": {
+   "+0000": 47
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 6
+   "+0000": 10
   },
   "player.ee.co.uk": {
-   "+0000": 5
+   "+0000": 8
+  },
+  "dazn.com": {
+   "+0000": 9
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
+  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
+   "Mon 13:00 BBC News at One including BBC London News",
+   "Mon 14:00 Celebrity Scam Interceptors",
+   "Mon 14:30 Doorbell Detectives",
+   "Mon 15:00 Escape to the Country",
+   "Mon 15:45 The Repair Shop on the Road",
+   "Mon 16:30 The Finish Line"
+  ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Mon 01:20 Shop on TV",
-   "Mon 03:00 Motorsport UK",
-   "Mon 03:50 Unwind with ITV",
-   "Mon 05:05 Ainsley&apos;s Taste of the Bahamas",
-   "Mon 05:30 Clodagh: Cooking at Home",
-   "Mon 06:00 Good Morning Britain"
+   "Mon 12:30 Loose Women",
+   "Mon 13:30 ITV Lunchtime News",
+   "Mon 13:55 ITV News Tyne Tees",
+   "Mon 14:00 Dickinson&apos;s Real Deal",
+   "Mon 15:00 Lingo",
+   "Mon 16:00 New: Deal or No Deal"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Mon 01:10 Live: NFL Vikings @ 49ers",
-   "Mon 04:45 Sky Sports News",
-   "Mon 05:00 Sky Sports News",
-   "Mon 06:00 Sky Sports News",
    "Mon 07:00 Live 2nd Test Day 1: SA v BAN",
-   "Mon 16:00 Sports Desk"
+   "Mon 16:00 Sports Desk",
+   "Mon 17:00 Live: The Premier League Show",
+   "Mon 18:00 Live: The Premier League Show",
+   "Mon 18:30 Live MNF: Brentford v Everton",
+   "Mon 23:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Mon 00:00 Las Vegas F1 Grand Prix",
-   "Mon 02:15 The Best of Miami 2026",
-   "Mon 03:00 The Best of Canada 2026",
-   "Mon 03:30 The Best of Monaco 2026",
-   "Mon 04:00 The Best of Barcelona 2026",
-   "Mon 04:30 The Best of Austria 2026"
+   "Mon 13:00 Las Vegas F1 GP: Practice 2",
+   "Mon 14:15 The F1 Show: Las Vegas",
+   "Mon 15:15 Las Vegas F1 GP: Practice 3",
+   "Mon 16:30 Simon & Naomi with Liam Lawson",
+   "Mon 16:45 Las Vegas F1 GP: Qualifying",
+   "Mon 18:45 Simon & Naomi with Liam Lawson"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Mon 01:15 Live: NFL Football",
-   "Mon 04:30 News 4 NY at 11:30",
-   "Mon 05:00 Sports Final",
-   "Mon 05:30 Open House Outrageous",
-   "Mon 06:00 Open House NYC",
-   "Mon 06:30 Open House"
+   "Mon 12:00 Today",
+   "Mon 14:00 Today 3rd Hour",
+   "Mon 15:00 Today With Jenna & Sheinelle",
+   "Mon 16:00 Live: News 4 NY at 11AM",
+   "Mon 16:30 New York Live",
+   "Mon 17:00 NBC News Daily"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Mon 01:30 30 for 30",
-   "Mon 03:30 Live: SportsCenter",
-   "Mon 04:30 Live: SportsCenter With Scott Van Pelt",
-   "Mon 06:00 Live: SportsCenter",
-   "Mon 07:00 Live: SportsCenter",
-   "Mon 08:00 SportsCenter"
+   "Mon 13:00 Live: Get Up",
+   "Mon 15:00 Live: First Take",
+   "Mon 17:00 Live: The Pat McAfee Show",
+   "Mon 19:00 Live: Big Day With Peter Schrager",
+   "Mon 20:00 NFL Live",
+   "Mon 22:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Mon 01:00 United States of Scandal",
-   "Mon 02:00 United States of Scandal",
-   "Mon 03:00 United States of Scandal",
-   "Mon 04:00 United States of Scandal",
-   "Mon 05:00 United States of Scandal",
-   "Mon 06:00 United States of Scandal"
+   "Mon 13:00 Live: CNN News Central",
+   "Mon 14:00 Live: CNN News Central",
+   "Mon 15:00 Live: The Situation Room",
+   "Mon 16:00 Live: The Situation Room",
+   "Mon 17:00 Live: Inside Politics With Dana Bash",
+   "Mon 18:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Mon 01:00 KTLA 5 News at 5",
-   "Mon 02:00 KTLA 5 News at 6",
-   "Mon 02:30 KTLA 5 News at 6:30",
-   "Mon 03:00 Penn & Teller: Fool Us",
-   "Mon 04:00 Dolly Parton&apos;s Christmas of Many Colors: Circle of Love",
-   "Mon 06:00 KTLA 5 News at 10"
+   "Mon 13:00 KTLA 5 Morning News at 5",
+   "Mon 14:00 KTLA 5 Morning News at 6",
+   "Mon 15:00 KTLA 5 Morning News at 7",
+   "Mon 17:00 KTLA 5 Morning News at 9",
+   "Mon 18:00 KTLA 5 Morning News at 10",
+   "Mon 19:00 KTLA 5 Morning News at 11"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Mon 01:55 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Mon 02:45 New: A Friend of the Family",
-   "Mon 03:40 New: A Friend of the Family",
-   "Mon 04:40 The Simpsons",
-   "Mon 05:05 The Simpsons",
-   "Mon 05:30 Kirstie and Phil&apos;s Love It or..."
+   "Mon 13:10 Renovation Nation",
+   "Mon 14:10 Escape to Florida",
+   "Mon 15:10 Countdown",
+   "Mon 16:00 A Place in the Sun",
+   "Mon 17:00 Help! We Bought a Village",
+   "Mon 18:00 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Mon 01:00 QI XL",
-   "Mon 02:00 Dave Gorman: Modern Life Is Goodish",
-   "Mon 03:00 Will & Ralf Should Know Better",
-   "Mon 04:00 Teleshopping",
-   "Mon 06:00 Teleshopping",
-   "Mon 07:10 Top Gear"
+   "Mon 13:00 Great Canal Journeys",
+   "Mon 14:00 Top Gear",
+   "Mon 15:00 Guy Martin vs the Robot Car",
+   "Mon 16:00 Rick Stein&apos;s Cornwall",
+   "Mon 16:30 Rick Stein&apos;s Cornwall",
+   "Mon 17:00 Rick Stein&apos;s Cornwall"
   ]
  },
- "doubleEscaped": 1388,
+ "doubleEscaped": 1389,
  "counts": {
-  "weakMatches": 1178,
+  "weakMatches": 1190,
   "sharedIds": 22,
-  "stale": 4,
+  "stale": 0,
   "gaps": 7,
   "overlaps": 0,
   "badTimes": 2,
