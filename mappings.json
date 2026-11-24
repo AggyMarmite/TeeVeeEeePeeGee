@@ -90,11 +90,11 @@
    "auto": true
   },
   "BBC1.uk": {
-   "src": "tv24.co.uk|en|bbc1",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "BBC1Yorkshire.uk": {
-   "src": "tv24.co.uk|en|bbc1",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "BBC2.uk": {
@@ -124,7 +124,7 @@
    "auto": true
   },
   "BBCOneNorthernIreland.uk": {
-   "src": "tv24.co.uk|en|bbc1",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "BBCOneNorthWest.uk": {
@@ -3715,7 +3715,7 @@
    "src": "virgintvgo.virginmedia.com|en|2265"
   },
   "name:4K| SKY SPORTS DARTS UHD": {
-   "src": "virgintvgo.virginmedia.com|en|1595",
+   "src": "virgintvgo.virginmedia.com|en|1771",
    "auto": true
   },
   "name:4K| SKY SPORTS F1 UHD": {
@@ -3908,7 +3908,7 @@
    "auto": true
   },
   "name:FL| EUROSPORT 1 HD": {
-   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:FL| EUROSPORT 2 HD": {
@@ -3964,7 +3964,7 @@
    "auto": true
   },
   "name:GR| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:GR| EUROSPORT 2": {
@@ -4036,7 +4036,7 @@
    "auto": true
   },
   "name:LV| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:LV| EUROSPORT 2": {
@@ -4232,7 +4232,7 @@
    "auto": true
   },
   "name:RO| EUROSPORT 1 HD": {
-   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:RO| EUROSPORT 2 HD": {
@@ -4240,7 +4240,7 @@
    "auto": true
   },
   "name:SR| EUROSPORT 1": {
-   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
+   "src": "sky.com|de|DE#2502",
    "auto": true
   },
   "name:SR| EUROSPORT 2": {
@@ -6612,7 +6612,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC RED BUTTON 1": {
-   "src": "mytelly.co.uk|en|1558/bbc-red-button-1",
+   "src": "mytelly.co.uk|en|1738/bbc-red-button-1-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC RED BUTTON 2": {
@@ -6835,11 +6835,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX FHD": {
-   "src": "tv24.co.uk|en|sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX HD": {
-   "src": "tv24.co.uk|en|sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "name:UK-NOWTV| SKY NATURE FHD": {
@@ -7612,7 +7612,7 @@
    "auto": true
   },
   "name:UK| SKY CRIME +1": {
-   "src": "mytelly.co.uk|en|1470/sky-crime-1",
+   "src": "tv24.co.uk|en|sky-crime-1",
    "auto": true
   },
   "name:UK| SKY CRIME HEVC FHD": {
@@ -8796,7 +8796,7 @@
    "auto": true
   },
   "SkyMax.uk": {
-   "src": "tv24.co.uk|en|sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "SkyNature.uk": {
@@ -9073,7 +9073,7 @@
    "auto": true
   },
   "uk.BBC One HD (England)": {
-   "src": "tv24.co.uk|en|bbc1",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "uk.BBC1 London": {
@@ -9149,7 +9149,7 @@
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "tv24.co.uk|en|itv-be-hd",
+   "src": "virgintvgo.virginmedia.com|en|1800",
    "auto": true
   },
   "uk.ITV Central": {

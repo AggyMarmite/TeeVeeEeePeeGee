@@ -1,18 +1,18 @@
 {
- "built": "2026-11-24T02:29",
+ "built": "2026-11-24T14:02",
  "channels": 2406,
- "programmes": 212700,
- "noListings": 41,
- "withLogo": 1954,
- "xmlMB": 103.7,
- "gzMB": 12.7,
+ "programmes": 188164,
+ "noListings": 28,
+ "withLogo": 1958,
+ "xmlMB": 91.7,
+ "gzMB": 11.3,
  "bySite": {
   "epgshare01.online": [
-   1514,
-   3
+   1511,
+   6
   ],
   "sky.com": [
-   406,
+   411,
    0
   ],
   "tvinsider.com": [
@@ -24,20 +24,20 @@
    0
   ],
   "tv24.co.uk": [
-   77,
-   23
+   82,
+   15
   ],
   "freeview.co.uk": [
    49,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   7,
-   1
+   12,
+   0
   ],
   "mytelly.co.uk": [
-   0,
-   14
+   1,
+   7
   ],
   "player.ee.co.uk": [
    8,
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "NFL Sunday Ticket NFL10 (HDTV) = NFL.Sunday.Ticket.NFL10.(HDTV).ca2",
-     "CBMT - CBC Montreal = CBMT.-.CBC.Montreal.ca2",
-     "TÉMOIN = TÉMOIN.ca2",
-     "NHL Centre Ice HD 6 = NHL.Centre.Ice.HD.6.ca2",
-     "WCVB Satellite = WCVB.Satellite.ca2",
-     "Fairchild (Vancouver) VCHILD = Fairchild.(Vancouver).VCHILD.ca2"
+     "KCTS-DT = KCTS-DT.ca2",
+     "CNBC Canadian Feed = CNBC.Canadian.Feed.ca2",
+     "Lock (Static) = Lock.(Static).ca2",
+     "CTV Wild = CTV.Wild.ca2",
+     "Sportsnet One Oilers HD = Sportsnet.One.Oilers.HD.ca2",
+     "Citytv Winnipeg = Citytv.Winnipeg.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 290
+    "programmes": 294
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 152
+    "programmes": 148
    },
    "UK1": {
     "channels": 34,
     "withListings": 31,
-    "programmes": 2298
+    "programmes": 1967
    },
    "US2": {
     "channels": 226,
     "withListings": 226,
-    "programmes": 19565
+    "programmes": 17401
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 94082
+    "programmes": 81850
    },
    "US_SPORTS1": {
     "channels": 22,

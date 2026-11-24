@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T02:29",
+ "built": "2026-11-24T14:02",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -15,7 +15,7 @@
   },
   {
    "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
-   "src": "BBC1 · tv24.co.uk",
+   "src": "BBC One HD · tv24.co.uk",
    "score": 84,
    "auto": true
   },
@@ -1065,23 +1065,7 @@
    ]
   }
  ],
- "stale": [
-  {
-   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
-   "hoursAhead": 8,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS NORTH HD",
-   "hoursAhead": 8,
-   "src": "epgshare01.online"
-  },
-  {
-   "ch": "US| FOX SPORTS SOUTH HD",
-   "hoursAhead": 8,
-   "src": "epgshare01.online"
-  }
- ],
+ "stale": [],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 2",
@@ -1128,7 +1112,7 @@
   },
   {
    "ch": "TV| THREE STOOGES ᴿᴬᵂ",
-   "bad": 1,
+   "bad": 2,
    "src": "directv.com"
   }
  ],
@@ -1136,10 +1120,10 @@
  "zones": {
   "epgshare01.online": {
    "+0000": 1470,
-   "-0500": 32
+   "-0500": 29
   },
   "sky.com": {
-   "+0000": 364
+   "+0000": 369
   },
   "directv.com": {
    "+0000": 265
@@ -1147,109 +1131,112 @@
   "tvinsider.com": {
    "+0000": 28
   },
+  "tv24.co.uk": {
+   "+0000": 74
+  },
   "freeview.co.uk": {
    "+0000": 48
   },
-  "tv24.co.uk": {
-   "+0000": 69
-  },
   "virgintvgo.virginmedia.com": {
-   "+0000": 6
+   "+0000": 11
   },
   "player.ee.co.uk": {
    "+0000": 8
   },
   "dazn.com": {
    "+0000": 9
+  },
+  "mytelly.co.uk": {
+   "+0000": 1
   }
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Tue 00:55 BBC News",
-   "Tue 06:00 Breakfast",
-   "Tue 09:30 Morning Live",
-   "Tue 10:45 Dashcam Justice",
-   "Tue 11:15 Homes Under the Hammer",
-   "Tue 11:15 Homes Under the Hammer"
+   "Tue 14:00 Scam Interceptors",
+   "Tue 14:30 Doorbell Detectives",
+   "Tue 15:00 Escape to the Country",
+   "Tue 15:45 The Repair Shop on the Road",
+   "Tue 16:30 The Finish Line",
+   "Tue 17:15 Pointless"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Tue 00:10 Shop on TV",
-   "Tue 03:00 Deal or No Deal",
-   "Tue 03:50 Unwind with ITV",
-   "Tue 05:05 Inside The Langham:...",
-   "Tue 05:30 Inside The Langham:...",
-   "Tue 06:00 Good Morning Britain"
+   "Tue 14:00 Dickinson&apos;s Real Deal",
+   "Tue 15:00 Lingo",
+   "Tue 16:00 New: Deal or No Deal",
+   "Tue 17:00 New: The Chase",
+   "Tue 18:00 ITV News Tyne Tees",
+   "Tue 18:30 ITV Evening News"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Tue 01:00 Live: NFL Bengals @ Commanders",
-   "Tue 04:30 Sky Sports News",
-   "Tue 05:00 Sky Sports News",
-   "Tue 06:00 Sky Sports News",
-   "Tue 07:00 Sky Sports Breakfast",
-   "Tue 07:30 Live 2nd Test Day 2: SA v BAN"
+   "Tue 07:30 Live 2nd Test Day 2: SA v BAN",
+   "Tue 16:00 Sports Desk",
+   "Tue 17:00 Live: The Premier League Show",
+   "Tue 18:00 Live: The Premier League Show",
+   "Tue 19:00 Soccer Special",
+   "Tue 19:30 Live EFL: Wolves v Derby County"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Tue 02:00 The Best of Barcelona 2026",
-   "Tue 02:30 The Best of Austria 2026",
-   "Tue 03:00 The Best of Britain 2026",
-   "Tue 03:35 The Best of Hungary 2026",
-   "Tue 04:00 The Best of Australia 2026",
-   "Tue 04:25 The Best of China 2026"
+   "Tue 13:05 Las Vegas F1 Grand Prix",
+   "Tue 15:30 F1 Academy: Race 1",
+   "Tue 16:30 F1 Academy: Race 2",
+   "Tue 17:30 Las Vegas F1 Grand Prix",
+   "Tue 19:55 Strange F1 Race Absences",
+   "Tue 20:00 US F1 GP Highlights"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Tue 02:00 Live: The Voice",
-   "Tue 03:00 Line of Fire",
-   "Tue 04:00 Live: News 4 NY at 11",
-   "Tue 04:34 The Tonight Show Starring Jimmy Fallon",
-   "Tue 05:35 Late Night With Seth Meyers",
-   "Tue 06:34 News 4 NY at 11"
+   "Tue 14:00 Today 3rd Hour",
+   "Tue 15:00 Today With Jenna & Sheinelle",
+   "Tue 16:00 Live: News 4 NY at 11AM",
+   "Tue 16:30 New York Live",
+   "Tue 17:00 NBC News Daily",
+   "Tue 18:00 Dateline"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Tue 01:15 Live: NFL Football",
-   "Tue 04:15 Live: Monday Night Postgame",
-   "Tue 04:30 Live: SportsCenter With Scott Van Pelt",
-   "Tue 05:30 Live: SportsCenter",
-   "Tue 06:30 Live: SportsCenter",
-   "Tue 07:30 SportsCenter"
+   "Tue 13:00 Live: Get Up",
+   "Tue 15:00 Live: First Take",
+   "Tue 17:00 Live: The Pat McAfee Show",
+   "Tue 19:00 Live: Big Day With Peter Schrager",
+   "Tue 20:00 Live: College Basketball",
+   "Tue 22:00 College Basketball Live Scoreboard"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Tue 02:00 Live: The Source With Kaitlan Collins",
-   "Tue 03:00 Live: CNN NewsNight With Abby Phillip",
-   "Tue 04:00 Laura Coates Live",
-   "Tue 05:00 Live: The Story Is With Elex Michaelson",
-   "Tue 06:00 Live: The Story Is With Elex Michaelson",
-   "Tue 07:00 Anderson Cooper 360"
+   "Tue 14:00 Live: CNN News Central",
+   "Tue 15:00 Live: The Situation Room",
+   "Tue 16:00 Live: The Situation Room",
+   "Tue 17:00 Live: Inside Politics With Dana Bash",
+   "Tue 18:00 Live: CNN News Central",
+   "Tue 19:00 Live: CNN News Central"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Tue 02:00 KTLA 5 News at 6",
-   "Tue 02:30 KTLA 5 News at 6:30",
-   "Tue 03:00 KTLA 5 News at 7",
-   "Tue 03:30 L.A. Unscripted",
-   "Tue 04:00 Private Eyes West Coast",
-   "Tue 05:00 Law & Order Toronto: Criminal Intent"
+   "Tue 14:00 KTLA 5 Morning News at 6",
+   "Tue 15:00 KTLA 5 Morning News at 7",
+   "Tue 17:00 KTLA 5 Morning News at 9",
+   "Tue 18:00 KTLA 5 Morning News at 10",
+   "Tue 19:00 KTLA 5 Morning News at 11",
+   "Tue 20:00 KTLA 5 News at Noon"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Tue 02:10 Ramsay&apos;s Kitchen Nightmares USA",
-   "Tue 03:00 Couples Come Dine with Me",
-   "Tue 03:55 Hitler&apos;s DNA: Blueprint of a...",
-   "Tue 04:50 Unreported World",
-   "Tue 05:20 Sunday Brunch",
-   "Tue 05:30 Hollyoaks Omnibus"
+   "Tue 13:10 Renovation Nation",
+   "Tue 14:10 Escape to Florida",
+   "Tue 15:10 Countdown",
+   "Tue 16:00 A Place in the Sun",
+   "Tue 17:00 Help! We Bought a Village",
+   "Tue 18:00 Four in a Bed"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Tue 02:00 Dave Gorman: Modern Life Is Goodish",
-   "Tue 03:00 Richard Osman&apos;s House of Games",
-   "Tue 03:30 Richard Osman&apos;s House of Games",
-   "Tue 04:00 Teleshopping",
-   "Tue 06:00 Teleshopping",
-   "Tue 07:10 Top Gear"
+   "Tue 14:00 Top Gear",
+   "Tue 15:00 Speed with Guy Martin",
+   "Tue 16:00 Rick Stein&apos;s Cornwall",
+   "Tue 16:30 Rick Stein&apos;s Cornwall",
+   "Tue 17:00 Rick Stein&apos;s Cornwall",
+   "Tue 17:30 Rick Stein&apos;s Cornwall"
   ]
  },
  "doubleEscaped": 1392,
  "counts": {
-  "weakMatches": 1186,
+  "weakMatches": 1191,
   "sharedIds": 22,
-  "stale": 3,
+  "stale": 0,
   "gaps": 6,
   "overlaps": 0,
   "badTimes": 3,
