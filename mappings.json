@@ -90,11 +90,11 @@
    "auto": true
   },
   "BBC1.uk": {
-   "src": "tv24.co.uk|en|bbc-one-hd",
+   "src": "tv24.co.uk|en|bbc1",
    "auto": true
   },
   "BBC1Yorkshire.uk": {
-   "src": "tv24.co.uk|en|bbc-one-hd",
+   "src": "tv24.co.uk|en|bbc1",
    "auto": true
   },
   "BBC2.uk": {
@@ -124,7 +124,7 @@
    "auto": true
   },
   "BBCOneNorthernIreland.uk": {
-   "src": "mytelly.co.uk|en|1/bbc-one-northern-ireland",
+   "src": "tv24.co.uk|en|bbc1",
    "auto": true
   },
   "BBCOneNorthWest.uk": {
@@ -753,7 +753,7 @@
    "auto": true
   },
   "loc.ABC (KAKE) Wichita, KS": {
-   "src": "epgshare01.online|en|US_LOCALS1#KAKE-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KAKE-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KATC) Lafayette, LA": {
@@ -857,7 +857,7 @@
    "auto": true
   },
   "loc.ABC (KLKN) Lincoln, NE": {
-   "src": "epgshare01.online|en|US_LOCALS1#KLKN-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KLKN-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (KLTV) Tyler, TX": {
@@ -1061,7 +1061,7 @@
    "auto": true
   },
   "loc.ABC (WCTI) New Bern, NC": {
-   "src": "epgshare01.online|en|US_LOCALS1#FOX.(WCTI-TV2).New.Bern,.NC.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCTI-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WCVB) Boston, MA": {
@@ -1249,7 +1249,7 @@
    "auto": true
   },
   "loc.ABC (WSOC) Charlotte, NC": {
-   "src": "epgshare01.online|en|US_LOCALS1#WSOC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WSOC-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WSYR) Syracuse, NY": {
@@ -1517,7 +1517,7 @@
    "auto": true
   },
   "loc.CBS (KOLD) Tucson, AZ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOLD-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOLD-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (KOLN) Lincoln, NE": {
@@ -1533,7 +1533,7 @@
    "auto": true
   },
   "loc.CBS (KOTV) Tulsa, OK": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOTV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOTV-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (KOVR) Sacramento, CA": {
@@ -1697,7 +1697,7 @@
    "auto": true
   },
   "loc.CBS (WCBS) New York, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
    "auto": true
   },
   "loc.CBS (WCCO) Minneapolis, MN": {
@@ -1753,7 +1753,7 @@
    "auto": true
   },
   "loc.CBS (WHBF) Rock Island, Il": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (WHIO) Dayton, OH": {
@@ -2001,7 +2001,7 @@
    "auto": true
   },
   "loc.CBS (WWTV) Cadillac, MI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WWTV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WWTV-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (WYOU) Scranton, PA": {
@@ -2093,7 +2093,7 @@
    "auto": true
   },
   "loc.CW (WNLO) Buffalo, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNLO-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNLO-CD.us_locals1",
    "auto": true
   },
   "loc.CW (WNNE-DT2) Plattsburg, NY": {
@@ -2229,7 +2229,7 @@
    "auto": true
   },
   "loc.FOX (KFXL) Lincoln, NE": {
-   "src": "epgshare01.online|en|US_LOCALS1#KFXL-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KFXL-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KFXO) Bend, OR": {
@@ -2285,7 +2285,7 @@
    "auto": true
   },
   "loc.FOX (KMPH) Fresno, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KMPH-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KMPH-CD.us_locals1",
    "auto": true
   },
   "loc.FOX (KMSB) Tucson, AZ": {
@@ -2349,7 +2349,7 @@
    "auto": true
   },
   "loc.FOX (KRXI) Reno, NV": {
-   "src": "epgshare01.online|en|US_LOCALS1#KRXI-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KRXI-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KSAS-TV) Wichita, KS": {
@@ -2393,7 +2393,7 @@
    "auto": true
   },
   "loc.FOX (KTVU) San Francisco, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KTXL) Sacramento, CA": {
@@ -3289,7 +3289,7 @@
    "auto": true
   },
   "loc.NBC (WESH) Winter Park, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WESH-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WESH-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WEYI) Flint, MI": {
@@ -3609,7 +3609,7 @@
    "auto": true
   },
   "LondonLive.uk": {
-   "src": "virgintvgo.virginmedia.com|en|1767",
+   "src": "freeview.co.uk|en|64257#32842",
    "auto": true
   },
   "LoveNature.ca": {
@@ -3664,6 +3664,10 @@
    "src": "sky.com|en|GB#4043",
    "auto": true
   },
+  "MotorTrendFastTv.us": {
+   "src": "epgshare01.online|en|US2#MOTORTREND.HD.us2",
+   "auto": true
+  },
   "Movies24.uk": {
    "src": "sky.com|en|GB#4420",
    "auto": true
@@ -3711,7 +3715,7 @@
    "src": "virgintvgo.virginmedia.com|en|2265"
   },
   "name:4K| SKY SPORTS DARTS UHD": {
-   "src": "virgintvgo.virginmedia.com|en|1771",
+   "src": "virgintvgo.virginmedia.com|en|1595",
    "auto": true
   },
   "name:4K| SKY SPORTS F1 UHD": {
@@ -3728,15 +3732,15 @@
    "src": "player.ee.co.uk|en|http://bds.tv/services/BT_768397"
   },
   "name:AZ| PHOENIX-FLAGSTAFF| UNIMÁS 13 KFPH-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KFPH-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KFPH-DT.us_locals1",
    "auto": true
   },
   "name:AZ| PHOENIX| UNIVISION 33 KTVW-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVW-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVW-DT.us_locals1",
    "auto": true
   },
   "name:AZ| TUCSON-DOUGLAS| UNIMÁS 3 KFTU-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KFTU-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KFTU-DT.us_locals1",
    "auto": true
   },
   "name:AZ| TUCSON| UNIVISION 46 KUVE-DT": {
@@ -3904,7 +3908,7 @@
    "auto": true
   },
   "name:FL| EUROSPORT 1 HD": {
-   "src": "sky.com|de|DE#2502",
+   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
    "auto": true
   },
   "name:FL| EUROSPORT 2 HD": {
@@ -3960,7 +3964,7 @@
    "auto": true
   },
   "name:GR| EUROSPORT 1": {
-   "src": "sky.com|de|DE#2502",
+   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
    "auto": true
   },
   "name:GR| EUROSPORT 2": {
@@ -4032,7 +4036,7 @@
    "auto": true
   },
   "name:LV| EUROSPORT 1": {
-   "src": "sky.com|de|DE#2502",
+   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
    "auto": true
   },
   "name:LV| EUROSPORT 2": {
@@ -4196,11 +4200,11 @@
    "auto": true
   },
   "name:OK| OKLAHOMA CITY| UNIMÁS 36.2 KUOK": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUOK-DT.us_locals1",
    "auto": true
   },
   "name:OK| OKLAHOMA CITY| UNIVISION 36 KUOK-CD": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUOK-DT.us_locals1",
    "auto": true
   },
   "name:OK| TULSA| UNIMÁS 25.2 KUTU-CD": {
@@ -4228,7 +4232,7 @@
    "auto": true
   },
   "name:RO| EUROSPORT 1 HD": {
-   "src": "sky.com|de|DE#2502",
+   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
    "auto": true
   },
   "name:RO| EUROSPORT 2 HD": {
@@ -4236,7 +4240,7 @@
    "auto": true
   },
   "name:SR| EUROSPORT 1": {
-   "src": "sky.com|de|DE#2502",
+   "src": "mytelly.co.uk|en|1434/eurosport-1-hd",
    "auto": true
   },
   "name:SR| EUROSPORT 2": {
@@ -4260,7 +4264,7 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ": {
@@ -4780,7 +4784,7 @@
    "auto": true
   },
   "name:TV| DAVENPORT, IA WHBF CBS 4 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "name:TV| DAVENPORT, IA WQAD ABC 8 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5854,7 +5858,7 @@
    "auto": true
   },
   "name:TV| SAN FRANCISCO, CA KTVU FOX 2 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "name:TV| SAY YES TO THE DRESS ᴿᴬᵂ": {
@@ -5874,7 +5878,7 @@
    "auto": true
   },
   "name:TV| SEATTLE, WA KBTC PBS 28 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KBTC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KBTC-DT.us_locals1",
    "auto": true
   },
   "name:TV| SEATTLE, WA KCPQ FOX 13 A3 HD SEATTLE ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -6608,7 +6612,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC RED BUTTON 1": {
-   "src": "tv24.co.uk|en|bbc-red-button-1",
+   "src": "mytelly.co.uk|en|1558/bbc-red-button-1",
    "auto": true
   },
   "name:UK-BBCI| BBC RED BUTTON 2": {
@@ -6831,11 +6835,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX FHD": {
-   "src": "virgintvgo.virginmedia.com|en|2181",
+   "src": "tv24.co.uk|en|sky-max-hd",
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX HD": {
-   "src": "virgintvgo.virginmedia.com|en|2181",
+   "src": "tv24.co.uk|en|sky-max-hd",
    "auto": true
   },
   "name:UK-NOWTV| SKY NATURE FHD": {
@@ -6975,11 +6979,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE FHD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYADVENTURE HD": {
-   "src": "epgshare01.online|en|UK1#Sky.Adventure.uk",
+   "src": "epgshare01.online|en|UK1#SkyAdventureHD.uk",
    "auto": true
   },
   "name:UK-NOWTV| SKYANIMATION FHD": {
@@ -7608,7 +7612,7 @@
    "auto": true
   },
   "name:UK| SKY CRIME +1": {
-   "src": "tv24.co.uk|en|sky-crime-1",
+   "src": "mytelly.co.uk|en|1470/sky-crime-1",
    "auto": true
   },
   "name:UK| SKY CRIME HEVC FHD": {
@@ -7655,7 +7659,7 @@
    "auto": true
   },
   "name:UK| SKY PREMIERE +1": {
-   "src": "epgshare01.online|en|UK1#SkyPremiereHD.uk",
+   "src": "epgshare01.online|en|UK1#Sky.Premiere.uk",
    "offset": 1,
    "auto": true
   },
@@ -7850,7 +7854,7 @@
    "auto": true
   },
   "name:US| 69 NEWS (WFMZ) PHILADELPHIA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WFMZ-LD.us_locals1",
    "auto": true
   },
   "name:US| ABC  2 (KQTV ) ST JOSEPH": {
@@ -8792,7 +8796,7 @@
    "auto": true
   },
   "SkyMax.uk": {
-   "src": "virgintvgo.virginmedia.com|en|2181",
+   "src": "tv24.co.uk|en|sky-max-hd",
    "auto": true
   },
   "SkyNature.uk": {
@@ -9069,7 +9073,7 @@
    "auto": true
   },
   "uk.BBC One HD (England)": {
-   "src": "tv24.co.uk|en|bbc-one-hd",
+   "src": "tv24.co.uk|en|bbc1",
    "auto": true
   },
   "uk.BBC1 London": {
@@ -9145,7 +9149,7 @@
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "mytelly.co.uk|en|1900/itvbe",
+   "src": "tv24.co.uk|en|itv-be-hd",
    "auto": true
   },
   "uk.ITV Central": {
@@ -9518,7 +9522,7 @@
    "auto": true
   },
   "WJAC.us": {
-   "src": "epgshare01.online|en|US_LOCALS1#WJAC-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WJAC-DT.us_locals1",
    "auto": true
   },
   "WKOW.us": {

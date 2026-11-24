@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T13:22",
+ "built": "2026-11-24T02:29",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -12,6 +12,12 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
+  },
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC1 · tv24.co.uk",
+   "score": 84,
+   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -165,7 +171,7 @@
   },
   {
    "ch": "US| ABC 10 WICHITA KS (KAKE)",
-   "src": "KAKE-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KAKE-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -321,7 +327,7 @@
   },
   {
    "ch": "US| ABC 8 LINCOLN NE (KLKN)",
-   "src": "KLKN-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KLKN-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -627,7 +633,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
+   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -894,12 +900,6 @@
    "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
-   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1065,13 +1065,24 @@
    ]
   }
  ],
- "stale": [],
- "gaps": [
+ "stale": [
   {
-   "ch": "UK-BBCI| BBC RED BUTTON 1",
-   "hours": 6,
-   "src": "tv24.co.uk"
+   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
+   "hoursAhead": 8,
+   "src": "epgshare01.online"
   },
+  {
+   "ch": "US| FOX SPORTS NORTH HD",
+   "hoursAhead": 8,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS SOUTH HD",
+   "hoursAhead": 8,
+   "src": "epgshare01.online"
+  }
+ ],
+ "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 2",
    "hours": 8,
@@ -1114,16 +1125,21 @@
    "ch": "TV| TASTEMADE TRAVEL ᴿᴬᵂ",
    "bad": 1,
    "src": "epgshare01.online"
+  },
+  {
+   "ch": "TV| THREE STOOGES ᴿᴬᵂ",
+   "bad": 1,
+   "src": "directv.com"
   }
  ],
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1469,
-   "-0500": 30
+   "+0000": 1470,
+   "-0500": 32
   },
   "sky.com": {
-   "+0000": 369
+   "+0000": 364
   },
   "directv.com": {
    "+0000": 265
@@ -1131,14 +1147,14 @@
   "tvinsider.com": {
    "+0000": 28
   },
-  "tv24.co.uk": {
-   "+0000": 74
-  },
   "freeview.co.uk": {
-   "+0000": 47
+   "+0000": 48
+  },
+  "tv24.co.uk": {
+   "+0000": 69
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 10
+   "+0000": 6
   },
   "player.ee.co.uk": {
    "+0000": 8
@@ -1149,94 +1165,94 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Mon 13:00 BBC News at One including BBC London News",
-   "Mon 14:00 Celebrity Scam Interceptors",
-   "Mon 14:30 Doorbell Detectives",
-   "Mon 15:00 Escape to the Country",
-   "Mon 15:45 The Repair Shop on the Road",
-   "Mon 16:30 The Finish Line"
+   "Tue 00:55 BBC News",
+   "Tue 06:00 Breakfast",
+   "Tue 09:30 Morning Live",
+   "Tue 10:45 Dashcam Justice",
+   "Tue 11:15 Homes Under the Hammer",
+   "Tue 11:15 Homes Under the Hammer"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Mon 12:30 Loose Women",
-   "Mon 13:30 ITV Lunchtime News",
-   "Mon 13:55 ITV News Tyne Tees",
-   "Mon 14:00 Dickinson&apos;s Real Deal",
-   "Mon 15:00 Lingo",
-   "Mon 16:00 New: Deal or No Deal"
+   "Tue 00:10 Shop on TV",
+   "Tue 03:00 Deal or No Deal",
+   "Tue 03:50 Unwind with ITV",
+   "Tue 05:05 Inside The Langham:...",
+   "Tue 05:30 Inside The Langham:...",
+   "Tue 06:00 Good Morning Britain"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Mon 07:00 Live 2nd Test Day 1: SA v BAN",
-   "Mon 16:00 Sports Desk",
-   "Mon 17:00 Live: The Premier League Show",
-   "Mon 18:00 Live: The Premier League Show",
-   "Mon 18:30 Live MNF: Brentford v Everton",
-   "Mon 23:00 Sky Sports News"
+   "Tue 01:00 Live: NFL Bengals @ Commanders",
+   "Tue 04:30 Sky Sports News",
+   "Tue 05:00 Sky Sports News",
+   "Tue 06:00 Sky Sports News",
+   "Tue 07:00 Sky Sports Breakfast",
+   "Tue 07:30 Live 2nd Test Day 2: SA v BAN"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Mon 13:00 Las Vegas F1 GP: Practice 2",
-   "Mon 14:15 The F1 Show: Las Vegas",
-   "Mon 15:15 Las Vegas F1 GP: Practice 3",
-   "Mon 16:30 Simon & Naomi with Liam Lawson",
-   "Mon 16:45 Las Vegas F1 GP: Qualifying",
-   "Mon 18:45 Simon & Naomi with Liam Lawson"
+   "Tue 02:00 The Best of Barcelona 2026",
+   "Tue 02:30 The Best of Austria 2026",
+   "Tue 03:00 The Best of Britain 2026",
+   "Tue 03:35 The Best of Hungary 2026",
+   "Tue 04:00 The Best of Australia 2026",
+   "Tue 04:25 The Best of China 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Mon 12:00 Today",
-   "Mon 14:00 Today 3rd Hour",
-   "Mon 15:00 Today With Jenna & Sheinelle",
-   "Mon 16:00 Live: News 4 NY at 11AM",
-   "Mon 16:30 New York Live",
-   "Mon 17:00 NBC News Daily"
+   "Tue 02:00 Live: The Voice",
+   "Tue 03:00 Line of Fire",
+   "Tue 04:00 Live: News 4 NY at 11",
+   "Tue 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Tue 05:35 Late Night With Seth Meyers",
+   "Tue 06:34 News 4 NY at 11"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Mon 13:00 Live: Get Up",
-   "Mon 15:00 Live: First Take",
-   "Mon 17:00 Live: The Pat McAfee Show",
-   "Mon 19:00 Live: Big Day With Peter Schrager",
-   "Mon 20:00 NFL Live",
-   "Mon 22:00 Live: SportsCenter"
+   "Tue 01:15 Live: NFL Football",
+   "Tue 04:15 Live: Monday Night Postgame",
+   "Tue 04:30 Live: SportsCenter With Scott Van Pelt",
+   "Tue 05:30 Live: SportsCenter",
+   "Tue 06:30 Live: SportsCenter",
+   "Tue 07:30 SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Mon 13:00 Live: CNN News Central",
-   "Mon 14:00 Live: CNN News Central",
-   "Mon 15:00 Live: The Situation Room",
-   "Mon 16:00 Live: The Situation Room",
-   "Mon 17:00 Live: Inside Politics With Dana Bash",
-   "Mon 18:00 Live: CNN News Central"
+   "Tue 02:00 Live: The Source With Kaitlan Collins",
+   "Tue 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Tue 04:00 Laura Coates Live",
+   "Tue 05:00 Live: The Story Is With Elex Michaelson",
+   "Tue 06:00 Live: The Story Is With Elex Michaelson",
+   "Tue 07:00 Anderson Cooper 360"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Mon 13:00 KTLA 5 Morning News at 5",
-   "Mon 14:00 KTLA 5 Morning News at 6",
-   "Mon 15:00 KTLA 5 Morning News at 7",
-   "Mon 17:00 KTLA 5 Morning News at 9",
-   "Mon 18:00 KTLA 5 Morning News at 10",
-   "Mon 19:00 KTLA 5 Morning News at 11"
+   "Tue 02:00 KTLA 5 News at 6",
+   "Tue 02:30 KTLA 5 News at 6:30",
+   "Tue 03:00 KTLA 5 News at 7",
+   "Tue 03:30 L.A. Unscripted",
+   "Tue 04:00 Private Eyes West Coast",
+   "Tue 05:00 Law & Order Toronto: Criminal Intent"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Mon 13:10 Renovation Nation",
-   "Mon 14:10 Escape to Florida",
-   "Mon 15:10 Countdown",
-   "Mon 16:00 A Place in the Sun",
-   "Mon 17:00 Help! We Bought a Village",
-   "Mon 18:00 Four in a Bed"
+   "Tue 02:10 Ramsay&apos;s Kitchen Nightmares USA",
+   "Tue 03:00 Couples Come Dine with Me",
+   "Tue 03:55 Hitler&apos;s DNA: Blueprint of a...",
+   "Tue 04:50 Unreported World",
+   "Tue 05:20 Sunday Brunch",
+   "Tue 05:30 Hollyoaks Omnibus"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Mon 13:00 Great Canal Journeys",
-   "Mon 14:00 Top Gear",
-   "Mon 15:00 Guy Martin vs the Robot Car",
-   "Mon 16:00 Rick Stein&apos;s Cornwall",
-   "Mon 16:30 Rick Stein&apos;s Cornwall",
-   "Mon 17:00 Rick Stein&apos;s Cornwall"
+   "Tue 02:00 Dave Gorman: Modern Life Is Goodish",
+   "Tue 03:00 Richard Osman&apos;s House of Games",
+   "Tue 03:30 Richard Osman&apos;s House of Games",
+   "Tue 04:00 Teleshopping",
+   "Tue 06:00 Teleshopping",
+   "Tue 07:10 Top Gear"
   ]
  },
- "doubleEscaped": 1389,
+ "doubleEscaped": 1392,
  "counts": {
-  "weakMatches": 1190,
+  "weakMatches": 1186,
   "sharedIds": 22,
-  "stale": 0,
-  "gaps": 7,
+  "stale": 3,
+  "gaps": 6,
   "overlaps": 0,
-  "badTimes": 2,
+  "badTimes": 3,
   "offsets": 0
  }
 }

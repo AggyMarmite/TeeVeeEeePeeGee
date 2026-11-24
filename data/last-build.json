@@ -1,18 +1,18 @@
 {
- "built": "2026-11-23T13:22",
- "channels": 2405,
- "programmes": 195823,
- "noListings": 31,
- "withLogo": 1958,
- "xmlMB": 95.6,
- "gzMB": 11.6,
+ "built": "2026-11-24T02:29",
+ "channels": 2406,
+ "programmes": 212700,
+ "noListings": 41,
+ "withLogo": 1954,
+ "xmlMB": 103.7,
+ "gzMB": 12.7,
  "bySite": {
   "epgshare01.online": [
-   1510,
-   6
+   1514,
+   3
   ],
   "sky.com": [
-   411,
+   406,
    0
   ],
   "tvinsider.com": [
@@ -24,20 +24,20 @@
    0
   ],
   "tv24.co.uk": [
-   82,
-   15
+   77,
+   23
   ],
   "freeview.co.uk": [
-   48,
+   49,
    0
+  ],
+  "virgintvgo.virginmedia.com": [
+   7,
+   1
   ],
   "mytelly.co.uk": [
    0,
-   9
-  ],
-  "virgintvgo.virginmedia.com": [
-   11,
-   1
+   14
   ],
   "player.ee.co.uk": [
    8,
@@ -75,34 +75,34 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Channels 24 = Channels.24.uk",
-     "NDTV 24x7 = NDTV.24x7.uk",
-     "Cartoon Netwrk = Cartoon.Netwrk.uk",
-     "Virgin Radio = Virgin.Radio.uk",
-     "High Street TV 1 = High.Street.TV.1.uk",
-     "E4 Extra = E4.Extra.uk"
+     "TalkingPictures = TalkingPictures.uk",
+     "IQRA TV = IQRA.TV.uk",
+     "HGTV+1 = HGTV+1.uk",
+     "ComedyXtra = ComedyXtra.uk",
+     "Channel 7 = Channel.7.uk",
+     "Kerrang! = Kerrang!.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Bloomberg Business Television = Bloomberg.Business.Television.us2",
-     "VGN TV = VGN.TV.us2",
-     "Xumo Free Westerns = Xumo.Free.Westerns.us2",
-     "NBA League Pass 4 HD = NBA.League.Pass.4.HD.us2",
-     "NBA League Pass 5 HD = NBA.League.Pass.5.HD.us2",
-     "EarthX = EarthX.us2"
+     "Telefe Internacional = Telefe.Internacional.us2",
+     "ABS-CBN News Channel = ABS-CBN.News.Channel.us2",
+     "Spectrum SportsNet LA Dodgers HD = Spectrum.SportsNet.LA.Dodgers.HD.us2",
+     "Adult On Demand = Adult.On.Demand.us2",
+     "News 12 Westchester = News.12.Westchester.us2",
+     "UniMas = UniMas.us2"
     ]
    },
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WSQY-LD = WSQY-LD.us_locals1",
-     "K27KP-D = K27KP-D.us_locals1",
-     "KSMS-DT = KSMS-DT.us_locals1",
-     "WACX-DT = WACX-DT.us_locals1",
-     "K28LH-D = K28LH-D.us_locals1",
-     "W17CT-D = W17CT-D.us_locals1"
+     "KUTH-DT = KUTH-DT.us_locals1",
+     "WUFT-DT = WUFT-DT.us_locals1",
+     "K18LD-D = K18LD-D.us_locals1",
+     "W20EH-D = W20EH-D.us_locals1",
+     "K32HU-D = K32HU-D.us_locals1",
+     "W23DR-D = W23DR-D.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 289
+    "programmes": 290
    },
    "IE1": {
     "channels": 2,
     "withListings": 2,
-    "programmes": 154
+    "programmes": 152
    },
    "UK1": {
     "channels": 34,
     "withListings": 31,
-    "programmes": 1996
+    "programmes": 2298
    },
    "US2": {
     "channels": 226,
     "withListings": 226,
-    "programmes": 17820
+    "programmes": 19565
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 86824
+    "programmes": 94082
    },
    "US_SPORTS1": {
     "channels": 22,
