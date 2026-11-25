@@ -124,7 +124,7 @@
    "auto": true
   },
   "BBCOneNorthernIreland.uk": {
-   "src": "mytelly.co.uk|en|1770/bbc-one-northern-ireland-hd",
+   "src": "tv24.co.uk|en|bbc-one-hd",
    "auto": true
   },
   "BBCOneNorthWest.uk": {
@@ -136,7 +136,7 @@
    "auto": true
   },
   "BBCOneSouthEast.uk": {
-   "src": "mytelly.co.uk|en|16/bbc-one-south-east",
+   "src": "tv24.co.uk|en|bbc-one-south-east-hd",
    "auto": true
   },
   "BBCOneWales.uk": {
@@ -243,7 +243,7 @@
    "auto": true
   },
   "CartoonNetwork.uk": {
-   "src": "mytelly.co.uk|en|102/cartoon-network",
+   "src": "tv24.co.uk|en|cartoon-network",
    "auto": true
   },
   "CartoonNetwork.us": {
@@ -373,7 +373,7 @@
    "auto": true
   },
   "DiscoveryHistory.uk": {
-   "src": "mytelly.co.uk|en|1606/discovery-history",
+   "src": "tv24.co.uk|en|discovery-history",
    "auto": true
   },
   "DiscoveryLife.us": {
@@ -381,11 +381,11 @@
    "auto": true
   },
   "DiscoveryScience.uk": {
-   "src": "mytelly.co.uk|en|129/discovery-science",
+   "src": "tv24.co.uk|en|discovery-science",
    "auto": true
   },
   "DiscoveryTurbo.uk": {
-   "src": "mytelly.co.uk|en|153/discovery-turbo",
+   "src": "tv24.co.uk|en|discovery-turbo",
    "auto": true
   },
   "DisneyChannel.us": {
@@ -536,7 +536,7 @@
    "auto": true
   },
   "GreatMovies.uk": {
-   "src": "freeview.co.uk|en|64257#15584",
+   "src": "epgshare01.online|en|UK1#GREAT!.movies.uk",
    "auto": true
   },
   "GreatRomance.uk": {
@@ -3281,7 +3281,7 @@
    "auto": true
   },
   "loc.NBC (WEAU) Eau Claire, WI": {
-   "src": "epgshare01.online|en|US_LOCALS1#WEAU-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WEAU-DT.us_locals1",
    "auto": true
   },
   "loc.NBC (WECT) Wilmington, NC": {
@@ -4332,7 +4332,7 @@
    "auto": true
   },
   "name:TV| ALTITUDE SPORTS ALTERNATE ᴿᴬᵂ": {
-   "src": "directv.com|en|1ae636b8-db56-4dc4-84fa-580443bc9bce",
+   "src": "directv.com|en|2723937d-fe56-4ebb-bdb2-047118a55418",
    "auto": true
   },
   "name:TV| ALTITUDE SPORTS ᴿᴬᵂ": {
@@ -5481,10 +5481,6 @@
    "src": "directv.com|en|8e4f3326-9bf2-46df-a128-92df7f3e8919",
    "auto": true
   },
-  "name:TV| MASN2 ᴿᴬᵂ": {
-   "src": "directv.com|en|fd7bb93b-6935-4eb7-bf9f-e7b7546f60b7",
-   "auto": true
-  },
   "name:TV| MEATEATER ᴿᴬᵂ": {
    "src": "directv.com|en|77cf4af2-7b83-4838-a30a-c7be89f60fa2",
    "auto": true
@@ -5518,7 +5514,7 @@
    "auto": true
   },
   "name:TV| MONUMENTAL SPORTS NETWORK ALTERNATE ᴿᴬᵂ": {
-   "src": "directv.com|en|ab074342-55eb-4db8-bbe4-f5b15b17e737",
+   "src": "directv.com|en|d69fe447-2e99-4fe1-a888-7af281700185",
    "auto": true
   },
   "name:TV| MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ": {
@@ -5682,7 +5678,7 @@
    "auto": true
   },
   "name:TV| NOSEY ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US2#Nosey.us2",
+   "src": "directv.com|en|171d9bb5-236b-4d9b-9c29-c9e5dc823d9b",
    "auto": true
   },
   "name:TV| OUTDOOR CHANNEL ᴿᴬᵂ": {
@@ -6450,7 +6446,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE CHANNEL ISLANDS": {
-   "src": "mytelly.co.uk|en|1663/bbc-one-channel-islands",
+   "src": "tv24.co.uk|en|bbc-one-channel-islands",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE EAST": {
@@ -6465,7 +6461,7 @@
    "src": null
   },
   "name:UK-BBCI| BBC ONE LONDON": {
-   "src": "mytelly.co.uk|en|2366/bbc-one-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..1044",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NI": {
@@ -6473,11 +6469,11 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NORTH EAST & CUMBRIA": {
-   "src": "mytelly.co.uk|en|13/bbc-one-north-east-cumbria",
+   "src": "tv24.co.uk|en|bbc-one-north-east-cumbria-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE NORTH WEST": {
-   "src": "mytelly.co.uk|en|14/bbc-one-north-west",
+   "src": "tv24.co.uk|en|bbc-one-north-west-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SCOTLAND": {
@@ -6489,11 +6485,11 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SOUTH EAST": {
-   "src": "mytelly.co.uk|en|16/bbc-one-south-east",
+   "src": "tv24.co.uk|en|bbc-one-south-east-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SOUTH WEST": {
-   "src": "mytelly.co.uk|en|17/bbc-one-south-west",
+   "src": "tv24.co.uk|en|bbc-one-south-west-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE WALES": {
@@ -6615,10 +6611,6 @@
    "src": "freeview.co.uk|en|64257#4416",
    "auto": true
   },
-  "name:UK-BBCI| BBC RED BUTTON 1": {
-   "src": "mytelly.co.uk|en|1738/bbc-red-button-1-hd",
-   "auto": true
-  },
   "name:UK-BBCI| BBC RED BUTTON 2": {
    "src": "tv24.co.uk|en|bbc-red-button-2",
    "auto": true
@@ -6651,7 +6643,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC TWO ENGLAND": {
-   "src": "mytelly.co.uk|en|52/bbc-two-england",
+   "src": "tv24.co.uk|en|bbc2-england",
    "auto": true
   },
   "name:UK-BBCI| BBC TWO NI": {
@@ -6687,11 +6679,11 @@
    "auto": true
   },
   "name:UK-NOWTV| CARTOON NETWORK FHD": {
-   "src": "mytelly.co.uk|en|102/cartoon-network",
+   "src": "tv24.co.uk|en|cartoon-network",
    "auto": true
   },
   "name:UK-NOWTV| CARTOON NETWORK HD": {
-   "src": "mytelly.co.uk|en|102/cartoon-network",
+   "src": "tv24.co.uk|en|cartoon-network",
    "auto": true
   },
   "name:UK-NOWTV| COMEDY CENTRAL FHD": {
@@ -6839,11 +6831,11 @@
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX FHD": {
-   "src": "mytelly.co.uk|en|2353/sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "name:UK-NOWTV| SKY MAX HD": {
-   "src": "mytelly.co.uk|en|2353/sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "name:UK-NOWTV| SKY NATURE FHD": {
@@ -7067,7 +7059,7 @@
    "src": null
   },
   "name:UK| BBC ONE NORTH WEST": {
-   "src": "mytelly.co.uk|en|14/bbc-one-north-west",
+   "src": "tv24.co.uk|en|bbc-one-north-west-hd",
    "auto": true
   },
   "name:UK| BBC ONE SCOT": {
@@ -7083,7 +7075,7 @@
    "auto": true
   },
   "name:UK| BBC ONE SOUTH WEST": {
-   "src": "mytelly.co.uk|en|17/bbc-one-south-west",
+   "src": "tv24.co.uk|en|bbc-one-south-west-hd",
    "auto": true
   },
   "name:UK| BBC ONE WALES": {
@@ -7171,7 +7163,7 @@
    "auto": true
   },
   "name:UK| CARTOON NETWORK +1": {
-   "src": "mytelly.co.uk|en|705/cartoon-network-1",
+   "src": "tv24.co.uk|en|cartoon-network-1",
    "auto": true
   },
   "name:UK| CBBC FHD": {
@@ -7239,7 +7231,7 @@
    "auto": true
   },
   "name:UK| DISCOVERY TURBO +1": {
-   "src": "mytelly.co.uk|en|2113/discovery-turbo-1",
+   "src": "tv24.co.uk|en|discovery-turbo-1",
    "auto": true
   },
   "name:UK| DMAX +1": {
@@ -7305,7 +7297,7 @@
    "auto": true
   },
   "name:UK| GREAT MOVIES": {
-   "src": "freeview.co.uk|en|64257#15584",
+   "src": "epgshare01.online|en|UK1#GREAT!.movies.uk",
    "auto": true
   },
   "name:UK| GREAT MOVIES +1": {
@@ -7443,7 +7435,7 @@
    "auto": true
   },
   "name:UK| ITV1 LONDON FHD": {
-   "src": "mytelly.co.uk|en|1560/itv1-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..2045",
    "auto": true
   },
   "name:UK| LEGEND": {
@@ -7527,7 +7519,7 @@
    "auto": true
   },
   "name:UK| NICK JUNIOR": {
-   "src": "tv24.co.uk|en|nick-junior",
+   "src": "player.ee.co.uk|en|http://bds.tv/services/BT_770161_1857_HD",
    "auto": true
   },
   "name:UK| NICKELODEON +1": {
@@ -7693,7 +7685,7 @@
    "auto": true
   },
   "name:UK| SKY SPORTS BOX OFFICE HD": {
-   "src": "mytelly.co.uk|en|1939/sky-sports-box-office-hd",
+   "src": "tv24.co.uk|en|sky-sports-box-office-hd",
    "auto": true
   },
   "name:UK| SKY SPORTS CRICKET HEVC FHD": {
@@ -8804,7 +8796,7 @@
    "auto": true
   },
   "SkyMax.uk": {
-   "src": "mytelly.co.uk|en|2353/sky-max-hd",
+   "src": "virgintvgo.virginmedia.com|en|2181",
    "auto": true
   },
   "SkyNature.uk": {
@@ -8915,10 +8907,6 @@
   },
   "Tastemade.us": {
    "src": "epgshare01.online|en|US2#Tastemade.us2",
-   "auto": true
-  },
-  "TCM.uk": {
-   "src": "tv24.co.uk|en|turner-classic-movies",
    "auto": true
   },
   "TennisChannel.us": {
@@ -9089,7 +9077,7 @@
    "auto": true
   },
   "uk.BBC1 London": {
-   "src": "mytelly.co.uk|en|2366/bbc-one-london-hd",
+   "src": "player.ee.co.uk|en|dvb://233a..1044",
    "auto": true
   },
   "uk.BBC1 West": {
@@ -9161,7 +9149,7 @@
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "mytelly.co.uk|en|1930/itvbe-hd",
+   "src": "virgintvgo.virginmedia.com|en|1800",
    "auto": true
   },
   "uk.ITV Central": {

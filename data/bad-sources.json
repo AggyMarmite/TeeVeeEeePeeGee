@@ -23,6 +23,10 @@
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "directv.com|en|cfaf4c6b-fc72-4b3a-af5d-be8074adfbe1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "directv.com|en|e68a9f77-7585-4b8a-a365-efffe5531d25": {
   "reason": "empty",
   "since": "2026-11-23"
@@ -375,6 +379,10 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "tv24.co.uk|en|itvbe-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|mtv-music": {
   "reason": "empty",
   "since": "2026-11-23"
@@ -390,6 +398,10 @@
  "tv24.co.uk|en|sky-max-hd": {
   "reason": "empty",
   "since": "2026-11-24"
+ },
+ "tv24.co.uk|en|sky-max-sd": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "tv24.co.uk|en|sky-sport-news": {
   "reason": "foreign",
