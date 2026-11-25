@@ -75,6 +75,10 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "epgshare01.online|en|US2#Fox.Sports.4K.us2": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "epgshare01.online|en|US2#Nosey.us2": {
   "reason": "notice",
   "since": "2026-11-25"
@@ -91,6 +95,10 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "mytelly.co.uk|en|10/bbc-one-east-midlands": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "mytelly.co.uk|en|102/cartoon-network": {
   "reason": "empty",
   "since": "2026-11-25"
@@ -98,6 +106,10 @@
  "mytelly.co.uk|en|1076/eurosport-2": {
   "reason": "empty",
   "since": "2026-11-23"
+ },
+ "mytelly.co.uk|en|11/bbc-one-west-midlands": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "mytelly.co.uk|en|129/discovery-science": {
   "reason": "empty",
@@ -179,9 +191,17 @@
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "mytelly.co.uk|en|1856/rte-one-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "mytelly.co.uk|en|1863/london-live": {
   "reason": "empty",
   "since": "2026-11-23"
+ },
+ "mytelly.co.uk|en|19/bbc-two-northern-ireland": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "mytelly.co.uk|en|1900/itvbe": {
   "reason": "empty",
@@ -192,6 +212,10 @@
   "since": "2026-11-25"
  },
  "mytelly.co.uk|en|1939/sky-sports-box-office-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "mytelly.co.uk|en|2/bbc-one-scotland": {
   "reason": "empty",
   "since": "2026-11-25"
  },
@@ -238,6 +262,10 @@
  "mytelly.co.uk|en|275/eurosport-1": {
   "reason": "empty",
   "since": "2026-11-23"
+ },
+ "mytelly.co.uk|en|37/itv1-tyne-tees": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "mytelly.co.uk|en|4/bbc-one": {
   "reason": "empty",
@@ -291,9 +319,81 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "tv24.co.uk|en|bbc-one-channel-islands": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-channel-islands-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-east-midlands-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-north-east-cumbria-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-north-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-scotland": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-south-east-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-south-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-wales": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-west-midlands-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-yorkshire": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-one-yorkshire-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|bbc-red-button-1": {
   "reason": "notice",
   "since": "2026-11-24"
+ },
+ "tv24.co.uk|en|bbc-red-button-2": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-red-button-3": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-two-northern-ireland-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-two-wales": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|bbc-two-wales-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "tv24.co.uk|en|bbc1": {
   "reason": "empty",
@@ -311,13 +411,69 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "tv24.co.uk|en|bbc2-england": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|bt-sport-uhd-4k": {
   "reason": "empty",
   "since": "2026-11-24"
  },
+ "tv24.co.uk|en|cartoon-network": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|cartoon-network-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|cartoon-network-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|channel-4-midlands": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|channel-4-south-east": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|cnn": {
   "reason": "empty",
   "since": "2026-11-23"
+ },
+ "tv24.co.uk|en|cnn-international-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|court-tv": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|crime-and-investigation-network": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|crime-investigation-network-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|discovery-history": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|discovery-science": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|discovery-turbo": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|discovery-turbo-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "tv24.co.uk|en|disney-channel-2": {
   "reason": "foreign",
@@ -343,6 +499,10 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "tv24.co.uk|en|food-network-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|free-sports": {
   "reason": "empty",
   "since": "2026-11-23"
@@ -359,6 +519,10 @@
   "reason": "foreign",
   "since": "2026-11-25"
  },
+ "tv24.co.uk|en|itv-anglia-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|itv-be": {
   "reason": "empty",
   "since": "2026-11-23"
@@ -366,6 +530,14 @@
  "tv24.co.uk|en|itv-be-hd": {
   "reason": "empty",
   "since": "2026-11-24"
+ },
+ "tv24.co.uk|en|itv-central-east-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv-central-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "tv24.co.uk|en|itv-granada-hd": {
   "reason": "empty",
@@ -375,9 +547,41 @@
   "reason": "empty",
   "since": "2026-11-23"
  },
+ "tv24.co.uk|en|itv-meridian-north-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv-meridian-south-east-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|itv-yorkshire-east-hd": {
   "reason": "empty",
   "since": "2026-11-23"
+ },
+ "tv24.co.uk|en|itv-yorkshire-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-border-scotland": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-border-scotland-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-granada": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-granada-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-tyne-tees": {
+  "reason": "empty",
+  "since": "2026-11-25"
  },
  "tv24.co.uk|en|itvbe-hd": {
   "reason": "empty",
@@ -395,6 +599,26 @@
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "tv24.co.uk|en|rt-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|rte-2": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|rte-2-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|rte1-network": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|sky-crime-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|sky-max-hd": {
   "reason": "empty",
   "since": "2026-11-24"
@@ -407,12 +631,56 @@
   "reason": "foreign",
   "since": "2026-11-15"
  },
+ "tv24.co.uk|en|sky-sports-box-office-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|sky-sports-news-hd-1": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|stv-central-east": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|stv-central-east-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|stv-central-west": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|stv-central-west-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|talk-tv-hd": {
   "reason": "empty",
   "since": "2026-11-24"
  },
+ "tv24.co.uk|en|tg4": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|tg4-hd": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|trace-urban": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
  "tv24.co.uk|en|turner-classic-movies": {
   "reason": "notice",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|wion": {
+  "reason": "empty",
+  "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|wion-hd-uk": {
+  "reason": "empty",
   "since": "2026-11-25"
  },
  "virgintvgo.virginmedia.com|en|1548": {

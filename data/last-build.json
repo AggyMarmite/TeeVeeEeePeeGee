@@ -1,18 +1,18 @@
 {
- "built": "2026-11-25T08:57",
- "channels": 2406,
- "programmes": 198949,
- "noListings": 25,
- "withLogo": 1955,
- "xmlMB": 96.7,
- "gzMB": 12,
+ "built": "2026-11-25T19:30",
+ "channels": 2389,
+ "programmes": 186917,
+ "noListings": 68,
+ "withLogo": 1982,
+ "xmlMB": 92.9,
+ "gzMB": 12.1,
  "bySite": {
   "epgshare01.online": [
    1514,
    3
   ],
   "sky.com": [
-   411,
+   416,
    0
   ],
   "tvinsider.com": [
@@ -20,27 +20,27 @@
    0
   ],
   "directv.com": [
-   265,
+   268,
    0
   ],
   "tv24.co.uk": [
-   82,
-   15
+   0,
+   48
   ],
   "freeview.co.uk": [
-   49,
-   0
-  ],
-  "virgintvgo.virginmedia.com": [
-   12,
+   57,
    0
   ],
   "mytelly.co.uk": [
    0,
-   7
+   17
+  ],
+  "virgintvgo.virginmedia.com": [
+   17,
+   0
   ],
   "player.ee.co.uk": [
-   8,
+   9,
    0
   ],
   "dazn.com": [
@@ -97,12 +97,12 @@
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "K15IO-D = K15IO-D.us_locals1",
-     "CHWI-DT = CHWI-DT.us_locals1",
-     "WJNK-LD = WJNK-LD.us_locals1",
-     "K44IK-D = K44IK-D.us_locals1",
-     "KHPB-CD = KHPB-CD.us_locals1",
-     "K29AA-D = K29AA-D.us_locals1"
+     "WPXI-DT = WPXI-DT.us_locals1",
+     "WZDC-CD = WZDC-CD.us_locals1",
+     "K15AL-D = K15AL-D.us_locals1",
+     "KTDO-DT = KTDO-DT.us_locals1",
+     "KPTN-LD = KPTN-LD.us_locals1",
+     "WBXJ-CD = WBXJ-CD.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 267
+    "programmes": 279
    },
    "IE1": {
-    "channels": 2,
-    "withListings": 2,
-    "programmes": 148
+    "channels": 3,
+    "withListings": 3,
+    "programmes": 273
    },
    "UK1": {
     "channels": 34,
     "withListings": 31,
-    "programmes": 2131
+    "programmes": 1815
    },
    "US2": {
-    "channels": 226,
-    "withListings": 226,
-    "programmes": 18608
+    "channels": 225,
+    "withListings": 225,
+    "programmes": 15823
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 85073
+    "programmes": 89395
    },
    "US_SPORTS1": {
     "channels": 22,
