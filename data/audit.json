@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T14:02",
+ "built": "2026-11-25T00:03",
  "weakMatches": [
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
@@ -12,12 +12,6 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
-  },
-  {
-   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
-   "src": "BBC One HD · tv24.co.uk",
-   "score": 84,
-   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -477,7 +471,7 @@
   },
   {
    "ch": "US| ABC 8 TULSA OK (KTUL)",
-   "src": "KTUL-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KTUL-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -519,7 +513,7 @@
   },
   {
    "ch": "US| ABC 18 BUTTE MT (KWYB)",
-   "src": "KWYB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -633,7 +627,7 @@
   },
   {
    "ch": "US| ABC 12 NEW BERN NC (WCTI)",
-   "src": "WCTI-DT · epgshare01.online US_LOCALS1 US",
+   "src": "FOX (WCTI-TV2) New Bern, NC · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -687,7 +681,7 @@
   },
   {
    "ch": "US| ABC 9 ORLANDO FL (WFTV)",
-   "src": "WFTV-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WFTV-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -705,7 +699,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-CD · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -900,6 +894,12 @@
    "src": "WSB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
+   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
   }
  ],
  "sharedIds": [
@@ -1065,7 +1065,23 @@
    ]
   }
  ],
- "stale": [],
+ "stale": [
+  {
+   "ch": "TV| FOX SPORTS ᴿᴬᵂ",
+   "hoursAhead": 11,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS NORTH HD",
+   "hoursAhead": 11,
+   "src": "epgshare01.online"
+  },
+  {
+   "ch": "US| FOX SPORTS SOUTH HD",
+   "hoursAhead": 11,
+   "src": "epgshare01.online"
+  }
+ ],
  "gaps": [
   {
    "ch": "UK-BBCI| BBC RED BUTTON 2",
@@ -1076,21 +1092,6 @@
    "ch": "UK-BBCI| BBC RED BUTTON 3",
    "hours": 8,
    "src": "tv24.co.uk"
-  },
-  {
-   "ch": "UK| SKY SPORTS BOX OFFICE HD",
-   "hours": 6,
-   "src": "tv24.co.uk"
-  },
-  {
-   "ch": "US| MAV TV",
-   "hours": 11,
-   "src": "tvinsider.com"
-  },
-  {
-   "ch": "US| MAV TV HD",
-   "hours": 11,
-   "src": "tvinsider.com"
   },
   {
    "ch": "US| PBS HD",
@@ -1119,125 +1120,115 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1470,
-   "-0500": 29
+   "+0000": 1466,
+   "-0500": 33
   },
   "sky.com": {
    "+0000": 369
   },
   "directv.com": {
-   "+0000": 265
+   "+0000": 262
   },
   "tvinsider.com": {
-   "+0000": 28
+   "+0000": 29
   },
   "tv24.co.uk": {
-   "+0000": 74
+   "+0000": 55
   },
   "freeview.co.uk": {
    "+0000": 48
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 11
+   "+0000": 7
   },
   "player.ee.co.uk": {
-   "+0000": 8
+   "+0000": 4
   },
   "dazn.com": {
    "+0000": 9
-  },
-  "mytelly.co.uk": {
-   "+0000": 1
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Tue 14:00 Scam Interceptors",
-   "Tue 14:30 Doorbell Detectives",
-   "Tue 15:00 Escape to the Country",
-   "Tue 15:45 The Repair Shop on the Road",
-   "Tue 16:30 The Finish Line",
-   "Tue 17:15 Pointless"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London HD · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Tue 14:00 Dickinson&apos;s Real Deal",
-   "Tue 15:00 Lingo",
-   "Tue 16:00 New: Deal or No Deal",
-   "Tue 17:00 New: The Chase",
-   "Tue 18:00 ITV News Tyne Tees",
-   "Tue 18:30 ITV Evening News"
+   "Wed 00:00 Shop on TV",
+   "Wed 03:00 Bradley and Barney Walsh: Breaking Dad",
+   "Wed 03:25 Bradley and Barney Walsh: Breaking Dad",
+   "Wed 03:50 Unwind with ITV",
+   "Wed 05:05 Deal or No Deal",
+   "Wed 06:00 Good Morning Britain"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Tue 07:30 Live 2nd Test Day 2: SA v BAN",
-   "Tue 16:00 Sports Desk",
-   "Tue 17:00 Live: The Premier League Show",
-   "Tue 18:00 Live: The Premier League Show",
-   "Tue 19:00 Soccer Special",
-   "Tue 19:30 Live EFL: Wolves v Derby County"
+   "Wed 00:00 Live NBA Cup: Celtics @ Wizards",
+   "Wed 03:00 Live NBA Cup: Mavericks @ Nuggets",
+   "Wed 06:00 Sky Sports News",
+   "Wed 07:00 Sky Sports Breakfast",
+   "Wed 07:30 Live 2nd Test Day 3: SA v BAN",
+   "Wed 16:00 Sports Desk"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Tue 13:05 Las Vegas F1 Grand Prix",
-   "Tue 15:30 F1 Academy: Race 1",
-   "Tue 16:30 F1 Academy: Race 2",
-   "Tue 17:30 Las Vegas F1 Grand Prix",
-   "Tue 19:55 Strange F1 Race Absences",
-   "Tue 20:00 US F1 GP Highlights"
+   "Wed 00:00 Qatar F1 GP Highlights 2025",
+   "Wed 01:00 The Best of Australia 2026",
+   "Wed 01:25 The Best of China 2026",
+   "Wed 02:00 The Best of Japan 2026",
+   "Wed 02:15 The Best of Miami 2026",
+   "Wed 03:00 The Best of Canada 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Tue 14:00 Today 3rd Hour",
-   "Tue 15:00 Today With Jenna & Sheinelle",
-   "Tue 16:00 Live: News 4 NY at 11AM",
-   "Tue 16:30 New York Live",
-   "Tue 17:00 NBC News Daily",
-   "Tue 18:00 Dateline"
+   "Wed 00:00 News 4 NY at 7",
+   "Wed 00:30 New York Live Tonight",
+   "Wed 01:00 Live: NBA Basketball",
+   "Wed 04:00 Live: News 4 NY at 11",
+   "Wed 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Wed 05:35 Late Night With Seth Meyers"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Tue 13:00 Live: Get Up",
-   "Tue 15:00 Live: First Take",
-   "Tue 17:00 Live: The Pat McAfee Show",
-   "Tue 19:00 Live: Big Day With Peter Schrager",
-   "Tue 20:00 Live: College Basketball",
-   "Tue 22:00 College Basketball Live Scoreboard"
+   "Tue 22:30 Live: College Basketball",
+   "Wed 00:30 Live: College Football Playoff: Top 25",
+   "Wed 01:00 Live: College Basketball",
+   "Wed 03:00 College Basketball Live Scoreboard",
+   "Wed 03:30 Live: College Basketball",
+   "Wed 05:30 Live: College Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Tue 14:00 Live: CNN News Central",
-   "Tue 15:00 Live: The Situation Room",
-   "Tue 16:00 Live: The Situation Room",
-   "Tue 17:00 Live: Inside Politics With Dana Bash",
-   "Tue 18:00 Live: CNN News Central",
-   "Tue 19:00 Live: CNN News Central"
+   "Wed 00:00 Live: Erin Burnett OutFront",
+   "Wed 01:00 Live: Anderson Cooper 360",
+   "Wed 02:00 Live: The Source With Kaitlan Collins",
+   "Wed 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Wed 04:00 Laura Coates Live",
+   "Wed 05:00 Live: The Story Is With Elex Michaelson"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Tue 14:00 KTLA 5 Morning News at 6",
-   "Tue 15:00 KTLA 5 Morning News at 7",
-   "Tue 17:00 KTLA 5 Morning News at 9",
-   "Tue 18:00 KTLA 5 Morning News at 10",
-   "Tue 19:00 KTLA 5 Morning News at 11",
-   "Tue 20:00 KTLA 5 News at Noon"
+   "Wed 00:00 KTLA 5 News at 4",
+   "Wed 01:00 KTLA 5 News at 5",
+   "Wed 02:00 KTLA 5 News at 6",
+   "Wed 02:30 KTLA 5 News at 6:30",
+   "Wed 03:00 KTLA 5 News at 7",
+   "Wed 03:30 L.A. Unscripted"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Tue 13:10 Renovation Nation",
-   "Tue 14:10 Escape to Florida",
-   "Tue 15:10 Countdown",
-   "Tue 16:00 A Place in the Sun",
-   "Tue 17:00 Help! We Bought a Village",
-   "Tue 18:00 Four in a Bed"
+   "Tue 23:15 New: The Great British Bake...",
+   "Wed 00:05 Gogglebox",
+   "Wed 01:05 First Dates",
+   "Wed 02:00 Ramsay&apos;s Kitchen Nightmares USA",
+   "Wed 02:55 Ramsay&apos;s Kitchen Nightmares USA",
+   "Wed 03:45 The Last Leg"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Tue 14:00 Top Gear",
-   "Tue 15:00 Speed with Guy Martin",
-   "Tue 16:00 Rick Stein&apos;s Cornwall",
-   "Tue 16:30 Rick Stein&apos;s Cornwall",
-   "Tue 17:00 Rick Stein&apos;s Cornwall",
-   "Tue 17:30 Rick Stein&apos;s Cornwall"
+   "Wed 00:00 Mock the Week",
+   "Wed 00:40 Would I Lie To You?",
+   "Wed 01:20 Would I Lie To You?",
+   "Wed 02:00 Dave Gorman: Modern Life Is Goodish",
+   "Wed 03:00 Richard Osman&apos;s House of Games",
+   "Wed 03:30 Richard Osman&apos;s House of Games"
   ]
  },
- "doubleEscaped": 1392,
+ "doubleEscaped": 1390,
  "counts": {
-  "weakMatches": 1191,
+  "weakMatches": 1190,
   "sharedIds": 22,
-  "stale": 0,
-  "gaps": 6,
+  "stale": 3,
+  "gaps": 3,
   "overlaps": 0,
   "badTimes": 3,
   "offsets": 0
