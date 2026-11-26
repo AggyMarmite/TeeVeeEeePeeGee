@@ -121,16 +121,12 @@
    "src": "sky.com|en|GB#2085",
    "auto": true
   },
-  "BBCOneNorthernIreland.uk": {
-   "src": "mytelly.co.uk|en|1/bbc-one-northern-ireland",
-   "auto": true
-  },
   "BBCOneNorthWest.uk": {
    "src": "tv24.co.uk|en|bbc-one-north-west-hd",
    "auto": true
   },
   "BBCOneScotland.uk": {
-   "src": "mytelly.co.uk|en|1776/bbc-one-scotland-hd",
+   "src": "virgintvgo.virginmedia.com|en|2249",
    "auto": true
   },
   "BBCOneSouthEast.uk": {
@@ -648,7 +644,7 @@
    "auto": true
   },
   "ITVGranada.uk": {
-   "src": "mytelly.co.uk|en|1655/itv1-granada-hd",
+   "src": "sky.com|en|GB#1043",
    "auto": true
   },
   "ITVWales.uk": {
@@ -3587,7 +3583,7 @@
    "auto": true
   },
   "LondonLive.uk": {
-   "src": "virgintvgo.virginmedia.com|en|1767",
+   "src": "freeview.co.uk|en|64257#32842",
    "auto": true
   },
   "LoveNature.ca": {
@@ -4575,10 +4571,6 @@
   },
   "name:TV| CHEDDAR NEWS ᴿᴬᵂ": {
    "src": "directv.com|en|95622e62-7b62-4eea-bf32-691abc764c77",
-   "auto": true
-  },
-  "name:TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ": {
-   "src": "directv.com|en|4428ff9c-a80a-409f-8fa4-f5ed43a11891",
    "auto": true
   },
   "name:TV| CHICAGO SPORTS NETWORK ᴿᴬᵂ": {
@@ -6443,7 +6435,7 @@
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SCOTLAND": {
-   "src": "mytelly.co.uk|en|1776/bbc-one-scotland-hd",
+   "src": "virgintvgo.virginmedia.com|en|2249",
    "auto": true
   },
   "name:UK-BBCI| BBC ONE SOUTH": {
@@ -6468,10 +6460,6 @@
   },
   "name:UK-BBCI| BBC ONE WEST MIDLANDS": {
    "src": "freeview.co.uk|en|64320#4161",
-   "auto": true
-  },
-  "name:UK-BBCI| BBC ONE YORKSHIRE": {
-   "src": "mytelly.co.uk|en|2376/bbc-one-yorkshire-hd",
    "auto": true
   },
   "name:UK-BBCI| BBC PARLIAMENT": {
@@ -7025,7 +7013,7 @@
    "auto": true
   },
   "name:UK| BBC ONE SCOTLAND HEVC": {
-   "src": "mytelly.co.uk|en|1776/bbc-one-scotland-hd",
+   "src": "virgintvgo.virginmedia.com|en|2249",
    "auto": true
   },
   "name:UK| BBC ONE SOUTH WEST": {
@@ -7053,10 +7041,6 @@
   },
   "name:UK| BBC ONE YORKS": {
    "src": "epgshare01.online|en|UK1#BBC.One.Yorks.HD.uk",
-   "auto": true
-  },
-  "name:UK| BBC ONE YORKSHIRE": {
-   "src": "mytelly.co.uk|en|2376/bbc-one-yorkshire-hd",
    "auto": true
   },
   "name:UK| BBC RADIO 1": {
@@ -9076,7 +9060,7 @@
    "auto": true
   },
   "uk.ITV BE": {
-   "src": "mytelly.co.uk|en|1900/itvbe",
+   "src": "virgintvgo.virginmedia.com|en|1800",
    "auto": true
   },
   "uk.ITV Central": {

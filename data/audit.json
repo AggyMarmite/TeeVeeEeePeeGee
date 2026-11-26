@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T11:13",
+ "built": "2026-11-26T17:11",
  "weakMatches": [
   {
    "ch": "UK| BBC 1 HD",
@@ -78,6 +78,12 @@
    "src": "ITV1 Wales HD · sky.com Wales",
    "score": 59,
    "auto": false
+  },
+  {
+   "ch": "UK| ITV 1 Granada FHD",
+   "src": "ITV1 HD · sky.com London",
+   "score": 88,
+   "auto": true
   },
   {
    "ch": "UK| ITV WALES",
@@ -894,12 +900,6 @@
    "src": "WPVI-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 8 RICHMOND VA (WRIC)",
-   "src": "WRIC-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1086,7 +1086,7 @@
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 382
+   "+0000": 383
   },
   "directv.com": {
    "+0000": 267
@@ -1095,13 +1095,13 @@
    "+0000": 29
   },
   "freeview.co.uk": {
-   "+0000": 65
+   "+0000": 66
+  },
+  "virgintvgo.virginmedia.com": {
+   "+0000": 19
   },
   "player.ee.co.uk": {
    "+0000": 11
-  },
-  "virgintvgo.virginmedia.com": {
-   "+0000": 15
   },
   "dazn.com": {
    "+0000": 9
@@ -1109,89 +1109,89 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC ONE Lon · freeview.co.uk": [
-   "Thu 10:45 Farm 999",
-   "Thu 11:15 Homes Under the Hammer",
-   "Thu 12:15 Bargain Hunt",
-   "Thu 13:00 BBC News at One",
-   "Thu 14:00 Scam Interceptors",
-   "Thu 14:30 Doorbell Detectives"
+   "Thu 16:30 The Finish Line",
+   "Thu 17:15 Pointless",
+   "Thu 18:00 BBC News at Six",
+   "Thu 18:30 BBC London",
+   "Thu 19:00 The One Show",
+   "Thu 19:30 EastEnders"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 10:00 This Morning",
-   "Thu 12:30 Loose Women",
-   "Thu 13:30 ITV Lunchtime News",
-   "Thu 13:55 ITV News Tyne Tees",
-   "Thu 14:00 Dickinson&apos;s Real Deal",
-   "Thu 15:00 Lingo"
+   "Thu 17:00 New: The Chase",
+   "Thu 18:00 ITV News Tyne Tees",
+   "Thu 18:30 ITV Evening News",
+   "Thu 19:30 Can We Cure Dementia? Tonight",
+   "Thu 20:00 Emmerdale",
+   "Thu 20:30 Coronation Street"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 11:00 Live: Sky Sports FC",
-   "Thu 12:00 Lunchtime Live",
-   "Thu 13:00 Live Ladies European Tour Golf",
-   "Thu 16:00 Sports Desk",
    "Thu 17:00 Live NFL Bears @ Lions",
-   "Thu 21:15 Live NFL Eagles @ Cowboys"
+   "Thu 21:15 Live NFL Eagles @ Cowboys",
+   "Fri 00:30 Sky Sports News",
+   "Fri 01:00 Live Football Night In America",
+   "Fri 01:20 Live NFL Chiefs @ Bills",
+   "Fri 04:45 Live DP World Tour Golf"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Thu 10:00 Las Vegas F1 Grand Prix",
-   "Thu 12:25 Strange F1 Race Absences",
-   "Thu 12:30 Jamie Chadwick: An F1 Dream",
-   "Thu 12:45 Qatar F1 Grand Prix 2023",
-   "Thu 15:00 New: F1 Drivers&apos; Press Conference",
-   "Thu 15:45 Las Vegas F1 GP Highlights"
+   "Thu 16:45 Weekend Wrapped",
+   "Thu 17:15 F1 Drivers&apos; Press Conference",
+   "Thu 18:00 Live F1 Paddock Uncut: Qatar",
+   "Thu 18:30 Qatar F1 GP Highlights 2023",
+   "Thu 19:30 F1 Drivers&apos; Press Conference",
+   "Thu 20:15 F1 Paddock Uncut: Qatar"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 11:00 Today in New York @ 6AM",
-   "Thu 12:00 Today",
-   "Thu 13:30 Live: 100th Macy&apos;s Thanksgiving Day Parade",
    "Thu 17:00 The National Dog Show",
    "Thu 19:00 100th Macy&apos;s Thanksgiving Day Parade",
-   "Thu 22:00 Live: News 4 NY at 5"
+   "Thu 22:00 Live: News 4 NY at 5",
+   "Thu 22:30 Live: News 4 NY at 5:30",
+   "Thu 23:00 Live: News 4 NY at 6",
+   "Thu 23:30 NBC Nightly News With Tom Llamas"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 11:00 SportsCenter",
-   "Thu 12:00 Live: SportsCenter",
-   "Thu 13:00 Live: Get Up",
-   "Thu 15:00 Live: First Take",
    "Thu 16:00 Live: College Basketball",
-   "Thu 18:00 Live: College Basketball"
+   "Thu 18:00 Live: College Basketball",
+   "Thu 20:00 College Basketball Live Scoreboard",
+   "Thu 20:30 Live: College Basketball",
+   "Thu 22:30 College Basketball Live Scoreboard",
+   "Thu 23:00 Live: College Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 11:00 Live: CNN This Morning",
-   "Thu 12:00 Live: Thanksgiving in America",
-   "Thu 15:00 Live: Thanksgiving in America",
    "Thu 17:00 Live: Inside Politics With Dana Bash",
    "Thu 18:00 Live: CNN News Central",
-   "Thu 19:00 Live: CNN News Central"
+   "Thu 19:00 Live: CNN News Central",
+   "Thu 20:00 Live: CNN News Central",
+   "Thu 21:00 Thanksgiving in America",
+   "Fri 01:00 Vegas: The Story of Sin City"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 11:05 Police 24/7",
-   "Thu 11:30 Judy Justice",
-   "Thu 12:00 Off the Clock",
-   "Thu 13:00 KTLA 5 Morning News at 5",
-   "Thu 14:00 KTLA 5 Morning News at 6",
-   "Thu 15:00 KTLA 5 Morning News at 7"
+   "Thu 17:00 California Cooking With Jessica Holmes",
+   "Thu 17:30 California Cooking With Jessica Holmes",
+   "Thu 18:00 Friends",
+   "Thu 18:30 Friends",
+   "Thu 19:00 Friends",
+   "Thu 19:30 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 11:10 Frasier",
-   "Thu 11:40 Frasier",
-   "Thu 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Thu 13:05 Channel 4 News Summary",
-   "Thu 13:10 Renovation Nation",
-   "Thu 14:10 Escape to Florida"
+   "Thu 17:00 Help! We Bought a Village",
+   "Thu 18:00 Four in a Bed",
+   "Thu 18:30 Come Dine with Me",
+   "Thu 19:00 A Place in the Sun",
+   "Thu 20:00 Channel 4 News",
+   "Thu 20:55 The Political Slot"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 11:00 Rick Stein&apos;s Cornwall",
-   "Thu 11:30 Rick Stein&apos;s Cornwall",
-   "Thu 12:00 Hairy Bikers&apos; Best of British",
-   "Thu 13:00 Great Canal Journeys",
-   "Thu 14:00 Top Gear",
-   "Thu 15:00 Speed with Guy Martin"
+   "Thu 17:00 Rick Stein&apos;s Cornwall",
+   "Thu 17:30 Rick Stein&apos;s Cornwall",
+   "Thu 18:00 Hairy Bikers&apos; Best of British",
+   "Thu 19:00 Would I Lie To You?",
+   "Thu 19:40 Would I Lie To You?",
+   "Thu 20:20 Would I Lie To You?"
   ]
  },
  "doubleEscaped": 1388,
  "counts": {
-  "weakMatches": 1206,
+  "weakMatches": 1207,
   "sharedIds": 21,
   "stale": 0,
   "gaps": 1,
