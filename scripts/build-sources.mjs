@@ -3,6 +3,7 @@
 // Usage: node scripts/build-sources.mjs <path-to-iptv-org-epg>
 import fs from 'node:fs'
 import path from 'node:path'
+import { isImgur } from '../site/shared.js'
 
 const epgDir = process.argv[2] || '.epg'
 const config = JSON.parse(fs.readFileSync('config.json', 'utf8'))
@@ -26,8 +27,10 @@ if (fs.existsSync(logoFile)) {
   for (const l of JSON.parse(fs.readFileSync(logoFile, 'utf8'))) {
     if (!l.url || !l.channel) continue
     const k = l.feed ? `${l.channel}@${l.feed}` : l.channel
-    if (!logoDb.has(k)) logoDb.set(k, l.url)
-    if (!logoDb.has(l.channel)) logoDb.set(l.channel, l.url)
+    for (const key of [k, l.channel]) {
+      if (!logoDb.has(key)) logoDb.set(key, [])
+      if (!logoDb.get(key).includes(l.url)) logoDb.get(key).push(l.url)
+    }
   }
 }
 
@@ -82,7 +85,12 @@ for (const site of config.sites) {
 }
 
 for (const c of full) {
-  if (!c.logo && c.xmltv_id) c.logo = logoDb.get(c.xmltv_id) || logoDb.get(c.xmltv_id.split('@')[0]) || ''
+  if (c.xmltv_id) {
+    const all = [...(logoDb.get(c.xmltv_id) || []), ...(logoDb.get(c.xmltv_id.split('@')[0]) || [])]
+    const alt = [...new Set(all)].filter(u => !isImgur(u))
+    if (!c.logo) c.logo = alt[0] || all[0] || ''
+    if (alt.length) c.logos = alt.slice(0, 3)
+  }
 }
 
 fs.mkdirSync('work', { recursive: true })

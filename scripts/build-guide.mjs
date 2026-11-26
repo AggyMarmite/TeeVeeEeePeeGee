@@ -2,7 +2,7 @@
 // source, under YOUR channel's tvg-id (so every app matches it automatically).
 import fs from 'node:fs'
 import zlib from 'node:zlib'
-import { groupChannels, normalizeName } from '../site/shared.js'
+import { groupChannels, normalizeName, pickLogo } from '../site/shared.js'
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 
@@ -140,7 +140,11 @@ const progXml = []
 const status = {}
 const logos = {}
 const srcLogos = new Map()
-if (fs.existsSync('work/sources-full.json')) for (const c of JSON.parse(fs.readFileSync('work/sources-full.json', 'utf8'))) if (c.logo) srcLogos.set(c.key, c.logo)
+const srcAlt = new Map()
+if (fs.existsSync('work/sources-full.json')) for (const c of JSON.parse(fs.readFileSync('work/sources-full.json', 'utf8'))) {
+  if (c.logo) srcLogos.set(c.key, c.logo)
+  if (c.logos) srcAlt.set(c.key, c.logos)
+}
 const bySite = {}
 let total = 0
 for (const [key, m] of Object.entries(mappings).sort()) {
@@ -149,7 +153,7 @@ for (const [key, m] of Object.entries(mappings).sort()) {
   const g = groups.get(key)
   const names = g ? g.names : [id]
   const gid = grabmap[m.src]
-  const logo = (g && g.logo) || icons.get(gid) || srcLogos.get(m.src) || ''
+  const logo = pickLogo(g && g.logo, icons.get(gid), srcLogos.get(m.src), ...(srcAlt.get(m.src) || []))
   if (logo) logos[key] = logo
   chanXml.push(
     `  <channel id="${esc(id)}">\n` +
