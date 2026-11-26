@@ -1,7 +1,7 @@
 {
- "built": "2026-11-26T21:52",
+ "built": "2026-11-26T21:55",
  "channels": 2383,
- "programmes": 179007,
+ "programmes": 178992,
  "noListings": 40,
  "withLogo": 1997,
  "xmlMB": 88.4,
@@ -136,7 +136,7 @@
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15225
+    "programmes": 15224
    },
    "US_LOCALS1": {
     "channels": 921,
