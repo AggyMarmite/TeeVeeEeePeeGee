@@ -1,19 +1,19 @@
 {
- "built": "2026-11-25T19:30",
- "channels": 2389,
- "programmes": 186917,
- "noListings": 68,
- "withLogo": 1982,
- "xmlMB": 92.9,
- "gzMB": 12.1,
+ "built": "2026-11-26T03:42",
+ "channels": 2403,
+ "programmes": 193934,
+ "noListings": 110,
+ "withLogo": 1997,
+ "xmlMB": 95.7,
+ "gzMB": 12.8,
  "bySite": {
   "epgshare01.online": [
-   1514,
-   3
+   1512,
+   9
   ],
   "sky.com": [
-   416,
-   0
+   413,
+   6
   ],
   "tvinsider.com": [
    31,
@@ -21,31 +21,31 @@
   ],
   "directv.com": [
    268,
-   0
-  ],
-  "tv24.co.uk": [
-   0,
-   48
-  ],
-  "freeview.co.uk": [
-   57,
-   0
+   3
   ],
   "mytelly.co.uk": [
    0,
-   17
+   45
+  ],
+  "tv24.co.uk": [
+   0,
+   46
+  ],
+  "freeview.co.uk": [
+   51,
+   0
   ],
   "virgintvgo.virginmedia.com": [
-   17,
+   12,
    0
   ],
   "player.ee.co.uk": [
-   9,
+   6,
    0
   ],
   "dazn.com": [
-   9,
-   0
+   0,
+   1
   ]
  },
  "epgshare": {
@@ -75,23 +75,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "Virgin Media Two HD = Virgin.Media.Two.HD.uk",
-     "QUEST HD = QUEST.HD.uk",
-     "EWTN Catholic = EWTN.Catholic.uk",
-     "POP = POP.uk",
-     "B4U Music = B4U.Music.uk",
-     "GEO News = GEO.News.uk"
+     "TNT Sports 2 HD = TNT.Sports.2.HD.uk",
+     "S4C = S4C.uk",
+     "Now Rock = Now.Rock.uk",
+     "High Street TV 4 = High.Street.TV.4.uk",
+     "TRT World HD = TRT.World.HD.uk",
+     "Heart = Heart.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Once = Once.us2",
-     "Spectrum SportsNet LA Dodgers HD = Spectrum.SportsNet.LA.Dodgers.HD.us2",
-     "Nick Music = Nick.Music.us2",
-     "Cinemax Classics = Cinemax.Classics.us2",
-     "Dabl Network LLC = Dabl.Network.LLC.us2",
-     "Filmrise Mysteries = Filmrise.Mysteries.us2"
+     "RFD TV HD = RFD.TV.HD.us2",
+     "Atreseries = Atreseries.us2",
+     "Fox Deportes HD = Fox.Deportes.HD.us2",
+     "Bon Appétit TV = Bon.Appétit.TV.us2",
+     "VH1 HD = VH1.HD.us2",
+     "Fight Network = Fight.Network.us2"
     ]
    },
    "US_LOCALS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 279
+    "programmes": 276
    },
    "IE1": {
-    "channels": 3,
-    "withListings": 3,
-    "programmes": 273
+    "channels": 2,
+    "withListings": 2,
+    "programmes": 146
    },
    "UK1": {
-    "channels": 34,
+    "channels": 40,
     "withListings": 31,
-    "programmes": 1815
+    "programmes": 2300
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15823
+    "programmes": 19259
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 89395
+    "programmes": 85153
    },
    "US_SPORTS1": {
     "channels": 22,

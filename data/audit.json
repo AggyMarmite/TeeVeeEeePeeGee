@@ -1,18 +1,6 @@
 {
- "built": "2026-11-25T19:30",
+ "built": "2026-11-26T03:42",
  "weakMatches": [
-  {
-   "ch": "UK| BBC 1 HD",
-   "src": "BBC1 HD · epgshare01.online IE1 IE",
-   "score": 94,
-   "auto": true
-  },
-  {
-   "ch": "UK| BBC 1 HEVC",
-   "src": "BBC1 HD · epgshare01.online IE1 IE",
-   "score": 94,
-   "auto": true
-  },
   {
    "ch": "UK| BBC 3 / CBBC HEVC",
    "src": "BBC THREE · freeview.co.uk",
@@ -24,12 +12,6 @@
    "src": "CBeebies · freeview.co.uk",
    "score": 0,
    "auto": false
-  },
-  {
-   "ch": "UK| BBC ONE SOUTH EAST",
-   "src": "BBC ONE South · freeview.co.uk South",
-   "score": 85,
-   "auto": true
   },
   {
    "ch": "UK| TNT ULTIMATE 4K+ [LIVE-EVENT]",
@@ -900,6 +882,24 @@
    "src": "WRIC-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
+  },
+  {
+   "ch": "US| ABC 6 INDIANAPOLIS IN (WRTV)",
+   "src": "WRTV-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 2 ATLANTA GA (WSB)",
+   "src": "WSB-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
+  },
+  {
+   "ch": "US| ABC 13 LYNCHBURG VA (WSET)",
+   "src": "WSET-DT · epgshare01.online US_LOCALS1 US",
+   "score": 89,
+   "auto": true
   }
  ],
  "sharedIds": [
@@ -1021,6 +1021,13 @@
    ]
   },
   {
+   "tvgId": "UK| ITV 1",
+   "names": [
+    "UK| ITV YORKSHIRE EAST",
+    "UK| ITV YORKSHIRE WEST"
+   ]
+  },
+  {
    "tvgId": "US-PBS (KCTS) Seattle, WA",
    "names": [
     "US| PBS HD",
@@ -1061,7 +1068,7 @@
  "stale": [
   {
    "ch": "TV| CHICAGO SPORTS NETWORK PLUS ᴿᴬᵂ",
-   "hoursAhead": 10,
+   "hoursAhead": 2,
    "src": "directv.com"
   }
  ],
@@ -1088,11 +1095,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1472,
+   "+0000": 1470,
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 374
+   "+0000": 371
   },
   "directv.com": {
    "+0000": 268
@@ -1101,104 +1108,94 @@
    "+0000": 29
   },
   "freeview.co.uk": {
-   "+0000": 56
+   "+0000": 50
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 16
+   "+0000": 11
   },
   "player.ee.co.uk": {
-   "+0000": 9
-  },
-  "dazn.com": {
-   "+0000": 9
+   "+0000": 6
   }
  },
  "samples": {
-  "UK| BBC ONE LONDON <- BBC One London · player.ee.co.uk": [
-   "Wed 19:30 EastEnders",
-   "Wed 20:00 Celebrity Race Across the World",
-   "Wed 21:00 MasterChef: The Professionals",
-   "Wed 22:00 BBC News and Weather",
-   "Wed 22:30 BBC London News",
-   "Wed 22:40 MOTD: UEFA Champions League"
-  ],
+  "UK| BBC ONE LONDON <- BBC One London · mytelly.co.uk": [],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Wed 19:30 New: Tipping Point: Best Ever Finals",
-   "Wed 20:00 Emmerdale",
-   "Wed 20:30 Coronation Street",
-   "Wed 21:00 New: I&apos;m a Celebrity... Get Me...",
-   "Wed 22:05 ITV News at Ten",
-   "Wed 22:35 ITV News Tyne Tees"
+   "Thu 03:25 Payback",
+   "Thu 04:15 Unwind with ITV",
+   "Thu 05:35 Pictionary",
+   "Thu 06:00 Good Morning Britain",
+   "Thu 09:30 Lorraine",
+   "Thu 10:00 This Morning"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Wed 19:30 Live EFL: Stoke City v Millwall",
-   "Wed 22:30 Paper Talk",
-   "Wed 23:00 Sky Sports News",
-   "Thu 00:00 Sky Sports News",
    "Thu 01:00 Live DP World Tour Golf",
-   "Thu 06:00 Sky Sports News"
+   "Thu 06:00 Sky Sports News",
+   "Thu 07:00 Sky Sports Breakfast",
+   "Thu 08:00 Sky Sports Breakfast",
+   "Thu 09:00 Sky Sports Breakfast",
+   "Thu 10:00 Live: Sky Sports FC"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Wed 19:00 Las Vegas F1 GP Highlights",
-   "Wed 20:00 Classic F1 Races: Abu Dhabi 2010",
-   "Wed 22:30 Classic F1 Races: Australia",
-   "Thu 00:45 US F1 GP Bitesize Highlights",
-   "Thu 01:00 The Best of Canada 2026",
-   "Thu 01:30 The Best of Monaco 2026"
+   "Thu 03:35 The Best of Hungary 2026",
+   "Thu 04:00 The Best of Australia 2026",
+   "Thu 04:25 The Best of China 2026",
+   "Thu 05:00 The Best of Japan 2026",
+   "Thu 05:15 The Best of Miami 2026",
+   "Thu 06:00 Qatar F1 GP Highlights 2021"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Wed 19:00 NBC News Daily",
-   "Wed 20:00 Macy&apos;s Thanksgiving Day Parade Balloon Inflation Celebration",
-   "Wed 21:00 Live: News 4 NY at 4",
-   "Wed 21:30 Live: News 4 NY at 4:30",
-   "Wed 22:00 Live: News 4 NY at 5",
-   "Wed 22:30 Live: News 4 NY at 5:30"
+   "Thu 02:00 Saturday Night Live",
+   "Thu 04:00 Live: News 4 NY at 11",
+   "Thu 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Thu 05:35 Late Night With Seth Meyers",
+   "Thu 06:34 News 4 NY at 11",
+   "Thu 07:09 NBC Nightly News With Tom Llamas"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Wed 19:30 Live: College Basketball",
-   "Wed 21:30 Live: NBA Tip-Off",
-   "Wed 22:00 Live: NBA Basketball",
-   "Thu 00:35 Live: NBA Basketball",
    "Thu 03:05 Live: NBA Basketball",
-   "Thu 05:35 Live: Inside the NBA"
+   "Thu 05:35 Live: Inside the NBA",
+   "Thu 06:35 Live: SportsCenter",
+   "Thu 08:00 SportsCenter",
+   "Thu 09:00 NBA Basketball",
+   "Thu 11:00 SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Wed 19:00 Live: CNN News Central",
-   "Wed 20:00 Live: CNN News Central",
-   "Wed 21:00 Live: The Arena With Kasie Hunt",
-   "Wed 22:00 Live: The Lead With Jake Tapper",
-   "Wed 23:00 Live: The Lead With Jake Tapper",
-   "Thu 00:00 Live: Erin Burnett OutFront"
+   "Thu 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Thu 04:00 Laura Coates Live",
+   "Thu 05:00 Live: The Story Is With Elex Michaelson",
+   "Thu 06:00 Live: The Story Is With Elex Michaelson",
+   "Thu 07:00 Anderson Cooper 360",
+   "Thu 08:00 CNN NewsNight With Abby Phillip"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Wed 19:00 KTLA 5 Morning News at 11",
-   "Wed 20:00 KTLA 5 News at Noon",
-   "Wed 21:00 KTLA 5 News at 1",
-   "Wed 22:00 Off the Clock",
-   "Wed 23:00 KTLA 5 News at 3",
-   "Thu 00:00 KTLA 5 News at 4"
+   "Thu 03:30 L.A. Unscripted",
+   "Thu 04:00 The Wizard of Oz",
+   "Thu 06:00 KTLA 5 News at 10",
+   "Thu 06:45 KTLA 5 Sports Final",
+   "Thu 07:00 KTLA 5 News at 11",
+   "Thu 07:35 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Wed 19:00 A Place in the Sun",
-   "Wed 20:00 Channel 4 News",
-   "Wed 20:55 The Political Slot",
-   "Wed 21:00 Location, Location, Location",
-   "Wed 22:00 New: Hunting Alice Bell",
-   "Wed 23:00 New: First Dates"
+   "Thu 03:10 New: A Friend of the Family",
+   "Thu 04:10 Grand Designs",
+   "Thu 05:10 Kirstie and Phil&apos;s Love It or...",
+   "Thu 06:05 A Place in the Sun",
+   "Thu 06:35 Find It, Fix It, Flog It",
+   "Thu 06:40 Cheers"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Wed 19:00 Would I Lie To You?",
-   "Wed 19:40 Would I Lie To You?",
-   "Wed 20:20 Would I Lie To You?",
-   "Wed 21:00 QI XL",
-   "Wed 22:00 Have I Got a Bit More News for You",
-   "Wed 23:00 Taskmaster"
+   "Thu 03:30 Richard Osman&apos;s House of Games",
+   "Thu 04:00 Teleshopping",
+   "Thu 06:00 Teleshopping",
+   "Thu 07:10 Top Gear",
+   "Thu 08:00 Special Ops: To Catch a Criminal",
+   "Thu 09:00 Special Ops: To Catch a Criminal"
   ]
  },
  "doubleEscaped": 1390,
  "counts": {
-  "weakMatches": 1198,
-  "sharedIds": 21,
+  "weakMatches": 1182,
+  "sharedIds": 22,
   "stale": 1,
   "gaps": 1,
   "overlaps": 0,
