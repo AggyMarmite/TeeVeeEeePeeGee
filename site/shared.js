@@ -41,15 +41,15 @@ export function parseM3U(text) {
 // (often bare IP addresses) would reveal where the playlist comes from.
 export const DEFAULT_LOGO_HOSTS = [
   'iili.io', 'picons.cmshulk.com', 'i.imgur.com', 'imgur.com', 'raw.githubusercontent.com',
-  'upload.wikimedia.org', 'lyngsat.com', 'www.lyngsat.com', 'logo.clearbit.com', 'tvprofil.net', 'wsrv.nl'
+  'upload.wikimedia.org', 'lyngsat.com', 'www.lyngsat.com', 'logo.clearbit.com', 'tvprofil.net'
 ]
 
-// Imgur blocks UK visitors, so prefer any other logo and relay Imgur ones through wsrv.nl
+// Imgur blocks UK visitors: order logo candidates with non-Imgur ones first
+// (the build then copies the first one that downloads onto the guide's own site)
 export const isImgur = url => /^https?:\/\/([a-z0-9-]+\.)*imgur\.com\//i.test(url || '')
-export function pickLogo(...urls) {
-  const list = urls.filter(Boolean)
-  const best = list.find(u => !isImgur(u)) || list[0] || ''
-  return isImgur(best) ? 'https://wsrv.nl/?url=' + encodeURIComponent(best.replace(/^https?:\/\//, '')) : best
+export function logoCandidates(...urls) {
+  const list = [...new Set(urls.filter(Boolean))]
+  return [...list.filter(u => !isImgur(u)), ...list.filter(isImgur)]
 }
 export function safeLogo(url, hosts = DEFAULT_LOGO_HOSTS) {
   try {

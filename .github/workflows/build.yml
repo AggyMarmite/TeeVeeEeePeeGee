@@ -77,6 +77,13 @@ jobs:
           name: channels
           path: data
 
+      - name: Restore logo copies
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+        with:
+          path: logo-cache
+          key: logos-${{ github.run_id }}
+          restore-keys: logos-
+
       - name: Get epgshare01 channel lists
         run: node scripts/epgshare.mjs catalogue
 
@@ -122,6 +129,10 @@ jobs:
           fi
           node scripts/epgshare.mjs listings
           node scripts/build-guide.mjs
+
+      - name: Copy logos onto the guide site (avoids hosts blocked in the UK)
+        continue-on-error: true
+        run: node scripts/mirror-logos.mjs
 
       - name: Audit guide
         continue-on-error: true

@@ -2,7 +2,7 @@
 // source, under YOUR channel's tvg-id (so every app matches it automatically).
 import fs from 'node:fs'
 import zlib from 'node:zlib'
-import { groupChannels, normalizeName, pickLogo } from '../site/shared.js'
+import { groupChannels, normalizeName, logoCandidates } from '../site/shared.js'
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 
@@ -139,6 +139,7 @@ const chanXml = []
 const progXml = []
 const status = {}
 const logos = {}
+const logoCands = {}
 const srcLogos = new Map()
 const srcAlt = new Map()
 if (fs.existsSync('work/sources-full.json')) for (const c of JSON.parse(fs.readFileSync('work/sources-full.json', 'utf8'))) {
@@ -153,8 +154,9 @@ for (const [key, m] of Object.entries(mappings).sort()) {
   const g = groups.get(key)
   const names = g ? g.names : [id]
   const gid = grabmap[m.src]
-  const logo = pickLogo(g && g.logo, icons.get(gid), srcLogos.get(m.src), ...(srcAlt.get(m.src) || []))
-  if (logo) logos[key] = logo
+  const cands = logoCandidates(g && g.logo, icons.get(gid), srcLogos.get(m.src), ...(srcAlt.get(m.src) || []))
+  const logo = cands[0] || ''
+  if (logo) { logos[key] = logo; logoCands[key] = cands }
   chanXml.push(
     `  <channel id="${esc(id)}">\n` +
       names.map(n => `    <display-name>${esc(n)}</display-name>\n`).join('') +
@@ -193,6 +195,7 @@ const xml =
 
 fs.mkdirSync('out', { recursive: true })
 
+fs.writeFileSync('work/logo-candidates.json', JSON.stringify(logoCands))
 fs.writeFileSync('out/guide.xml', xml)
 fs.writeFileSync('out/guide.xml.gz', zlib.gzipSync(xml, { level: 9 }))
 fs.writeFileSync('out/status.json', JSON.stringify({ built: new Date().toISOString(), counts: status, logos }))
