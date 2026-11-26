@@ -15,6 +15,18 @@
   "reason": "empty",
   "since": "2026-11-26"
  },
+ "directv.com|en|2fa52b7a-1118-4922-9e38-662df44f5225": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "directv.com|en|4428ff9c-a80a-409f-8fa4-f5ed43a11891": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "directv.com|en|47c10a14-e199-4bdf-82ef-78deb343d8d8": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "directv.com|en|ab074342-55eb-4db8-bbe4-f5b15b17e737": {
   "reason": "empty",
   "since": "2026-11-25"
@@ -63,6 +75,10 @@
   "reason": "empty",
   "since": "2026-11-26"
  },
+ "epgshare01.online|en|UK1#Sky.Crime+1.uk": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "epgshare01.online|en|UK1#SkyPremiere+1.uk": {
   "reason": "empty",
   "since": "2026-11-26"
@@ -86,6 +102,10 @@
  "freeview.co.uk|en|64257#15584": {
   "reason": "empty",
   "since": "2026-11-25"
+ },
+ "mytelly.co.uk|en|1/bbc-one-northern-ireland": {
+  "reason": "empty",
+  "since": "2026-11-26"
  },
  "mytelly.co.uk|en|10/bbc-one-east-midlands": {
   "reason": "empty",
@@ -167,6 +187,10 @@
   "reason": "empty",
   "since": "2026-11-24"
  },
+ "mytelly.co.uk|en|1655/itv1-granada-hd": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "mytelly.co.uk|en|1663/bbc-one-channel-islands": {
   "reason": "empty",
   "since": "2026-11-25"
@@ -179,17 +203,33 @@
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "mytelly.co.uk|en|1745/eurosport-2-hd": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "mytelly.co.uk|en|1770/bbc-one-northern-ireland-hd": {
   "reason": "empty",
   "since": "2026-11-25"
+ },
+ "mytelly.co.uk|en|1776/bbc-one-scotland-hd": {
+  "reason": "empty",
+  "since": "2026-11-26"
  },
  "mytelly.co.uk|en|1856/rte-one-hd": {
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "mytelly.co.uk|en|1863/london-live": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "mytelly.co.uk|en|19/bbc-two-northern-ireland": {
   "reason": "empty",
   "since": "2026-11-25"
+ },
+ "mytelly.co.uk|en|1900/itvbe": {
+  "reason": "empty",
+  "since": "2026-11-26"
  },
  "mytelly.co.uk|en|1930/itvbe-hd": {
   "reason": "empty",
@@ -259,6 +299,14 @@
   "reason": "empty",
   "since": "2026-11-26"
  },
+ "mytelly.co.uk|en|2376/bbc-one-yorkshire-hd": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "mytelly.co.uk|en|275/eurosport-1": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "mytelly.co.uk|en|35/itv1-granada": {
   "reason": "empty",
   "since": "2026-11-26"
@@ -304,6 +352,18 @@
   "since": "2026-11-26"
  },
  "sky.com|it|IT#150": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "tv24.co.uk|en|bbc-1-northern-ireland-hd-vm-custom": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "tv24.co.uk|en|bbc-1-scotland-hd-vm-custom": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
+ "tv24.co.uk|en|bbc-1-wales-hd-vm-custom": {
   "reason": "empty",
   "since": "2026-11-26"
  },
@@ -427,6 +487,10 @@
   "reason": "empty",
   "since": "2026-11-26"
  },
+ "tv24.co.uk|en|cartoon-network-uk-hd": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "tv24.co.uk|en|channel-4-midlands": {
   "reason": "empty",
   "since": "2026-11-25"
@@ -503,6 +567,10 @@
   "reason": "empty",
   "since": "2026-11-26"
  },
+ "tv24.co.uk|en|gems-tv": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "tv24.co.uk|en|hgtv": {
   "reason": "notice",
   "since": "2026-11-25"
@@ -574,6 +642,10 @@
  "tv24.co.uk|en|itv1-tyne-tees": {
   "reason": "empty",
   "since": "2026-11-25"
+ },
+ "tv24.co.uk|en|itv1-tyne-tees-south": {
+  "reason": "empty",
+  "since": "2026-11-26"
  },
  "tv24.co.uk|en|itvbe-hd": {
   "reason": "empty",
@@ -675,8 +747,16 @@
   "reason": "empty",
   "since": "2026-11-25"
  },
+ "virgintvgo.virginmedia.com|en|1548": {
+  "reason": "empty",
+  "since": "2026-11-26"
+ },
  "virgintvgo.virginmedia.com|en|1595": {
   "reason": "empty",
   "since": "2026-11-24"
+ },
+ "virgintvgo.virginmedia.com|en|1767": {
+  "reason": "empty",
+  "since": "2026-11-26"
  }
 }

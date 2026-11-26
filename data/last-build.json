@@ -1,51 +1,51 @@
 {
- "built": "2026-11-26T03:42",
- "channels": 2403,
- "programmes": 193934,
- "noListings": 110,
- "withLogo": 1997,
- "xmlMB": 95.7,
- "gzMB": 12.8,
+ "built": "2026-11-26T11:13",
+ "channels": 2387,
+ "programmes": 181595,
+ "noListings": 49,
+ "withLogo": 2000,
+ "xmlMB": 89.2,
+ "gzMB": 11.9,
  "bySite": {
   "epgshare01.online": [
-   1512,
-   9
+   1514,
+   3
   ],
   "sky.com": [
-   413,
-   6
+   424,
+   0
   ],
   "tvinsider.com": [
    31,
    0
   ],
   "directv.com": [
-   268,
-   3
+   267,
+   1
   ],
-  "mytelly.co.uk": [
-   0,
-   45
+  "freeview.co.uk": [
+   66,
+   0
   ],
   "tv24.co.uk": [
    0,
-   46
+   29
   ],
-  "freeview.co.uk": [
-   51,
+  "mytelly.co.uk": [
+   0,
+   15
+  ],
+  "player.ee.co.uk": [
+   11,
    0
   ],
   "virgintvgo.virginmedia.com": [
-   12,
-   0
-  ],
-  "player.ee.co.uk": [
-   6,
-   0
+   16,
+   1
   ],
   "dazn.com": [
-   0,
-   1
+   9,
+   0
   ]
  },
  "epgshare": {
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "WPIX-DT = WPIX-DT.ca2",
-     "DirecTV - NHL Center Ice - NHLCI4 = DirecTV.-.NHL.Center.Ice.-.NHLCI4.ca2",
-     "CJAD 800 Montréal = CJAD.800.Montréal.ca2",
-     "Hustler Mature HD = Hustler.Mature.HD.ca2",
-     "NBA TV Canada HD = NBA.TV.Canada.HD.ca2",
-     "EPG Local Origination = EPG.Local.Origination.ca2"
+     "YTV HD = YTV.HD.ca2",
+     "WGN-DT = WGN-DT.ca2",
+     "Dorcel TV Canada = Dorcel.TV.Canada.ca2",
+     "Super Channel Fuse = Super.Channel.Fuse.ca2",
+     "CFRB = CFRB.ca2",
+     "Stingray Hits! = Stingray.Hits!.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 276
+    "programmes": 270
    },
    "IE1": {
-    "channels": 2,
-    "withListings": 2,
-    "programmes": 146
+    "channels": 3,
+    "withListings": 3,
+    "programmes": 265
    },
    "UK1": {
-    "channels": 40,
-    "withListings": 31,
-    "programmes": 2300
+    "channels": 35,
+    "withListings": 32,
+    "programmes": 2142
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19259
+    "programmes": 17897
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 85153
+    "programmes": 77615
    },
    "US_SPORTS1": {
     "channels": 22,
