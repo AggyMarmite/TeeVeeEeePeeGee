@@ -94,12 +94,10 @@
    "auto": true
   },
   "BBC1.uk": {
-   "src": "mytelly.co.uk|en|4/bbc-one",
-   "auto": true
+   "src": "freeview.co.uk|en|64257#4164"
   },
   "BBC1Yorkshire.uk": {
-   "src": "mytelly.co.uk|en|4/bbc-one",
-   "auto": true
+   "src": "freeview.co.uk|en|64257#4164"
   },
   "BBC2.uk": {
    "src": "sky.com|en|GB#2075",
@@ -9063,8 +9061,7 @@
    "auto": true
   },
   "uk.BBC1 London": {
-   "src": "mytelly.co.uk|en|713/bbc-one-london",
-   "auto": true
+   "src": "freeview.co.uk|en|64257#4164"
   },
   "uk.BBC1 West": {
    "src": "freeview.co.uk|en|64320#4161",
