@@ -1,18 +1,18 @@
 {
- "built": "2026-11-26T17:11",
+ "built": "2026-11-26T21:49",
  "channels": 2383,
- "programmes": 166929,
- "noListings": 39,
+ "programmes": 179061,
+ "noListings": 40,
  "withLogo": 1997,
- "xmlMB": 82.2,
- "gzMB": 11,
+ "xmlMB": 88.5,
+ "gzMB": 12.4,
  "bySite": {
   "epgshare01.online": [
    1514,
    3
   ],
   "sky.com": [
-   425,
+   424,
    0
   ],
   "tvinsider.com": [
@@ -33,7 +33,7 @@
   ],
   "virgintvgo.virginmedia.com": [
    20,
-   0
+   1
   ],
   "player.ee.co.uk": [
    11,
@@ -97,12 +97,12 @@
    "US_LOCALS1": {
     "channels": 4471,
     "sample": [
-     "WPXI-DT = WPXI-DT.us_locals1",
-     "WZDC-CD = WZDC-CD.us_locals1",
-     "K15AL-D = K15AL-D.us_locals1",
-     "KTDO-DT = KTDO-DT.us_locals1",
-     "KPTN-LD = KPTN-LD.us_locals1",
-     "WBXJ-CD = WBXJ-CD.us_locals1"
+     "WTTK-DT = WTTK-DT.us_locals1",
+     "KHON-DT = KHON-DT.us_locals1",
+     "K07XL-D = K07XL-D.us_locals1",
+     "KADO-CD = KADO-CD.us_locals1",
+     "K31ELD-91 = K31ELD-91.us_locals1",
+     "WTJP-DT = WTJP-DT.us_locals1"
     ]
    },
    "US_SPORTS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 273
+    "programmes": 277
    },
    "IE1": {
     "channels": 3,
     "withListings": 3,
-    "programmes": 272
+    "programmes": 274
    },
    "UK1": {
     "channels": 35,
     "withListings": 32,
-    "programmes": 1939
+    "programmes": 1798
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 16340
+    "programmes": 15228
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 69418
+    "programmes": 83664
    },
    "US_SPORTS1": {
     "channels": 22,

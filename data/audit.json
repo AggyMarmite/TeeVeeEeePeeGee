@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T17:11",
+ "built": "2026-11-26T21:49",
  "weakMatches": [
   {
    "ch": "UK| BBC 1 HD",
@@ -189,7 +189,7 @@
   },
   {
    "ch": "US| ABC 10 WICHITA KS (KAKE)",
-   "src": "KAKE-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KAKE-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -477,7 +477,7 @@
   },
   {
    "ch": "US| ABC 23 MISSOULA MT (KTMF)",
-   "src": "KTMF-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTMF-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -537,7 +537,7 @@
   },
   {
    "ch": "US| ABC 18 BUTTE MT (KWYB)",
-   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KWYB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -705,7 +705,7 @@
   },
   {
    "ch": "US| ABC 9 ORLANDO FL (WFTV)",
-   "src": "WFTV-LD · epgshare01.online US_LOCALS1 US",
+   "src": "WFTV-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -723,7 +723,7 @@
   },
   {
    "ch": "US| ABC 13 HARRISONBURG VA (WHSV)",
-   "src": "WHSV-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WHSV-CD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -1086,7 +1086,7 @@
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 383
+   "+0000": 382
   },
   "directv.com": {
    "+0000": 267
@@ -1109,87 +1109,87 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC ONE Lon · freeview.co.uk": [
-   "Thu 16:30 The Finish Line",
-   "Thu 17:15 Pointless",
-   "Thu 18:00 BBC News at Six",
-   "Thu 18:30 BBC London",
-   "Thu 19:00 The One Show",
-   "Thu 19:30 EastEnders"
+   "Thu 21:00 Shetland",
+   "Thu 22:00 BBC News at Ten",
+   "Thu 22:30 BBC London",
+   "Thu 22:40 Question Time",
+   "Thu 23:40 Newscast",
+   "Fri 00:10 The Famous Finish Line"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 17:00 New: The Chase",
-   "Thu 18:00 ITV News Tyne Tees",
-   "Thu 18:30 ITV Evening News",
-   "Thu 19:30 Can We Cure Dementia? Tonight",
-   "Thu 20:00 Emmerdale",
-   "Thu 20:30 Coronation Street"
+   "Thu 21:00 New: I&apos;m a Celebrity... Get Me...",
+   "Thu 22:05 ITV News at Ten",
+   "Thu 22:35 ITV News Tyne Tees",
+   "Thu 22:50 Jack Reacher: Never Go Back",
+   "Fri 00:55 Shop on TV",
+   "Fri 03:00 Deal or No Deal"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 17:00 Live NFL Bears @ Lions",
    "Thu 21:15 Live NFL Eagles @ Cowboys",
    "Fri 00:30 Sky Sports News",
    "Fri 01:00 Live Football Night In America",
    "Fri 01:20 Live NFL Chiefs @ Bills",
-   "Fri 04:45 Live DP World Tour Golf"
+   "Fri 04:45 Live DP World Tour Golf",
+   "Fri 06:00 Sky Sports News"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Thu 16:45 Weekend Wrapped",
-   "Thu 17:15 F1 Drivers&apos; Press Conference",
-   "Thu 18:00 Live F1 Paddock Uncut: Qatar",
-   "Thu 18:30 Qatar F1 GP Highlights 2023",
-   "Thu 19:30 F1 Drivers&apos; Press Conference",
-   "Thu 20:15 F1 Paddock Uncut: Qatar"
+   "Thu 21:45 F1 Drivers&apos; Press Conference",
+   "Thu 22:30 F1 Paddock Uncut: Qatar",
+   "Thu 23:00 Qatar F1 GP Highlights 2024",
+   "Fri 00:00 F1 Drivers&apos; Press Conference",
+   "Fri 00:45 F1 Paddock Uncut: Qatar",
+   "Fri 01:15 Kimi Antonelli - World Champion"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 17:00 The National Dog Show",
-   "Thu 19:00 100th Macy&apos;s Thanksgiving Day Parade",
+   "Thu 19:00 99th Macy&apos;s Thanksgiving Day Parade",
    "Thu 22:00 Live: News 4 NY at 5",
    "Thu 22:30 Live: News 4 NY at 5:30",
    "Thu 23:00 Live: News 4 NY at 6",
-   "Thu 23:30 NBC Nightly News With Tom Llamas"
+   "Thu 23:30 NBC Nightly News With Tom Llamas",
+   "Fri 00:00 News 4 NY at 7"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 16:00 Live: College Basketball",
-   "Thu 18:00 Live: College Basketball",
-   "Thu 20:00 College Basketball Live Scoreboard",
    "Thu 20:30 Live: College Basketball",
    "Thu 22:30 College Basketball Live Scoreboard",
-   "Thu 23:00 Live: College Basketball"
+   "Thu 23:00 Live: College Basketball",
+   "Fri 01:00 Live: College Football",
+   "Fri 04:00 College Basketball Live Scoreboard",
+   "Fri 04:30 Live: College Basketball"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 17:00 Live: Inside Politics With Dana Bash",
-   "Thu 18:00 Live: CNN News Central",
-   "Thu 19:00 Live: CNN News Central",
-   "Thu 20:00 Live: CNN News Central",
    "Thu 21:00 Thanksgiving in America",
-   "Fri 01:00 Vegas: The Story of Sin City"
+   "Fri 01:00 Vegas: The Story of Sin City",
+   "Fri 02:00 Vegas: The Story of Sin City",
+   "Fri 03:00 Vegas: The Story of Sin City",
+   "Fri 04:00 Vegas: The Story of Sin City",
+   "Fri 05:00 Live: The Story Is With Elex Michaelson"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 17:00 California Cooking With Jessica Holmes",
-   "Thu 17:30 California Cooking With Jessica Holmes",
-   "Thu 18:00 Friends",
-   "Thu 18:30 Friends",
-   "Thu 19:00 Friends",
-   "Thu 19:30 Friends"
+   "Thu 21:30 Friends",
+   "Thu 22:00 Friends",
+   "Thu 22:30 Friends",
+   "Thu 23:00 Friends",
+   "Thu 23:30 Friends",
+   "Fri 00:00 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 17:00 Help! We Bought a Village",
-   "Thu 18:00 Four in a Bed",
-   "Thu 18:30 Come Dine with Me",
-   "Thu 19:00 A Place in the Sun",
-   "Thu 20:00 Channel 4 News",
-   "Thu 20:55 The Political Slot"
+   "Thu 21:00 New: Aldi: The Next Big Seller",
+   "Thu 22:00 New: Hunting Alice Bell",
+   "Thu 23:00 Gogglebox Festive Special",
+   "Fri 00:35 Gogglebox",
+   "Fri 01:35 The Great British Bake Off:...",
+   "Fri 02:15 Father Stu"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 17:00 Rick Stein&apos;s Cornwall",
-   "Thu 17:30 Rick Stein&apos;s Cornwall",
-   "Thu 18:00 Hairy Bikers&apos; Best of British",
-   "Thu 19:00 Would I Lie To You?",
-   "Thu 19:40 Would I Lie To You?",
-   "Thu 20:20 Would I Lie To You?"
+   "Thu 21:00 QI XL",
+   "Thu 22:00 Have I Got a Bit More News for You",
+   "Thu 23:00 Taskmaster",
+   "Fri 00:00 Mock the Week",
+   "Fri 00:40 Would I Lie To You?",
+   "Fri 01:20 Would I Lie To You?"
   ]
  },
- "doubleEscaped": 1388,
+ "doubleEscaped": 1389,
  "counts": {
   "weakMatches": 1207,
   "sharedIds": 21,

@@ -731,7 +731,7 @@
    "auto": true
   },
   "loc.ABC (KAKE) Wichita, KS": {
-   "src": "epgshare01.online|en|US_LOCALS1#KAKE-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KAKE-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KATC) Lafayette, LA": {
@@ -923,7 +923,7 @@
    "auto": true
   },
   "loc.ABC (KTMF) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KTNV) Las Vegas, NV": {
@@ -963,7 +963,7 @@
    "auto": true
   },
   "loc.ABC (KWYB) Butte, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KWYB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KWYB-LD.us_locals1",
    "auto": true
   },
   "loc.ABC (KXLY) Spokane, WA": {
@@ -1075,7 +1075,7 @@
    "auto": true
   },
   "loc.ABC (WFTV) Orlando, FL": {
-   "src": "epgshare01.online|en|US_LOCALS1#WFTV-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WFTV-DT.us_locals1",
    "auto": true
   },
   "loc.ABC (WHAM) Rochester, NY": {
@@ -1087,7 +1087,7 @@
    "auto": true
   },
   "loc.ABC (WHSV) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-CD.us_locals1",
    "auto": true
   },
   "loc.ABC (WHTM) Harrisburg, PA": {
@@ -1675,7 +1675,7 @@
    "auto": true
   },
   "loc.CBS (WCBS) New York, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (WCCO) Minneapolis, MN": {
@@ -1731,7 +1731,7 @@
    "auto": true
   },
   "loc.CBS (WHBF) Rock Island, Il": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "loc.CBS (WHIO) Dayton, OH": {
@@ -2071,7 +2071,7 @@
    "auto": true
   },
   "loc.CW (WNLO) Buffalo, NY": {
-   "src": "epgshare01.online|en|US_LOCALS1#WNLO-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WNLO-DT.us_locals1",
    "auto": true
   },
   "loc.CW (WNNE-DT2) Plattsburg, NY": {
@@ -2239,7 +2239,7 @@
    "auto": true
   },
   "loc.FOX (KJTV) Lubbock, TX": {
-   "src": "epgshare01.online|en|US_LOCALS1#KJTV-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KJTV-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (KKFX) Santa Barbara, CA": {
@@ -2263,7 +2263,7 @@
    "auto": true
   },
   "loc.FOX (KMPH) Fresno, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KMPH-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KMPH-CD.us_locals1",
    "auto": true
   },
   "loc.FOX (KMSB) Tucson, AZ": {
@@ -2327,7 +2327,7 @@
    "auto": true
   },
   "loc.FOX (KRXI) Reno, NV": {
-   "src": "epgshare01.online|en|US_LOCALS1#KRXI-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KRXI-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KSAS-TV) Wichita, KS": {
@@ -2355,7 +2355,7 @@
    "auto": true
   },
   "loc.FOX (KTMF-DT2) Missoula, MT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTMF-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTMF-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KTMJ) Topeka, KS": {
@@ -2371,7 +2371,7 @@
    "auto": true
   },
   "loc.FOX (KTVU) San Francisco, CA": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "loc.FOX (KTXL) Sacramento, CA": {
@@ -2551,7 +2551,7 @@
    "auto": true
   },
   "loc.FOX (WHSV-DT2) Harrisonburg, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHSV-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHSV-CD.us_locals1",
    "auto": true
   },
   "loc.FOX (WICZ) Binghamton, NY": {
@@ -2711,7 +2711,7 @@
    "auto": true
   },
   "loc.FOX (WTXF) Philadelphia, PA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WTXF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WTXF-DT.us_locals1",
    "auto": true
   },
   "loc.FOX (WUHF) Rochester, NY": {
@@ -2995,7 +2995,7 @@
    "auto": true
   },
   "loc.NBC (KOAA) Colorado Springs, CO": {
-   "src": "epgshare01.online|en|US_LOCALS1#KOAA-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KOAA-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (KOB) Albuquerque, NM": {
@@ -3239,7 +3239,7 @@
    "auto": true
   },
   "loc.NBC (WCYB) Bristol, VA": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCYB-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCYB-LD.us_locals1",
    "auto": true
   },
   "loc.NBC (WDAM) Laurel, MS": {
@@ -3718,7 +3718,7 @@
    "auto": true
   },
   "name:AZ| TUCSON| UNIVISION 46 KUVE-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUVE-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUVE-DT.us_locals1",
    "auto": true
   },
   "name:AZ| YUMA-EL CENTRO| UNIMÁS 54 KAJB": {
@@ -3930,11 +3930,11 @@
    "auto": true
   },
   "name:GA| ATLANTA| UNIMÁS 34.2 WUVG-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#WUVG-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WUVG-LD.us_locals1",
    "auto": true
   },
   "name:GA| ATLANTA| UNIVISION 34 WUVG": {
-   "src": "epgshare01.online|en|US_LOCALS1#WUVG-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WUVG-LD.us_locals1",
    "auto": true
   },
   "name:GR| EUROSPORT 1": {
@@ -4174,11 +4174,11 @@
    "auto": true
   },
   "name:OK| OKLAHOMA CITY| UNIMÁS 36.2 KUOK": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUOK-DT.us_locals1",
    "auto": true
   },
   "name:OK| OKLAHOMA CITY| UNIVISION 36 KUOK-CD": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUOK-CD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUOK-DT.us_locals1",
    "auto": true
   },
   "name:OK| TULSA| UNIMÁS 25.2 KUTU-CD": {
@@ -4238,7 +4238,7 @@
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS NEW YORK ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WCBS-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WCBS-DT.us_locals1",
    "auto": true
   },
   "name:TV| A3 NEW YORK 02 WCBS CBS ᴿᴬᵂ": {
@@ -4754,7 +4754,7 @@
    "auto": true
   },
   "name:TV| DAVENPORT, IA WHBF CBS 4 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#WHBF-LD.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#WHBF-DT.us_locals1",
    "auto": true
   },
   "name:TV| DAVENPORT, IA WQAD ABC 8 A3 HD LOS ANGELES ᶜᶦᵗʸ ᴿᴬᵂ": {
@@ -5828,7 +5828,7 @@
    "auto": true
   },
   "name:TV| SAN FRANCISCO, CA KTVU FOX 2 A3 HD SAN FRANCISCO ᶜᶦᵗʸ ᴿᴬᵂ": {
-   "src": "epgshare01.online|en|US_LOCALS1#KTVU-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KTVU-LD.us_locals1",
    "auto": true
   },
   "name:TV| SAY YES TO THE DRESS ᴿᴬᵂ": {
@@ -6356,7 +6356,7 @@
    "auto": true
   },
   "name:TX| DALLAS-FORT WORTH| UNIVISION 23 KUVN-DT": {
-   "src": "epgshare01.online|en|US_LOCALS1#KUVN-DT.us_locals1",
+   "src": "epgshare01.online|en|US_LOCALS1#KUVN-CD.us_locals1",
    "auto": true
   },
   "name:TX| EL PASO| UNIMÁS 65 KTFN": {
