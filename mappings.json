@@ -111,7 +111,7 @@
    "auto": true
   },
   "BBC4CBeebies.uk": {
-   "src": "freeview.co.uk|en|64257#4672"
+   "src": "freeview.co.uk|en|64257#4544"
   },
   "BBCAmerica.us": {
    "src": "epgshare01.online|en|US2#BBC.America.HD.us2",
@@ -245,12 +245,10 @@
    "auto": true
   },
   "CBBC.uk": {
-   "src": "sky.com|en|GB#2078",
-   "auto": true
+   "src": "freeview.co.uk|en|64257#4288"
   },
   "CBeebies.uk": {
-   "src": "sky.com|en|GB#2088",
-   "auto": true
+   "src": "freeview.co.uk|en|64257#4544"
   },
   "CBSN.us": {
    "src": "tvinsider.com|en|cbs",
@@ -319,6 +317,9 @@
   "CookingChannel.us": {
    "src": "epgshare01.online|en|US2#Cooking.Channel.HD.us2",
    "auto": true
+  },
+  "CourtTV.uk": {
+   "src": "epgshare01.online|en|UK1#Court.TV.uk"
   },
   "CrimeAndInvestigationNetwork.uk": {
    "src": "tv24.co.uk|en|crime-and-investigation-network"
