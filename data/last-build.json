@@ -1,10 +1,10 @@
 {
- "built": "2026-11-26T21:49",
+ "built": "2026-11-26T21:52",
  "channels": 2383,
- "programmes": 179061,
+ "programmes": 179007,
  "noListings": 40,
  "withLogo": 1997,
- "xmlMB": 88.5,
+ "xmlMB": 88.4,
  "gzMB": 12.4,
  "bySite": {
   "epgshare01.online": [
@@ -131,12 +131,12 @@
    "UK1": {
     "channels": 35,
     "withListings": 32,
-    "programmes": 1798
+    "programmes": 1797
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15228
+    "programmes": 15225
    },
    "US_LOCALS1": {
     "channels": 921,
