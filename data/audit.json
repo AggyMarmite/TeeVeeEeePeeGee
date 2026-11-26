@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T21:55",
+ "built": "2026-11-26T22:26",
  "weakMatches": [
   {
    "ch": "UK| BBC 1 HD",
@@ -21,7 +21,7 @@
   },
   {
    "ch": "UK| BBC 4 / CBEEBIES HEVC",
-   "src": "CBeebies · freeview.co.uk",
+   "src": "BBC FOUR · freeview.co.uk UK",
    "score": 0,
    "auto": false
   },
@@ -48,6 +48,18 @@
    "src": "Sportsnet 360 HD · epgshare01.online CA2 CA",
    "score": 94,
    "auto": true
+  },
+  {
+   "ch": "UK| BBC 3 / CBBC HD",
+   "src": "BBC THREE · freeview.co.uk",
+   "score": 0,
+   "auto": false
+  },
+  {
+   "ch": "UK| BBC 4 / CBEEBIES HD",
+   "src": "BBC FOUR · freeview.co.uk UK",
+   "score": 0,
+   "auto": false
   },
   {
    "ch": "UK| CRIME INVESTIGATION FHD",
@@ -888,18 +900,6 @@
    "src": "WPDE-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 10 (WPLG) MIAMI",
-   "src": "WPLG-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
-  },
-  {
-   "ch": "US| ABC 6 PHILADELPHIA PA (WPVI)",
-   "src": "WPVI-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1086,7 +1086,7 @@
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 382
+   "+0000": 380
   },
   "directv.com": {
    "+0000": 267
@@ -1095,7 +1095,7 @@
    "+0000": 29
   },
   "freeview.co.uk": {
-   "+0000": 66
+   "+0000": 68
   },
   "virgintvgo.virginmedia.com": {
    "+0000": 19
@@ -1109,20 +1109,20 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC ONE Lon · freeview.co.uk": [
-   "Thu 21:00 Shetland",
    "Thu 22:00 BBC News at Ten",
    "Thu 22:30 BBC London",
    "Thu 22:40 Question Time",
    "Thu 23:40 Newscast",
-   "Fri 00:10 The Famous Finish Line"
+   "Fri 00:10 The Famous Finish Line",
+   "Fri 00:55 Weather for the Week Ahead"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 21:00 New: I&apos;m a Celebrity... Get Me...",
    "Thu 22:05 ITV News at Ten",
    "Thu 22:35 ITV News Tyne Tees",
    "Thu 22:50 Jack Reacher: Never Go Back",
    "Fri 00:55 Shop on TV",
-   "Fri 03:00 Deal or No Deal"
+   "Fri 03:00 Deal or No Deal",
+   "Fri 03:50 Unwind with ITV"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
    "Thu 21:15 Live NFL Eagles @ Cowboys",
@@ -1141,12 +1141,12 @@
    "Fri 01:15 Kimi Antonelli - World Champion"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 19:00 99th Macy&apos;s Thanksgiving Day Parade",
    "Thu 22:00 Live: News 4 NY at 5",
    "Thu 22:30 Live: News 4 NY at 5:30",
    "Thu 23:00 Live: News 4 NY at 6",
    "Thu 23:30 NBC Nightly News With Tom Llamas",
-   "Fri 00:00 News 4 NY at 7"
+   "Fri 00:00 News 4 NY at 7",
+   "Fri 00:30 New York Live Tonight"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
    "Thu 20:30 Live: College Basketball",
@@ -1165,33 +1165,33 @@
    "Fri 05:00 Live: The Story Is With Elex Michaelson"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 21:30 Friends",
    "Thu 22:00 Friends",
    "Thu 22:30 Friends",
    "Thu 23:00 Friends",
    "Thu 23:30 Friends",
-   "Fri 00:00 Friends"
+   "Fri 00:00 Friends",
+   "Fri 00:30 Friends"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 21:00 New: Aldi: The Next Big Seller",
    "Thu 22:00 New: Hunting Alice Bell",
    "Thu 23:00 Gogglebox Festive Special",
    "Fri 00:35 Gogglebox",
    "Fri 01:35 The Great British Bake Off:...",
-   "Fri 02:15 Father Stu"
+   "Fri 02:15 Father Stu",
+   "Fri 04:25 Terror on Bondi Beach"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 21:00 QI XL",
    "Thu 22:00 Have I Got a Bit More News for You",
    "Thu 23:00 Taskmaster",
    "Fri 00:00 Mock the Week",
    "Fri 00:40 Would I Lie To You?",
-   "Fri 01:20 Would I Lie To You?"
+   "Fri 01:20 Would I Lie To You?",
+   "Fri 02:00 Dave Gorman: Modern Life Is Goodish"
   ]
  },
- "doubleEscaped": 1389,
+ "doubleEscaped": 1,
  "counts": {
-  "weakMatches": 1207,
+  "weakMatches": 1209,
   "sharedIds": 21,
   "stale": 0,
   "gaps": 1,
