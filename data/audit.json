@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T22:26",
+ "built": "2026-11-27T01:54",
  "weakMatches": [
   {
    "ch": "UK| BBC 1 HD",
@@ -24,6 +24,12 @@
    "src": "BBC FOUR · freeview.co.uk UK",
    "score": 0,
    "auto": false
+  },
+  {
+   "ch": "UK| BBC ONE NORTHERN IRELAND FHD",
+   "src": "BBC1 · tv24.co.uk",
+   "score": 84,
+   "auto": true
   },
   {
    "ch": "UK| BBC ONE SOUTH EAST",
@@ -894,12 +900,6 @@
    "src": "WOTV-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
-  },
-  {
-   "ch": "US| ABC 15 FLORENCE SC (WPDE)",
-   "src": "WPDE-DT · epgshare01.online US_LOCALS1 US",
-   "score": 89,
-   "auto": true
   }
  ],
  "sharedIds": [
@@ -1061,8 +1061,13 @@
  "stale": [],
  "gaps": [
   {
-   "ch": "US| PBS HD",
+   "ch": "US| CBS HD",
    "hours": 7,
+   "src": "tvinsider.com"
+  },
+  {
+   "ch": "US| PBS HD",
+   "hours": 8,
    "src": "tvinsider.com"
   }
  ],
@@ -1082,11 +1087,11 @@
  "offsets": [],
  "zones": {
   "epgshare01.online": {
-   "+0000": 1472,
+   "+0000": 1471,
    "-0500": 30
   },
   "sky.com": {
-   "+0000": 380
+   "+0000": 374
   },
   "directv.com": {
    "+0000": 267
@@ -1098,7 +1103,7 @@
    "+0000": 68
   },
   "virgintvgo.virginmedia.com": {
-   "+0000": 19
+   "+0000": 14
   },
   "player.ee.co.uk": {
    "+0000": 11
@@ -1109,92 +1114,92 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC ONE Lon · freeview.co.uk": [
-   "Thu 22:00 BBC News at Ten",
-   "Thu 22:30 BBC London",
-   "Thu 22:40 Question Time",
-   "Thu 23:40 Newscast",
-   "Fri 00:10 The Famous Finish Line",
-   "Fri 00:55 Weather for the Week Ahead"
+   "Fri 01:00 Joins BBC News",
+   "Fri 06:00 Breakfast",
+   "Fri 09:30 Morning Live",
+   "Fri 10:45 Farm 999",
+   "Fri 11:15 Homes Under the Hammer",
+   "Fri 12:15 Bargain Hunt"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Thu 22:05 ITV News at Ten",
-   "Thu 22:35 ITV News Tyne Tees",
-   "Thu 22:50 Jack Reacher: Never Go Back",
    "Fri 00:55 Shop on TV",
    "Fri 03:00 Deal or No Deal",
-   "Fri 03:50 Unwind with ITV"
+   "Fri 03:50 Unwind with ITV",
+   "Fri 05:05 For the Love of Dogs with Alison Hammond",
+   "Fri 05:30 For the Love of Dogs with Alison Hammond",
+   "Fri 06:00 Good Morning Britain"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Thu 21:15 Live NFL Eagles @ Cowboys",
-   "Fri 00:30 Sky Sports News",
-   "Fri 01:00 Live Football Night In America",
    "Fri 01:20 Live NFL Chiefs @ Bills",
    "Fri 04:45 Live DP World Tour Golf",
-   "Fri 06:00 Sky Sports News"
+   "Fri 06:00 Sky Sports News",
+   "Fri 07:00 Sky Sports Breakfast",
+   "Fri 08:00 Sky Sports Breakfast",
+   "Fri 09:00 Sky Sports Breakfast"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Thu 21:45 F1 Drivers&apos; Press Conference",
-   "Thu 22:30 F1 Paddock Uncut: Qatar",
-   "Thu 23:00 Qatar F1 GP Highlights 2024",
-   "Fri 00:00 F1 Drivers&apos; Press Conference",
-   "Fri 00:45 F1 Paddock Uncut: Qatar",
-   "Fri 01:15 Kimi Antonelli - World Champion"
+   "Fri 01:25 The Best of China 2026",
+   "Fri 02:00 The Best of Japan 2026",
+   "Fri 02:15 The Best of Miami 2026",
+   "Fri 03:00 The Best of Canada 2026",
+   "Fri 03:30 The Best of Monaco 2026",
+   "Fri 04:00 The Best of Barcelona 2026"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Thu 22:00 Live: News 4 NY at 5",
-   "Thu 22:30 Live: News 4 NY at 5:30",
-   "Thu 23:00 Live: News 4 NY at 6",
-   "Thu 23:30 NBC Nightly News With Tom Llamas",
-   "Fri 00:00 News 4 NY at 7",
-   "Fri 00:30 New York Live Tonight"
+   "Fri 01:15 Live: NFL Football",
+   "Fri 04:30 Live: News 4 NY at 11",
+   "Fri 05:05 The Tonight Show Starring Jimmy Fallon",
+   "Fri 06:06 Late Night With Seth Meyers",
+   "Fri 07:05 NBC Nightly News With Tom Llamas",
+   "Fri 07:09 News 4 NY at 11"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Thu 20:30 Live: College Basketball",
-   "Thu 22:30 College Basketball Live Scoreboard",
-   "Thu 23:00 Live: College Basketball",
    "Fri 01:00 Live: College Football",
    "Fri 04:00 College Basketball Live Scoreboard",
-   "Fri 04:30 Live: College Basketball"
+   "Fri 04:30 Live: College Basketball",
+   "Fri 06:30 Live: SportsCenter",
+   "Fri 07:30 Live: SportsCenter",
+   "Fri 08:30 College Football"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Thu 21:00 Thanksgiving in America",
    "Fri 01:00 Vegas: The Story of Sin City",
    "Fri 02:00 Vegas: The Story of Sin City",
    "Fri 03:00 Vegas: The Story of Sin City",
    "Fri 04:00 Vegas: The Story of Sin City",
-   "Fri 05:00 Live: The Story Is With Elex Michaelson"
+   "Fri 05:00 Live: The Story Is With Elex Michaelson",
+   "Fri 06:00 Live: The Story Is With Elex Michaelson"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Thu 22:00 Friends",
-   "Thu 22:30 Friends",
-   "Thu 23:00 Friends",
-   "Thu 23:30 Friends",
-   "Fri 00:00 Friends",
-   "Fri 00:30 Friends"
+   "Fri 01:30 Friends",
+   "Fri 02:00 KTLA 5 News at 6",
+   "Fri 02:30 KTLA 5 News at 6:30",
+   "Fri 03:00 KTLA 5 News at 7",
+   "Fri 03:30 L.A. Unscripted",
+   "Fri 04:00 Scrabble"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Thu 22:00 New: Hunting Alice Bell",
-   "Thu 23:00 Gogglebox Festive Special",
-   "Fri 00:35 Gogglebox",
    "Fri 01:35 The Great British Bake Off:...",
    "Fri 02:15 Father Stu",
-   "Fri 04:25 Terror on Bondi Beach"
+   "Fri 04:25 Terror on Bondi Beach",
+   "Fri 05:20 Kirstie and Phil&apos;s Love It or...",
+   "Fri 06:15 A Place in the Sun",
+   "Fri 06:40 Cheers"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Thu 22:00 Have I Got a Bit More News for You",
-   "Thu 23:00 Taskmaster",
-   "Fri 00:00 Mock the Week",
-   "Fri 00:40 Would I Lie To You?",
    "Fri 01:20 Would I Lie To You?",
-   "Fri 02:00 Dave Gorman: Modern Life Is Goodish"
+   "Fri 02:00 Dave Gorman: Modern Life Is Goodish",
+   "Fri 03:00 Richard Osman&apos;s House of Games",
+   "Fri 03:30 Richard Osman&apos;s House of Games",
+   "Fri 04:00 Teleshopping",
+   "Fri 06:00 Teleshopping"
   ]
  },
- "doubleEscaped": 1,
+ "doubleEscaped": 2,
  "counts": {
   "weakMatches": 1209,
   "sharedIds": 21,
   "stale": 0,
-  "gaps": 1,
+  "gaps": 2,
   "overlaps": 0,
   "badTimes": 2,
   "offsets": 0

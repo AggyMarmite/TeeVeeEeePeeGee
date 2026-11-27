@@ -1,18 +1,18 @@
 {
- "built": "2026-11-26T22:26",
- "channels": 2384,
- "programmes": 177550,
- "noListings": 41,
- "withLogo": 1872,
- "xmlMB": 87.7,
- "gzMB": 12.3,
+ "built": "2026-11-27T01:54",
+ "channels": 2391,
+ "programmes": 196810,
+ "noListings": 60,
+ "withLogo": 1892,
+ "xmlMB": 96.8,
+ "gzMB": 13.7,
  "bySite": {
   "epgshare01.online": [
-   1514,
+   1513,
    4
   ],
   "sky.com": [
-   422,
+   416,
    0
   ],
   "tvinsider.com": [
@@ -29,11 +29,11 @@
   ],
   "tv24.co.uk": [
    0,
-   29
+   40
   ],
   "virgintvgo.virginmedia.com": [
-   20,
-   1
+   15,
+   2
   ],
   "player.ee.co.uk": [
    11,
@@ -41,7 +41,7 @@
   ],
   "mytelly.co.uk": [
    0,
-   7
+   14
   ],
   "dazn.com": [
    9,
@@ -75,23 +75,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "TNT Sports 2 HD = TNT.Sports.2.HD.uk",
-     "S4C = S4C.uk",
-     "Now Rock = Now.Rock.uk",
-     "High Street TV 4 = High.Street.TV.4.uk",
-     "TRT World HD = TRT.World.HD.uk",
-     "Heart = Heart.uk"
+     "STV North +1 = STV.North.+1.uk",
+     "QUEST HD = QUEST.HD.uk",
+     "KICC TV = KICC.TV.uk",
+     "BabyTV = BabyTV.uk",
+     "Planet Rock = Planet.Rock.uk",
+     "Thats TV 3 = Thats.TV.3.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "RFD TV HD = RFD.TV.HD.us2",
-     "Atreseries = Atreseries.us2",
-     "Fox Deportes HD = Fox.Deportes.HD.us2",
-     "Bon Appétit TV = Bon.Appétit.TV.us2",
-     "VH1 HD = VH1.HD.us2",
-     "Fight Network = Fight.Network.us2"
+     "Investigation Discovery HD = Investigation.Discovery.HD.us2",
+     "Starz HD (Pacific) = Starz.HD.(Pacific).us2",
+     "Vice = Vice.us2",
+     "Nickelodeon HD = Nickelodeon.HD.us2",
+     "Christian Television Network = Christian.Television.Network.us2",
+     "Tennis Channel HD = Tennis.Channel.HD.us2"
     ]
    },
    "US_LOCALS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 276
+    "programmes": 280
    },
    "IE1": {
-    "channels": 3,
-    "withListings": 3,
-    "programmes": 275
+    "channels": 2,
+    "withListings": 2,
+    "programmes": 151
    },
    "UK1": {
     "channels": 36,
     "withListings": 32,
-    "programmes": 1776
+    "programmes": 2370
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 15081
+    "programmes": 19152
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 83311
+    "programmes": 84006
    },
    "US_SPORTS1": {
     "channels": 22,
@@ -150,5 +150,5 @@
    }
   }
  },
- "logoFails": 126
+ "logoFails": 101
 }
