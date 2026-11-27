@@ -1,5 +1,5 @@
 {
- "built": "2026-11-27T12:53",
+ "built": "2026-11-27T23:40",
  "weakMatches": [
   {
    "ch": "UK| BBC 1 HD",
@@ -147,7 +147,7 @@
   },
   {
    "ch": "US| PBS PORTLAND (KOPB) OR",
-   "src": "KOPB-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KOPB-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -303,7 +303,7 @@
   },
   {
    "ch": "US| ABC 7 SAN FRANCISCO CA (KGO)",
-   "src": "KGO-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KGO-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -507,7 +507,7 @@
   },
   {
    "ch": "US| ABC 8 TULSA OK (KTUL)",
-   "src": "KTUL-DT · epgshare01.online US_LOCALS1 US",
+   "src": "KTUL-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -549,7 +549,7 @@
   },
   {
    "ch": "US| ABC 18 BUTTE MT (KWYB)",
-   "src": "KWYB-LD · epgshare01.online US_LOCALS1 US",
+   "src": "KWYB-DT · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -717,7 +717,7 @@
   },
   {
    "ch": "US| ABC 9 ORLANDO FL (WFTV)",
-   "src": "WFTV-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WFTV-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -861,7 +861,7 @@
   },
   {
    "ch": "US| ABC 8 PORTLAND ME (WMTW)",
-   "src": "WMTW-DT · epgshare01.online US_LOCALS1 US",
+   "src": "WMTW-LD · epgshare01.online US_LOCALS1 US",
    "score": 89,
    "auto": true
   },
@@ -1114,84 +1114,84 @@
  },
  "samples": {
   "UK| BBC ONE LONDON <- BBC ONE Lon · freeview.co.uk": [
-   "Fri 12:15 Bargain Hunt",
-   "Fri 13:00 BBC News at One",
-   "Fri 14:00 The Northumbria Mysteries",
-   "Fri 14:45 Escape to the Country",
-   "Fri 15:45 The Repair Shop on the Road",
-   "Fri 16:30 The Finish Line"
+   "Fri 23:35 The Preacher&apos;s Wife",
+   "Sat 01:30 Weather for the Week Ahead",
+   "Sat 01:35 Joins BBC News",
+   "Sat 06:00 Breakfast",
+   "Sat 10:00 Saturday Kitchen",
+   "Sat 11:30 Simply Nigella"
   ],
   "UK| ITV 1 <- ITV1 HD · sky.com": [
-   "Fri 12:50 ITV News Tyne Tees",
-   "Fri 13:00 ITV Racing: Live from Newbury",
-   "Fri 16:00 Fiji v Italy: Nations Championship",
-   "Fri 19:00 ITV News Tyne Tees",
-   "Fri 19:15 ITV Evening News",
-   "Fri 19:30 It&apos;ll Be Alright on the Night"
+   "Fri 23:20 Password",
+   "Sat 00:05 Millionaire Hot Seat",
+   "Sat 00:35 Shop on TV",
+   "Sat 03:00 How to Clean Up for Cash",
+   "Sat 03:25 How to Clean Up for Cash",
+   "Sat 03:50 Barry Humphries: The Last Laugh"
   ],
   "UK| SKY SPORTS MAIN EVENTS HEVC FHD <- SkySpMainEvHD · sky.com": [
-   "Fri 12:00 Total Football",
-   "Fri 13:00 Live Qatar F1 GP: Practice 1",
-   "Fri 14:55 Live Qatar F2: Qualifying",
-   "Fri 15:40 Total Football",
-   "Fri 16:00 Total Football",
-   "Fri 17:00 Live Qatar F1 GP: Practice 2"
+   "Fri 22:45 Live DP World Tour Golf",
+   "Sat 03:00 Sky Sports News",
+   "Sat 04:00 Sky Sports News",
+   "Sat 05:00 Sky Sports News",
+   "Sat 06:00 Sky Sports News",
+   "Sat 07:00 Sky Sports Breakfast"
   ],
   "F1| SKY SPORTS F1 <- SkySpF1 UHD · sky.com": [
-   "Fri 12:15 F1 Drivers&apos; Press Conference",
-   "Fri 13:00 Live Qatar F1 GP: Practice 1",
-   "Fri 14:55 Live Qatar F2: Qualifying",
-   "Fri 15:40 Team Principals&apos; Press Conference",
-   "Fri 16:10 Strange F1 Race Absences",
-   "Fri 16:15 Weekend Wrapped"
+   "Fri 22:45 The F1 Show: Qatar",
+   "Fri 23:45 Qatar F1 GP: Practice 1",
+   "Sat 01:00 Qatar F1 GP: Practice 2",
+   "Sat 02:15 The F1 Show: Qatar",
+   "Sat 03:15 Simon & Naomi with Liam Lawson",
+   "Sat 03:30 Liam Lawson IV"
   ],
   "US| NBC 4 NEW YORK NY (WNBC) <- WNBC-DT · epgshare01.online": [
-   "Fri 12:00 Today",
-   "Fri 14:00 Today 3rd Hour",
-   "Fri 15:00 Today With Jenna & Sheinelle",
-   "Fri 16:00 Live: News 4 NY at 11AM",
-   "Fri 16:30 New York Live",
-   "Fri 17:00 NBC News Daily"
+   "Fri 23:30 NBC Nightly News With Tom Llamas",
+   "Sat 00:00 Live: Big Ten Countdown",
+   "Sat 00:30 Live: College Football",
+   "Sat 04:00 Live: News 4 NY at 11",
+   "Sat 04:34 The Tonight Show Starring Jimmy Fallon",
+   "Sat 05:35 Late Night With Seth Meyers"
   ],
   "4K| ESPN UHD <- ESPN HD · epgshare01.online": [
-   "Fri 12:00 Live: SportsCenter",
-   "Fri 13:00 Live: Get Up",
-   "Fri 15:00 Live: First Take",
-   "Fri 17:00 Live: College Football",
-   "Fri 20:00 Live: College Football Scoreboard",
-   "Fri 20:30 Live: College Football"
+   "Fri 23:30 Live: College Football Scoreboard",
+   "Sat 00:00 Live: College Basketball",
+   "Sat 02:00 Live: College Basketball",
+   "Sat 04:00 Live: College Basketball",
+   "Sat 06:00 Live: SportsCenter",
+   "Sat 07:00 Live: SportsCenter"
   ],
   "US| CNN FHD <- CNN HD · epgshare01.online": [
-   "Fri 12:00 Live: CNN News Central",
-   "Fri 13:00 Live: CNN News Central",
-   "Fri 14:00 Live: CNN News Central",
-   "Fri 15:00 Live: The Situation Room",
-   "Fri 16:00 Live: The Situation Room",
-   "Fri 17:00 Live: Inside Politics With Dana Bash"
+   "Fri 23:00 Live: The Lead With Jake Tapper",
+   "Sat 00:00 Live: Erin Burnett OutFront",
+   "Sat 01:00 Live: Anderson Cooper 360",
+   "Sat 02:00 Live: The Source With Kaitlan Collins",
+   "Sat 03:00 Live: CNN NewsNight With Abby Phillip",
+   "Sat 04:00 Laura Coates Live"
   ],
   "US| KTLA LOS ANGELES HD <- KTLA-DT · epgshare01.online": [
-   "Fri 12:30 Holiday Gift Guide 2026",
-   "Fri 13:00 KTLA 5 Morning News at 5",
-   "Fri 14:00 KTLA 5 Morning News at 6",
-   "Fri 15:00 KTLA 5 Morning News at 7",
-   "Fri 17:00 KTLA 5 Morning News at 9",
-   "Fri 18:00 KTLA 5 Morning News at 10"
+   "Fri 21:30 Live: College Football",
+   "Sat 01:00 KTLA 5 News at 5",
+   "Sat 02:00 KTLA 5 News at 6",
+   "Sat 02:30 KTLA 5 News at 6:30",
+   "Sat 03:00 L.A. Unscripted",
+   "Sat 03:30 Holiday Gift Guide 2026"
   ],
   "UK| CHANNEL 4 +1 <- Channel 4+1 · sky.com": [
-   "Fri 12:10 Ramsay&apos;s 24 Hours to Hell and Back",
-   "Fri 13:05 Channel 4 News Summary",
-   "Fri 13:10 Renovation Nation",
-   "Fri 14:10 Escape to Florida",
-   "Fri 15:10 Countdown",
-   "Fri 16:00 A Place in the Sun"
+   "Fri 23:00 Live: The Last Leg",
+   "Sat 00:05 Bill Bailey: Cosmic Jam",
+   "Sat 01:10 Chopper",
+   "Sat 02:50 Ramsay&apos;s Kitchen Nightmares USA",
+   "Sat 03:40 New: A Friend of the Family",
+   "Sat 04:40 Come Dine with Me"
   ],
   "UK| DAVE <- U&Dave HD · sky.com": [
-   "Fri 12:00 Hairy Bikers&apos; Best of British",
-   "Fri 13:00 Great Canal Journeys",
-   "Fri 14:00 Top Gear",
-   "Fri 15:00 Speed with Guy Martin",
-   "Fri 16:00 Rick Stein&apos;s Cornwall",
-   "Fri 16:30 Rick Stein&apos;s Cornwall"
+   "Fri 23:00 Taskmaster",
+   "Sat 00:00 Mock the Week",
+   "Sat 00:40 Would I Lie To You?",
+   "Sat 01:20 Would I Lie To You?",
+   "Sat 02:00 QI XL",
+   "Sat 03:00 Richard Osman&apos;s House of Games"
   ]
  },
  "doubleEscaped": 2,
