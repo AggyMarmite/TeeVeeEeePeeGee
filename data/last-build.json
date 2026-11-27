@@ -1,18 +1,18 @@
 {
- "built": "2026-11-27T01:54",
- "channels": 2391,
- "programmes": 196810,
- "noListings": 60,
- "withLogo": 1892,
- "xmlMB": 96.8,
- "gzMB": 13.7,
+ "built": "2026-11-27T12:52",
+ "channels": 2384,
+ "programmes": 176843,
+ "noListings": 41,
+ "withLogo": 1897,
+ "xmlMB": 87,
+ "gzMB": 12.5,
  "bySite": {
   "epgshare01.online": [
-   1513,
+   1514,
    4
   ],
   "sky.com": [
-   416,
+   422,
    0
   ],
   "tvinsider.com": [
@@ -29,11 +29,11 @@
   ],
   "tv24.co.uk": [
    0,
-   40
+   29
   ],
   "virgintvgo.virginmedia.com": [
-   15,
-   2
+   20,
+   1
   ],
   "player.ee.co.uk": [
    11,
@@ -41,7 +41,7 @@
   ],
   "mytelly.co.uk": [
    0,
-   14
+   7
   ],
   "dazn.com": [
    9,
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "YTV HD = YTV.HD.ca2",
-     "WGN-DT = WGN-DT.ca2",
-     "Dorcel TV Canada = Dorcel.TV.Canada.ca2",
-     "Super Channel Fuse = Super.Channel.Fuse.ca2",
-     "CFRB = CFRB.ca2",
-     "Stingray Hits! = Stingray.Hits!.ca2"
+     "Investigation Discovery = Investigation.Discovery.ca2",
+     "Global Saskatoon = Global.Saskatoon.ca2",
+     "Stingray Opera Plus = Stingray.Opera.Plus.ca2",
+     "DirecTV - NHL Center Ice - NHLCI10 = DirecTV.-.NHL.Center.Ice.-.NHLCI10.ca2",
+     "Toon-A-Vision = Toon-A-Vision.ca2",
+     "GMA Pinoy TV = GMA.Pinoy.TV.ca2"
     ]
    },
    "IE1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 280
+    "programmes": 282
    },
    "IE1": {
-    "channels": 2,
-    "withListings": 2,
-    "programmes": 151
+    "channels": 3,
+    "withListings": 3,
+    "programmes": 257
    },
    "UK1": {
     "channels": 36,
     "withListings": 32,
-    "programmes": 2370
+    "programmes": 2043
    },
    "US2": {
     "channels": 225,
     "withListings": 225,
-    "programmes": 19152
+    "programmes": 17474
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 84006
+    "programmes": 76352
    },
    "US_SPORTS1": {
     "channels": 22,
