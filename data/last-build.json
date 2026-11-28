@@ -1,18 +1,18 @@
 {
- "built": "2026-11-27T23:40",
- "channels": 2384,
- "programmes": 175907,
- "noListings": 41,
- "withLogo": 1915,
- "xmlMB": 87,
- "gzMB": 12.4,
+ "built": "2026-11-28T08:13",
+ "channels": 2404,
+ "programmes": 188080,
+ "noListings": 115,
+ "withLogo": 1904,
+ "xmlMB": 93.1,
+ "gzMB": 13.5,
  "bySite": {
   "epgshare01.online": [
-   1514,
+   1512,
    4
   ],
   "sky.com": [
-   422,
+   408,
    0
   ],
   "tvinsider.com": [
@@ -20,28 +20,28 @@
    0
   ],
   "directv.com": [
-   267,
-   0
+   263,
+   1
   ],
   "freeview.co.uk": [
-   69,
-   0
+   54,
+   2
   ],
   "tv24.co.uk": [
    0,
-   29
-  ],
-  "virgintvgo.virginmedia.com": [
-   20,
-   1
-  ],
-  "player.ee.co.uk": [
-   11,
-   0
+   73
   ],
   "mytelly.co.uk": [
    0,
-   7
+   34
+  ],
+  "virgintvgo.virginmedia.com": [
+   8,
+   1
+  ],
+  "player.ee.co.uk": [
+   4,
+   0
   ],
   "dazn.com": [
    9,
@@ -53,12 +53,12 @@
    "CA2": {
     "channels": 696,
     "sample": [
-     "Investigation Discovery = Investigation.Discovery.ca2",
-     "Global Saskatoon = Global.Saskatoon.ca2",
-     "Stingray Opera Plus = Stingray.Opera.Plus.ca2",
-     "DirecTV - NHL Center Ice - NHLCI10 = DirecTV.-.NHL.Center.Ice.-.NHLCI10.ca2",
-     "Toon-A-Vision = Toon-A-Vision.ca2",
-     "GMA Pinoy TV = GMA.Pinoy.TV.ca2"
+     "Bravo Canada HD = Bravo.Canada.HD.ca2",
+     "ATN Colors = ATN.Colors.ca2",
+     "Hollywood Suite 2000s = Hollywood.Suite.2000s.ca2",
+     "CTV Edmonton = CTV.Edmonton.ca2",
+     "MCTV/CTV North Bay = MCTV/CTV.North.Bay.ca2",
+     "Global Durham = Global.Durham.ca2"
     ]
    },
    "IE1": {
@@ -75,23 +75,23 @@
    "UK1": {
     "channels": 487,
     "sample": [
-     "STV North +1 = STV.North.+1.uk",
-     "QUEST HD = QUEST.HD.uk",
-     "KICC TV = KICC.TV.uk",
-     "BabyTV = BabyTV.uk",
-     "Planet Rock = Planet.Rock.uk",
-     "Thats TV 3 = Thats.TV.3.uk"
+     "Arise News = Arise.News.uk",
+     "Now Rock = Now.Rock.uk",
+     "DAYSTAR HD = DAYSTAR.HD.uk",
+     "mta-muslim tv = mta-muslim.tv.uk",
+     "Trace Hits = Trace.Hits.uk",
+     "More4 HD = More4.HD.uk"
     ]
    },
    "US2": {
     "channels": 792,
     "sample": [
-     "Investigation Discovery HD = Investigation.Discovery.HD.us2",
-     "Starz HD (Pacific) = Starz.HD.(Pacific).us2",
-     "Vice = Vice.us2",
-     "Nickelodeon HD = Nickelodeon.HD.us2",
-     "Christian Television Network = Christian.Television.Network.us2",
-     "Tennis Channel HD = Tennis.Channel.HD.us2"
+     "Spectrum News 1 (Carolinas) - Mountain STVA = Spectrum.News.1.(Carolinas).-.Mountain.STVA.us2",
+     "CBS West = CBS.West.us2",
+     "Fight Network = Fight.Network.us2",
+     "NHK World TV = NHK.World.TV.us2",
+     "Telefe international = Telefe.international.us2",
+     "NRB TV = NRB.TV.us2"
     ]
    },
    "US_LOCALS1": {
@@ -121,27 +121,27 @@
    "CA2": {
     "channels": 4,
     "withListings": 4,
-    "programmes": 288
+    "programmes": 280
    },
    "IE1": {
-    "channels": 3,
-    "withListings": 3,
-    "programmes": 262
+    "channels": 2,
+    "withListings": 2,
+    "programmes": 138
    },
    "UK1": {
-    "channels": 36,
-    "withListings": 32,
-    "programmes": 1711
+    "channels": 34,
+    "withListings": 30,
+    "programmes": 2019
    },
    "US2": {
-    "channels": 225,
-    "withListings": 225,
-    "programmes": 14664
+    "channels": 226,
+    "withListings": 226,
+    "programmes": 18632
    },
    "US_LOCALS1": {
     "channels": 921,
     "withListings": 921,
-    "programmes": 84624
+    "programmes": 83633
    },
    "US_SPORTS1": {
     "channels": 22,
@@ -150,5 +150,5 @@
    }
   }
  },
- "logoFails": 83
+ "logoFails": 76
 }
